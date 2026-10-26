@@ -1,0 +1,16 @@
+{
+  "review_date": "2026-09-21",
+  "corrections": [
+    {"source": "Clipper 1910-10-07, front page / PDF 2", "ocr_or_provisional": "76", "visually_verified": "75 enrolled"},
+    {"source": "Clipper 1912-02-08, front page / PDF 2", "ocr_or_provisional": "131", "visually_verified": "132 enrolled since the term began; 106 present enrollment"},
+    {"source": "Clipper 1911-01-27, front page / PDF 2", "status": "Report found, but shadowing leaves numerical readings uncertain; excluded from quantitative series"},
+    {"source": "Clipper 1921-02-11, front page / PDF 2", "status": "35 lower-grade pupils and 20 upper-grade pupils belong to Newkirk News, not Cuervo; excluded from Cuervo series"},
+    {"source": "Clipper 1919-01-10, front page / PDF 2", "status": "Haile weather closure and Cuervo ninth-grade interruption are separate items; only latter attributed to teacher departure"},
+    {"source": "Clipper 1922-07-07, front page / PDF 2", "ocr_or_provisional": "three barrels each day", "visually_verified": "fifteen barrels of gasoline; no time interval specified; not a daily sales rate"},
+    {"file": "superintendent_report_ia.pdf", "catalog_lead": "New Mexico superintendent report, 1914", "actual": "Michigan superintendent reports for 1855, 1856 and 1857, published Lansing 1858, title at PDF 8", "status": "Excluded: incorrect repository metadata; not a New Mexico record"},
+    {"file": "nm_education_bulletin_30_1958.pdf", "catalog_lead": "Bulletin - State Department of Education; date field 1931, volume field 1958", "actual": "The Child Creates, New Mexico Department of Education, Bulletin 30 (1958), title at PDF 5", "status": "Arts curriculum guide, not a school directory or closure report; no Cuervo text match"},
+    {"file": "education_directory_1969_1970.pdf", "provisional_filename": "Misleading: not a directory", "actual": "Evaluation of Service Activities Undertaken by the Educational Service Center for the Period July 1, 1967 to December, 1968, Jean Legant; ERIC ED052876, 1969", "status": "Regional context only. Table 1 concerns first-100-day ADM, not annual enrollment. No Cuervo school entry found."},
+    {"files": ["bond_collection_1391.html", "school_minutes_1929_1942.html", "school_education_search.html"], "status": "Downloaded HTTP response is a bot-check page, not catalog content. No refreshed finding aid or underlying records acquired."},
+    {"source": "FamilySearch public newspaper PDF TH-300-44997-73-40", "status": "Search tool exposes cached OCR; direct download returned HTTP 403 and screenshot unavailable. Holbrook reference retained as unverified lead, not a new dated business observation."}
+  ]
+}

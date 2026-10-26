@@ -1,0 +1,103 @@
+{
+  "method": "Selected manually reviewed candidates. Not exhaustive person linkage, and no automatic string match is treated as proof.",
+  "cases": [
+    {
+      "case": "Gonzales",
+      "status": "strong household candidate; head given name uncertain",
+      "1940_households": [
+        "1940-2A-35"
+      ],
+      "1950_households": [
+        "1950-4-10"
+      ],
+      "evidence": "Parents approximately age ten years; Arcenio, Josefina, and Gloria recur. Two younger children appear; Elena and Noe are absent from this 1950 household.",
+      "limit": "7 to 7 does not mean no demographic change; no destination or death inferred for absent children."
+    },
+    {
+      "case": "Bailey",
+      "status": "strong parent/household candidate; some child names differ",
+      "1940_households": [
+        "1940-2B-78"
+      ],
+      "1950_households": [
+        "1950-7-11"
+      ],
+      "evidence": "Paul E. 41 to 51 and Mildred May 28 to 38; households of 9 and 12. Three children under ten appear in 1950.",
+      "limit": "Do not claim all older children are fully linked or births occurred in Cuervo."
+    },
+    {
+      "case": "Yates",
+      "status": "strong family candidate",
+      "1940_households": [
+        "1940-3A-7"
+      ],
+      "1950_households": [
+        "1950-7-24",
+        "1950-1-23"
+      ],
+      "evidence": "James, Minnie, Mary and Henry recur with plausible ages. Henry 24 to 34 is separately head-listed in 1950 and reports WWII service.",
+      "limit": "The two 1950 households include Virginia Yates, Leo Ballard and Jimmy Boyle; they are not seven linked original residents. Continuous residence not established."
+    },
+    {
+      "case": "Trujillo",
+      "status": "strong couple candidate",
+      "1940_households": [
+        "1940-2A-3"
+      ],
+      "1950_households": [
+        "1950-3-16"
+      ],
+      "evidence": "Juan B. and Reyes recur, ages 57/41 to 66/50. Household 8 to 3; six listed sons replaced in this household by one grandson.",
+      "limit": "Absence from this household does not establish death, military service, or migration destination."
+    },
+    {
+      "case": "Maestas",
+      "status": "strong couple candidate",
+      "1940_households": [
+        "1940-2A-22"
+      ],
+      "1950_households": [
+        "1950-5-16"
+      ],
+      "evidence": "Antonio/Gilberta 23/18 to 33/28, plus Tony Jr. age 8; household 2 to 3.",
+      "limit": "No birthplace within the precinct or uninterrupted residence established."
+    },
+    {
+      "case": "Duran",
+      "status": "strong couple candidate",
+      "1940_households": [
+        "1940-3A-28"
+      ],
+      "1950_households": [
+        "1950-2-27"
+      ],
+      "evidence": "Jose Maria/Jose M. and Antonia recur at 50/41 and 60/52; two people at both endpoints.",
+      "limit": "Antonia age differs from exact ten-year progression."
+    },
+    {
+      "case": "Alfonso Chavez and Lucy Gomez",
+      "status": "probable, needs external marriage/identity check",
+      "1940_households": [
+        "1940-1A-1",
+        "1940-2B-63"
+      ],
+      "1950_households": [
+        "1950-6-20"
+      ],
+      "evidence": "Alfonso 27 and Lucy Gomez 19 in separate 1940 families plausibly become Alfonso 38 and Lucy 30 in 1950; six children under ten and Mary Frances Gomez, sister-in-law, in their household.",
+      "limit": "Common names; family link probable, not proved. Do not subtract the entirety of the two parent households to obtain a family change."
+    },
+    {
+      "case": "Felix Marez / Felix Sierra",
+      "status": "ambiguous, not accepted",
+      "1940_households": [
+        "1940-2A-27"
+      ],
+      "1950_households": [
+        "1950-5-2"
+      ],
+      "evidence": "Given names, spouse Eva and ages resemble each other, but the surnames differ.",
+      "limit": "No identity link used in calculations or conclusions."
+    }
+  ]
+}

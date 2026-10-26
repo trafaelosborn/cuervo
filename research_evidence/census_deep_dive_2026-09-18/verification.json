@@ -1,0 +1,19 @@
+{
+  "artifact": "B:\\Meridian\\Cuervo\\output\\pdf\\cuervo_census_beyond_1940_2026-09-18.pdf",
+  "pages": 13,
+  "sha256": "7424e05dac0b571a3149b4a6abcd524341fd3bf85f55b510cf5aea531f5fd89e",
+  "verification": [
+    "All 13 final pages rendered with pypdfium2 and visually inspected.",
+    "Short tables kept together; no clipped text or chart labels observed.",
+    "Household plus group-quarters populations reconcile to totals.",
+    "Occupied plus vacant housing units reconcile to housing totals.",
+    "Modern totals agree with their official geographic headers.",
+    "Cuervo age bins reconcile to all 210 named persons."
+  ],
+  "limitations": [
+    "Historical municipal and precinct boundaries are not held constant.",
+    "1950 ages are a manual research transcription.",
+    "Prewar age and household-linkage analysis is not completed.",
+    "Modern Cuervo settlement population has not been reconstructed from blocks."
+  ]
+}

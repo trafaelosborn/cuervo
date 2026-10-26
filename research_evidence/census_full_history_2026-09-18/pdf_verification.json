@@ -1,0 +1,12 @@
+{
+  "artifact": "output/pdf/cuervo_whole_census_history_2026-09-18.pdf",
+  "report_date": "2026-09-18",
+  "pages": 12,
+  "bytes": 307345,
+  "sha256": "f296c89d09de1ab45b5a0e16cb3f23d380cfc6c9f73617ed8bd84a7fbb386e76",
+  "render_directory": "tmp/pdfs/census_full_history_2026-09-18",
+  "visual_review": "All twelve pages were rendered and visually inspected. After the final table-column adjustment, all pages were rendered again; only page 3 changed, and that page was visually inspected again.",
+  "local_markdown_links_checked": 21,
+  "missing_local_link_targets": 0,
+  "data_limitations": "Manual first transcription with targeted rechecks, not independent double entry. Census appearances are not linked individuals. Seven ages remain unresolved. Boundary comparability and Santa Rosa age comparisons remain research tasks."
+}

@@ -1,0 +1,64 @@
+{
+  "pages": 180,
+  "body_words": 31075,
+  "notes": 174,
+  "valid_source_links": 221,
+  "distinct_note_destinations": 174,
+  "contents_link_annotations": 16,
+  "chapter_bookmarks": 8,
+  "all_body_paragraphs_preserved_in_pdf": true,
+  "sentence_checks": [
+    {
+      "chapter": 1,
+      "paragraphs": 42,
+      "mean_sentence_words": 12.0,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 2,
+      "paragraphs": 80,
+      "mean_sentence_words": 12.7,
+      "longest_sentence_words": 33
+    },
+    {
+      "chapter": 3,
+      "paragraphs": 108,
+      "mean_sentence_words": 13.4,
+      "longest_sentence_words": 30
+    },
+    {
+      "chapter": 4,
+      "paragraphs": 98,
+      "mean_sentence_words": 12.4,
+      "longest_sentence_words": 26
+    },
+    {
+      "chapter": 5,
+      "paragraphs": 94,
+      "mean_sentence_words": 12.8,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 6,
+      "paragraphs": 103,
+      "mean_sentence_words": 13.5,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 7,
+      "paragraphs": 97,
+      "mean_sentence_words": 12.3,
+      "longest_sentence_words": 27
+    },
+    {
+      "chapter": 8,
+      "paragraphs": 46,
+      "mean_sentence_words": 13.3,
+      "longest_sentence_words": 25
+    }
+  ],
+  "short_pages_for_review": [],
+  "pdf_sha256": "c7f5f7138fab067184872ee50f6891753c6445b964a80e88853a295c783271c1",
+  "text_checks": "passed",
+  "visual_review": "passed"
+}

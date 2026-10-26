@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-28",
+  "edition": "complete manuscript, revision 1",
+  "body_words": 41257,
+  "pages": 192,
+  "pdf_sha256": "4d6f4d24e25779a39d2a315896da11dea14d21c68b1cb90cce8a90428fc890c2",
+  "negative_constructions": {
+    "does not": 124,
+    "do not": 53,
+    "cannot": 81
+  },
+  "qualification": "Phrase counts are a diagnostic only. They include substantive historical and economic statements, not just expendable caveats. No automatic deletion is warranted.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "path": "manuscript/book-revision-01/chapters/chapter-01-reading-cuervo.md",
+      "sha256": "4866e901f77de23b3637046bbf4ef27a6fcbd0bc94346c4a3914e02a0e978aac",
+      "terms": {
+        "does not": 8,
+        "do not": 0,
+        "cannot": 8,
+        "the evidence": 1,
+        "the records": 0,
+        "the distinction": 0,
+        "arrangement": 0,
+        "arrangements": 1,
+        "could": 19
+      },
+      "sections": [
+        "Roads and roadside trade",
+        "A store with a wide reach",
+        "What kept a service open?",
+        "Which Cuervo is being counted?",
+        "The economics of a small place",
+        "What the buildings can show"
+      ]
+    },
+    {
+      "chapter": 2,
+      "path": "manuscript/book-revision-01/chapters/chapter-02-why-a-town-here.md",
+      "sha256": "b5552120905251c8e9c422bc997e4e926cc0270034385a3947c792f66ad96900",
+      "terms": {
+        "does not": 10,
+        "do not": 3,
+        "cannot": 6,
+        "the evidence": 1,
+        "the records": 0,
+        "the distinction": 2,
+        "arrangement": 4,
+        "arrangements": 4,
+        "could": 49
+      },
+      "sections": [
+        "Country before the commercial center",
+        "The first location",
+        "Following the connection",
+        "Santa Rosa already had other work",
+        "Traffic made into trade",
+        "Reasons to gather, reasons to stay",
+        "Competing expectations for the land",
+        "A railway opportunity with changing terms",
+        "Why here, for how long?"
+      ]
+    },
+    {
+      "chapter": 3,
+      "path": "manuscript/book-revision-01/chapters/chapter-03-the-business-of-ranch-country.md",
+      "sha256": "eeece9eb7ebbd23df9472a8b16c877ec380216ad0ffd1dac357459c9d1a0f01b",
+      "terms": {
+        "does not": 11,
+        "do not": 6,
+        "cannot": 9,
+        "the evidence": 1,
+        "the records": 1,
+        "the distinction": 5,
+        "arrangement": 17,
+        "arrangements": 7,
+        "could": 65
+      },
+      "sections": [
+        "Stock on hand",
+        "Selling now, collecting later",
+        "A business with several balances",
+        "Sheep, wool and the work of an intermediary",
+        "A carload assembled in Cuervo",
+        "Managers, branches and customer choice",
+        "Ranch country changes its composition",
+        "Fewer operations, different work",
+        "Prices, purchasing power and timing",
+        "What an export can support"
+      ]
+    },
+    {
+      "chapter": 4,
+      "path": "manuscript/book-revision-01/chapters/chapter-04-keeping-a-town-working.md",
+      "sha256": "5dd3aa4c69e6c1b6296000df46950297298c1be3c87138d7133d9b08b19494dd",
+      "terms": {
+        "does not": 16,
+        "do not": 10,
+        "cannot": 9,
+        "the evidence": 0,
+        "the records": 3,
+        "the distinction": 7,
+        "arrangement": 8,
+        "arrangements": 6,
+        "could": 79
+      },
+      "sections": [
+        "The person behind the service",
+        "Building a school constituency",
+        "Keeping the building useful",
+        "Paying for a doctor to be there",
+        "Care across several places",
+        "A paper with more than one purpose",
+        "Local readers, a wider organization",
+        "Closing, changing hands, opening again",
+        "What size alone cannot explain",
+        "Services and residents"
+      ]
+    },
+    {
+      "chapter": 5,
+      "path": "manuscript/book-revision-01/chapters/chapter-05-people-across-places.md",
+      "sha256": "38e21b3debcb918e3c592cca5601d0491f4f078d0221b07b5b1b120ab0985ec1",
+      "terms": {
+        "does not": 16,
+        "do not": 7,
+        "cannot": 17,
+        "the evidence": 0,
+        "the records": 1,
+        "the distinction": 4,
+        "arrangement": 3,
+        "arrangements": 5,
+        "could": 45
+      },
+      "sections": [
+        "The population inside the name",
+        "Smaller did not mean older",
+        "A rebound made of households",
+        "Families changed within the totals",
+        "Arrivals in a declining place",
+        "Several kinds of work under one roof",
+        "School, work and home had different dates",
+        "A regional center that persisted",
+        "The Los Lunas comparison",
+        "What can be counted later"
+      ]
+    },
+    {
+      "chapter": 6,
+      "path": "manuscript/book-revision-01/chapters/chapter-06-changing-the-connections.md",
+      "sha256": "4c64e63493eef4138e8639319b2fa53d2c1a26561d8535dd50894841b6bfc0e6",
+      "terms": {
+        "does not": 26,
+        "do not": 10,
+        "cannot": 10,
+        "the evidence": 4,
+        "the records": 2,
+        "the distinction": 5,
+        "arrangement": 6,
+        "arrangements": 7,
+        "could": 62
+      },
+      "sections": [
+        "Where a journey could lead",
+        "Markets already had centers",
+        "What motorists found",
+        "The road changed before the interstate",
+        "Losing a passenger stop",
+        "Freight had a different organization",
+        "Supplying ranches across several routes",
+        "Passing traffic and local customers",
+        "What Santa Rosa can tell us",
+        "Several changes, one smaller town economy"
+      ]
+    },
+    {
+      "chapter": 7,
+      "path": "manuscript/book-revision-01/chapters/chapter-07-explaining-the-cumulative-decline.md",
+      "sha256": "fe12f75d030376f666ad2c20ce3c004391e500da92c7234bd6324928aaa759ce",
+      "terms": {
+        "does not": 25,
+        "do not": 11,
+        "cannot": 12,
+        "the evidence": 9,
+        "the records": 4,
+        "the distinction": 4,
+        "arrangement": 10,
+        "arrangements": 10,
+        "could": 89
+      },
+      "sections": [
+        "The market beyond the houses",
+        "Several businesses under one roof",
+        "What had to be maintained",
+        "Production and the local return",
+        "Which center served which need?",
+        "How losses could reinforce one another",
+        "Keeping something open, opening it again",
+        "A sequence with several causes",
+        "Testing the alternatives",
+        "What the explanation establishes",
+        "A smaller town is not a welfare calculation"
+      ]
+    },
+    {
+      "chapter": 8,
+      "path": "manuscript/book-revision-01/chapters/chapter-08-what-remained.md",
+      "sha256": "095aca2b5deb83ee256e89ded71981a01874c953e122e04a81c3f03f37439ede",
+      "terms": {
+        "does not": 12,
+        "do not": 6,
+        "cannot": 10,
+        "the evidence": 2,
+        "the records": 2,
+        "the distinction": 2,
+        "arrangement": 1,
+        "arrangements": 6,
+        "could": 18
+      },
+      "sections": [
+        "A working base in a wider territory",
+        "The lot grid after the businesses",
+        "An institution with a different rhythm",
+        "People whose lives crossed the boundary",
+        "The photograph and the frame",
+        "Several outcomes, one place",
+        "What this history changes"
+      ]
+    }
+  ]
+}

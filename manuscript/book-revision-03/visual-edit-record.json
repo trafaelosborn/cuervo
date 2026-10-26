@@ -1,0 +1,123 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "source_sha256": "2efc7c6df8aa05985d380e0bddda974753f4a389de6f914dbff19deffaafd4af",
+      "output_sha256": "6d2f8802cf3f8e6f540d97eeb4b614596992166b3ec724205450e89e962c9732",
+      "prose_unchanged": true,
+      "source_notes_preserved": true,
+      "figure_reference_updates": [],
+      "figures": [
+        "simultaneous-change",
+        "regional-locator"
+      ]
+    },
+    {
+      "chapter": 2,
+      "source_sha256": "11dfb03da21abfb736c940cdb926508d62c2182fc2694a9fd23dda85f3a38f4c",
+      "output_sha256": "11dfb03da21abfb736c940cdb926508d62c2182fc2694a9fd23dda85f3a38f4c",
+      "prose_unchanged": true,
+      "source_notes_preserved": true,
+      "figure_reference_updates": [],
+      "figures": [
+        "cuervo-map",
+        "santa-rosa-map",
+        "trade-notices"
+      ]
+    },
+    {
+      "chapter": 3,
+      "source_sha256": "511567e9767344f80e794cc3951e6ac599b9ec89d1ec124aa23b91eaae5638e5",
+      "output_sha256": "807fbfbc4198e72e149e9ff00f9f28f88d4f7427bc989b5ee1eb7a4fa1a3ed75",
+      "prose_unchanged": true,
+      "source_notes_preserved": true,
+      "figure_reference_updates": [],
+      "figures": [
+        "merchant-finance",
+        "trade-connections",
+        "county-livestock",
+        "prices-and-population"
+      ]
+    },
+    {
+      "chapter": 4,
+      "source_sha256": "e8bd3a1998d0b03b13a8f79513c924cca5ec99cd2f5304df0aa847292212f560",
+      "output_sha256": "e8bd3a1998d0b03b13a8f79513c924cca5ec99cd2f5304df0aa847292212f560",
+      "prose_unchanged": true,
+      "source_notes_preserved": true,
+      "figure_reference_updates": [],
+      "figures": [
+        "school-staff-and-care",
+        "school-parcel",
+        "doctor-support",
+        "newspaper-purpose"
+      ]
+    },
+    {
+      "chapter": 5,
+      "source_sha256": "86512d9501c6a992d531a53e6029606b63550fad762dd83295ee249730875bcf",
+      "output_sha256": "86512d9501c6a992d531a53e6029606b63550fad762dd83295ee249730875bcf",
+      "prose_unchanged": true,
+      "source_notes_preserved": true,
+      "figure_reference_updates": [],
+      "figures": [
+        "population-and-age",
+        "people-and-households",
+        "work-under-one-roof",
+        "regional-households"
+      ]
+    },
+    {
+      "chapter": 6,
+      "source_sha256": "c3f1f791343b1b503e051b67bb87f22e17dadc636ff8419f7e72a40335644555",
+      "output_sha256": "83bf9601d9043046774a1c3113c8726e1b37a94996f4bf13bc828eb4b31e6a12",
+      "prose_unchanged": true,
+      "source_notes_preserved": true,
+      "figure_reference_updates": [
+        {
+          "before": "Figure 3.3",
+          "after": "Figure 3.4"
+        }
+      ],
+      "figures": [
+        "journeys",
+        "retail",
+        "station-book",
+        "chronology"
+      ]
+    },
+    {
+      "chapter": 7,
+      "source_sha256": "f436f8217be8059413d920825ed764c4cda6c4cf640338393e17150d2cc9e8be",
+      "output_sha256": "9b7ed169f53b049279825e803a9cf7705ba0170a7c011766d89759ba6d4eafee",
+      "prose_unchanged": true,
+      "source_notes_preserved": true,
+      "figure_reference_updates": [
+        {
+          "before": "Figure 7.2",
+          "after": "Figure 7.3"
+        }
+      ],
+      "figures": [
+        "functional-chronology",
+        "support",
+        "feedback"
+      ]
+    },
+    {
+      "chapter": 8,
+      "source_sha256": "7c10ade52cd4d88ddc7971e0c6873e48254ea90d8d784c33a2a391238535d22a",
+      "output_sha256": "7c10ade52cd4d88ddc7971e0c6873e48254ea90d8d784c33a2a391238535d22a",
+      "prose_unchanged": true,
+      "source_notes_preserved": true,
+      "figure_reference_updates": [],
+      "figures": [
+        "church",
+        "road",
+        "fabric"
+      ]
+    }
+  ],
+  "changes": "Three inserted figures and one replacement; approved prose, 174 notes and 220 body reference links preserved. Two figure references in notes renumbered.",
+  "length_decision": "The author prioritizes content over length. No minimum main-text word count is a completion requirement."
+}

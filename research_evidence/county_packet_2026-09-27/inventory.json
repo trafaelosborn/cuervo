@@ -1,0 +1,978 @@
+[
+  {
+    "id": "01",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Plats\\C-232.pdf",
+    "pages": 1,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        1962,
+        1349
+      ]
+    ]
+  },
+  {
+    "id": "02",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Plats\\C-286(1).pdf",
+    "pages": 1,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        2561,
+        1776
+      ]
+    ]
+  },
+  {
+    "id": "03",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Plats\\C-286(2).pdf",
+    "pages": 1,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        2561,
+        1775
+      ]
+    ]
+  },
+  {
+    "id": "04",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Plats\\C-286(3).pdf",
+    "pages": 1,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        2563,
+        1776
+      ]
+    ]
+  },
+  {
+    "id": "05",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Plats\\C-291.pdf",
+    "pages": 1,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        2566,
+        1782
+      ]
+    ]
+  },
+  {
+    "id": "06",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Plats\\C-292(2).pdf",
+    "pages": 1,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        2560,
+        1773
+      ]
+    ]
+  },
+  {
+    "id": "07",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Townsite\\scan_20260922143913476.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "08",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Townsite\\scan_20260922144115416.pdf",
+    "pages": 5,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "09",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Townsite\\scan_20260922144438405.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "10",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Townsite\\scan_20260922144755478.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "11",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Townsite\\scan_20260922145125789.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "12",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Townsite\\scan_20260922145419236.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "13",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Townsite\\scan_20260922145551117.pdf",
+    "pages": 5,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "14",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Gonzales addition\\scan_20260922150105128.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "15",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Gonzales addition\\scan_20260922150304346.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "16",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Gonzales addition\\scan_20260922150523583.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "17",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Gonzales addition\\scan_20260922150756796.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "18",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Gonzales addition\\scan_20260922151009900.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "19",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Page and Jones Cards\\scan_20260923143314976.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "20",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Page and Jones Cards\\scan_20260923143645476.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "21",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Page and Jones Cards\\scan_20260923144003296.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "22",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Page and Jones Cards\\scan_20260923144223466.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "23",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Page and Jones Cards\\scan_20260923144434353.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "24",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Page and Jones Cards\\scan_20260923144640843.pdf",
+    "pages": 10,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "25",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Page and Jones Cards\\scan_20260923144846280.pdf",
+    "pages": 9,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ],
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "26",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Page and Jones Cards\\scan_20260923144902286.pdf",
+    "pages": 1,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ]
+    ]
+  },
+  {
+    "id": "27",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Parcel Map\\City of Cuervo.pdf",
+    "pages": 1,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        1324,
+        1636
+      ]
+    ]
+  },
+  {
+    "id": "28",
+    "path": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Retention Schedule.pdf",
+    "pages": 1,
+    "text_chars": 0,
+    "page_sizes": [
+      [
+        612,
+        792
+      ]
+    ]
+  }
+]

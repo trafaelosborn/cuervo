@@ -1,0 +1,82 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "words": 2697,
+      "notes": 14,
+      "references": 17,
+      "pages": 13,
+      "pdf_sha256": "cdb1cc136c43e090e3ec17f0b2cbcaa66db4954934c4ed98b43d738fe1f50196",
+      "figure_directives": 1,
+      "visual_positions": 2
+    },
+    {
+      "chapter": 2,
+      "words": 5112,
+      "notes": 25,
+      "references": 35,
+      "pages": 23,
+      "pdf_sha256": "080bd4fb28f65a523df04d96f0c5532c36f33253c4924781d9a2e21b5664fb9b",
+      "figure_directives": 3,
+      "visual_positions": 3
+    },
+    {
+      "chapter": 3,
+      "words": 6499,
+      "notes": 29,
+      "references": 44,
+      "pages": 28,
+      "pdf_sha256": "84ddc3b644b7fe17faf41926d3b15bd52703d6a2b166a238ae248833ac46a0f6",
+      "figure_directives": 3,
+      "visual_positions": 3
+    },
+    {
+      "chapter": 4,
+      "words": 6358,
+      "notes": 21,
+      "references": 24,
+      "pages": 28,
+      "pdf_sha256": "bdee8271f6b276c4703915e80fa6be576efe6330f7f2911cbd0b3e103e9599d8",
+      "figure_directives": 4,
+      "visual_positions": 4
+    },
+    {
+      "chapter": 5,
+      "words": 5555,
+      "notes": 24,
+      "references": 32,
+      "pages": 27,
+      "pdf_sha256": "61bf79b3cb32440da56eb67e700f44033cfd971aa61f3c5b81d7eb774fe9ed05",
+      "figure_directives": 4,
+      "visual_positions": 4
+    },
+    {
+      "chapter": 6,
+      "words": 6461,
+      "notes": 26,
+      "references": 26,
+      "pages": 30,
+      "pdf_sha256": "f29cea7e68dddb4f151b7c878785392b66d57b71c7108c41e2963f116f84f439",
+      "figure_directives": 4,
+      "visual_positions": 4
+    },
+    {
+      "chapter": 7,
+      "words": 6545,
+      "notes": 22,
+      "references": 28,
+      "pages": 27,
+      "pdf_sha256": "9568a16de950417b5710e383e0178c8c7c70546d270588824856d92692cd8bc8",
+      "figure_directives": 2,
+      "visual_positions": 2
+    }
+  ],
+  "totals": {
+    "words": 39227,
+    "notes": 161,
+    "references": 206,
+    "pages": 176,
+    "visual_positions": 22
+  },
+  "earlier_six_pdf_hashes_unchanged": true
+}

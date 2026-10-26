@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-28",
+  "coverage": "Bodies of all eight chapters read; targeted continuity and repetition edit; source definitions retained. Not a fresh exhaustive source audit or external review.",
+  "original_body_words": 42286,
+  "edited_body_words": 41257,
+  "chapters": [
+    {
+      "chapter": 1,
+      "source": "manuscript/chapter-01-reading-cuervo.md",
+      "edited": "manuscript/book-revision-01/chapters/chapter-01-reading-cuervo.md",
+      "original_body_words": 2697,
+      "edited_body_words": 2485,
+      "removed_words": 212,
+      "source_sha256": "452c9ca24a6ae33033c3338961290865c2b6533158f732bc6cf31031fe1d35de",
+      "edited_sha256": "4866e901f77de23b3637046bbf4ef27a6fcbd0bc94346c4a3914e02a0e978aac"
+    },
+    {
+      "chapter": 2,
+      "source": "manuscript/chapter-02-why-a-town-here.md",
+      "edited": "manuscript/book-revision-01/chapters/chapter-02-why-a-town-here.md",
+      "original_body_words": 5112,
+      "edited_body_words": 5010,
+      "removed_words": 102,
+      "source_sha256": "0c9b3983f50710a8d1bf7570ebaef04a7ec175ecaac026c6162151c5ed1995f1",
+      "edited_sha256": "b5552120905251c8e9c422bc997e4e926cc0270034385a3947c792f66ad96900"
+    },
+    {
+      "chapter": 3,
+      "source": "manuscript/chapter-03-the-business-of-ranch-country.md",
+      "edited": "manuscript/book-revision-01/chapters/chapter-03-the-business-of-ranch-country.md",
+      "original_body_words": 6499,
+      "edited_body_words": 6378,
+      "removed_words": 121,
+      "source_sha256": "de415efc6942091d2be8141b8588b08744a4afde85e27eb1682952be6dfb0e20",
+      "edited_sha256": "eeece9eb7ebbd23df9472a8b16c877ec380216ad0ffd1dac357459c9d1a0f01b"
+    },
+    {
+      "chapter": 4,
+      "source": "manuscript/chapter-04-keeping-a-town-working.md",
+      "edited": "manuscript/book-revision-01/chapters/chapter-04-keeping-a-town-working.md",
+      "original_body_words": 6358,
+      "edited_body_words": 6176,
+      "removed_words": 182,
+      "source_sha256": "d8bddb712baacfcd5011a48b2bb1ddbb088ade162493c8cbb29e293cf23a5ac2",
+      "edited_sha256": "5dd3aa4c69e6c1b6296000df46950297298c1be3c87138d7133d9b08b19494dd"
+    },
+    {
+      "chapter": 5,
+      "source": "manuscript/chapter-05-people-across-places.md",
+      "edited": "manuscript/book-revision-01/chapters/chapter-05-people-across-places.md",
+      "original_body_words": 5555,
+      "edited_body_words": 5454,
+      "removed_words": 101,
+      "source_sha256": "e2de5a0ebe22670046323bb55a3b7729d812b909f90d40dd512b67c8aa307d90",
+      "edited_sha256": "38e21b3debcb918e3c592cca5601d0491f4f078d0221b07b5b1b120ab0985ec1"
+    },
+    {
+      "chapter": 6,
+      "source": "manuscript/chapter-06-changing-the-connections.md",
+      "edited": "manuscript/book-revision-01/chapters/chapter-06-changing-the-connections.md",
+      "original_body_words": 6461,
+      "edited_body_words": 6257,
+      "removed_words": 204,
+      "source_sha256": "6a15520f96bf994e71668bc21c514e573d2337a5ad3a3ea869db049b8cadf7d9",
+      "edited_sha256": "4c64e63493eef4138e8639319b2fa53d2c1a26561d8535dd50894841b6bfc0e6"
+    },
+    {
+      "chapter": 7,
+      "source": "manuscript/chapter-07-explaining-the-cumulative-decline.md",
+      "edited": "manuscript/book-revision-01/chapters/chapter-07-explaining-the-cumulative-decline.md",
+      "original_body_words": 6545,
+      "edited_body_words": 6438,
+      "removed_words": 107,
+      "source_sha256": "116845221321a66bd2603aa428d055deacbbce9b25ff40730aeb883d496ceb53",
+      "edited_sha256": "fe12f75d030376f666ad2c20ce3c004391e500da92c7234bd6324928aaa759ce"
+    },
+    {
+      "chapter": 8,
+      "source": "manuscript/chapter-08-what-remained.md",
+      "edited": "manuscript/book-revision-01/chapters/chapter-08-what-remained.md",
+      "original_body_words": 3059,
+      "edited_body_words": 3059,
+      "removed_words": 0,
+      "source_sha256": "095aca2b5deb83ee256e89ded71981a01874c953e122e04a81c3f03f37439ede",
+      "edited_sha256": "095aca2b5deb83ee256e89ded71981a01874c953e122e04a81c3f03f37439ede"
+    }
+  ],
+  "edits": [
+    {
+      "chapter": 1,
+      "action": "remove_repeated_recap",
+      "before": "This helps explain why the size of a town can be a poor guide to the reach of its businesses. A store might serve people across a large area. Its customers might come only occasionally and make substantial purchases. Counting nearby residents would miss that trade. The important question is who used the business and what they used it for.",
+      "preceding": "Much of the work that supported this trade took place outside the village. Ranchers needed access to distant buyers. They also needed goods that arrived from elsewhere. Cuervo brought these transactions together. Its small resident population was only part of the merchant's market.",
+      "following": "The merchant also did more than sell finished goods. Credit helped customers finance their activities. Dealings in sheep and wool connected production to buyers. Combining these tasks in one firm may have offered advantages to both merchant and customer. The records establish that the firm performed them. They do not, by themselves, show how much money the combination saved."
+    },
+    {
+      "chapter": 1,
+      "action": "remove_repeated_recap",
+      "before": "The merchant also did more than sell finished goods. Credit helped customers finance their activities. Dealings in sheep and wool connected production to buyers. Combining these tasks in one firm may have offered advantages to both merchant and customer. The records establish that the firm performed them. They do not, by themselves, show how much money the combination saved.",
+      "preceding": "Much of the work that supported this trade took place outside the village. Ranchers needed access to distant buyers. They also needed goods that arrived from elsewhere. Cuervo brought these transactions together. Its small resident population was only part of the merchant's market.",
+      "following": "Grubbs reconstructed the company's early finances from business records. His figures show positive net profits in every year from 1904 through 1915. Profits fell in 1910 and 1911, then recovered. He also described the Cuervo business as still operating in 1958.[^5] That later observation establishes survival, although it does not tell the financial story of every intervening year."
+    },
+    {
+      "chapter": 1,
+      "action": "remove_repeated_recap",
+      "before": "This is a useful starting point, but the history adds other forms of support. A newspaper owner may subsidize losses for political reasons. Decisions about school provision can affect where families settle. Demand from paying customers is only part of the explanation for which services remain available.",
+      "preceding": "Central-place theory asks how towns supply their surrounding areas with goods and services. Different activities need different numbers of customers and draw them from different distances. A frequently used, inexpensive service may survive on a relatively small market. A costly specialist may need customers from a much wider area.[^11]",
+      "following": "Agricultural growth raises a related question: where does the income go? A rancher earning more might buy supplies locally, purchase equipment elsewhere or invest in the ranch. Higher livestock receipts need not produce another shop in Cuervo. Douglass North's work on agriculture and regional growth explains why exports alone cannot guarantee a more varied local economy. How production is organized and where income is spent also matter.[^11]"
+    },
+    {
+      "chapter": 1,
+      "action": "remove_repeated_recap",
+      "before": "Each kind of record answers a different question. School reports document investment and arrivals. Merchant accounts connect premises to customers and distant markets. Current ranching records establish work beyond the village. Read together, they show how commercial activity could retreat while buildings and rural production remained.",
+      "preceding": "Property records make the same distinction necessary. An assessor card prepared in January 1983 classified a Cuervo property as a gas station, rated its condition poor and used a salvage basis for valuation. A later entry recorded no change in December 2008. The card documents an assessed building and its condition. It does not date the last sale of petrol or explain why the business stopped.[^13]",
+      "following": "Other scholars have examined places where visible decay coexists with continued use and attachment. Studies of former mining communities distinguish visitors' impressions from residents' experiences. Rural geographers have described several kinds of abandonment and reuse, including declining settlements surrounded by active agriculture.[^14] Cuervo belongs within this wider history."
+    },
+    {
+      "chapter": 1,
+      "action": "wording",
+      "before": "last sale of petrol",
+      "after": "last sale of gasoline"
+    },
+    {
+      "chapter": 2,
+      "action": "remove_repeated_recap",
+      "before": "No single investor had to intend all the consequences. A merchant could pursue customers, a doctor a practice and a family an education for its children. Their decisions could support one another through shared residence and trade. The resulting town was larger in purpose than any one participant's plan.",
+      "preceding": "At the level of the settlement, people then committed resources to make the opportunity usable. The Bonds supplied capital. Wiest and later managers ran the business. Premises and storage were built. Public and community decisions expanded schooling. Other businesses offered accommodation, medical care, supplies and repairs. These commitments gave people reasons to gather at the same place.",
+      "following": "This account leaves room for the importance of local geography without making the location inevitable. Cabra had been an earlier choice. Santa Rosa offered other functions nearby. Distant buyers and related businesses shaped what could be done profitably in Cuervo. The town's role was built within those relationships and could change as they changed."
+    },
+    {
+      "chapter": 2,
+      "action": "remove_repeated_recap",
+      "before": "It also establishes why the later decline must be explained with more than a photograph of the interstate. Cuervo's commercial organization predated Route 66. It had already experienced competition, investment, service changes and uncertainty about agricultural prospects. The highway entered this economy; it did not create all the reasons people had gathered there.",
+      "preceding": "This account leaves room for the importance of local geography without making the location inevitable. Cabra had been an earlier choice. Santa Rosa offered other functions nearby. Distant buyers and related businesses shaped what could be done profitably in Cuervo. The town's role was built within those relationships and could change as they changed.",
+      "following": "The more demanding question is how much of the surrounding economy a place could continue to serve. Ranching required land and access to markets. It did not require every purchase, loan, shipment or household service to occur in the same village. Cuervo's businesses had to retain a useful part in those activities."
+    },
+    {
+      "chapter": 3,
+      "action": "remove_repeated_recap",
+      "before": "This makes the company a useful warning against judging a small town through one indicator. A decline in merchandise stock could coexist with an increase in sheep investment. A difficult year could be followed by recovery. A successful livestock operation could employ few additional people in the village. Economic change was taking place within the firm as well as around it.",
+      "preceding": "Those figures must retain their labels. Merchandise gross profit is not the same measure as company net profit. The separate lines cannot simply be added and assumed to reconcile with the company's final result. Other activities, expenses and accounting treatment intervene. The purpose of the comparison is to show the changing business mix, rather than manufacture a modern income statement from incomplete categories.",
+      "following": "It also clarifies the meaning of survival. Grubbs encountered J. S. Holbrook operating the Cuervo business in 1958. That observation extends the institution's history far beyond the early figures, though it does not supply annual accounts for the intervening decades. The firm was a durable part of the locality. Calling it a brief service that appeared and disappeared would miss much of what needs explaining.[^8]"
+    },
+    {
+      "chapter": 3,
+      "action": "remove_repeated_recap",
+      "before": "Those advantages need not be permanent to be valuable. They could sustain business for years and then weaken as customers acquired other ways to obtain the same goods. The early accounts show what the merchant was doing while the arrangement worked. They provide a basis for understanding its usefulness without assuming that the surrounding countryside would always trade in the same way.",
+      "preceding": "The railway contributed to both sides of the calculation. It helped bring supplies into Cuervo and connected the firm with a wider market. It also brought alternative sellers within reach. The commercial advantage of the station therefore depended partly on what the merchant could offer beyond physical access: available stock, credit, knowledge of customers and the combination of several services.",
+      "following": "## Selling now, collecting later"
+    },
+    {
+      "chapter": 3,
+      "action": "wording",
+      "before": "It also clarifies the meaning of survival.",
+      "after": "The later evidence also clarifies the meaning of survival."
+    },
+    {
+      "chapter": 4,
+      "action": "remove_repeated_recap",
+      "before": "This is a more useful account of fragility than assuming every service shared a common minimum population. The cases identify requirements that could be changed: replace a teacher, assemble contributions, combine tasks or reorganize publication. Some responses were attempted; one garage reopening is directly reported. Their existence makes adaptation part of the history without guaranteeing that adaptation would always succeed.",
+      "preceding": "The town's vulnerability lay partly in how much provision depended on maintaining particular arrangements. An institution might have few immediate substitutes for an essential worker or backer. Losing that contribution could therefore have a large local effect. The available alternatives would determine whether the result was a temporary interruption, a changed service or a lasting withdrawal.",
+      "following": "## Services and residents"
+    },
+    {
+      "chapter": 4,
+      "action": "remove_repeated_recap",
+      "before": "The consequences depend on the choices available. A family able to travel might remain. Another might relocate to reduce repeated journeys. A worker whose post moved could face a different decision from a ranch household whose land remained in use. These are possible responses to changing provision; the number choosing each must be established through evidence about people.",
+      "preceding": "This is where service history meets demographic history. The school reports of 1910 and 1912 show households coming into Cuervo for education. Later accounts show education linking local people with other places. Neither observation licenses a simple reversal in which every lost service automatically removes its former users from the population.",
+      "following": "For the town, their effects would also differ. A resident shopping elsewhere might contribute less to local trade while still occupying a house. A household arriving for a school term might support local activity without settling permanently. A visiting professional might provide a valuable service without adding a resident household. Population, local work and access to services are connected, but they count different things."
+    },
+    {
+      "chapter": 4,
+      "action": "remove_repeated_recap",
+      "before": "For the town, their effects would also differ. A resident shopping elsewhere might contribute less to local trade while still occupying a house. A household arriving for a school term might support local activity without settling permanently. A visiting professional might provide a valuable service without adding a resident household. Population, local work and access to services are connected, but they count different things.",
+      "preceding": "This is where service history meets demographic history. The school reports of 1910 and 1912 show households coming into Cuervo for education. Later accounts show education linking local people with other places. Neither observation licenses a simple reversal in which every lost service automatically removes its former users from the population.",
+      "following": "Cuervo's institutions therefore need to be understood as continuing undertakings. Their useful work depended on people assembling staff, money, premises and support. The records show those efforts succeeding, encountering difficulties and taking new forms. They give the settlement a history of active provision alongside its history of loss."
+    },
+    {
+      "chapter": 5,
+      "action": "remove_repeated_recap",
+      "before": "Their contribution is nevertheless substantial. A declining locality could contain growing families, new household groups and recent arrivals associated with its productive economy. The 1950 rebound emerges from that changing community. It need not mean that all its commercial functions were recovering together.",
+      "preceding": "They are not twenty-five proven migrants. The residence question was asked of selected people, and an answer about one member cannot automatically be extended to everyone sharing a home. Some checkboxes were overwritten or blank even where an earlier place was legible. The retained observations are useful examples, not a complete migration count to be multiplied into a precinct estimate.",
+      "following": "## Several kinds of work under one roof"
+    },
+    {
+      "chapter": 5,
+      "action": "remove_repeated_recap",
+      "before": "For the Cuervo narrative, the consequence is to replace a single regional success-and-failure ranking with separate observations. Early population contracted. A surviving community changed its household composition and received some arrivals. Santa Rosa maintained a larger service and residential center. Los Lunas experienced substantial household-population growth. Explaining those outcomes requires attention to what each place connected people to.",
+      "preceding": "Los Lunas therefore helps distinguish the question, rather than solve it by analogy. Its observed residential expansion was much larger than Santa Rosa's. Cuervo's relationship with Santa Rosa cannot be explained simply by assigning it a smaller version of the same growth curve. The places occupied different positions within their regions, and their populations changed in different ways.",
+      "following": "## What can be counted later"
+    },
+    {
+      "chapter": 5,
+      "action": "wording",
+      "before": "Population counts describe the people present within a reporting area.",
+      "after": "Population counts describe the people enumerated within a reporting area."
+    },
+    {
+      "chapter": 6,
+      "action": "remove_repeated_recap",
+      "before": "Cuervo's regional position was consequently more complicated than a small town facing one larger neighbor. Connections ran in several directions. Their usefulness depended on the activity, the traveler and the operating arrangements at a particular date.",
+      "preceding": "This matters for the interpretation of later service losses. Losing a passenger stop removed an option whose value depended on the trips it supported. It did not sever every regional relationship. Households with cars, people arranging rides and businesses handling freight faced different constraints. The withdrawal could be consequential even where another form of transport remained available, because availability and affordability differed among users.",
+      "following": "## Markets already had centers"
+    },
+    {
+      "chapter": 6,
+      "action": "remove_repeated_recap",
+      "before": "The railway had thus changed its relationship with the settlement while continuing to carry traffic through it. For residents, the important loss was an opportunity to use the passing service locally. For the route as a whole, trains could continue to connect much larger destinations. Both statements can be true at the same time.",
+      "preceding": "Through passenger trains remained a separate matter. The Golden State continued along the corridor after Cuervo's advertised stops disappeared. Its discontinuance came in 1968, documented in the contemporary regulatory discussion. That later event should not be used to date Cuervo's local passenger withdrawal a decade earlier.[^14]",
+      "following": "## Freight had a different organization"
+    },
+    {
+      "chapter": 6,
+      "action": "remove_repeated_recap",
+      "before": "That limit does not reduce the value of the administrative finding. It demonstrates that a local passenger withdrawal and a no-agent listing can coexist with a retained freight-accounting identity. It also identifies a way in which railway functions could be reorganized across places. Some local tasks might disappear or move, even while the route and certain commercial relationships persisted.",
+      "preceding": "For Cuervo, several conditions would still have to be met: a suitable loading facility, track access, freight service accepting the shipment, and arrangements to supply and collect cars. The held station book does not verify all of them. Continued cattle loading after 1958 remains possible, but an actual later shipment has not been established.",
+      "following": "The 1950 census had recorded railway work among Cuervo precinct residents, including an agent, operating and communications roles, and other railway occupations. Seven of the nine main railway descriptions accompanied current work; two described previous work while the person sought employment.[^19] The residences do not locate every workplace, but they show that railway livelihoods extended beyond a single passenger service."
+    },
+    {
+      "chapter": 6,
+      "action": "remove_repeated_recap",
+      "before": "Cuervo's position in that network could therefore change without the ranches losing every outside connection. A business closing in the settlement might impose inconvenience or additional cost on ranchers, while suppliers elsewhere continued to serve them. Continued agricultural use of the country is compatible with a much smaller collection of businesses concentrated in the town.",
+      "preceding": "The evidence here describes an arrangement that makes such separation possible. It does not measure how much Cuervo trade was lost through direct delivery. That would require accounts or shipment records tracing particular purchases. For the settlement's larger history, the essential finding is that ranch supply already involved several places and transport methods before the local passenger stop disappeared.",
+      "following": "## Passing traffic and local customers"
+    },
+    {
+      "chapter": 7,
+      "action": "remove_repeated_recap",
+      "before": "The early evidence changes the question from why an implausibly small town briefly existed to why a useful arrangement of activities ceased to be sustained locally. Its size was not an anomaly requiring explanation away. Its relationship with the surrounding economy was the explanation for its usefulness.",
+      "preceding": "Smith's argument also helps explain the variety within the early merchant firm. A limited market might support several activities under shared management even when none justified a separate specialist. The store could therefore be commercially substantial without resembling a collection of independent urban businesses. Looking for that larger collection as proof of prosperity would impose the wrong organizational test.",
+      "following": "## Several businesses under one roof"
+    },
+    {
+      "chapter": 7,
+      "action": "remove_repeated_recap",
+      "before": "That distinction does not leave the book without an explanation. It identifies the level at which its explanation is supported. There are documented decisions, observed changes in the location of functions and conditional mechanisms connecting them. Together they explain how a settlement could contract while its surrounding productive economy continued. They leave the relative weight of particular later causes unresolved.",
+      "preceding": "The evidence for that reorganization is stronger than the evidence for one uninterrupted cascade. Reinforcing losses are economically plausible, and the school evidence demonstrates that services could shape residence. The later links are not all individually traced. Cumulative decline describes the combined result; it does not by itself prove that every component caused another component.",
+      "following": "This is also where the contribution lies. Established economics supplies the concepts. Cuervo's history supplies a particular combination of institutions, transactions and changes through which to examine them. The case does not require a new law of settlement collapse. It requires a careful account of how a place's earlier usefulness was organized and how much of that organization remained locally necessary or supportable."
+    }
+  ]
+}

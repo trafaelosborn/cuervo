@@ -1,0 +1,80 @@
+{
+  "retail_shares_pct": {
+    "population_1930": 16.038138608225417,
+    "stores": 34.32835820895522,
+    "net_sales": 44.45229681978799,
+    "stocks": 47.17741935483871,
+    "payroll": 51.785714285714285
+  },
+  "ratios": {
+    "general_stores_share_pct": 50.23847376788553,
+    "filling_station_counted_sales_share_pct": 86.84210526315789,
+    "filling_station_share_of_santa_rosa_sales_pct": 5.246422893481717,
+    "tucumcari_to_santa_rosa_sales": 4.829888712241654
+  },
+  "journey_minutes": {
+    "Cuervo-Tucumcari": {
+      "departure": 420,
+      "arrival": 500,
+      "return_departure": 1185,
+      "return_arrival": 1260
+    },
+    "Cuervo-Santa Rosa": {
+      "departure": 1260,
+      "arrival": 1295,
+      "return_departure": 1820,
+      "return_arrival": 1860
+    }
+  },
+  "tucumcari_time_at_destination_minutes": 685,
+  "chronology": [
+    [
+      "Southwest highway",
+      1952,
+      1952,
+      "1952 / Route relocated",
+      "point"
+    ],
+    [
+      "Local passenger stops",
+      1958.3205479452056,
+      1958.8191780821917,
+      "Apr-Oct 1958 / Stops disappear",
+      "bracket"
+    ],
+    [
+      "Train-order office",
+      1956.7459016393443,
+      1958.8191780821917,
+      "Sep 1956-Oct 1958 / Designation disappears",
+      "bracket"
+    ],
+    [
+      "Nearby interstate project",
+      1963,
+      1965,
+      "1963-1965 / Recorded construction interval",
+      "construction"
+    ],
+    [
+      "Through Golden State",
+      1968,
+      1968,
+      "1968 / Through passenger service ends",
+      "point"
+    ],
+    [
+      "Freight administration",
+      1974.9534246575342,
+      1974.9534246575342,
+      "Dec 1974 / No agent; billing at Tucumcari",
+      "point"
+    ]
+  ],
+  "limits": [
+    "Travel opportunities, not passenger counts or purchases.",
+    "Retail measures 1929; population measures 1930.",
+    "Passenger and office spans bracket disappearance between inspected documents; they are not event durations.",
+    "Freight-accounting identities do not establish actual shipments."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "local_report_links_checked": 26,
+  "missing_links": [],
+  "main_occupation_entries": {
+    "Cuervo": 56,
+    "Santa_Rosa": 643
+  },
+  "industry_only_extra": 1,
+  "Santa_Rosa_population_sheets": 87,
+  "independent_double_transcription": false,
+  "business_observations_and_leads": 13,
+  "source_files_hash_checked": [
+    "sources/regional_functions_2026-09-21/tiger_2020_block_layer.json",
+    "sources/regional_functions_2026-09-21/blocks_2020_guadalupe.geojson",
+    "sources/regional_functions_2026-09-21/tabblock2010_35_pophu.zip",
+    "sources/regional_functions_2026-09-21/tiger_2010_blocks_techdoc.pdf",
+    "sources/regional_functions_2026-09-21/tiger_2010_pophu_index.html",
+    "sources/regional_functions_2026-09-21/nmed_all_storage_tanks_2020-11-19.pdf",
+    "sources/regional_functions_2026-09-21/nmed_all_storage_tanks_generated_2025-05-15.pdf",
+    "sources/regional_functions_2026-09-21/mennem_2013_ghost_towns.html"
+  ],
+  "visual_QA": [
+    "occupation comparison figure",
+    "population boundary figure",
+    "three 2020 NMED rows and headers"
+  ],
+  "open_limits": [
+    "Possible census duplicates and faint readings",
+    "Private-household/population reconciliation",
+    "Willa shop dates",
+    "Facility identity and business closing dates",
+    "1960-2000 settlement population and geographic continuity"
+  ]
+}

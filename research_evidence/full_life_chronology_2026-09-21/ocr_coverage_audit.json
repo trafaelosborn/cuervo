@@ -1,0 +1,79 @@
+{
+  "raw_parent_records": 272,
+  "distinct_issue_dates": 270,
+  "raw_page_objects": 1189,
+  "raw_empty_transcripts": 14,
+  "duplicate_issue_records": [
+    {
+      "issue_date": "1911-06-23",
+      "retained_parent": "2789",
+      "duplicate_parent": "2849",
+      "ocr_identical": true,
+      "pages": 4
+    },
+    {
+      "issue_date": "1911-10-05",
+      "retained_parent": "2899",
+      "duplicate_parent": "2914",
+      "ocr_identical": true,
+      "pages": 4
+    }
+  ],
+  "canonical_nonempty_pages": 1167,
+  "coverage_differences": [
+    {
+      "issue_date": "1910-02-11",
+      "canonical_parent": "2503",
+      "repository_child_objects": 4,
+      "nonempty_ocr_pages": 4,
+      "local_pdf_scan_pages": 0,
+      "issue_text": "sources\\02_newspapers\\cuervo_clipper\\repository_ocr_2026-09-21\\issues\\1910-02-11.txt"
+    },
+    {
+      "issue_date": "1912-02-22",
+      "canonical_parent": "2909",
+      "repository_child_objects": 4,
+      "nonempty_ocr_pages": 4,
+      "local_pdf_scan_pages": 0,
+      "issue_text": "sources\\02_newspapers\\cuervo_clipper\\repository_ocr_2026-09-21\\issues\\1912-02-22.txt"
+    },
+    {
+      "issue_date": "1917-09-28",
+      "canonical_parent": "3303",
+      "repository_child_objects": 4,
+      "nonempty_ocr_pages": 4,
+      "local_pdf_scan_pages": 0,
+      "issue_text": "sources\\02_newspapers\\cuervo_clipper\\repository_ocr_2026-09-21\\issues\\1917-09-28.txt"
+    },
+    {
+      "issue_date": "1921-11-04",
+      "canonical_parent": "3909",
+      "repository_child_objects": 8,
+      "nonempty_ocr_pages": 8,
+      "local_pdf_scan_pages": 1,
+      "issue_text": "sources\\02_newspapers\\cuervo_clipper\\repository_ocr_2026-09-21\\issues\\1921-11-04.txt"
+    }
+  ],
+  "issue_counts_by_year": {
+    "1910": 48,
+    "1911": 24,
+    "1912": 28,
+    "1913": 17,
+    "1917": 45,
+    "1918": 12,
+    "1919": 47,
+    "1920": 4,
+    "1921": 32,
+    "1922": 13
+  },
+  "search_leads_by_category": {
+    "transport_freight": 2337,
+    "medical_church_post": 3234,
+    "land_agriculture": 2273,
+    "school": 405,
+    "newspaper": 256,
+    "business_change": 681,
+    "trade_geography": 102
+  },
+  "limits": "Repository OCR retrieved, not newly generated or exhaustively corrected. Text is a search aid. The run has calendar gaps. Scan-page mapping must be verified visually."
+}

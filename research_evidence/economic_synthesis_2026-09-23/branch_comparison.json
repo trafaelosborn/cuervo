@@ -1,0 +1,62 @@
+{
+  "scope": "Selected Bond branches described in Grubbs (1958), checked against selected original page images. These are related firms, not independent matched controls.",
+  "source_file": "sources/origins_followup_2026-09-23/grubbs_bond_thesis_1958.pdf",
+  "money": "Nominal dollars. Accounting categories differ; no return-on-capital ranking is calculated.",
+  "branches": [
+    {
+      "place": "Cuervo, preceded by Cabra",
+      "firm": "Bond & Wiest",
+      "observations": [
+        {"claim": "Cabra predecessor established in 1899; relocation to Cuervo around 1902-1903, exact date unresolved", "printed_pages": [97, 99, 100], "pdf_pages": [229, 233, 235]},
+        {"claim": "Reported company net profits positive in all twelve years 1904-1915", "printed_page": 112, "pdf_page": 263, "data": "research_evidence/origins_followup_2026-09-23/financial_transcription.json"},
+        {"claim": "Merchandise, credit, sheep, wool and shipping combined; sheep investment exceeds merchandise inventory in 1913-1915", "printed_pages": [105, 106, 107, 109, 110, 111], "pdf_pages": [249, 251, 253, 257, 259, 261]},
+        {"claim": "Grubbs describes the operating Cuervo firm in 1958", "printed_page": 115, "pdf_page": 269}
+      ],
+      "limit": "Secondary reconstruction from company sources. Positive accounting profit does not establish a return exceeding the owners' alternative opportunities. No final closure date."
+    },
+    {
+      "place": "Wagon Mound",
+      "firm": "A. MacArthur / Bond business",
+      "observations": [
+        {"claim": "Bond acquired an existing mercantile and sheep business in 1892", "printed_pages": [68, 69], "pdf_pages": [169, 171]},
+        {"claim": "Merchandise and sheep net profits change relative importance", "printed_page": 74, "pdf_page": 181, "table": 20, "selected_years": [{"year": 1912, "merchandise_net_profit": 18104.61, "sheep_net_profit": 4098.83}, {"year": 1913, "merchandise_net_profit": 26925.83, "sheep_net_profit": 4269.40}, {"year": 1914, "merchandise_net_profit": 5624.06, "sheep_net_profit": 13028.55}, {"year": 1915, "merchandise_net_profit": 11152.56, "sheep_net_profit": 15604.66}]},
+        {"claim": "Inventory and receivable valuation practices varied", "printed_pages": [75, 76], "pdf_pages": [183, 185]}
+      ],
+      "limit": "The two profit lines are not assumed to equal total company earnings. Valuation changes and withdrawals complicate comparisons. Roy is not counted as a confirmed retail branch."
+    },
+    {
+      "place": "Encino",
+      "firm": "G. W. Bond & Bro. Mercantile Co.",
+      "observations": [
+        {"claim": "Organized in 1905; store opened October 11, 1905", "printed_pages": [201, 203], "pdf_pages": [441, 449]},
+        {"claim": "1913 net profit of 174.41 differs from Table 52 earnings of about 1700 because that table includes 1500 interest on capital stock", "printed_page": 205, "pdf_page": 453},
+        {"claim": "1914 book accounts totaled 28270.76 across 131 customers", "printed_page": 211, "pdf_page": 465},
+        {"claim": "Sheep handled at Encino before 1908 were booked at Espanola", "printed_page": 215, "pdf_page": 473},
+        {"claim": "The 1909 sheep investment account shows zero, but 1434 sheep were on hand and omitted from that inventory", "printed_page": 216, "pdf_page": 475},
+        {"claim": "Sheep on rent: 12861 in 1914 and 14392 in 1915", "printed_page": 216, "pdf_page": 475}
+      ],
+      "limit": "The location of an account is not necessarily the location of production. Registered-office moves and an undated insolvency caption are not verified store-closing dates."
+    },
+    {
+      "place": "Rosa, Rio Arriba County (NOT Santa Rosa)",
+      "firm": "Rosa Mercantile Co.",
+      "observations": [
+        {"claim": "Organized March 13, 1912; 16000 capital, four equal partners", "printed_page": 224, "pdf_page": 491},
+        {"claim": "1914 sales of 41201.07, 89 percent on credit", "printed_page": 227, "pdf_page": 497},
+        {"claim": "1915 sheep investment of 6767.65 represented 2935 ewes, all leased", "printed_page": 228, "pdf_page": 499},
+        {"claim": "Manager A. H. Long threatened to withdraw sheep from Porfirio Gallegos for shopping elsewhere; Bond advised against retaliation", "printed_page": 228, "pdf_page": 499, "original_targets": "Letter Book 58, June 24 and June 29, 1915, pp. 590 and 652; current finding-aid volume 83; originals not inspected"},
+        {"claim": "Cash strain required a Bond-backed loan despite reported profits", "printed_page": 229, "pdf_page": 501},
+        {"claim": "Grubbs reports firm moved to Albuquerque in 1920 and dissolved in 1923", "printed_page": 229, "pdf_page": 501}
+      ],
+      "limit": "Corporate events do not date the disappearance of all Rosa services. Credit sales are not cash collections, and company earnings may include sheep returns."
+    }
+  ],
+  "independent_check": {
+    "case": "Burguete v. G. W. Bond & Bro. Mercantile Co., 43 N.M. 97, 85 P.2d 749, 1938-NMSC-075, December 20, 1938",
+    "url": "https://law.justia.com/cases/new-mexico/supreme-court/1938/43-nm-97.html",
+    "local_file": "sources/economic_synthesis_2026-09-23/burguete_bond_1938_web_extracted.txt",
+    "evidence": "Court opinion describes merchandise, ranching, partido sheep, land security, rancher debts and a 90000 refinancing loan. It reports an agreement routing the plaintiffs' business through the corporation while that loan remained unpaid.",
+    "result": "Affirmed rejection of the claimed debt-cancellation agreement: the manager lacked authority for it and the corporation did not ratify it.",
+    "limit": "Firm and manager match the Encino company history, but the opinion does not locate every transaction at Encino. Selected litigation involving two ranchers, not a typical Cuervo contract or an estimate of prevalence. Web-extracted opinion, not a certified original scan."
+  }
+}

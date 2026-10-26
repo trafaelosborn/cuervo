@@ -1,0 +1,43 @@
+{
+  "pages": 180,
+  "body_words": 31075,
+  "all_annotations": 333,
+  "web_link_annotations": 96,
+  "unique_web_targets": 60,
+  "internal_paths_in_public_text": [],
+  "correction_pages": {
+    "In July 2026": [
+      4,
+      169
+    ],
+    "Santa Rosaâ€™s year-round housing": [
+      11
+    ],
+    "Grubbs traced the Cabra store": [
+      20
+    ],
+    "851 farms counted": [
+      56,
+      64
+    ],
+    "reported that it had been discontinued": [
+      130
+    ],
+    "October 1958 and September 1959": [
+      130
+    ],
+    "March 25, 1968": [
+      142
+    ],
+    "December 21, 2025": [
+      171,
+      179
+    ]
+  },
+  "straight_apostrophes_in_extracted_text": 0,
+  "straight_double_quotes_in_extracted_text": 0,
+  "hyphen_year_ranges": [],
+  "pdf_sha256": "c7f5f7138fab067184872ee50f6891753c6445b964a80e88853a295c783271c1",
+  "full_and_abbreviated_year_ranges_use_en_dashes": true,
+  "revision04_preserved": true
+}

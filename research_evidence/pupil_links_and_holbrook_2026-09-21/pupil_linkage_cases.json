@@ -1,0 +1,283 @@
+[
+  {
+    "id": "P1",
+    "name": "Flora S. Page (Salas)",
+    "birth_date": "1931-05-07",
+    "census_links": [
+      {
+        "id": "1950-3-13",
+        "household": "1950-3-10",
+        "sheet": "3",
+        "line": 13,
+        "age_read": 18,
+        "confidence": "strong candidate",
+        "evidence": [
+          "Flora Salas, daughter; Pablo Salas 59 and Lupita 53 in same household",
+          "Given name, maiden surname, locality and age agree with obituary; Pablo agrees",
+          "Lupita/Guadalupe is a plausible familiar-name link, not independently proven"
+        ],
+        "crop": "1950_salas"
+      }
+    ],
+    "residence_events": [
+      {
+        "date": "1950-04-01",
+        "place": "Cuervo ED 10-6",
+        "kind": "enumerated residence",
+        "source": "C50"
+      },
+      {
+        "date": null,
+        "place": "Albuquerque",
+        "kind": "later family-account residence/activities",
+        "source": "F1",
+        "limit": "Move date absent; the 1951 Santa Rosa wedding is not a residence change"
+      }
+    ],
+    "school_path": "Cuervo and Santa Rosa; no dated transition",
+    "sources": [
+      "F1",
+      "C50"
+    ],
+    "not_proven": [
+      "continuous residence",
+      "bus travel",
+      "school closure",
+      "date of move to Albuquerque"
+    ]
+  },
+  {
+    "id": "P2",
+    "name": "Roy Kenneth Bailey",
+    "birth_date": "1939-03-04",
+    "census_links": [
+      {
+        "id": "1940-3A-6",
+        "household": "1940-2B-78",
+        "sheet": "3A",
+        "line": 6,
+        "age_read": 1,
+        "confidence": "strong candidate",
+        "evidence": [
+          "Roy Kenneth; son in Paul E. and Mildred May Bailey household spanning sheets 2B/3A"
+        ],
+        "crop": "1940_bailey_children"
+      },
+      {
+        "id": "1950-7-19",
+        "household": "1950-7-11",
+        "sheet": "7",
+        "line": 19,
+        "age_read": 10,
+        "confidence": "probable",
+        "evidence": [
+          "Kenneth; son of Paul E. 51 and Mildred May 38; multiple sibling names agree"
+        ],
+        "contradictions": [
+          "Age is visibly 10; expected 11 from obituary DOB and 1940 age",
+          "Crossed/rewritten line 13 is not used as a decisive identity anchor"
+        ],
+        "crop": "1950_bailey"
+      }
+    ],
+    "residence_events": [
+      {
+        "date": "1940-04-01",
+        "place": "Cuervo precinct",
+        "kind": "enumerated residence",
+        "source": "C40"
+      },
+      {
+        "date": "1950-04-01",
+        "place": "Cuervo ED 10-6",
+        "kind": "probable enumerated residence",
+        "source": "C50"
+      },
+      {
+        "date": "1999",
+        "place": "Tucumcari",
+        "kind": "retirement and home established there, per obituary",
+        "source": "F2",
+        "limit": "Does not establish previous residence continuously in Cuervo"
+      }
+    ],
+    "school_path": "Santa Rosa High School, 1958; Cuervo-school attendance not explicitly stated",
+    "sources": [
+      "F2",
+      "C40",
+      "C50"
+    ],
+    "not_proven": [
+      "continuous 1940–1950 residence",
+      "specific school transfer date",
+      "all ranch jobs located in Cuervo"
+    ]
+  },
+  {
+    "id": "P3",
+    "name": "Rudolpho Adan (Rudy) Chavez",
+    "birth_date": "1942-11-08",
+    "census_links": [
+      {
+        "id": "1950-6-23",
+        "household": "1950-6-20",
+        "sheet": "6",
+        "line": 23,
+        "age_read": 7,
+        "confidence": "strong candidate",
+        "evidence": [
+          "Rudy, son; Alfonso 38 and Lucy 30",
+          "Name, age and father agree; Lucy/Lucia name variation remains a linkage inference"
+        ],
+        "crop": "1950_chavez"
+      }
+    ],
+    "additional_candidates": [
+      {
+        "id": "1940-1A-3",
+        "name": "Alfonso Chavez",
+        "confidence": "possible father only",
+        "limit": "A 27-year-old unmarried son of Manuelita; name/age/locality insufficient alone to establish this is Rudy's father"
+      }
+    ],
+    "residence_events": [
+      {
+        "date": "1950-04-01",
+        "place": "Cuervo ED 10-6",
+        "kind": "enumerated residence",
+        "source": "C50"
+      },
+      {
+        "date": "1965-05-03",
+        "place": "Cuervo",
+        "kind": "marriage date followed by statement of marital home in Cuervo",
+        "source": "F3",
+        "limit": "Not an exact dated move or evidence of an uninterrupted lifetime at one address"
+      }
+    ],
+    "school_path": "Cuervo and Santa Rosa; high-school graduation year not supplied",
+    "sources": [
+      "F3",
+      "C50"
+    ],
+    "not_proven": [
+      "move to Santa Rosa for school",
+      "commuting route",
+      "grade-transfer date"
+    ]
+  },
+  {
+    "id": "P4",
+    "name": "Tito S. Vigil",
+    "birth_date": "1949-11-01",
+    "census_links": [
+      {
+        "id": "1950-2-26",
+        "household": "1950-2-17",
+        "sheet": "2",
+        "line": 26,
+        "age_read": 0,
+        "birth_month_read": "Nov",
+        "confidence": "strong candidate",
+        "evidence": [
+          "Tito, son; Agapito 55 and Dorotea 42; exact parent names",
+          "Nov in infant birth-month field agrees with obituary"
+        ],
+        "crop": "1950_vigil"
+      }
+    ],
+    "residence_events": [
+      {
+        "date": "1950-04-01",
+        "place": "Cuervo ED 10-6",
+        "kind": "enumerated residence",
+        "source": "C50"
+      },
+      {
+        "date": "2025-11-25",
+        "place": "Fort Sumner",
+        "kind": "home at death, per obituary",
+        "source": "F4",
+        "limit": "1968 wedding location does not date the residential move"
+      }
+    ],
+    "school_path": "Cuervo schools; Santa Rosa High School, 1967",
+    "sources": [
+      "F4",
+      "C50"
+    ],
+    "not_proven": [
+      "year Cuervo schooling began or ended",
+      "1958 school closure",
+      "date of migration to Fort Sumner"
+    ]
+  },
+  {
+    "id": "P5",
+    "name": "Fred L. Higgins",
+    "birth_date": "1952-10-23",
+    "census_links": [],
+    "parent_links": [
+      {
+        "ids": [
+          "1950-8-21",
+          "1950-8-22"
+        ],
+        "household": "1950-8-19",
+        "confidence": "strong parent identification",
+        "evidence": [
+          "John R. 27, son; Willa D. 25, daughter-in-law; household head J.F. Higgins 62 and wife D.W. 58",
+          "Parents' obituaries give compatible 1922/1925 births and November 1949 marriage",
+          "John Sr. names parents James Frederick and Dea (Waddell)"
+        ],
+        "crop": "1950_higgins"
+      }
+    ],
+    "residence_events": [
+      {
+        "date": "1952",
+        "place": "Tucumcari",
+        "kind": "birthplace only",
+        "source": "F5",
+        "limit": "Does not establish parental residence in Tucumcari"
+      },
+      {
+        "date": null,
+        "place": "Cuervo",
+        "kind": "childhood home",
+        "source": "F5"
+      },
+      {
+        "date": "1972",
+        "place": "Oklahoma State University",
+        "kind": "degree milestone",
+        "source": "F5",
+        "limit": "Educational location, not a dated household move"
+      },
+      {
+        "date": null,
+        "place": "Oklahoma City",
+        "kind": "work location",
+        "source": "F5"
+      },
+      {
+        "date": "2011",
+        "place": "Fort Sumner",
+        "kind": "home established there",
+        "source": "F5"
+      }
+    ],
+    "school_path": "Santa Rosa, 1970; Cuervo-school attendance not stated",
+    "sources": [
+      "F5",
+      "F6",
+      "F7",
+      "C50"
+    ],
+    "not_proven": [
+      "direct 1950 census appearance (unborn)",
+      "1958 school closure",
+      "exact childhood move date"
+    ]
+  }
+]

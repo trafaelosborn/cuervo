@@ -1,0 +1,1410 @@
+[
+  {
+    "id": "1940-1A-1",
+    "year": 1940,
+    "head_name_read": "Manuelita Chavez",
+    "members": [
+      "1940-1A-1",
+      "1940-1A-2",
+      "1940-1A-3",
+      "1940-1A-4",
+      "1940-1A-5",
+      "1940-1A-6"
+    ],
+    "count": 6,
+    "under10_known": 0,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-1A-7",
+    "year": 1940,
+    "head_name_read": "William T. Baily",
+    "members": [
+      "1940-1A-7",
+      "1940-1A-8",
+      "1940-1A-9",
+      "1940-1A-10",
+      "1940-1A-11",
+      "1940-1A-12",
+      "1940-1A-13",
+      "1940-1A-14",
+      "1940-1A-15"
+    ],
+    "count": 9,
+    "under10_known": 4,
+    "under18_known": 7
+  },
+  {
+    "id": "1940-1A-16",
+    "year": 1940,
+    "head_name_read": "Jim Kingston",
+    "members": [
+      "1940-1A-16",
+      "1940-1A-17",
+      "1940-1A-18",
+      "1940-1A-19",
+      "1940-1A-20",
+      "1940-1A-21"
+    ],
+    "count": 6,
+    "under10_known": 3,
+    "under18_known": 4
+  },
+  {
+    "id": "1940-1A-22",
+    "year": 1940,
+    "head_name_read": "W. M. Gunter",
+    "members": [
+      "1940-1A-22",
+      "1940-1A-23",
+      "1940-1A-24"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-1A-25",
+    "year": 1940,
+    "head_name_read": "Bernardo Griego",
+    "members": [
+      "1940-1A-25",
+      "1940-1A-26",
+      "1940-1A-27",
+      "1940-1A-28",
+      "1940-1A-29",
+      "1940-1A-30",
+      "1940-1A-31",
+      "1940-1A-32"
+    ],
+    "count": 8,
+    "under10_known": 3,
+    "under18_known": 5
+  },
+  {
+    "id": "1940-1A-33",
+    "year": 1940,
+    "head_name_read": "Manuel Quintana",
+    "members": [
+      "1940-1A-33",
+      "1940-1A-34",
+      "1940-1A-35",
+      "1940-1A-36",
+      "1940-1A-37",
+      "1940-1A-38"
+    ],
+    "count": 6,
+    "under10_known": 0,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-1A-39",
+    "year": 1940,
+    "head_name_read": "Dionicio Chavez",
+    "members": [
+      "1940-1A-39",
+      "1940-1A-40",
+      "1940-1B-41",
+      "1940-1B-42",
+      "1940-1B-43"
+    ],
+    "count": 5,
+    "under10_known": 0,
+    "under18_known": 3
+  },
+  {
+    "id": "1940-1B-44",
+    "year": 1940,
+    "head_name_read": "Fermin Perea",
+    "members": [
+      "1940-1B-44",
+      "1940-1B-45",
+      "1940-1B-46"
+    ],
+    "count": 3,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-1B-47",
+    "year": 1940,
+    "head_name_read": "Victor Anaya",
+    "members": [
+      "1940-1B-47",
+      "1940-1B-48",
+      "1940-1B-49",
+      "1940-1B-50",
+      "1940-1B-51",
+      "1940-1B-52",
+      "1940-1B-53",
+      "1940-1B-54",
+      "1940-1B-55"
+    ],
+    "count": 9,
+    "under10_known": 5,
+    "under18_known": 7
+  },
+  {
+    "id": "1940-1B-56",
+    "year": 1940,
+    "head_name_read": "Jose Domingo Lucero",
+    "members": [
+      "1940-1B-56",
+      "1940-1B-57",
+      "1940-1B-58"
+    ],
+    "count": 3,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-1B-59",
+    "year": 1940,
+    "head_name_read": "Jose A. Duarte",
+    "members": [
+      "1940-1B-59",
+      "1940-1B-60",
+      "1940-1B-61",
+      "1940-1B-62",
+      "1940-1B-63",
+      "1940-1B-64",
+      "1940-1B-65",
+      "1940-1B-66"
+    ],
+    "count": 8,
+    "under10_known": 4,
+    "under18_known": 6
+  },
+  {
+    "id": "1940-1B-67",
+    "year": 1940,
+    "head_name_read": "Jesus Martinez",
+    "members": [
+      "1940-1B-67",
+      "1940-1B-68",
+      "1940-1B-69"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-1B-71",
+    "year": 1940,
+    "head_name_read": "Luis H. Duran",
+    "members": [
+      "1940-1B-71",
+      "1940-1B-72",
+      "1940-1B-73",
+      "1940-1B-74",
+      "1940-1B-75",
+      "1940-1B-76",
+      "1940-1B-77"
+    ],
+    "count": 7,
+    "under10_known": 2,
+    "under18_known": 3
+  },
+  {
+    "id": "1940-1B-78",
+    "year": 1940,
+    "head_name_read": "Maximino? Moya",
+    "members": [
+      "1940-1B-78",
+      "1940-1B-79"
+    ],
+    "count": 2,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-1B-80",
+    "year": 1940,
+    "head_name_read": "Tomas Anaya",
+    "members": [
+      "1940-1B-80",
+      "1940-2A-1",
+      "1940-2A-2"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-2A-3",
+    "year": 1940,
+    "head_name_read": "Juan B. Trujillo",
+    "members": [
+      "1940-2A-3",
+      "1940-2A-4",
+      "1940-2A-5",
+      "1940-2A-6",
+      "1940-2A-7",
+      "1940-2A-8",
+      "1940-2A-9",
+      "1940-2A-10"
+    ],
+    "count": 8,
+    "under10_known": 1,
+    "under18_known": 4
+  },
+  {
+    "id": "1940-2A-11",
+    "year": 1940,
+    "head_name_read": "Juan C. Martinez",
+    "members": [
+      "1940-2A-11",
+      "1940-2A-12",
+      "1940-2A-13",
+      "1940-2A-14",
+      "1940-2A-15",
+      "1940-2A-16",
+      "1940-2A-17",
+      "1940-2A-18",
+      "1940-2A-19"
+    ],
+    "count": 9,
+    "under10_known": 3,
+    "under18_known": 6
+  },
+  {
+    "id": "1940-2A-20",
+    "year": 1940,
+    "head_name_read": "Salomon Chavez",
+    "members": [
+      "1940-2A-20",
+      "1940-2A-21"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-2A-22",
+    "year": 1940,
+    "head_name_read": "Antonio Maestas",
+    "members": [
+      "1940-2A-22",
+      "1940-2A-23"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-2A-24",
+    "year": 1940,
+    "head_name_read": "Stewart Hickam",
+    "members": [
+      "1940-2A-24",
+      "1940-2A-25",
+      "1940-2A-26"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-2A-27",
+    "year": 1940,
+    "head_name_read": "Felix Marez",
+    "members": [
+      "1940-2A-27",
+      "1940-2A-28",
+      "1940-2A-29"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-2A-30",
+    "year": 1940,
+    "head_name_read": "Burnice Kester",
+    "members": [
+      "1940-2A-30",
+      "1940-2A-31",
+      "1940-2A-32"
+    ],
+    "count": 3,
+    "under10_known": 0,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-2A-33",
+    "year": 1940,
+    "head_name_read": "Eva Tailor",
+    "members": [
+      "1940-2A-33",
+      "1940-2A-34"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-2A-35",
+    "year": 1940,
+    "head_name_read": "Maclario? Gonzales",
+    "members": [
+      "1940-2A-35",
+      "1940-2A-36",
+      "1940-2A-37",
+      "1940-2A-38",
+      "1940-2A-39",
+      "1940-2A-40",
+      "1940-2B-41"
+    ],
+    "count": 7,
+    "under10_known": 3,
+    "under18_known": 5
+  },
+  {
+    "id": "1940-2B-42",
+    "year": 1940,
+    "head_name_read": "Pablo Sena",
+    "members": [
+      "1940-2B-42",
+      "1940-2B-43"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-2B-44",
+    "year": 1940,
+    "head_name_read": "W. E. Bennett",
+    "members": [
+      "1940-2B-44",
+      "1940-2B-45"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-2B-46",
+    "year": 1940,
+    "head_name_read": "Farrel Johnson",
+    "members": [
+      "1940-2B-46",
+      "1940-2B-47"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-2B-48",
+    "year": 1940,
+    "head_name_read": "W. C. Gunter",
+    "members": [
+      "1940-2B-48",
+      "1940-2B-49"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-2B-50",
+    "year": 1940,
+    "head_name_read": "Juanita Maestas",
+    "members": [
+      "1940-2B-50",
+      "1940-2B-51"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-2B-52",
+    "year": 1940,
+    "head_name_read": "Frank Clinard",
+    "members": [
+      "1940-2B-52",
+      "1940-2B-53",
+      "1940-2B-54",
+      "1940-2B-55"
+    ],
+    "count": 4,
+    "under10_known": 1,
+    "under18_known": 2
+  },
+  {
+    "id": "1940-2B-56",
+    "year": 1940,
+    "head_name_read": "Antonio Paz",
+    "members": [
+      "1940-2B-56",
+      "1940-2B-57",
+      "1940-2B-58",
+      "1940-2B-59",
+      "1940-2B-60",
+      "1940-2B-61",
+      "1940-2B-62"
+    ],
+    "count": 7,
+    "under10_known": 2,
+    "under18_known": 3
+  },
+  {
+    "id": "1940-2B-63",
+    "year": 1940,
+    "head_name_read": "Saturno Gomez",
+    "members": [
+      "1940-2B-63",
+      "1940-2B-64",
+      "1940-2B-65",
+      "1940-2B-66",
+      "1940-2B-67",
+      "1940-2B-68",
+      "1940-2B-69",
+      "1940-2B-70",
+      "1940-2B-71"
+    ],
+    "count": 9,
+    "under10_known": 4,
+    "under18_known": 7
+  },
+  {
+    "id": "1940-2B-72",
+    "year": 1940,
+    "head_name_read": "Hugh Bennett",
+    "members": [
+      "1940-2B-72",
+      "1940-2B-73",
+      "1940-2B-74",
+      "1940-2B-75",
+      "1940-2B-76"
+    ],
+    "count": 5,
+    "under10_known": 2,
+    "under18_known": 3
+  },
+  {
+    "id": "1940-2B-77",
+    "year": 1940,
+    "head_name_read": "J. C. Smith",
+    "members": [
+      "1940-2B-77"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-2B-78",
+    "year": 1940,
+    "head_name_read": "Paul E. Bailey",
+    "members": [
+      "1940-2B-78",
+      "1940-2B-79",
+      "1940-2B-80",
+      "1940-3A-1",
+      "1940-3A-2",
+      "1940-3A-3",
+      "1940-3A-4",
+      "1940-3A-5",
+      "1940-3A-6"
+    ],
+    "count": 9,
+    "under10_known": 6,
+    "under18_known": 7
+  },
+  {
+    "id": "1940-3A-7",
+    "year": 1940,
+    "head_name_read": "James J. Yates",
+    "members": [
+      "1940-3A-7",
+      "1940-3A-8",
+      "1940-3A-9",
+      "1940-3A-10",
+      "1940-3A-11",
+      "1940-3A-12"
+    ],
+    "count": 6,
+    "under10_known": 0,
+    "under18_known": 2
+  },
+  {
+    "id": "1940-3A-13",
+    "year": 1940,
+    "head_name_read": "Juan Sena",
+    "members": [
+      "1940-3A-13",
+      "1940-3A-14",
+      "1940-3A-15"
+    ],
+    "count": 3,
+    "under10_known": 0,
+    "under18_known": 1
+  },
+  {
+    "id": "1940-3A-16",
+    "year": 1940,
+    "head_name_read": "Jack W. Roberts",
+    "members": [
+      "1940-3A-16",
+      "1940-3A-17"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-3A-18",
+    "year": 1940,
+    "head_name_read": "Cecil Johnson",
+    "members": [
+      "1940-3A-18",
+      "1940-3A-19",
+      "1940-3A-20",
+      "1940-3A-21",
+      "1940-3A-22"
+    ],
+    "count": 5,
+    "under10_known": 3,
+    "under18_known": 3
+  },
+  {
+    "id": "1940-3A-23",
+    "year": 1940,
+    "head_name_read": "Justiniano Martinez",
+    "members": [
+      "1940-3A-23"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1940-3A-24",
+    "year": 1940,
+    "head_name_read": "Aresma? Rael",
+    "members": [
+      "1940-3A-24",
+      "1940-3A-25",
+      "1940-3A-26",
+      "1940-3A-27"
+    ],
+    "count": 4,
+    "under10_known": 0,
+    "under18_known": 3
+  },
+  {
+    "id": "1940-3A-28",
+    "year": 1940,
+    "head_name_read": "Jose Maria Duran",
+    "members": [
+      "1940-3A-28",
+      "1940-3A-29"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-1-1",
+    "year": 1950,
+    "head_name_read": "James H. Parker",
+    "members": [
+      "1950-1-1",
+      "1950-1-2",
+      "1950-1-3"
+    ],
+    "count": 3,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-1-4",
+    "year": 1950,
+    "head_name_read": "Robert L. Taylor",
+    "members": [
+      "1950-1-4",
+      "1950-1-5"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-1-6",
+    "year": 1950,
+    "head_name_read": "Ed Cox",
+    "members": [
+      "1950-1-6"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-1-7",
+    "year": 1950,
+    "head_name_read": "Junior Simpson",
+    "members": [
+      "1950-1-7",
+      "1950-1-8",
+      "1950-1-9"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-1-10",
+    "year": 1950,
+    "head_name_read": "James E. Simpson",
+    "members": [
+      "1950-1-10",
+      "1950-1-11",
+      "1950-1-12",
+      "1950-1-13",
+      "1950-1-14",
+      "1950-1-15"
+    ],
+    "count": 6,
+    "under10_known": 3,
+    "under18_known": 3
+  },
+  {
+    "id": "1950-1-16",
+    "year": 1950,
+    "head_name_read": "Buster Simpson",
+    "members": [
+      "1950-1-16",
+      "1950-1-17",
+      "1950-1-18",
+      "1950-1-19",
+      "1950-1-20"
+    ],
+    "count": 5,
+    "under10_known": 1,
+    "under18_known": 3
+  },
+  {
+    "id": "1950-1-21",
+    "year": 1950,
+    "head_name_read": "Homer Norwood",
+    "members": [
+      "1950-1-21",
+      "1950-1-22"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-1-23",
+    "year": 1950,
+    "head_name_read": "Henry Yates",
+    "members": [
+      "1950-1-23",
+      "1950-1-24",
+      "1950-1-25"
+    ],
+    "count": 3,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-1-29",
+    "year": 1950,
+    "head_name_read": "Margarito Salas",
+    "members": [
+      "1950-1-29",
+      "1950-1-30"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-2-1",
+    "year": 1950,
+    "head_name_read": "Juan G. Quintana",
+    "members": [
+      "1950-2-1",
+      "1950-2-2",
+      "1950-2-3",
+      "1950-2-4",
+      "1950-2-5"
+    ],
+    "count": 5,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-2-8",
+    "year": 1950,
+    "head_name_read": "Ramon Sisneros",
+    "members": [
+      "1950-2-8",
+      "1950-2-9",
+      "1950-2-10",
+      "1950-2-11",
+      "1950-2-12",
+      "1950-2-13",
+      "1950-2-14",
+      "1950-2-15",
+      "1950-2-16"
+    ],
+    "count": 9,
+    "under10_known": 5,
+    "under18_known": 6
+  },
+  {
+    "id": "1950-2-17",
+    "year": 1950,
+    "head_name_read": "Agapito Vigil",
+    "members": [
+      "1950-2-17",
+      "1950-2-18",
+      "1950-2-19",
+      "1950-2-20",
+      "1950-2-21",
+      "1950-2-22",
+      "1950-2-23",
+      "1950-2-24",
+      "1950-2-25",
+      "1950-2-26"
+    ],
+    "count": 10,
+    "under10_known": 4,
+    "under18_known": 8
+  },
+  {
+    "id": "1950-2-27",
+    "year": 1950,
+    "head_name_read": "Jose M. Duran",
+    "members": [
+      "1950-2-27",
+      "1950-2-28"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-2-29",
+    "year": 1950,
+    "head_name_read": "Manuel Quintana",
+    "members": [
+      "1950-2-29",
+      "1950-2-30",
+      "1950-3-1",
+      "1950-3-2"
+    ],
+    "count": 4,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-3-3",
+    "year": 1950,
+    "head_name_read": "Procopio Chavez",
+    "members": [
+      "1950-3-3",
+      "1950-3-4"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-3-5",
+    "year": 1950,
+    "head_name_read": "Fermin Perea",
+    "members": [
+      "1950-3-5"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-3-6",
+    "year": 1950,
+    "head_name_read": "Leonor Garcia",
+    "members": [
+      "1950-3-6"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-3-7",
+    "year": 1950,
+    "head_name_read": "Leopoldo Rael",
+    "members": [
+      "1950-3-7",
+      "1950-3-8",
+      "1950-3-9"
+    ],
+    "count": 3,
+    "under10_known": 2,
+    "under18_known": 2
+  },
+  {
+    "id": "1950-3-10",
+    "year": 1950,
+    "head_name_read": "Pablo Salas",
+    "members": [
+      "1950-3-10",
+      "1950-3-11",
+      "1950-3-12",
+      "1950-3-13"
+    ],
+    "count": 4,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-3-14",
+    "year": 1950,
+    "head_name_read": "Dilia Griego",
+    "members": [
+      "1950-3-14",
+      "1950-3-15"
+    ],
+    "count": 2,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-3-16",
+    "year": 1950,
+    "head_name_read": "Juan B. Trujillo",
+    "members": [
+      "1950-3-16",
+      "1950-3-17",
+      "1950-3-18"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-3-21",
+    "year": 1950,
+    "head_name_read": "Sophio L. Quintana",
+    "members": [
+      "1950-3-21",
+      "1950-3-22",
+      "1950-3-23",
+      "1950-3-24",
+      "1950-3-25"
+    ],
+    "count": 5,
+    "under10_known": 0,
+    "under18_known": 3
+  },
+  {
+    "id": "1950-3-26",
+    "year": 1950,
+    "head_name_read": "Leandra Lucero",
+    "members": [
+      "1950-3-26",
+      "1950-3-27"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-3-28",
+    "year": 1950,
+    "head_name_read": "Trinidad Sena",
+    "members": [
+      "1950-3-28",
+      "1950-3-29"
+    ],
+    "count": 2,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-4-1",
+    "year": 1950,
+    "head_name_read": "Louisa Holebrook",
+    "members": [
+      "1950-4-1"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-4-2",
+    "year": 1950,
+    "head_name_read": "Marcus Gunter",
+    "members": [
+      "1950-4-2",
+      "1950-4-3",
+      "1950-4-4",
+      "1950-4-5"
+    ],
+    "count": 4,
+    "under10_known": 1,
+    "under18_known": 2
+  },
+  {
+    "id": "1950-4-6",
+    "year": 1950,
+    "head_name_read": "Joe Gallegos",
+    "members": [
+      "1950-4-6",
+      "1950-4-7"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-4-8",
+    "year": 1950,
+    "head_name_read": "Pearl Margaret Romero",
+    "members": [
+      "1950-4-8",
+      "1950-4-9"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-4-10",
+    "year": 1950,
+    "head_name_read": "Maclario? Gonzales",
+    "members": [
+      "1950-4-10",
+      "1950-4-11",
+      "1950-4-12",
+      "1950-4-13",
+      "1950-4-14",
+      "1950-4-15",
+      "1950-4-16"
+    ],
+    "count": 7,
+    "under10_known": 2,
+    "under18_known": 4
+  },
+  {
+    "id": "1950-4-17",
+    "year": 1950,
+    "head_name_read": "Carl A. Simpson",
+    "members": [
+      "1950-4-17",
+      "1950-4-18",
+      "1950-4-19",
+      "1950-4-20",
+      "1950-4-21"
+    ],
+    "count": 5,
+    "under10_known": 0,
+    "under18_known": 2
+  },
+  {
+    "id": "1950-4-22",
+    "year": 1950,
+    "head_name_read": "Samuel Chavez",
+    "members": [
+      "1950-4-22",
+      "1950-4-23",
+      "1950-4-24",
+      "1950-4-25",
+      "1950-4-26",
+      "1950-4-27",
+      "1950-4-28"
+    ],
+    "count": 7,
+    "under10_known": 3,
+    "under18_known": 5
+  },
+  {
+    "id": "1950-4-29",
+    "year": 1950,
+    "head_name_read": "Juan A. Anaya",
+    "members": [
+      "1950-4-29",
+      "1950-4-30",
+      "1950-5-1"
+    ],
+    "count": 3,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-5-2",
+    "year": 1950,
+    "head_name_read": "Felix Sierra",
+    "members": [
+      "1950-5-2",
+      "1950-5-3",
+      "1950-5-4",
+      "1950-5-5",
+      "1950-5-6",
+      "1950-5-7"
+    ],
+    "count": 6,
+    "under10_known": 3,
+    "under18_known": 4
+  },
+  {
+    "id": "1950-5-8",
+    "year": 1950,
+    "head_name_read": "Cecil F. Norman",
+    "members": [
+      "1950-5-8"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-5-9",
+    "year": 1950,
+    "head_name_read": "Stuart Holbrook",
+    "members": [
+      "1950-5-9",
+      "1950-5-10"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-5-14",
+    "year": 1950,
+    "head_name_read": "Bernice Kester",
+    "members": [
+      "1950-5-14",
+      "1950-5-15"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-5-16",
+    "year": 1950,
+    "head_name_read": "Antonio Maestas",
+    "members": [
+      "1950-5-16",
+      "1950-5-17",
+      "1950-5-18"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-5-20",
+    "year": 1950,
+    "head_name_read": "Bill Hevert?",
+    "members": [
+      "1950-5-20"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-5-21",
+    "year": 1950,
+    "head_name_read": "Pablo Sena",
+    "members": [
+      "1950-5-21",
+      "1950-5-22"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-5-23",
+    "year": 1950,
+    "head_name_read": "Herman Kester",
+    "members": [
+      "1950-5-23",
+      "1950-5-24",
+      "1950-5-25",
+      "1950-5-26"
+    ],
+    "count": 4,
+    "under10_known": 2,
+    "under18_known": 2
+  },
+  {
+    "id": "1950-6-1",
+    "year": 1950,
+    "head_name_read": "James E. Bivens",
+    "members": [
+      "1950-6-1",
+      "1950-6-2",
+      "1950-6-3",
+      "1950-6-4",
+      "1950-6-5",
+      "1950-6-6",
+      "1950-6-7",
+      "1950-6-8",
+      "1950-6-9"
+    ],
+    "count": 9,
+    "under10_known": 1,
+    "under18_known": 6
+  },
+  {
+    "id": "1950-6-11",
+    "year": 1950,
+    "head_name_read": "Nicholas Aragon",
+    "members": [
+      "1950-6-11",
+      "1950-6-12",
+      "1950-6-13",
+      "1950-6-14",
+      "1950-6-15",
+      "1950-6-16"
+    ],
+    "count": 6,
+    "under10_known": 4,
+    "under18_known": 4
+  },
+  {
+    "id": "1950-6-20",
+    "year": 1950,
+    "head_name_read": "Alfonso Chavez",
+    "members": [
+      "1950-6-20",
+      "1950-6-21",
+      "1950-6-22",
+      "1950-6-23",
+      "1950-6-24",
+      "1950-6-25",
+      "1950-6-26",
+      "1950-6-27",
+      "1950-6-28"
+    ],
+    "count": 9,
+    "under10_known": 6,
+    "under18_known": 7
+  },
+  {
+    "id": "1950-6-29",
+    "year": 1950,
+    "head_name_read": "Luciano Brito",
+    "members": [
+      "1950-6-29",
+      "1950-6-30",
+      "1950-7-1"
+    ],
+    "count": 3,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-7-2",
+    "year": 1950,
+    "head_name_read": "Wright C. Gunter",
+    "members": [
+      "1950-7-2",
+      "1950-7-3"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-7-4",
+    "year": 1950,
+    "head_name_read": "Harry R. Lack",
+    "members": [
+      "1950-7-4",
+      "1950-7-5"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-7-6",
+    "year": 1950,
+    "head_name_read": "Henry W. McMillan",
+    "members": [
+      "1950-7-6",
+      "1950-7-7",
+      "1950-7-8"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-7-11",
+    "year": 1950,
+    "head_name_read": "Paul E. Bailey",
+    "members": [
+      "1950-7-11",
+      "1950-7-12",
+      "1950-7-13",
+      "1950-7-14",
+      "1950-7-15",
+      "1950-7-16",
+      "1950-7-17",
+      "1950-7-18",
+      "1950-7-19",
+      "1950-7-20",
+      "1950-7-21",
+      "1950-7-22"
+    ],
+    "count": 12,
+    "under10_known": 3,
+    "under18_known": 8
+  },
+  {
+    "id": "1950-7-24",
+    "year": 1950,
+    "head_name_read": "James J. Yates",
+    "members": [
+      "1950-7-24",
+      "1950-7-25",
+      "1950-7-26",
+      "1950-7-27"
+    ],
+    "count": 4,
+    "under10_known": 0,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-7-28",
+    "year": 1950,
+    "head_name_read": "Tom Atkins",
+    "members": [
+      "1950-7-28"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-7-29",
+    "year": 1950,
+    "head_name_read": "Martin Sena",
+    "members": [
+      "1950-7-29",
+      "1950-7-30",
+      "1950-8-1"
+    ],
+    "count": 3,
+    "under10_known": 1,
+    "under18_known": 1
+  },
+  {
+    "id": "1950-8-3",
+    "year": 1950,
+    "head_name_read": "Amanda Brashear",
+    "members": [
+      "1950-8-3",
+      "1950-8-4"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-8-5",
+    "year": 1950,
+    "head_name_read": "Max Rael",
+    "members": [
+      "1950-8-5",
+      "1950-8-6",
+      "1950-8-7",
+      "1950-8-8",
+      "1950-8-9",
+      "1950-8-10",
+      "1950-8-11",
+      "1950-8-12"
+    ],
+    "count": 8,
+    "under10_known": 3,
+    "under18_known": 5
+  },
+  {
+    "id": "1950-8-13",
+    "year": 1950,
+    "head_name_read": "Desando? Rael",
+    "members": [
+      "1950-8-13",
+      "1950-8-14",
+      "1950-8-15"
+    ],
+    "count": 3,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-8-19",
+    "year": 1950,
+    "head_name_read": "J. F. Higgins",
+    "members": [
+      "1950-8-19",
+      "1950-8-20",
+      "1950-8-21",
+      "1950-8-22"
+    ],
+    "count": 4,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-8-25",
+    "year": 1950,
+    "head_name_read": "Charlie Johnston",
+    "members": [
+      "1950-8-25"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-71-1",
+    "year": 1950,
+    "head_name_read": "Martha Quintana",
+    "members": [
+      "1950-71-1"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-71-2",
+    "year": 1950,
+    "head_name_read": "Harold R. Boyle",
+    "members": [
+      "1950-71-2",
+      "1950-71-3"
+    ],
+    "count": 2,
+    "under10_known": 0,
+    "under18_known": 0
+  },
+  {
+    "id": "1950-71-4",
+    "year": 1950,
+    "head_name_read": "Elias Quintana",
+    "members": [
+      "1950-71-4"
+    ],
+    "count": 1,
+    "under10_known": 0,
+    "under18_known": 0
+  }
+]

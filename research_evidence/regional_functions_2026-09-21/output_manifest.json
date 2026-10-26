@@ -1,0 +1,50 @@
+[
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/business_observations.json",
+    "sha256": "ed9a9b9b69aa5e2d9ab03233a5b08116cb57b4bd8af95b2a6cda418fe8f2a9d1"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/occupation_entries_flat.json",
+    "sha256": "8e996b2424186308d02c31fa6f4d6a4a5b1ee22404057516065cd1af55209b4a"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/occupation_comparison.json",
+    "sha256": "bafe402783efa36fc6583823447252badf5a1720ac370589f4f793f8f8459a51"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/santa_rosa_occupation_readings.json",
+    "sha256": "2c7670a9dc02c46b7740cf9ec5bfe40226daf5a4f1fc979f1829bb4798b33044"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/population_geometry_audit.json",
+    "sha256": "c4bf9b79f7b432b837bd28290c0b019b9ea4a6d7d768e699a73ab4e1e4d96b71"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/study_windows.geojson",
+    "sha256": "c3d821c713122ed9480a13d29d5151ee8edcba3e13edc10d82c246d3bdb10918"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/occupation_comparison.png",
+    "sha256": "b10be0dd662188cb66dec1df3394a7be5ee1ae285af1faec769b6be53ea5c946"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/population_boundary_problem.png",
+    "sha256": "176f14b8aecd0ed2f99b33bec588f519508de4408d4933b207bb19caab28c4ea"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/analyze_occupations.py",
+    "sha256": "f45b1918defd9f34824eb804a3281bc75bb4c1d0f7c6be76d3c356c1b6ddedc0"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/analyze_population_geometry.py",
+    "sha256": "d8b777337fa25288b96ff656abb66c09ddd51cc217b8b49a2d73e3e0524bd9bf"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21/read_tank_inventories.py",
+    "sha256": "540d74de65a5e9cd8f2b7b5cfce1420d0fbbce0a9de335eeda07e427c60c8d62"
+  },
+  {
+    "path": "research_evidence/regional_functions_2026-09-21.md",
+    "sha256": "9c84ea4169978999a8b4bfab5ad22e74e0d7746aeafa8fc701ea0a4ceb3994d7"
+  }
+]

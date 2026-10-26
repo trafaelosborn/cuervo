@@ -1,0 +1,89 @@
+{
+  "created": "2026-09-28",
+  "inputs": [
+    {
+      "file": "research_evidence/deep_dive_2026-09-17/retail_1929_table13.json",
+      "sha256": "ba6fea4976c88987cd28ef3b46fa00fc842a6cbb54456b9bcacec298974603fa",
+      "role": "Previously checked retail transcription; arithmetic recomputed"
+    },
+    {
+      "file": "research_evidence/deep_dive_2026-09-17/retail_1929_table14.json",
+      "sha256": "26b44e181a58ddf01ba32227fee2d0d743f7d83f24bfee6bc49181ef7717c96e",
+      "role": "Classification ratios and establishment counts"
+    },
+    {
+      "file": "sources/01_railroad/rock_island_public_timetable_1926-01.pdf",
+      "sha256": "d8aa7f1c8d1d61dd7ddba526c8f77bc04c1f8fd0afa1a7e043ab664aa49b631d",
+      "role": "Table 2 p.18, notes p.19; four advertised journeys"
+    },
+    {
+      "file": "sources/01_railroad/local_functions_2026-09-20/ri_station_book.pdf",
+      "sha256": "e934a5c227fe49ed2c070f9c0c7ebe32657b37d8f125225c3426724eb7c2729b",
+      "role": "December 15, 1974; C 15 / PDF 67"
+    },
+    {
+      "file": "research_evidence/rail_local_functions_2026-09-20/ri_station_book_page_67.png",
+      "sha256": "6e9592cda785ab024b2237e60b1cfff1c515d9389a41e6a082e37266814e8fe1",
+      "role": "Prior page render; complete page visually rechecked"
+    },
+    {
+      "output": "station-headings.png",
+      "source_render": "research_evidence\\rail_local_functions_2026-09-20\\ri_station_book_page_67.png",
+      "crop_pixels": [
+        85,
+        143,
+        1380,
+        291
+      ],
+      "treatment": "Crop only, no retouching; omissions identified in caption"
+    },
+    {
+      "output": "station-rows.png",
+      "source_render": "research_evidence\\rail_local_functions_2026-09-20\\ri_station_book_page_67.png",
+      "crop_pixels": [
+        85,
+        474,
+        1380,
+        644
+      ],
+      "treatment": "Crop only, no retouching; omissions identified in caption"
+    },
+    {
+      "output": "station-legend.png",
+      "source_render": "research_evidence\\rail_local_functions_2026-09-20\\ri_station_book_page_67.png",
+      "crop_pixels": [
+        95,
+        858,
+        1040,
+        914
+      ],
+      "treatment": "Crop only, no retouching; omissions identified in caption"
+    },
+    {
+      "file": "research_evidence/rail_local_functions_2026-09-20.md",
+      "sha256": "468d733445796387ef76fa1e0740b6c631952beb5555ee6a58623f2142dd7517",
+      "role": "Chronology source; chart intervals retain observational limits"
+    },
+    {
+      "file": "research_evidence/cuervo_freight_accounting_1974_2026-09-20.md",
+      "sha256": "7fc4c02762b9db0547c3ec260836c6fe2b24aad8c7cf2981d0320d4637858f10",
+      "role": "Chronology source; chart intervals retain observational limits"
+    },
+    {
+      "file": "sources/04_highways/nrhp_abandoned_route_66_cuervo_to_nm_156_1993.pdf",
+      "sha256": "804572f42762fc1b7611c26d8571b9dac4b307d4ffb777a0239536e0a2b4161c",
+      "role": "Chronology source; chart intervals retain observational limits"
+    },
+    {
+      "file": "sources/04_highways/ntsb_cuervo_2002_highway_factors_factual_report.pdf",
+      "sha256": "02ee1887776e72ded57ec426b9b9d2da705ace46ff2addfdbf81969bd728cb63",
+      "role": "Chronology source; chart intervals retain observational limits"
+    },
+    {
+      "file": "research_evidence/rail_service_2026-09-19.md",
+      "sha256": "debefc62e8d41d9b911f13d08caad35b39f477c995ef9e6808bcb41803a173b2",
+      "role": "Chronology source; chart intervals retain observational limits"
+    }
+  ],
+  "calculations": "B:\\Meridian\\Cuervo\\research_evidence\\chapter06_2026-09-28\\calculations.json"
+}

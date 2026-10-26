@@ -1,0 +1,522 @@
+{
+  "method": "Manual visual reading of main occupation fields on all nine population sheets. Normalized descriptions, not diplomatic transcription. Residence is not workplace. Blank occupations and sample-only prior occupations are outside this inventory. Not a labor-force denominator.",
+  "entries": [
+    {
+      "sheet": 1,
+      "line": 1,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 3,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 4,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 6,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 7,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 10,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 15,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 16,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 21,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 23,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 1,
+      "line": 25,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"
+    },
+    {
+      "sheet": 2,
+      "line": 1,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg"
+    },
+    {
+      "sheet": 2,
+      "line": 4,
+      "occupation_normalized": "Store clerk",
+      "sector": "Retail",
+      "status_reading": "worked",
+      "note": "First word overwritten; clerk clear; retail classification provisional.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg"
+    },
+    {
+      "sheet": 2,
+      "line": 5,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg"
+    },
+    {
+      "sheet": 2,
+      "line": 8,
+      "occupation_normalized": "Cement finisher; contract building",
+      "sector": "Construction",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg"
+    },
+    {
+      "sheet": 2,
+      "line": 17,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg"
+    },
+    {
+      "sheet": 2,
+      "line": 27,
+      "occupation_normalized": "Store clerk",
+      "sector": "Retail",
+      "status_reading": "has_job_not_worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg"
+    },
+    {
+      "sheet": 2,
+      "line": 29,
+      "occupation_normalized": "Store clerk",
+      "sector": "Retail",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg"
+    },
+    {
+      "sheet": 3,
+      "line": 3,
+      "occupation_normalized": "Livestock inspector",
+      "sector": "Government inspection",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0004.jpg"
+    },
+    {
+      "sheet": 4,
+      "line": 2,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg"
+    },
+    {
+      "sheet": 4,
+      "line": 6,
+      "occupation_normalized": "School teacher",
+      "sector": "Education / instruction",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg"
+    },
+    {
+      "sheet": 4,
+      "line": 8,
+      "occupation_normalized": "School teacher",
+      "sector": "Education / instruction",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg"
+    },
+    {
+      "sheet": 4,
+      "line": 10,
+      "occupation_normalized": "Railroad work",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg"
+    },
+    {
+      "sheet": 4,
+      "line": 17,
+      "occupation_normalized": "Railroad agent",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg"
+    },
+    {
+      "sheet": 4,
+      "line": 19,
+      "occupation_normalized": "Store clerk",
+      "sector": "Retail",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg"
+    },
+    {
+      "sheet": 4,
+      "line": 22,
+      "occupation_normalized": "Railroad work",
+      "sector": "Railroad",
+      "status_reading": "looking_for_work",
+      "note": "Last occupation, not evidence of current employment.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg"
+    },
+    {
+      "sheet": 4,
+      "line": 29,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 2,
+      "occupation_normalized": "Postmaster; post office",
+      "sector": "Postal",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 8,
+      "occupation_normalized": "Bookkeeper",
+      "sector": "Bookkeeping",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 9,
+      "occupation_normalized": "General merchandise manager; store manager",
+      "sector": "Retail",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 10,
+      "occupation_normalized": "Store clerk",
+      "sector": "Retail",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 14,
+      "occupation_normalized": "Service station",
+      "sector": "Fuel service",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 15,
+      "occupation_normalized": "Cafe manager",
+      "sector": "Food / drink",
+      "status_reading": "worked",
+      "note": "Keeping house in item 15, but Yes to work in item 16.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 16,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 20,
+      "occupation_normalized": "Railroad work",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 21,
+      "occupation_normalized": "Bartender; bar",
+      "sector": "Food / drink",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 5,
+      "line": 23,
+      "occupation_normalized": "Mail carrier",
+      "sector": "Postal",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg"
+    },
+    {
+      "sheet": 6,
+      "line": 1,
+      "occupation_normalized": "Railroad foreman",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0007.jpg"
+    },
+    {
+      "sheet": 6,
+      "line": 3,
+      "occupation_normalized": "Cafe waitress",
+      "sector": "Food / drink",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0007.jpg"
+    },
+    {
+      "sheet": 6,
+      "line": 11,
+      "occupation_normalized": "Railroad worker",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0007.jpg"
+    },
+    {
+      "sheet": 6,
+      "line": 29,
+      "occupation_normalized": "Railroad work",
+      "sector": "Railroad",
+      "status_reading": "looking_for_work",
+      "note": "Last occupation, not evidence of current employment.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0007.jpg"
+    },
+    {
+      "sheet": 7,
+      "line": 4,
+      "occupation_normalized": "Railroad telegraph role (abbreviated)",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "Written Railroad Tele.; expansion inferred, not a verbatim title.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg"
+    },
+    {
+      "sheet": 7,
+      "line": 5,
+      "occupation_normalized": "Beautician; beauty shop",
+      "sector": "Personal service",
+      "status_reading": "has_job_not_worked",
+      "note": "Yes in item 18; occupation lies on printed row boundary.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg"
+    },
+    {
+      "sheet": 7,
+      "line": 6,
+      "occupation_normalized": "Railroad signal role (abbreviated)",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "Written Railroad Signal M.; exact full job title not expanded.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg"
+    },
+    {
+      "sheet": 7,
+      "line": 11,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg"
+    },
+    {
+      "sheet": 7,
+      "line": 24,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg"
+    },
+    {
+      "sheet": 7,
+      "line": 28,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg"
+    },
+    {
+      "sheet": 7,
+      "line": 29,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg"
+    },
+    {
+      "sheet": 8,
+      "line": 4,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg"
+    },
+    {
+      "sheet": 8,
+      "line": 5,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg"
+    },
+    {
+      "sheet": 8,
+      "line": 13,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg"
+    },
+    {
+      "sheet": 8,
+      "line": 19,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg"
+    },
+    {
+      "sheet": 8,
+      "line": 21,
+      "occupation_normalized": "Veterans instructor",
+      "sector": "Education / instruction",
+      "status_reading": "worked",
+      "note": "Government class; not automatically a schoolteacher.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg"
+    },
+    {
+      "sheet": 8,
+      "line": 25,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg"
+    },
+    {
+      "sheet": 71,
+      "line": 2,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0010.jpg"
+    },
+    {
+      "sheet": 71,
+      "line": 4,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0010.jpg"
+    }
+  ],
+  "counts": {
+    "Ranching": 28,
+    "Retail": 6,
+    "Construction": 1,
+    "Government inspection": 1,
+    "Education / instruction": 3,
+    "Railroad": 9,
+    "Postal": 2,
+    "Bookkeeping": 1,
+    "Fuel service": 1,
+    "Food / drink": 3,
+    "Personal service": 1
+  }
+}

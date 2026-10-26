@@ -1,0 +1,65 @@
+{
+  "pages": 171,
+  "body_words": 31494,
+  "notes": 174,
+  "valid_source_links": 220,
+  "distinct_note_destinations": 174,
+  "contents_link_annotations": 16,
+  "chapter_bookmarks": 8,
+  "all_body_paragraphs_preserved_in_pdf": true,
+  "sentence_checks": [
+    {
+      "chapter": 1,
+      "paragraphs": 42,
+      "mean_sentence_words": 12.0,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 2,
+      "paragraphs": 80,
+      "mean_sentence_words": 12.8,
+      "longest_sentence_words": 33
+    },
+    {
+      "chapter": 3,
+      "paragraphs": 108,
+      "mean_sentence_words": 13.4,
+      "longest_sentence_words": 30
+    },
+    {
+      "chapter": 4,
+      "paragraphs": 99,
+      "mean_sentence_words": 12.4,
+      "longest_sentence_words": 26
+    },
+    {
+      "chapter": 5,
+      "paragraphs": 94,
+      "mean_sentence_words": 12.8,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 6,
+      "paragraphs": 103,
+      "mean_sentence_words": 13.5,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 7,
+      "paragraphs": 97,
+      "mean_sentence_words": 12.4,
+      "longest_sentence_words": 27
+    },
+    {
+      "chapter": 8,
+      "paragraphs": 46,
+      "mean_sentence_words": 13.2,
+      "longest_sentence_words": 25
+    }
+  ],
+  "short_pages_for_review": [],
+  "pdf_sha256": "dc4e63283d17b531253f422a4c95d001a724940b61c68df5e5bedf2e0dd37fdc",
+  "text_checks": "passed",
+  "visual_review": "passed: all 171 final rendered pages reviewed in 22 contact sheets; pages 75, 138 and 169 additionally inspected at 125 dpi; no clipping, overlaps, missing glyphs or unintended blank pages observed",
+  "prior_revision_preserved": true
+}

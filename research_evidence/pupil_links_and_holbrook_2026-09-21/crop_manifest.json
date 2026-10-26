@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1950_vigil",
+    "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg",
+    "source_sha256": "1fbbdab1b0d9f22ce8a9702c6cdd0b6bff7601b4c4bfc173d99f72787c858add",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1950_vigil.png",
+    "box": [
+      305,
+      2097,
+      3820,
+      2812
+    ],
+    "full_sheet_viewed": true
+  },
+  {
+    "id": "1950_salas",
+    "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0004.jpg",
+    "source_sha256": "b0b99ab3bb58ede6ce5d5a96736c3725584a7877a23f88acc50f8150facd84dd",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1950_salas.png",
+    "box": [
+      304,
+      1894,
+      3815,
+      2195
+    ],
+    "full_sheet_viewed": true
+  },
+  {
+    "id": "1950_holbrook",
+    "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg",
+    "source_sha256": "4a2d82384361f6cd605fb815e18563cbe294dc040416baa7f8ba4b893dcb2049",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1950_holbrook.png",
+    "box": [
+      303,
+      1529,
+      3799,
+      1834
+    ],
+    "full_sheet_viewed": true
+  },
+  {
+    "id": "1950_holbrook_sample",
+    "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg",
+    "source_sha256": "4a2d82384361f6cd605fb815e18563cbe294dc040416baa7f8ba4b893dcb2049",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1950_holbrook_sample.png",
+    "box": [
+      303,
+      3663,
+      3799,
+      3929
+    ],
+    "full_sheet_viewed": true
+  },
+  {
+    "id": "1950_chavez",
+    "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0007.jpg",
+    "source_sha256": "c53e51ae06d9841cf830ce2bd954137ea6468e2dafe937ee66c0cc9fc5f5ab25",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1950_chavez.png",
+    "box": [
+      304,
+      2522,
+      3808,
+      3093
+    ],
+    "full_sheet_viewed": true
+  },
+  {
+    "id": "1950_bailey",
+    "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg",
+    "source_sha256": "aa5d8eb2947fe8666598d106eafd1cab7f25bfd1002d08063dea111757563d5e",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1950_bailey.png",
+    "box": [
+      303,
+      1753,
+      3796,
+      2571
+    ],
+    "full_sheet_viewed": true
+  },
+  {
+    "id": "1950_higgins",
+    "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg",
+    "source_sha256": "cf453f8c2373d4c5daefe424b77c3064099ea265fbdb9f4ea170ef3cc314fc5b",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1950_higgins.png",
+    "box": [
+      304,
+      2310,
+      3808,
+      2604
+    ],
+    "full_sheet_viewed": true
+  },
+  {
+    "id": "1940_bailey_parents",
+    "source": "sources/03_census/1940_manuscripts/ed_10-6/m-t0627-02445-00655.jpg",
+    "source_sha256": "54b57991078c09e6390a45d033b8b48cd078f5bbf118485dced14b4ecfbee480",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1940_bailey_parents.png",
+    "box": [
+      435,
+      3953,
+      6748,
+      4371
+    ],
+    "full_sheet_viewed": true
+  },
+  {
+    "id": "1940_bailey_children",
+    "source": "sources/03_census/1940_manuscripts/ed_10-6/m-t0627-02445-00656.jpg",
+    "source_sha256": "a7786cc58ee2a76fb1c4c4c0dc979b8682844370589b00133c44c52eeb4b328f",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1940_bailey_children.png",
+    "box": [
+      431,
+      1156,
+      6759,
+      1734
+    ],
+    "full_sheet_viewed": true
+  },
+  {
+    "id": "1940_alfonso",
+    "source": "sources/03_census/1940_manuscripts/ed_10-6/m-t0627-02445-00652.jpg",
+    "source_sha256": "84343faf12453b2f37b8bf4eb3687941709becd370f286e4efc95a0b1d342d69",
+    "crop": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1940_alfonso.png",
+    "box": [
+      432,
+      1214,
+      6705,
+      1568
+    ],
+    "full_sheet_viewed": true
+  }
+]

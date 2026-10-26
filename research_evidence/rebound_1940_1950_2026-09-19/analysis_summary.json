@@ -1,0 +1,86 @@
+{
+  "1940": {
+    "people": 188,
+    "head_listed_households": 42,
+    "mean_household_size": 4.476190476190476,
+    "size_distribution": {
+      "1": 2,
+      "2": 11,
+      "3": 9,
+      "4": 2,
+      "5": 3,
+      "6": 4,
+      "7": 3,
+      "8": 3,
+      "9": 5
+    },
+    "under10_known": 52,
+    "under18_known": 90,
+    "age0_19_known": 102,
+    "age10_29_known": 77,
+    "age40_59_known": 26,
+    "age50_69_known": 17,
+    "median_read_age": 18,
+    "unread_ages": 1
+  },
+  "1950": {
+    "people": 210,
+    "head_listed_households": 59,
+    "mean_household_size": 3.559322033898305,
+    "size_distribution": {
+      "1": 10,
+      "2": 17,
+      "3": 11,
+      "4": 6,
+      "5": 4,
+      "6": 3,
+      "7": 2,
+      "8": 1,
+      "9": 3,
+      "10": 1,
+      "12": 1
+    },
+    "under10_known": 51,
+    "under18_known": 85,
+    "age0_19_known": 92,
+    "age10_29_known": 69,
+    "age40_59_known": 40,
+    "age50_69_known": 36,
+    "median_read_age": 25.5,
+    "unread_ages": 0
+  },
+  "cohort_accounting": {
+    "baseline_1940": 188,
+    "age10_plus_in_1950": 159,
+    "under10_in_1950": 51,
+    "cohorts_alive_at_1940_census_net_difference": -29,
+    "net_population_change": 22
+  },
+  "1950_ranch_affiliation": {
+    "definition": "At least one main occupation description classified Ranching; descriptive current association, not household fertility or land ownership.",
+    "households": 24,
+    "people": 91,
+    "under10": 18,
+    "under18": 33
+  },
+  "out_of_county": {
+    "sample_entries": 6,
+    "households": 5,
+    "all_1950_members_in_these_households": 23,
+    "caution": "Household residents are not all proven migrants; observations are not a net migration estimate."
+  },
+  "all_prior_places": {
+    "sample_entries": 7,
+    "households": 6,
+    "all_1950_members_in_these_households": 25,
+    "caution": "Household residents are not all proven migrants; observations are not a net migration estimate."
+  },
+  "agriculture_changes_percent": {
+    "cattle_and_calves_sold_alive_1939_1944": 166.57656440059466,
+    "cattle_and_calves_sold_alive_1944_1949": -10.793956601095111,
+    "cattle_and_calves_sold_alive_1939_1949": 137.80240573050412,
+    "cattle_and_calves_inventory_1940_1945": 40.67197170645447,
+    "cattle_and_calves_inventory_1945_1950": 52.60842237586423,
+    "farms_1945_1950": -40.46875
+  }
+}

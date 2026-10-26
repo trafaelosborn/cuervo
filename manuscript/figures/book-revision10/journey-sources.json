@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-02",
+  "inputs": [
+    {
+      "file": "research_evidence/deep_dive_2026-09-17/retail_1929_table13.json",
+      "sha256": "ba6fea4976c88987cd28ef3b46fa00fc842a6cbb54456b9bcacec298974603fa",
+      "role": "Previously checked retail transcription; arithmetic recomputed"
+    },
+    {
+      "file": "research_evidence/deep_dive_2026-09-17/retail_1929_table14.json",
+      "sha256": "26b44e181a58ddf01ba32227fee2d0d743f7d83f24bfee6bc49181ef7717c96e",
+      "role": "Classification ratios and establishment counts"
+    },
+    {
+      "file": "sources/01_railroad/rock_island_public_timetable_1926-01.pdf",
+      "sha256": "d8aa7f1c8d1d61dd7ddba526c8f77bc04c1f8fd0afa1a7e043ab664aa49b631d",
+      "role": "Table 2 p.18, notes p.19; four advertised journeys"
+    }
+  ],
+  "journey_minutes": {
+    "Cuervo-Tucumcari": {
+      "departure": 420,
+      "arrival": 500,
+      "return_departure": 1185,
+      "return_arrival": 1260
+    },
+    "Cuervo-Santa Rosa": {
+      "departure": 1260,
+      "arrival": 1295,
+      "return_departure": 1820,
+      "return_arrival": 1860
+    }
+  },
+  "kilometers_per_mile": 1.609344,
+  "distance_rounding": "Nearest whole kilometer; original whole-mile distances retained"
+}

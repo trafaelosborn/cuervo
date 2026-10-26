@@ -1,0 +1,65 @@
+{
+  "pages": 192,
+  "body_words": 41257,
+  "notes": 174,
+  "valid_source_links": 220,
+  "distinct_note_destinations": 174,
+  "contents_link_annotations": 16,
+  "chapter_bookmarks": 8,
+  "all_body_paragraphs_preserved_in_pdf": true,
+  "sentence_checks": [
+    {
+      "chapter": 1,
+      "paragraphs": 49,
+      "mean_sentence_words": 11.2,
+      "longest_sentence_words": 26
+    },
+    {
+      "chapter": 2,
+      "paragraphs": 87,
+      "mean_sentence_words": 13.0,
+      "longest_sentence_words": 33
+    },
+    {
+      "chapter": 3,
+      "paragraphs": 113,
+      "mean_sentence_words": 13.5,
+      "longest_sentence_words": 32
+    },
+    {
+      "chapter": 4,
+      "paragraphs": 111,
+      "mean_sentence_words": 12.6,
+      "longest_sentence_words": 26
+    },
+    {
+      "chapter": 5,
+      "paragraphs": 99,
+      "mean_sentence_words": 12.8,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 6,
+      "paragraphs": 111,
+      "mean_sentence_words": 13.6,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 7,
+      "paragraphs": 120,
+      "mean_sentence_words": 12.2,
+      "longest_sentence_words": 26
+    },
+    {
+      "chapter": 8,
+      "paragraphs": 57,
+      "mean_sentence_words": 13.1,
+      "longest_sentence_words": 23
+    }
+  ],
+  "short_pages_for_review": [],
+  "pdf_sha256": "4d6f4d24e25779a39d2a315896da11dea14d21c68b1cb90cce8a90428fc890c2",
+  "text_checks": "passed",
+  "visual_review": "passed: all 192 final rendered pages inspected in 24 contact sheets; pages 2, 11, 157 and 164 additionally reviewed at full-page size; all three Chapter 8 illustration pages also reviewed at full-page size in the standalone proof",
+  "visual_findings": "No clipping, overlap, missing glyphs, isolated headings or unintended blank pages observed. Short pages before figures and at chapter ends remain part of the provisional reading-proof sequence. Final print and photographic pacing pending."
+}

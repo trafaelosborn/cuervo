@@ -1,0 +1,797 @@
+
+=== PDF PAGE 1 ===
+FEDERAL RESERVE BANK OF SAN FRANCISCO 
+WORKING PAPER SERIES 
+Snow Belt to Sun Belt Migration: End of an Era? 
+ 
+Sylvain Leduc and Daniel J. Wilson  
+Federal Reserve Bank of San Francisco  
+ 
+July 2024 
+ 
+ 
+Working Paper 2024-21 
+ 
+https://doi.org/10.24148/wp2024-21 
+ 
+Suggested citation:  
+Leduc, Sylvain, and Daniel J. Wilson. 2024. “Snow Belt to Sun Belt Migration: End of 
+an Era?” Federal Reserve Bank of San Francisco Working Paper 2024-21. 
+https://doi.org/10.24148/wp2024-21 
+ 
+ 
+The views in this paper are solely the responsibility of the authors and should not be interpreted 
+as reflecting the views of the Federal Reserve Bank of San Francisco or the Board of Governors 
+of the Federal Reserve System.  
+
+=== PDF PAGE 2 ===
+Snow Belt to Sun Belt Migration: End of an Era? ∗
+Sylvain Leduc† Daniel J. Wilson ‡
+7/15/24
+Abstract
+Internal migration has been cited as a key channel by which societies will adapt to climate
+change. We show in this paper that this process has already been happening in the United
+States. Over the course of the past 50 years, the tendency of Americans to move from the
+coldest places (“Snow Belt”), which have become warmer, to the hottest places (“Sun Belt”),
+which have become hotter, has steadily declined. In the latest full decade, 2010-2020, both
+county population growth and county net migration rates were essentially uncorrelated with
+the historical means of either extreme heat days or extreme cold days. The decline in these
+correlations over the past 50 years is true across counties, across commuting zones, and across
+states. It holds for urban and suburban counties; for rural counties the correlations have
+even reversed. It holds for all educational groups, with the sharpest decline in correlations
+for those with four or more years of college. Among age groups, the pattern is strongest for
+age groups 20-29 and 60-69, suggestive of climate being an especially important factor for
+those in life stages involving long-term location choices. Given climate change projections for
+coming decades of increasing extreme heat in the hottest U.S. counties and decreasing extreme
+cold in the coldest counties, our findings suggest the “pivoting” in the U.S. climate-migration
+correlation over the past 50 years is likely to continue, leading to a reversal of the 20th century
+Snow Belt to Sun Belt migration pattern.
+∗We thank Cindy Zhao for excellent research assistance. The views expressed in this paper are solely those of
+the authors and do not necessarily reflect the views of the Federal Reserve Bank of San Francisco or the Board of
+Governors of the Federal Reserve System.
+†Federal Reserve Bank of San Francisco, sylvain.leduc@sf.frb.org
+‡Federal Reserve Bank of San Francisco, daniel.wilson@sf.frb.org
+
+=== PDF PAGE 3 ===
+1 Introduction
+The risks and impacts associated with climate change in the United States and elsewhere will
+depend on adaptation and mitigation ([1]). One important adaptation channel is internal migration
+([2], [3], [4]), as people move away from places with worsening climates toward relatively better ones.
+Yet, American migration over the 20th century strongly favored hotter climates, with the U.S.
+population shifting from the Snow Belt of the Northeast and Midwest to the Sun Belt of the South
+and Southwest.1 This pattern accelerated considerably after the 1960s, likely due to the widespread
+adoption of air conditioning (AC) in the 1960s and 1970s. 2 Over the same period, the climates
+of these regions have also gradually changed, with extreme cold in the historically colder areas of
+the country becoming less common and extreme heat in the historically hotter areas increasing in
+frequency and severity (see Figure 1).
+In this paper, we take a deeper look at the relationship between internal migration and climate in
+the United States and how it has changed over time. Using detailed county-level temperature data
+from the National Oceanic and Atmospheric Administration (NOAA), we document that, over the
+past several decades, the positive relationship across counties between net migration and historical
+exposure to extreme heat highlighted in the literature (e.g., [6], [7]) has steadily weakened and, by
+some measures, has vanished or even reversed. We also document the opposite pattern occurring
+for the negative relationship between net migration and historical exposure to extreme cold. The
+weakening Snow Belt to Sun Belt migration pattern is broad and holds across counties, commuting
+zones, and states, as well as for both rural and urban areas. In some cases, the direction of migration
+has even reversed. For instance, among rural counties, hotter places actually lost population over
+the latest decade of data relative to colder places.
+To our knowledge, this study is the first to document these shifting patterns. An important as-
+pect of the analysis is its simplicity, relying on raw data and simple bivariate ordinary least squares
+regressions, ensuring that the results are not driven by methodological choices. 3 Given climate
+change projections of increasing heat in hotter counties and less extreme cold in colder counties
+([8],[10],[11],[12],[13]), the emerging patterns documented in this paper are likely to continue, re-
+versing the Snow Belt to Sun Belt migration pattern of the previous century. These new migration
+trends should help mitigate the effects of climate change, as fewer people would be directly exposed
+to the negative impacts of hotter and more frequent extreme heat days.
+1See https://www.census.gov/dataviz/visualizations/050/.
+2See [5] for evidence on the adoption of air conditioning and its effect of reducing heat-related mortality since
+1960.
+3See [8] for a comprehensive cross-sectional empirical analysis to trace out the short- and long-run impacts of
+climate change on counties’ population growth, employment, wages, and house prices. See also [9].
+2
+
+=== PDF PAGE 4 ===
+2 Data
+We used county-level data on average daily temperatures from January 1, 1951, to December
+31, 2020, from the National Oceanic and Atmospheric Administration’s (NOAA) nClimDiv data
+set ([14]). From these daily data, we measured the number of extreme heat and extreme cold days
+in each county for each year from 1951 to 2020. We defined an extreme-heat day as one for which
+the average 24-hour temperature was above 80 degrees Fahrenheit, while an extreme-cold day was
+defined as one with an average 24-hour temperature below 20 degrees Fahrenheit. Given our focus
+on internal migration, we exclude counties in Alaska and Hawaii, focusing on the contiguous 48
+states.
+County-level population and net migration data were obtained from multiple sources. Though
+we provide some results for decades back to 1900, we focus on the period 1970 to 2020 due to
+the availability for this period of both net migration data and population counts disaggregated
+by age and education. Population by age were obtained from the National Cancer Institute’s
+Surveillance, Epidemiology, and End Results (SEER) program.4 Population by education data came
+from the U.S. Census Bureau. Net migration data for 1980 to 2020 came from the Census Bureau’s
+“Components of Change” data; net migration data from 1970 to 1980 were obtained from the
+University of Michigan’s Inter-university Consortium for Political and Social Research (ICPSR). To
+distinguish between urban, suburban, and rural counties, we use the 2013 urbanicity classification
+from the National Center for Health Statistics (NCHS). For the purposes of aggregating county
+data to commuting zones (CZs), we use the 2000 CZ classifications from the U.S. Department of
+Agriculture.5 Lastly, to compare the population results for 1970 to 2020 to earlier decades, we
+use county-level population data for decades from 1900 through 1970 from the National Bureau of
+Economic Research (NBER). 6
+3 Results
+3.1 The Warming of Historically Hot and Historically Cold Counties
+To start the analysis, Figure 1 documents that, while most counties in the contiguous United
+States have seen an increase in the number of extreme heat days (panel (a)), the increase has tended
+to be larger for historically hotter counties – those with a higher average number of extreme heat
+days per year over 1951 to 2020. Similarly, while the vast majority of counties have experienced a
+decline in the frequency of extreme cold days over the past 70 years, the decline has been greatest
+in those counties most historically accustomed to extreme cold. These relationships are highly
+statistically significant as indicated by the large t-statistics associated with the estimated slopes of
+4https://seer.cancer.gov/popdata/download.html
+5https://www.ers.usda.gov/webdocs/DataFiles/48457/cz00_eqv_v1.xls?v=8473.6.
+6https://www.nber.org/research/data/census-us-decennial-county-population-data-1900-1990 .
+3
+
+=== PDF PAGE 5 ===
+a linear regression of the 1951-2020 change in the number of annual extreme heat (cold) days on
+the 1951-2020 mean number of annual extreme heat (cold) days. These patterns are in line with
+the general warming patterns documented in the U.S. Global Change Research Program ([15],[13]).
+3.2 Changing Patterns of County Population Growth
+In the not-so-distant past, Americans generally moved toward warmer climates. Panels (a) and
+(b) in Figure 2 highlight that, during the 1970s, hotter counties, measured by average annual ex-
+treme heat days over 1951-2020, tended to experience faster population growth than other counties,
+while colder counties tended to see slower or even negative population growth. A simple ordinary
+least squares (OLS) regression of decadal population growth from 1970 to 1980 on the historical
+(1951-2020) mean number of extreme heat days per year yields a positive slope coefficient that is
+statistically significant below the 1 percent significance level (t-statistic of 7.17). In contrast, the
+slope coefficient estimate obtained by regressing counties’ 1970s population growth on their average
+number of extreme cold days is strongly negative. These patterns reflect the general and well-known
+20th century pattern of population reallocation from the Snow Belt to the Sun Belt.
+Yet, as shown in panels (c)-(j), these relationships moderated substantially over the subsequent
+four decades.7 To see this moderation more clearly, panel (a) of Figure 3 reports the extreme heat
+and extreme cold slope coefficient estimates from Figure 2, along with their 95 percent confidence
+intervals, for each decade from 1970-1980 to 2010-2020. The chart shows a clear downward trend
+in the slope coefficients for extreme heat days and a rising trend in those for extreme cold days.
+By the 2010s, county population growth was largely uncorrelated with the number of extreme heat
+days or extreme cold days, a significant change from 50 years prior.
+Importantly, these trends are nearly identical using county net migration rates instead of popu-
+lation growth as the dependent variable, as documented in panels (a) and (b) of Figure 4, demon-
+strating that the patterns we find for population growth are driven nearly entirely by net migration
+rather than births and deaths. 8 There is a similar, though somewhat more muted, decline in the
+relationships between extreme temperature days and either population growth or net migration
+when weighting each county observation by its beginning-of-decade population, as shown in panels
+(c) and (d) of Figure 4.
+To examine how robust the pattern in Figure 2 and panel (a) of Figure 3 are to the size of the
+geographical area, we report estimates for these relationships after aggregating the data to either
+commuting zones or states. Specifically, we regress CZ- or state-level population growth on the
+number of extreme heat days per year over 1951-2020 averaged over all counties within that CZ
+or state. We estimate the analogous regression for extreme cold days. The weakening relationship
+7In Extended Data Figure 1, we present a geographical representation of county-level population growth since the
+1970s by decade.
+8The literature on fertility and mortality effects of extreme temperatures suggests the effects on these margins
+are much more short-run than the effects on migration. See [16], [17], and [5].
+4
+
+=== PDF PAGE 6 ===
+between population growth and extreme temperature days over the decades from the 1970s to 2010s
+across counties is also true across CZs and across states (panels (c) and (e) of Figure 3).
+In addition, we explore the relationships by level of county urbanization. While our results
+are comparable for urban and suburban counties to those across all counties, the trends are more
+pronounced for rural ones (panels (b), (d), and (f) of Figure 3). In fact, over the last full decade,
+rural counties historically most exposed to extreme heat days saw significantly lower population
+growth than historically cooler counties, while rural counties historically most exposed to extreme
+cold days have seen their populations grow faster on average than historically less exposed counties.9
+3.3 Heterogeneity Across Household Characteristics
+It is also useful to investigate these climate-population growth patterns for population subgroups,
+given data availability. We focus on education and age. Figure 5 reports the decadal relationships
+between extreme temperature and population growth separately by educational attainment: less
+than a high school degree, high school degree or equivalent, some college, and four-year college
+degree or more.
+The general patterns of a downward trend over time in the estimated slope coefficient on extreme
+heat and an upward trend in the estimated slope coefficient on extreme cold holds for the lower
+three educational groups, similar to the pattern for overall county population in panel (a) of Figure
+3. For those with a four-year college degree or more, these trends hold from the 1980s onward, but
+not from the 1970s to the 1980s. Interestingly, for the highest education group, the correlation (as
+measured by the slope coefficient) between population growth and historical extreme heat exposure
+turned negative, though statistically insignificantly different from zero, in the 1990s and 2000s, and
+became negative and statistically significant (at the 5 percent level) during the latest full decade.
+As such, this recent negative relationship for those with college degrees may foreshadow similar
+ones for other, less educated, residents if the declining pattern for these groups continues.
+In addition to a breakdown by education, we also examine whether age is a factor impacting the
+link between extreme temperature and population growth. Age groups differ substantially by their
+mobility rates, with people between 20 and 40 years old being typically the most mobile. While the
+relationships between extreme temperature and population growth is more volatile for many age
+groups given the smaller sample sizes, Extended Data Figure 4 shows a clearer moderating pattern
+for these more mobile residents, particularly since the 1980s and 1990s. There has also been a
+pronounced shift in the climate-population growth patterns for individuals in their 60s, the group
+around traditional retirement age, which is a natural point in the life cycle for making long-term
+relocation decisions. For this group, the relationship between population growth and historical
+extreme heat exposure turned negative and statistically significant in the 2000-2010 decade and
+became even more strongly negative in the 2010-2020 decade. Conversely, the relationship with
+9Extended Data Figure 2 contrasts the results by urbanicity when weighting observations by population or not
+and shows that weighting yields qualitatively similar results.
+5
+
+=== PDF PAGE 7 ===
+historical extreme cold days flipped to strongly positive and significant during the latest decade.
+These results indicate that individuals around retirement age have been moving on average away
+from relatively hotter counties toward relatively cooler counties over past 10 to 20 years.
+3.4 Full 20th Century Patterns
+Since county population data are available for a longer period, we contrast the recent trends
+between population growth and extreme temperature to the period between the 1930s and the
+1970s. We continue to classify counties based on their average number of extreme heat days and
+extreme cold days per year between 1951 and 2020, since daily county weather data are not available
+prior to 1951. Thus, we are assuming that the relative positions of counties in terms of extreme
+heat days and extreme cold days was similar back at least to the 1930s.
+The two panels in Figure 6 report coefficient estimates of the cross-country relationship between
+population growth and extreme temperatures when observations are either equally weighted or
+weighted by beginning-of-decade county population. In either case, we find that the recent decline
+in the sensitivity of population growth to extreme heat returns this sensitivity to levels more in line
+with those experienced before the 1970s. This aligns well with the diffusion of residential AC across
+the South ([5]). For instance, in the Southeast, only about 10 percent of households had AC in
+1960, but this jumped to 71 percent by 1980. Similar patterns occurred in other southern areas. In
+part, AC raised the quality of life in the South by making it less dangerous and less unpleasant to
+live and work in counties more exposed to extreme heat. Barreca, et al. ([5]) find that the diffusion
+of AC over time largely accounts for the steep decline in extreme-heat induced mortality after 1960.
+Nevertheless, our results indicate that, despite the availability of AC, the mobility-heat relationship
+has by now abated to levels similar to the pre-AC period.
+4 Discussion
+Our findings have important implications for the impact of climate change on the geography
+of population and economic activity in the United States over the decades to come. While there
+is growing evidence of climate-induced internal and international migration for middle-income and
+developing countries, where agriculture plays a large role ([18]), our results indicate that internal
+climate migration is also occurring in the United States, an advanced economy with little economic
+reliance on agriculture. The U.S. population is starting to migrate away from areas increasingly
+exposed to extreme heat days toward historically colder areas, which are becoming more attractive
+as extreme cold days become increasingly rare.10 Indeed, to the extent that projections of relatively
+hotter areas of the country experiencing increasingly frequent and severe extreme heat days, and
+10See evidence from [19], based on hedonic house price regressions, that Americans have high willingness-to-pay
+to avoid both extreme heat and extreme cold.
+6
+
+=== PDF PAGE 8 ===
+historically cold areas experiencing fewer and less severe extreme cold days (e.g., [10] and [11])
+are realized, our results suggest the pivoting in these correlations is likely to continue, with U.S.
+migration reversing the Snow Belt to Sun Belt pattern of the past half-century. Though migration
+is not without financial and welfare costs, this migration could help mitigate the negative effects
+from hotter and more frequent extreme heat days, including from associated risks such as wildfires
+and droughts, with fewer people directly exposed to them.
+Our results also have important distributional implications. As highlighted by Carleton and
+Hsiang ([2]), climate change generates two offsetting effects with distributional consequences for
+migration. On the one hand, the decline in the attractiveness and economic viability of a local area
+incentivizes migration. However, since it also reduces income for many groups ([20],[21]), climate
+change impedes the ability to migrate, particularly for those already lacking a financial buffer to
+help cover migration costs. Such dependence on financial resources aligns with our finding that
+the declining positive correlation of county population growth with extreme heat (and declining
+negative correlation with extreme cold) has been sharper for individuals with higher educational
+attainment, who tend to have higher income, than for those with lower levels of education. In
+particular, between 2010 and 2020, hotter counties have tended to see their population of highly
+educated residents, those with a four-year college degree or more, decline (Figure 5, panel (d)).
+As a result, climate change may have a more adverse impact on less-educated residents, who are
+less mobile and thus more likely to remain in hotter counties. In addition, our results that the
+changing patterns between population growth and historically colder and hotter counties are most
+evident for younger individuals and those around retirement age suggests migration responses to
+climate changes have been and will be driven most by individuals at stages of life in which long-term
+relocation decisions are common.
+Overall, the welfare consequences of climate change in the United States will depend on how
+the geography of the population distribution overlaps with the geography of local climate changes
+and the extent to which people move in response to those climate changes. Given climate change
+projections of increasing heat in hotter counties and less extreme cold in colder counties, the emerg-
+ing patterns documented in this paper should continue. As such, the previous century’s migration
+pattern from the Snow Belt to the Sun Belt is likely to ultimately be reversed. This should help
+mitigate the effects of climate change, as a smaller fraction of the U.S. population would be directly
+exposed to the impact of hotter and more frequent extreme heat days.
+Many factors, including government policy, may facilitate or impede the relocation away from
+adversely affected areas. For instance, to the extent that local extreme heat is associated with
+damaging events such as wildfires, market signals from higher premiums to insure commercial
+and residential real estate in riskier areas provide some incentives to relocate ([22]). However,
+government subsidies in the insurance market, which are becoming more common across states, may
+mute these signals. Government subsidies for development and rebuilding in disaster-stricken areas
+7
+
+=== PDF PAGE 9 ===
+can also reduce market-based migration incentives. 11. In addition, the uncertainty and imperfect
+information about how different regions are impacted by climate change may increase inertia and
+reduce migration.
+Finally, adaptation may also take other forms, for instance through investment in more climate
+resilient infrastructure, that may also mute migration toward colder areas. Thus, the historical
+trends documented in this paper are by no means structural and could change with private actions
+or government policies.
+11See [23] for a discussion of climate-related government relocation policies
+
+=== PDF PAGE 10 ===
+References
+[1] IPCC. Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group
+III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change . Cam-
+bridge University Press, Cambridge, UK and New York, NY, USA, 2022.
+[2] Tamma A Carleton and Solomon M Hsiang. Social and economic impacts of climate. Science,
+353(6304):aad9837, 2016.
+[3] Viviane Clement, Kanta Kumari Rigaud, Alex De Sherbinin, Bryan Jones, Susana Adamo,
+Jacob Schewe, Nian Sadiq, and Elham Shabahat. Groundswell part 2: Acting on internal
+climate migration. World Bank, Washington, DC, 2021.
+[4] Chi Xu, Timothy A Kohler, Timothy M Lenton, Jens-Christian Svenning, and Marten Schef-
+fer. Future of the human climate niche. Proceedings of the National Academy of Sciences ,
+117(21):11350–11355, 2020.
+[5] Alan Barreca, Karen Clay, Olivier Deschenes, Michael Greenstone, and Joseph S Shapiro.
+Adapting to climate change: The remarkable decline in the U.S. temperature-mortality rela-
+tionship over the twentieth century. Journal of Political Economy , 124(1):105–159, 2016.
+[6] Jordan Rappaport. Moving to nice weather. Regional Science and Urban Economics, 37(3):375–
+398, 2007.
+[7] Mark D Partridge. The duelling models: NEG vs amenity migration in explaining U.S. engines
+of growth. Papers in Regional Science , 89(3):513–536, 2010.
+[8] Sylvain Leduc and Daniel J Wilson. Climate change and the geography of the U.S. economy.
+Technical report, Federal Reserve Bank of San Francisco, 2023.
+[9] Patrick Baylis, Prashant Bharadwaj, Jamie T Mullins, and Nick Obradovich. Climate and
+migration in the United States. Technical report, 2023.
+[10] Solomon Hsiang, Robert Kopp, Amir Jina, James Rising, Michael Delgado, Shashank Mohan,
+DJ Rasmussen, Robert Muir-Wood, Paul Wilson, Michael Oppenheimer, et al. Estimating
+economic damage from climate change in the United States. Science, 356(6345):1362–1369,
+2017.
+[11] DJ Rasmussen, Malte Meinshausen, and Robert E Kopp. Probability-weighted ensembles of
+U.S. county-level climate projections for climate risk analysis. Journal of Applied Meteorology
+and Climatology, 55(10):2301–2322, 2016.
+9
+
+=== PDF PAGE 11 ===
+[12] IPCC. Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and
+III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change . IPCC,
+Geneva, Switzerland, 2014.
+[13] RS Vose, David R Easterling, KE Kunkel, AN LeGrande, and MF Wehner. Temperature
+changes in the United States. Climate science special report: Fourth national climate assess-
+ment, 1(GSFC-E-DAA-TN49028), 2017.
+[14] Russell S. Vose, Scott Applequist, Mike Squires, Imke Durre, Matthew J. Menne, Jr. Williams,
+Claude N., Chris Fenimore, Karin Gleason, and Derek Arndt. NOAA Monthly U.S. Climate
+Divisional Database (NClimDiv). Technical report, NOAA National Climatic Data Center,
+2014.
+[15] U.S.GCRP. Impacts, risks, and adaptation in the United States: Fourth national climate
+assessment, volume ii: [Reidmiller, D.R. and Avery, C.W. and Easterling, D.R. and Kunkel,
+K.E. and Lewis, K.L.M. and Maycock, T.K. and Stewart, B.C.]. U.S. Global Change Research
+Program, 2018.
+[16] Olivier Deschenes and Enrico Moretti. Extreme weather events, mortality, and migration. The
+Review of Economics and Statistics , 91(4):659–681, 2009.
+[17] Olivier Deschˆ enes and Michael Greenstone. Climate change, mortality, and adaptation: Evi-
+dence from annual fluctuations in weather in the U.S. American Economic Journal: Applied
+Economics, 3(4):152–85, October 2011.
+[18] Cristina Cattaneo and Giovanni Peri. The migration response to increasing temperatures.
+Journal of development economics , 122:127–146, 2016.
+[19] David Albouy, Walter Graf, Ryan Kellogg, and Hendrik Wolff. Climate amenities, climate
+change, and American quality of life.Journal of the Association of Environmental and Resource
+Economists, 3(1):205–246, 2016.
+[20] Richard SJ Tol, Thomas E Downing, Onno J Kuik, and Joel B Smith. Distributional aspects
+of climate change impacts. Global Environmental Change , 14(3):259–272, 2004.
+[21] A Patrick Behrer, R Jisung Park, Gernot Wagner, Colleen M Golja, and David W Keith.
+Heat has larger impacts on labor in poorer areas. Environmental Research Communications,
+3(9):095001, 2021.
+[22] Judson Boomhower, Meredith Fowlie, and Andrew J Plantinga. Wildfire insurance, infor-
+mation, and self-protection. In AEA Papers and Proceedings , volume 113, pages 310–315.
+American Economic Association 2014 Broadway, Suite 305, Nashville, TN 37203, 2023.
+10
+
+=== PDF PAGE 12 ===
+[23] Ning Jia, Raven Molloy, Christopher Smith, and Abigail Wozniak. The economics of internal
+migration: Advances and policy questions. Journal of economic literature, 61(1):144–180, 2023.
+Additional Information
+Authors report no competing interests.
+Authors contributed equally to the paper.
+Supplementary information is available for this paper: Extended Data Figures S1-S4.
+Correspondence and requests for materials should be addressed to daniel.wilson@sf.frb.org.
+11
+
+=== PDF PAGE 13 ===
+Figures
+A. Extreme Heat Days
+4MPQF	U
+$IBOHFJO&YUSFNF)FBU%BZT"WFSBHFPG&YUSFNF)FBU%BZT B. Extreme Cold Days
+4MPQF	U
+$IBOHFJO&YUSFNF$PME%BZT"WFSBHFPG&YUSFNF$PME%BZT
+Figure 1: Cross-County Relationship between Mean and Change in Extreme Tempera-
+ture Days, 1951 to 2020
+Each panel displays a scatter plot, where each dot represents a single county. The lines in each panel are linear OLS
+regression fit lines, where counties are equally weighted. The estimated slope coefficients and their t-statistics are
+displayed. (A) The x-axis shows the average number of extreme heat days per year in the county over 1951 to 2020.
+The y-axis shows the change in the number of extreme heat days per year over 1951 to 2020, where the change is
+measured as the 2011-2020 mean minus the 1951-1960 mean. Extreme heat days are defined as days for which the
+average 24-hour temperature is above 80 ◦ Fahrenheit. ( B) The x-axis shows the average number of extreme cold
+days per year in the county over 1951 to 2020. The y-axis shows the change in the number of extreme cold days per
+year over 1951 to 2020, where the change is measured as the 2011-2020 mean minus the 1951-1960 mean. Extreme
+cold days are defined as days for which the average 24-hour temperature is below 20 ◦ Fahrenheit.
+12
+
+=== PDF PAGE 14 ===
+Extreme Heat Extreme Cold
+(a) 1970-1980
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF)FBU%BZT (b) 1970-1980
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF$PME%BZT
+(c) 1980-1990
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF)FBU%BZT (d) 1980-1990
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF$PME%BZT
+(e) 1990-2000
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF)FBU%BZT (f) 1990-2000
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF$PME%BZT
+(g) 2000-2010
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF)FBU%BZT (h) 2000-2010
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF$PME%BZT
+(i) 2010-2020
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF)FBU%BZT (j) 2010-2020
+4MPQF	U
+1PQVMBUJPO(SPXUI	$IBOHFJO-PH1UT
+"WFSBHFPG&YUSFNF$PME%BZT
+Figure 2: Cross-County Relationship between Population Growth and Extreme Tem-
+peratures
+13
+
+=== PDF PAGE 15 ===
+Each panel displays a scatter plot, where each dot represents a single county. The y-axis shows the county’s population
+growth (measured by change in log points) over a given decade: (a-b) 1970-1980, (c-d) 1980-1990, (e-f) 1990-2000,
+(g-h) 2000-2010, (i-j) 2010-2020. The lines in each panel are linear OLS regression fit lines, where counties are equally
+weighted. The estimated slope coefficients and their t-statistics are displayed. The x-axis in (a,c,e,g,i) shows the
+average number of extreme heat days per year in the county over 1951 to 2020. Extreme heat days are defined as
+days for which the average 24-hour temperature is above 80 ◦ Fahrenheit. The x-axis in (b,d,f,h,j) shows the average
+number of extreme cold days per year in the county over 1951 to 2020. Extreme cold days are defined as days for
+which the average 24-hour temperature is below 20 ◦ Fahrenheit.
+14
+
+=== PDF PAGE 16 ===
+(a) Across Counties
+−0.02
+−0.01
+0.00
+0.01
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (b) Urban Counties
+−0.05
+0.00
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(c) Across Commuting Zones
+−0.02
+−0.01
+0.00
+0.01
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (d) Suburban Counties
+−0.04
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(e) Across States
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (f) Rural Counties
+−0.015
+−0.010
+−0.005
+0.000
+0.005
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+Slope Coefficient on Extreme Heat Days Slope Coefficient on Extreme Cold Days
+Figure 3: Cross-Geographic Relationship between Population Growth and Extreme
+Temperatures, by Decade
+Each panel plots, on the y-axis, the estimated slope coefficients and 95 percent confidence intervals from separate
+cross-geographical regressions of decadal population growth on either the average number of extreme heat days (red)
+or extreme cold days (blue) per year over 1951-2020. The x-axis indicates the decade of population growth used in
+the regression. Geographic units are equally weighted in the regressions. (a) Sample is all counties in the contiguous
+U.S. (b) Sample is urban counties. (c) Sample is all commuting zones in the contiguous U.S. (d) Sample is surburban
+counties. (e) Sample is all states in the contiguous U.S. (f) Sample is rural counties.
+15
+
+=== PDF PAGE 17 ===
+(a) Population Growth
+−0.02
+−0.01
+0.00
+0.01
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (b) Net In-Migration
+−0.02
+−0.01
+0.00
+0.01
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(c) Population Growth
+Weighted by beginning-of-decade population
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(d) Net In-Migration
+Weighted by beginning-of-decade population
+−0.03
+−0.02
+−0.01
+0.00
+0.01
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+Slope Coefficient on Extreme Heat Days Slope Coefficient on Extreme Cold Days
+Figure 4: Cross-County Relationship between Population Growth and Extreme Tem-
+peratures, by Decade
+Each panel plots, on the y-axis, the estimated slope coefficients and 95 percent confidence intervals from separate
+cross-county regressions of either decadal population growth or decadal net in-migration on either the average number
+of extreme heat days (red) or extreme cold days (blue) per year over 1951-2020. The x-axis indicates the decade of
+population growth or net in-migration used in the regression. (a) Dependent variable is decadal population growth
+and counties are equally weighted. (b) Dependent variable is net in-migration and counties are equally weighted. (c)
+Dependent variable is decadal population growth and counties are weighted by their beginning-of-decade population.
+(d) Dependent variable is decadal net in-migration and counties are weighted by their beginning-of-decade population.
+16
+
+=== PDF PAGE 18 ===
+(a) Less Than High School
+−0.04
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (b) High School
+−0.04
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(c) Some College
+−0.04
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (d) 4 Years College or More
+−0.02
+−0.01
+0.00
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+Slope Coefficient on Extreme Heat Days Slope Coefficient on Extreme Cold Days
+Figure 5: Cross-County Relationship between Population Growth and Extreme Tem-
+peratures, by Decade
+Each panel plots, on the y-axis, the estimated slope coefficients and 95 percent confidence intervals from separate
+cross-county regressions of decadal population growth for selected educational groups on either the average number
+of extreme heat days (red) or extreme cold days (blue) per year over 1951-2020. The x-axis indicates the decade of
+population growth used in the regression. Counties are equally weighted in the regressions. In the panels, population
+growth is for persons with (a) less than high school education, (b) high school education, some college education,
+and (d) four years of college or more education.
+17
+
+=== PDF PAGE 19 ===
+(a) Unweighted
+−0.02
+−0.01
+0.00
+0.01
+1930s 1940s 1950s 1960s 1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(b) Weighted by beginning-of-decade population
+−0.02
+0.00
+0.02
+1930s 1940s 1950s 1960s 1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+Figure 6: Cross-County Relationship between Population Growth and Extreme Tem-
+peratures, by Decade Back to 1930
+Each panel plots, on the y-axis, the estimated slope coefficients and 95 percent confidence intervals from separate
+cross-county regressions of decadal population growth on either the average number of extreme heat days (red) or
+extreme cold days (blue) per year over 1951-2020. The x-axis indicates the decade of population growth used in the
+regression. (a) Counties are equally weighted in the regressions. (b) Counties are weighted by their beginning-of-
+decade population.
+18
+
+=== PDF PAGE 20 ===
+Extended Data Figures
+for “Snow Belt to Sun Belt Migration: End of an Era?”
+by Sylvain Leduc and Daniel Wilson
+(a) 1970-1980
+ (b) 1980-1990
+(c) 1990-2000
+ (d) 2000-2010
+(e) 2010-2020
+Figure 1: Decadal Population Growth by County
+Each panel shows a map indicating each county’s population growth over the indicated decade: (a) 1970-1980 (b)
+1980-1990, (c) 1990-2000, (d) 2000-2010, and (e) 2010-2020. To ease visualization, population growth is winsorized
+at the 0.5th and 99.5th percentiles separately for each decade.
+19
+
+=== PDF PAGE 21 ===
+(a) Urban Counties
+−0.05
+0.00
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (b) Urban Counties, Weighted
+−0.05
+0.00
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(c) Suburban Counties
+−0.04
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (d) Suburban Counties, Weighted
+−0.04
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(e) Rural Counties
+−0.015
+−0.010
+−0.005
+0.000
+0.005
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (f) Rural Counties, Weighted
+−0.015
+−0.010
+−0.005
+0.000
+0.005
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+Figure 2: Cross-County Relationship between Population Growth and Extreme Tem-
+peratures, by Decade, Unweighted vs. Weighted
+Each panel plots, on the y-axis, the estimated slope coefficients and 95 percent confidence intervals from separate
+cross-county regressions of decadal population growth on either the average number of extreme heat days (red) or
+extreme cold days (blue) per year over 1951-2020. The x-axis indicates the decade of population growth used in the
+regression. Counties are equally weighted in the regressions for panels (a,c,e). Counties are weighted by beginning-
+of-decade population in panels (b,d,f). (a-b) Sample is all urban counties in the contiguous U.S (c-d) Sample is
+suburban counties. (e-f) Sample is rural counties.
+20
+
+=== PDF PAGE 22 ===
+(a) Urban Counties
+−0.075
+−0.050
+−0.025
+0.000
+0.025
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (b) Urban Counties, Weighted
+−0.08
+−0.04
+0.00
+0.04
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(c) Suburban Counties
+−0.10
+−0.05
+0.00
+0.05
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (d) Suburban Counties, Weighted
+−0.04
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(e) Rural Counties
+−0.015
+−0.010
+−0.005
+0.000
+0.005
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (f) Rural Counties, Weighted
+−0.010
+−0.005
+0.000
+0.005
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+Figure 3: Cross-County Relationship between Net In-Migration and Extreme Temper-
+atures, by Decade, Unweighted vs. Weighted
+Each panel plots, on the y-axis, the estimated slope coefficients and 95 percent confidence intervals from separate
+cross-county regressions of decadal net migration rates on either the average number of extreme heat days (red) or
+extreme cold days (blue) per year over 1951-2020. The x-axis indicates the decade of net migration rates used in the
+regression. Counties are equally weighted in the regressions for panels (a,c,e). Counties are weighted by beginning-
+of-decade population in panels (b,d,f). (a-b) Sample is all urban counties in the contiguous U.S (c-d) Sample is
+suburban counties. (e-f) Sample is rural counties.
+21
+
+=== PDF PAGE 23 ===
+(a) Age 20-29
+−0.050
+−0.025
+0.000
+0.025
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (b) Age 30-39
+−0.03
+−0.02
+−0.01
+0.00
+0.01
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (c) Age 40-49
+−0.03
+−0.02
+−0.01
+0.00
+0.01
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+(d) Age 50-59
+−0.02
+−0.01
+0.00
+0.01
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (e) Age 60-69
+−0.02
+−0.01
+0.00
+0.01
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient (f) Age 70-79
+−0.02
+0.00
+0.02
+1970s 1980s 1990s 2000s 2010s
+Decade
+Estimated Slope Coefficient
+Slope Coefficient on Extreme Heat Days Slope Coefficient on Extreme Cold Days
+Figure 4: Cross-County Relationship between Population Growth and Extreme Tem-
+peratures, by Decade, for Selected Age Groups
+Each panel plots, on the y-axis, the estimated slope coefficients and 95 percent confidence intervals from separate
+cross-county regressions of decadal population growth for selected age groups on either the average number of extreme
+heat days (red) or extreme cold days (blue) per year over 1951-2020. The x-axis indicates the decade of population
+growth used in the regression. Counties are equally weighted in the regressions. Population growth is for age groups
+(a) 20-29, (b) 30-39, (b) 40-49, (d) 50-59, (e) 60-69, and (f) 70-79 years old.
+22

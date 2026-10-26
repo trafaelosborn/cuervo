@@ -1,0 +1,19 @@
+{
+  "pages": 147,
+  "body_words": 20732,
+  "valid_source_links": 211,
+  "distinct_note_destinations": 169,
+  "contents_links": 20,
+  "photo_concordance_links": 16,
+  "bookmarks": 10,
+  "all_body_text_transferred": true,
+  "all_notes_transferred": true,
+  "revision5_integrity": "original chapter and PDF hashes match",
+  "page_edge_checks": "passed",
+  "short_pages_for_review": [],
+  "rendered_pages": 147,
+  "pdf_sha256": "a52e1b240f7c11ebf8b71b84030a11c05034a4f96216a38ab95423365a42b808",
+  "visual_review": "passed",
+  "visual_review_record": "manuscript/book-revision-07/visual-review.json",
+  "revision6_integrity": "Original chapter and PDF hashes match"
+}

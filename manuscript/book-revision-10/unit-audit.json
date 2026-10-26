@@ -1,0 +1,69 @@
+{
+  "kilometers_per_mile": 1.609344,
+  "meters_per_foot": 0.3048,
+  "lengths": [
+    {
+      "miles": 17,
+      "kilometers_exact": 27.358848000000002,
+      "display_km": 27
+    },
+    {
+      "miles": 42,
+      "kilometers_exact": 67.592448,
+      "display_km": 68
+    },
+    {
+      "miles": 7.5,
+      "kilometers_exact": 12.07008,
+      "display_km": 12
+    },
+    {
+      "miles": 7.5,
+      "kilometers_exact": 12.07008,
+      "display_km": 12.07
+    },
+    {
+      "miles": 6.9,
+      "kilometers_exact": 11.104473600000002,
+      "display_km": 11.1
+    },
+    {
+      "miles": 7.678,
+      "kilometers_exact": 12.356543232,
+      "display_km": 12.36
+    },
+    {
+      "miles": 6.8,
+      "kilometers_exact": 10.9435392,
+      "display_km": 10.9
+    }
+  ],
+  "areas": [
+    {
+      "square_km": 6.28,
+      "square_miles": 2.42
+    },
+    {
+      "square_miles": 6.1,
+      "square_km": 15.8
+    },
+    {
+      "square_miles": 18.73,
+      "square_km": 48.5
+    }
+  ],
+  "elevation": {
+    "feet": 200,
+    "meters_exact": 60.96,
+    "approximate_display_meters": 60
+  },
+  "exceptions": [
+    "Original lettering in archival images",
+    "Highway milepost and engineering project identifiers"
+  ],
+  "generated_figures": [
+    "regional-locator",
+    "journeys"
+  ],
+  "scope": "Distance and elevation units; financial livestock-weight measures and acre-based agricultural series retain their source units."
+}

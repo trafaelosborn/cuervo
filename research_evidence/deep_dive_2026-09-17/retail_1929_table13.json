@@ -1,0 +1,51 @@
+{
+  "source": "1930 Retail Distribution Part I chapter 3, PDF 124 / printed 166, Table 13",
+  "units": "Sales, stocks and payroll converted from printed $1,000 units to nominal dollars. Sales/payroll year 1929; population 1930. Employment count averages reported dates where available, otherwise enumeration-visit count. Proprietors exclude those on payroll.",
+  "data": {
+    "Guadalupe County": {
+      "population_1930": 7027,
+      "stores": 67,
+      "proprietors": 72,
+      "full_time_employees": 109,
+      "net_sales": 1415000,
+      "stocks": 248000,
+      "payroll": 112000
+    },
+    "Santa Rosa": {
+      "population_1930": 1127,
+      "stores": 23,
+      "proprietors": 25,
+      "full_time_employees": 48,
+      "net_sales": 629000,
+      "stocks": 117000,
+      "payroll": 58000
+    },
+    "Rest of Guadalupe County": {
+      "population_1930": 5900,
+      "stores": 44,
+      "proprietors": 47,
+      "full_time_employees": 61,
+      "net_sales": 786000,
+      "stocks": 131000,
+      "payroll": 54000
+    },
+    "Tucumcari": {
+      "population_1930": 4143,
+      "stores": 88,
+      "proprietors": 87,
+      "full_time_employees": 213,
+      "net_sales": 3038000,
+      "stocks": 447000,
+      "payroll": 242000
+    },
+    "Quay County": {
+      "population_1930": 10828,
+      "stores": 157,
+      "proprietors": 169,
+      "full_time_employees": 240,
+      "net_sales": 3966000,
+      "stocks": 605000,
+      "payroll": 270000
+    }
+  }
+}

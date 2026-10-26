@@ -1,0 +1,32 @@
+{
+  "C40": {
+    "title": "1940 population census, Cuervo precinct, Guadalupe County, ED 10-6",
+    "local": "sources/03_census/1940_manuscripts/ed_10-6/",
+    "url": "https://nara-1940-census.s3.us-east-2.amazonaws.com/population-schedules/nm/guadalupe-county/ed/10-6/m-t0627-02445-00652.jpg",
+    "locator": "Images 00652-00656; sheets 1A-3A. Exact image/sheet/line in person observations."
+  },
+  "C50": {
+    "title": "1950 population census, Cuervo precinct, Guadalupe County, ED 10-6",
+    "local": "sources/03_census/1950_manuscripts/ed_10-6/",
+    "url": "https://1950census.archives.gov/search/?county=Guadalupe&ed=10-6&page=1&state=NM",
+    "locator": "Images 0002-0010; sheets 1-8 and 71. Supplementary questions 21-24 and 33a."
+  },
+  "A45": {
+    "title": "1945 Census of Agriculture, New Mexico",
+    "local": "sources/03_census/agriculture_rebound_2026-09-19/1945_nm_agriculture_full.pdf",
+    "url": "https://www.nass.usda.gov/AgCensus/archive/files/1945-New_Mexico-1945-01-full.pdf",
+    "locator": "County Table I, printed 20 / PDF 37; County Table III, printed 54 / PDF 71."
+  },
+  "A50": {
+    "title": "1950 Census of Agriculture, New Mexico county tables",
+    "local": "sources/03_census/agriculture_rebound_2026-09-19/1950_nm_agriculture_counties.pdf",
+    "url": "https://www.nass.usda.gov/AgCensus/archive/files/1950-New_Mexico_and_Arizona-Table_of_Contents-1809-Table-03.pdf",
+    "locator": "Table 1, printed 40-41 / PDF 3-4; Table 4, printed 52 and 54-55 / PDF 15 and 17-18."
+  },
+  "A50D": {
+    "title": "1950 Census of Agriculture, introduction and definitions",
+    "local": "sources/03_census/agriculture_rebound_2026-09-19/1950_nm_az_agriculture_introduction.pdf",
+    "url": "https://www.nass.usda.gov/AgCensus/archive/files/1950-New_Mexico_and_Arizona-Table_of_Contents-1809-Table-01.pdf",
+    "locator": "Printed XI-XII / PDF 10-11: dates, farm definition, comparability, cross-county operations."
+  }
+}

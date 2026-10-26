@@ -1,0 +1,71 @@
+{
+  "source": "USDA Statistical Bulletin 265, May 1960",
+  "table": 43,
+  "printed_page": 46,
+  "pdf_page": 46,
+  "method_page": 3,
+  "geography": "New Mexico",
+  "unit": "Nominal dollars per 100 pounds live weight",
+  "product": "Beef cattle, excluding calves",
+  "observations": [
+    {
+      "year": 1939,
+      "annual_average_price": 6.2
+    },
+    {
+      "year": 1940,
+      "annual_average_price": 7.3
+    },
+    {
+      "year": 1941,
+      "annual_average_price": 8.3
+    },
+    {
+      "year": 1942,
+      "annual_average_price": 10.3
+    },
+    {
+      "year": 1943,
+      "annual_average_price": 10.7
+    },
+    {
+      "year": 1944,
+      "annual_average_price": 9.7
+    },
+    {
+      "year": 1945,
+      "annual_average_price": 10.8
+    },
+    {
+      "year": 1946,
+      "annual_average_price": 12.7
+    },
+    {
+      "year": 1947,
+      "annual_average_price": 16.5
+    },
+    {
+      "year": 1948,
+      "annual_average_price": 21.4
+    },
+    {
+      "year": 1949,
+      "annual_average_price": 19.2
+    },
+    {
+      "year": 1950,
+      "annual_average_price": 23.1
+    }
+  ],
+  "changes_percent": {
+    "1939_1944": 56.4516129032258,
+    "1939_1949": 209.6774193548387,
+    "1940_1950": 216.43835616438358
+  },
+  "household_scale_illustration": {
+    "mean_1940": 4.476190476190476,
+    "five_departures_fixed_42_households": 4.357142857142857,
+    "mean_1950": 3.559322033898305,
+    "caution": "Illustration only; not an estimate of military departures."
+  }
+}

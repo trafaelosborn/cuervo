@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "final_pages_rendered": 148,
+  "initial_complete_overview_review": 150,
+  "final_content_pages_identical_to_reviewed_images": 137,
+  "changed_content_pages_inspected": [
+    2,
+    78,
+    79,
+    80,
+    82,
+    83,
+    84,
+    123,
+    124,
+    125,
+    126
+  ],
+  "final_detail_pages_inspected": [
+    2,
+    82,
+    109,
+    126,
+    128
+  ],
+  "method": "All initial page overviews inspected. All final pages re-rendered; page-body raster hashes matched 137 final pages to already inspected images. The remaining eleven pages were inspected in final overviews or at full size. Final contents, body, DOT plate and synthesis received detail checks. No clipped text, missing figures, or stray spillover pages remain."
+}

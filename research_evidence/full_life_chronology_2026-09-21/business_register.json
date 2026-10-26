@@ -1,0 +1,170 @@
+[
+  {
+    "entity": "Bond & Wiest",
+    "observations": "1910; 1920-1922; 1947",
+    "description": "General merchandise, agricultural supplies, livestock dealing and later a listed feed dealership. March 1910 names a 4,000-plus sheep purchase from the firm.",
+    "source_ids": [
+      "C01",
+      "C03",
+      "D20",
+      "D21",
+      "C15",
+      "N47"
+    ],
+    "limit": "Multiple dated observations, not proof of uninterrupted operation, stable ownership or a single premises."
+  },
+  {
+    "entity": "Big Jo Lumber Co.",
+    "observations": "1910; September 1911",
+    "description": "Advertised lumber yard; later reported shipping out stock and cutting prices on the balance.",
+    "source_ids": [
+      "C01",
+      "C08"
+    ],
+    "limit": "Final closing date and reason unresolved; later merchants also sold lumber."
+  },
+  {
+    "entity": "Cuervo Drug Store / medical practices",
+    "observations": "1910; 1912; 1918; 1921",
+    "description": "Hawkins & Butler advertise in early 1910; Woodburn & Woodburn by September; J. C. Woodburn is identified as local railway surgeon in 1912. A. A. Sanford advertises at the drugstore in 1918 and is described as of Duran in 1921.",
+    "source_ids": [
+      "C01",
+      "C06",
+      "C09",
+      "C10",
+      "C12"
+    ],
+    "limit": "Names and practice locations require person/property linkage; this is not an exact ownership or closure chain."
+  },
+  {
+    "entity": "T. L. Lewis livery / later livery service",
+    "observations": "1910; 1911",
+    "description": "Lewis reportedly exits the livery trade in February 1910. Long Commission proposes a garage conversion. Emmor Taylor still advertises a livery and feed barn in September 1911.",
+    "source_ids": [
+      "C02",
+      "C08"
+    ],
+    "limit": "One operator's exit did not establish the end of the town's livery function."
+  },
+  {
+    "entity": "Garage businesses",
+    "observations": "1918; 1920; 1921",
+    "description": "Morison advertises a Ford Garage in 1918; Golden Rule Garage is listed in 1920. A Cuervo garage reopens in March 1921; M. D. Harrison advertises at the old Ozark Trail Garage building in April.",
+    "source_ids": [
+      "C10",
+      "D20",
+      "C12",
+      "C13"
+    ],
+    "limit": "Do not automatically merge the three named garages or the 1910 conversion proposal."
+  },
+  {
+    "entity": "Rock Island lodging",
+    "observations": "1910; 1920; 1921-1922",
+    "description": "Rock Island Boarding House: Margaret Kelly in 1910. Rock Island Hotel: Mrs. L. C. Bailey in 1920, J. L. Foster in 1921 and the September 1922 advertisement.",
+    "source_ids": [
+      "C01",
+      "D20",
+      "D21",
+      "C14"
+    ],
+    "limit": "Similar names do not establish that every entry refers to the same building."
+  },
+  {
+    "entity": "Oklahoma Hotel",
+    "observations": "1912; 1918; 1920-1921",
+    "description": "Advertises meals and beds in 1912; reported sale from Lizzie Mason to S. P. Morison in 1918; Morrison listed as proprietor in both directories.",
+    "source_ids": [
+      "C09",
+      "C10",
+      "D20",
+      "D21"
+    ],
+    "limit": "Observed sale and later listings; closure date unknown."
+  },
+  {
+    "entity": "Armijo Mercantile",
+    "observations": "1920-1922",
+    "description": "Elfino Armijo is printed as manager in the directories; Cuervo advertisements remain in 1922.",
+    "source_ids": [
+      "D20",
+      "D21",
+      "C14",
+      "C15"
+    ],
+    "limit": "Directory management and dated advertisements; no closure established."
+  },
+  {
+    "entity": "Landers partnerships",
+    "observations": "1920-1921",
+    "description": "Landers & Sanford: general merchandise, drugs and feed in 1920. Landers & Cain: groceries in 1921.",
+    "source_ids": [
+      "D20",
+      "D21"
+    ],
+    "limit": "Changed directory name; exact partnership succession and premises unverified."
+  },
+  {
+    "entity": "S. J. T. Pepper & Co.",
+    "observations": "1920-1921",
+    "description": "General merchandise listed in both directories.",
+    "source_ids": [
+      "D20",
+      "D21"
+    ],
+    "limit": "No opening or closing date."
+  },
+  {
+    "entity": "Cuervo school",
+    "observations": "1910-1912; 1920-1921; 1950",
+    "description": "Bond vote, construction and new building are documented in sequence; named principals in directories; teacher occupations in 1950 precinct.",
+    "source_ids": [
+      "C05",
+      "C06",
+      "C07",
+      "C08",
+      "C09",
+      "D20",
+      "D21",
+      "DEEP"
+    ],
+    "limit": "The reported 1958 closure and regular enrollment series still need administrative verification."
+  },
+  {
+    "entity": "Postal and feeder service",
+    "observations": "1913; 1920-1921; 1950; 2011",
+    "description": "Hanson feeder route ends in 1913; Cuervo retains a postmaster in the directories and 1950 census; administrative office discontinuance is 2011.",
+    "source_ids": [
+      "P13",
+      "D20",
+      "D21",
+      "DEEP",
+      "P11"
+    ],
+    "limit": "Feeder-route withdrawal and office closure are different events."
+  },
+  {
+    "entity": "Railway agency / operating functions",
+    "observations": "1911; 1920-1921; 1950; 1958; 1974",
+    "description": "Depot improvements and named agent precede 1950 jobs; passenger stops and office designation disappear by October 1958; 1974 billing is assigned to Tucumcari.",
+    "source_ids": [
+      "C08",
+      "D20",
+      "D21",
+      "DEEP",
+      "RAIL",
+      "F74"
+    ],
+    "limit": "Final local payroll and last actual livestock shipment remain open."
+  },
+  {
+    "entity": "Outside competitors: Moise Bros. and Santa Rosa Mercantile",
+    "observations": "1921",
+    "description": "Advertisements explicitly identify Santa Rosa and solicit readers' trade; Moise says savings repay a long trip.",
+    "source_ids": [
+      "C11",
+      "C13"
+    ],
+    "limit": "These are external commercial offers, not entries in a Cuervo establishment count."
+  }
+]

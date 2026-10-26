@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-21",
+  "status": "passed",
+  "output_sha256": "dcfe3bbcab511a1e22efc6ae37bc81dc8a764137cd7df8bdaa0d7099944e6240",
+  "all_148_pages_rendered": true,
+  "pages_3_through_145_pixel_identical_to_prior_print_copy_above_removed_footer": true,
+  "full_size_inspection": [
+    1,
+    2,
+    146,
+    147
+  ],
+  "overview_inspection": [
+    1,
+    2,
+    3,
+    8,
+    9,
+    48,
+    108,
+    109,
+    110,
+    121,
+    137,
+    142,
+    146,
+    147,
+    148
+  ],
+  "findings": "Approved subtitle added to the clean title page and PDF title metadata. Clean contents and photograph credits; no visible production labels, clipping or overlap. Body artwork and scholarly content are unchanged. Final blank is intentional.",
+  "raster_comparison": "B:/Meridian/Cuervo/tmp/pdfs/monograph-print-letter/raster-comparison.json"
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "figure": "simultaneous-change",
+    "before": " The stock notice does not establish the lumberyard's closing date.",
+    "after": ""
+  },
+  {
+    "figure": "cuervo-map",
+    "before": " This is a spatial relationship, not a dated reconstruction of the 1903 premises.",
+    "after": ""
+  },
+  {
+    "figure": "trade-notices",
+    "before": " A separate notice of a purchase of more than 4,000 sheep is not treated as the fourteen-car shipment.",
+    "after": ""
+  },
+  {
+    "figure": "trade-connections",
+    "before": "The arrows represent separate observations, not consignments followed through Cuervo or shares of total trade.",
+    "after": "Arrows link separately documented transactions; they do not trace single consignments through Cuervo."
+  },
+  {
+    "figure": "county-livestock",
+    "before": "Markers show seven census observations, not an annual series or Cuervo totals.",
+    "after": "Markers show seven county census observations."
+  },
+  {
+    "figure": "school-staff-and-care",
+    "before": " The notices do not establish when instruction resumed or which improvements were completed.",
+    "after": ""
+  },
+  {
+    "figure": "school-parcel",
+    "before": " It does not establish the construction date or connect this footprint to the 1912 school.",
+    "after": ""
+  },
+  {
+    "figure": "doctor-support",
+    "before": "The report identifies an attempt to organize dependable support. It supplies no collected fund, medical appointment or agreed treatment fees.",
+    "after": ""
+  },
+  {
+    "figure": "doctor-support",
+    "before": "The proposed locality and contributor pool should not be equated with Cuervo resident households.",
+    "after": "Terry sought contributors across the newspaper’s locality."
+  },
+  {
+    "figure": "people-and-households",
+    "before": "These are reconstructed groups, not new houses or migrant families.",
+    "after": "Groups are reconstructed around the listed household heads."
+  },
+  {
+    "figure": "work-under-one-roof",
+    "before": " The instructor's workplace is not named.",
+    "after": ""
+  },
+  {
+    "figure": "regional-households",
+    "before": " Subtracting institutional residents does not estimate the city without its institutions.",
+    "after": ""
+  },
+  {
+    "figure": "journeys",
+    "before": " Railway mileages are not road distances.",
+    "after": ""
+  },
+  {
+    "figure": "retail",
+    "before": "These are the census's retail categories, not all businesses or an estimate of Cuervo spending captured by Santa Rosa.",
+    "after": "The census’s retail classification includes some services and repairs."
+  },
+  {
+    "figure": "station-book",
+    "before": "The table describes administration; it does not count shipments.",
+    "after": "The table records freight administration."
+  },
+  {
+    "figure": "station-book",
+    "before": " Retained codes do not prove usable stockyards or livestock traffic.",
+    "after": ""
+  },
+  {
+    "figure": "dot-town",
+    "before": " Building labels and construction instructions are distinct from evidence of continued trading or completed demolition.",
+    "after": ""
+  },
+  {
+    "figure": "dot-details",
+    "before": " Those instructions do not by themselves identify occupied businesses displaced by construction.",
+    "after": ""
+  },
+  {
+    "figure": "dot-access",
+    "before": " These are provisions for access and wayfinding; they do not count travelers who stopped.",
+    "after": ""
+  },
+  {
+    "figure": "dot-access",
+    "before": " The drawings establish the specified connections and signs, not their opening or installation dates.",
+    "after": ""
+  },
+  {
+    "figure": "functional-chronology",
+    "before": " The events do not form an established chain of causes.",
+    "after": ""
+  },
+  {
+    "figure": "support",
+    "before": "Shared-cost savings and the final closure are unmeasured.",
+    "after": ""
+  },
+  {
+    "figure": "support",
+    "before": "Reason for departure and actual resumption are unknown.",
+    "after": ""
+  },
+  {
+    "figure": "support",
+    "before": "Subscriptions and recruitment are not established.",
+    "after": ""
+  },
+  {
+    "figure": "support",
+    "before": "Her account does not establish the final issue date.",
+    "after": ""
+  },
+  {
+    "figure": "support",
+    "before": "The rows compare sources of support and observed decisions, not financial performance on a common scale. A proposal, an announcement and a completed withdrawal have different evidential status.",
+    "after": "Each row identifies an activity’s support and the dated observation or proposal concerning it."
+  },
+  {
+    "figure": "church",
+    "before": "Neither supplies local attendance, event venue or service frequency.",
+    "after": "The entry does not identify the event venue or attendance."
+  }
+]

@@ -1,0 +1,235 @@
+{
+  "1910": {
+    "named_persons": 545,
+    "published_population": 545,
+    "read_ages": 544,
+    "unknown_ages": 1,
+    "median_read_ages": 20.5,
+    "median_all_possible_bounds": [
+      20,
+      21
+    ],
+    "mean_read_ages": 23.511029411764707,
+    "under18_read": 241,
+    "under18_possible_bounds": [
+      241,
+      242
+    ],
+    "under18_percent_lower": 44.22018348623853,
+    "under18_percent_upper": 44.403669724770644,
+    "age65plus_read": 8,
+    "age65plus_possible_bounds": [
+      8,
+      9
+    ],
+    "recorded_sex_counts": {
+      "M": 276,
+      "F": 269
+    },
+    "age_bins_known": {
+      "0-4": 59,
+      "5-17": 182,
+      "18-34": 168,
+      "35-49": 78,
+      "50-64": 49,
+      "65+": 8
+    },
+    "men_18_to_44_read": 117,
+    "boys_12_to_17_read": 38,
+    "unknown_records": [
+      {
+        "sheet": "2A",
+        "line": 22,
+        "page_or_image": 926
+      }
+    ]
+  },
+  "1920": {
+    "named_persons": 438,
+    "published_population": 438,
+    "read_ages": 438,
+    "unknown_ages": 0,
+    "median_read_ages": 21.0,
+    "median_all_possible_bounds": [
+      21.0,
+      21.0
+    ],
+    "mean_read_ages": 25.461187214611872,
+    "under18_read": 194,
+    "under18_possible_bounds": [
+      194,
+      194
+    ],
+    "under18_percent_lower": 44.29223744292237,
+    "under18_percent_upper": 44.29223744292237,
+    "age65plus_read": 23,
+    "age65plus_possible_bounds": [
+      23,
+      23
+    ],
+    "recorded_sex_counts": {
+      "F": 204,
+      "M": 234
+    },
+    "age_bins_known": {
+      "0-4": 56,
+      "5-17": 138,
+      "18-34": 119,
+      "35-49": 64,
+      "50-64": 38,
+      "65+": 23
+    },
+    "men_18_to_44_read": 86,
+    "boys_12_to_17_read": 24,
+    "unknown_records": []
+  },
+  "1930": {
+    "named_persons": 287,
+    "published_population": 287,
+    "read_ages": 282,
+    "unknown_ages": 5,
+    "median_read_ages": 18.5,
+    "median_all_possible_bounds": [
+      18,
+      19
+    ],
+    "mean_read_ages": 23.407801418439718,
+    "under18_read": 133,
+    "under18_possible_bounds": [
+      133,
+      138
+    ],
+    "under18_percent_lower": 46.34146341463415,
+    "under18_percent_upper": 48.08362369337979,
+    "age65plus_read": 11,
+    "age65plus_possible_bounds": [
+      11,
+      16
+    ],
+    "recorded_sex_counts": {
+      "F": 130,
+      "M": 157
+    },
+    "age_bins_known": {
+      "0-4": 47,
+      "5-17": 86,
+      "18-34": 64,
+      "35-49": 56,
+      "50-64": 18,
+      "65+": 11
+    },
+    "men_18_to_44_read": 54,
+    "boys_12_to_17_read": 18,
+    "unknown_records": [
+      {
+        "sheet": "1A",
+        "line": 8,
+        "page_or_image": 454
+      },
+      {
+        "sheet": "1A",
+        "line": 24,
+        "page_or_image": 454
+      },
+      {
+        "sheet": "1A",
+        "line": 25,
+        "page_or_image": 454
+      },
+      {
+        "sheet": "2B",
+        "line": 91,
+        "page_or_image": 457
+      },
+      {
+        "sheet": "3A",
+        "line": 28,
+        "page_or_image": 458
+      }
+    ]
+  },
+  "1940": {
+    "named_persons": 188,
+    "published_population": 188,
+    "read_ages": 187,
+    "unknown_ages": 1,
+    "median_read_ages": 18,
+    "median_all_possible_bounds": [
+      18.0,
+      18.0
+    ],
+    "mean_read_ages": 23.074866310160427,
+    "under18_read": 90,
+    "under18_possible_bounds": [
+      90,
+      91
+    ],
+    "under18_percent_lower": 47.87234042553192,
+    "under18_percent_upper": 48.40425531914894,
+    "age65plus_read": 7,
+    "age65plus_possible_bounds": [
+      7,
+      8
+    ],
+    "recorded_sex_counts": {
+      "F": 88,
+      "M": 100
+    },
+    "age_bins_known": {
+      "0-4": 28,
+      "5-17": 62,
+      "18-34": 45,
+      "35-49": 31,
+      "50-64": 14,
+      "65+": 7
+    },
+    "men_18_to_44_read": 36,
+    "boys_12_to_17_read": 14,
+    "unknown_records": [
+      {
+        "sheet": "2B",
+        "line": 63,
+        "page_or_image": "m-t0627-02445-00655.jpg"
+      }
+    ]
+  },
+  "1950": {
+    "named_persons": 210,
+    "published_population": 210,
+    "read_ages": 210,
+    "unknown_ages": 0,
+    "median_read_ages": 25.0,
+    "median_all_possible_bounds": [
+      25.0,
+      25.0
+    ],
+    "mean_read_ages": 28.495238095238093,
+    "under18_read": 85,
+    "under18_possible_bounds": [
+      85,
+      85
+    ],
+    "under18_percent_lower": 40.476190476190474,
+    "under18_percent_upper": 40.476190476190474,
+    "age65plus_read": 14,
+    "age65plus_possible_bounds": [
+      14,
+      14
+    ],
+    "recorded_sex_counts": {
+      "M": 109,
+      "F": 101
+    },
+    "age_bins_known": {
+      "0-4": 22,
+      "5-17": 63,
+      "18-34": 51,
+      "35-49": 30,
+      "50-64": 30,
+      "65+": 14
+    },
+    "men_18_to_44_read": 36,
+    "boys_12_to_17_read": 7,
+    "unknown_records": []
+  }
+}

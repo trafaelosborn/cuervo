@@ -1,0 +1,177 @@
+[
+  {
+    "file": "census_1960_nm_housing_equipment.pdf",
+    "url": "https://usa.ipums.org/usa/resources/voliii/pubdocs/1960/Housing/42017038ch1.pdf",
+    "retrieved_utc": "2026-09-25T01:40:57.279469+00:00",
+    "resolved_url": "https://usa.ipums.org/usa/resources/voliii/pubdocs/1960/Housing/42017038ch1.pdf",
+    "status": "downloaded",
+    "bytes": 15332590,
+    "sha256": "44fa48cc5f8393135a4a0edd00997cb9e4a8759f4c9b9dda7ebd349e5b13ccbb"
+  },
+  {
+    "file": "census_1960_housing_definitions.pdf",
+    "url": "https://www2.census.gov/library/publications/decennial/1960/housing-volume-1/41962442v1p4ch1.pdf",
+    "retrieved_utc": "2026-09-25T01:40:57.280469+00:00",
+    "resolved_url": "https://www2.census.gov/library/publications/decennial/1960/housing-volume-1/41962442v1p4ch1.pdf",
+    "status": "downloaded",
+    "bytes": 8344775,
+    "sha256": "8ec41ccc484c5ae7ba671e4e1ed4f59fd2f4c1517897af87bae8e3c17e1d0ba6"
+  },
+  {
+    "file": "glaeser_tobio_2007_sunbelt.pdf",
+    "url": "https://www.nber.org/system/files/working_papers/w13071/w13071.pdf",
+    "retrieved_utc": "2026-09-25T01:40:57.280469+00:00",
+    "resolved_url": "https://www.nber.org/system/files/working_papers/w13071/w13071.pdf",
+    "status": "downloaded",
+    "bytes": 422660,
+    "sha256": "f683d00968331506c44f5a5406f25cd4a3ed56b9efca614b6782fbf5846e4ce7"
+  },
+  {
+    "file": "rappaport_2003_nice_weather.pdf",
+    "url": "https://fmwww.bc.edu/repec/esNASM04/up.30923.1075143636.pdf",
+    "retrieved_utc": "2026-09-25T01:40:57.280469+00:00",
+    "status": "failed",
+    "error": "<urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1010)>"
+  },
+  {
+    "file": "leduc_wilson_2024_sunbelt.pdf",
+    "url": "https://www.frbsf.org/wp-content/uploads/wp2024-21.pdf",
+    "retrieved_utc": "2026-09-25T01:40:57.575303+00:00",
+    "resolved_url": "https://www.frbsf.org/wp-content/uploads/wp2024-21.pdf",
+    "status": "downloaded",
+    "bytes": 6565615,
+    "sha256": "6c2265976bf0a60343963f2ff53770c2f36a954f92546d9d4eccf67403655f2c"
+  },
+  {
+    "file": "ghcnd_stations.txt",
+    "url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt",
+    "retrieved_utc": "2026-09-25T01:40:58.673277+00:00",
+    "resolved_url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt",
+    "status": "downloaded",
+    "bytes": 11395258,
+    "sha256": "14c6467fcce6cce8dc0786eba8bbceed51a2f1c1056b0e221b573157559fc824"
+  },
+  {
+    "file": "ghcnd_inventory.txt",
+    "url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-inventory.txt",
+    "retrieved_utc": "2026-09-25T01:40:59.029449+00:00",
+    "resolved_url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-inventory.txt",
+    "status": "downloaded",
+    "bytes": 36004154,
+    "sha256": "fb8a5b7b5bd25b6828fc822e4a4bc2a036053ac5af30697b4df1386a21cb0e59"
+  },
+  {
+    "file": "rappaport_2003_nice_weather.pdf",
+    "url": "https://fmwww.bc.edu/repec/esNASM04/up.30923.1075143636.pdf",
+    "retrieved_utc": "2026-09-25T01:43:10.240135+00:00",
+    "status": "failed",
+    "error": "<urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1010)>"
+  },
+  {
+    "file": "census_1970_nm_housing_ch2.pdf",
+    "url": "https://www2.census.gov/library/publications/decennial/1970/housing-volume-1/25809063v1p33ch2.pdf",
+    "retrieved_utc": "2026-09-25T01:43:10.276192+00:00",
+    "resolved_url": "https://www2.census.gov/library/publications/decennial/1970/housing-volume-1/25809063v1p33ch2.pdf",
+    "status": "downloaded",
+    "bytes": 11312201,
+    "sha256": "c885bef4959dd2ea40752db6db44a10ef115157fc12e90ed7027e1a11b42a4d2"
+  },
+  {
+    "file": "census_1970_nm_housing_appendix.pdf",
+    "url": "https://www2.census.gov/library/publications/decennial/1970/housing-volume-1/25809063v1p33ch3.pdf",
+    "retrieved_utc": "2026-09-25T01:43:10.284192+00:00",
+    "resolved_url": "https://www2.census.gov/library/publications/decennial/1970/housing-volume-1/25809063v1p33ch3.pdf",
+    "status": "downloaded",
+    "bytes": 3979654,
+    "sha256": "16c2179c52dfb49d6697d441b09f1b9882ce40526bd554e1f39eed9089b015a5"
+  },
+  {
+    "file": "rappaport_2006_nice_weather.pdf",
+    "url": "https://www.kansascityfed.org/documents/5390/pdf-RWP03-07.pdf",
+    "retrieved_utc": "2026-09-25T01:43:10.306722+00:00",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "file": "barreca_et_al_2015_mortality.pdf",
+    "url": "https://impactlab.org/wp-content/uploads/2017/09/Barreca-2016-Adapting-to-Climate-Change.pdf",
+    "retrieved_utc": "2026-09-25T01:43:10.492144+00:00",
+    "resolved_url": "https://impactlab.org/wp-content/uploads/2017/09/Barreca-2016-Adapting-to-Climate-Change.pdf",
+    "status": "downloaded",
+    "bytes": 635425,
+    "sha256": "069dad604b22f2b3112b844dc8516d9b376ed33e0ef87f4aa11edcd8321966b2"
+  },
+  {
+    "file": "santa_rosa_ghcnd.dly",
+    "url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/all/USC00298107.dly",
+    "retrieved_utc": "2026-09-25T01:43:11.037887+00:00",
+    "resolved_url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/all/USC00298107.dly",
+    "status": "downloaded",
+    "bytes": 1800360,
+    "sha256": "035be3c921c8cbfcdb03ae65985fac75d4c4494f62fa4d3e08dd70cdc1390037"
+  },
+  {
+    "file": "ghcnd_readme.txt",
+    "url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/readme.txt",
+    "retrieved_utc": "2026-09-25T01:43:11.579635+00:00",
+    "resolved_url": "https://www.ncei.noaa.gov/pub/data/ghcn/daily/readme.txt",
+    "status": "downloaded",
+    "bytes": 28567,
+    "sha256": "3a71ae355252a6693a56a473ed7182b500ae7816c2cb2b2ce708c1e9ea9dcfde"
+  },
+  {
+    "file": "united_power_1940_opinion.html",
+    "url": "https://calculators.law/caselaw/decisions/oeW8n71z53dM/in-re-united-power-co-taxes-for-1937",
+    "retrieved_utc": "2026-09-25T01:43:11.748241+00:00",
+    "resolved_url": "https://calculators.law/caselaw/decisions/oeW8n71z53dM/in-re-united-power-co-taxes-for-1937",
+    "status": "downloaded",
+    "bytes": 29397,
+    "sha256": "6d3b35c18f5b4713b17db67b4f975eb65e43b6e662968a3aae489b8f92dad250"
+  },
+  {
+    "file": "farmers_electric_nm.html",
+    "url": "https://www.fecnm.org/",
+    "retrieved_utc": "2026-09-25T01:43:12.029698+00:00",
+    "resolved_url": "https://www.fecnm.org/",
+    "status": "downloaded",
+    "bytes": 128630,
+    "sha256": "025317c9477f92a09e04c4783994ed8f9d174cc9f176a3c251d185d09f9c4b0c"
+  },
+  {
+    "file": "biddle_2008_researchgate.html",
+    "url": "https://www.researchgate.net/publication/222777062_Explaining_the_spread_of_residential_air_conditioning_1955-1980",
+    "retrieved_utc": "2026-09-25T01:43:12.045205+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "biddle_2010_researchgate.html",
+    "url": "https://www.researchgate.net/publication/241698792_Air_Conditioning_Migration_and_Climate-Related_Wage_and_Rent_Differentials",
+    "retrieved_utc": "2026-09-25T01:43:12.378343+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "rappaport_2006_nice_weather.pdf",
+    "url": "https://www.kansascityfed.org/documents/5390/pdf-RWP03-07.pdf",
+    "retrieved_utc": "2026-09-25T01:47:48.752951+00:00",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "file": "census_1980_nm_summary_governmental.pdf",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/1980_Census_of_Population_and_Housing._Summary_Characteristics_for_Governmental_Units_and_SMSAs_New_Mexico_%28IA_1980censusofpopu80333unse%29.pdf",
+    "retrieved_utc": "2026-09-25T01:47:48.753952+00:00",
+    "resolved_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/1980_Census_of_Population_and_Housing._Summary_Characteristics_for_Governmental_Units_and_SMSAs_New_Mexico_%28IA_1980censusofpopu80333unse%29.pdf",
+    "status": "downloaded",
+    "bytes": 3489330,
+    "sha256": "01944b2c6a55ea421c57bb1065193df3a2d7c66c15ee60cd60675115b8a3e6b6"
+  },
+  {
+    "file": "doe_evaporative_coolers.html",
+    "url": "https://www.energy.gov/energysaver/evaporative-coolers",
+    "retrieved_utc": "2026-09-25T01:47:48.753952+00:00",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

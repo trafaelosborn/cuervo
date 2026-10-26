@@ -1,0 +1,788 @@
+{
+  "status": "passed",
+  "pages": 148,
+  "output_bytes": 9618641,
+  "decimal_MB": 9.619,
+  "all_text_unchanged": true,
+  "all_page_drawing_commands_unchanged": true,
+  "all_page_boxes_unchanged": true,
+  "annotations_preserved": 367,
+  "bookmarks_preserved": 10,
+  "font_programs_and_character_maps_unchanged": true,
+  "embedded_fonts": 5,
+  "charts_and_masks_pixel_identical": 12,
+  "source_scans_full_resolution": true,
+  "source_master_unchanged": true,
+  "image_checks": [
+    {
+      "page": 3,
+      "kind": "photograph",
+      "original_pixels": [
+        1861,
+        1396
+      ],
+      "compact_pixels": [
+        1100,
+        825
+      ]
+    },
+    {
+      "page": 5,
+      "kind": "source scan",
+      "original_pixels": [
+        395,
+        611
+      ],
+      "compact_pixels": [
+        395,
+        611
+      ]
+    },
+    {
+      "page": 5,
+      "kind": "source scan",
+      "original_pixels": [
+        1442,
+        242
+      ],
+      "compact_pixels": [
+        1442,
+        242
+      ]
+    },
+    {
+      "page": 5,
+      "kind": "source scan",
+      "original_pixels": [
+        393,
+        160
+      ],
+      "compact_pixels": [
+        393,
+        160
+      ]
+    },
+    {
+      "page": 5,
+      "kind": "source scan",
+      "original_pixels": [
+        393,
+        119
+      ],
+      "compact_pixels": [
+        393,
+        119
+      ]
+    },
+    {
+      "page": 7,
+      "kind": "chart",
+      "original_pixels": [
+        1875,
+        1711
+      ],
+      "compact_pixels": [
+        1875,
+        1711
+      ]
+    },
+    {
+      "page": 10,
+      "kind": "photograph",
+      "original_pixels": [
+        1999,
+        1333
+      ],
+      "compact_pixels": [
+        1100,
+        734
+      ]
+    },
+    {
+      "page": 14,
+      "kind": "photograph",
+      "original_pixels": [
+        1861,
+        1396
+      ],
+      "compact_pixels": [
+        1100,
+        825
+      ]
+    },
+    {
+      "page": 18,
+      "kind": "source scan",
+      "original_pixels": [
+        660,
+        340
+      ],
+      "compact_pixels": [
+        660,
+        340
+      ]
+    },
+    {
+      "page": 18,
+      "kind": "source scan",
+      "original_pixels": [
+        708,
+        875
+      ],
+      "compact_pixels": [
+        708,
+        875
+      ]
+    },
+    {
+      "page": 21,
+      "kind": "source scan",
+      "original_pixels": [
+        896,
+        389
+      ],
+      "compact_pixels": [
+        896,
+        389
+      ]
+    },
+    {
+      "page": 21,
+      "kind": "source scan",
+      "original_pixels": [
+        896,
+        360
+      ],
+      "compact_pixels": [
+        896,
+        360
+      ]
+    },
+    {
+      "page": 21,
+      "kind": "source scan",
+      "original_pixels": [
+        810,
+        390
+      ],
+      "compact_pixels": [
+        810,
+        390
+      ]
+    },
+    {
+      "page": 21,
+      "kind": "source scan",
+      "original_pixels": [
+        604,
+        716
+      ],
+      "compact_pixels": [
+        604,
+        716
+      ]
+    },
+    {
+      "page": 23,
+      "kind": "source scan",
+      "original_pixels": [
+        386,
+        186
+      ],
+      "compact_pixels": [
+        386,
+        186
+      ]
+    },
+    {
+      "page": 23,
+      "kind": "source scan",
+      "original_pixels": [
+        1143,
+        831
+      ],
+      "compact_pixels": [
+        1143,
+        831
+      ]
+    },
+    {
+      "page": 23,
+      "kind": "source scan",
+      "original_pixels": [
+        386,
+        113
+      ],
+      "compact_pixels": [
+        386,
+        113
+      ]
+    },
+    {
+      "page": 25,
+      "kind": "photograph",
+      "original_pixels": [
+        950,
+        1425
+      ],
+      "compact_pixels": [
+        733,
+        1100
+      ]
+    },
+    {
+      "page": 25,
+      "kind": "photograph",
+      "original_pixels": [
+        950,
+        1425
+      ],
+      "compact_pixels": [
+        733,
+        1100
+      ]
+    },
+    {
+      "page": 31,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "compact_pixels": [
+        1100,
+        733
+      ]
+    },
+    {
+      "page": 36,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1562
+      ],
+      "compact_pixels": [
+        1708,
+        1562
+      ]
+    },
+    {
+      "page": 40,
+      "kind": "chart",
+      "original_pixels": [
+        1875,
+        1805
+      ],
+      "compact_pixels": [
+        1875,
+        1805
+      ]
+    },
+    {
+      "page": 44,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1098
+      ],
+      "compact_pixels": [
+        1708,
+        1098
+      ]
+    },
+    {
+      "page": 48,
+      "kind": "chart",
+      "original_pixels": [
+        1833,
+        1833
+      ],
+      "compact_pixels": [
+        1833,
+        1833
+      ]
+    },
+    {
+      "page": 53,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "compact_pixels": [
+        1100,
+        733
+      ]
+    },
+    {
+      "page": 57,
+      "kind": "source scan",
+      "original_pixels": [
+        403,
+        471
+      ],
+      "compact_pixels": [
+        403,
+        471
+      ]
+    },
+    {
+      "page": 57,
+      "kind": "source scan",
+      "original_pixels": [
+        382,
+        388
+      ],
+      "compact_pixels": [
+        382,
+        388
+      ]
+    },
+    {
+      "page": 59,
+      "kind": "source scan",
+      "original_pixels": [
+        1542,
+        680
+      ],
+      "compact_pixels": [
+        1542,
+        680
+      ]
+    },
+    {
+      "page": 59,
+      "kind": "source scan",
+      "original_pixels": [
+        1541,
+        1168
+      ],
+      "compact_pixels": [
+        1541,
+        1168
+      ]
+    },
+    {
+      "page": 60,
+      "kind": "photograph",
+      "original_pixels": [
+        1999,
+        1333
+      ],
+      "compact_pixels": [
+        1100,
+        734
+      ]
+    },
+    {
+      "page": 62,
+      "kind": "source scan",
+      "original_pixels": [
+        429,
+        1201
+      ],
+      "compact_pixels": [
+        429,
+        1201
+      ]
+    },
+    {
+      "page": 65,
+      "kind": "source scan",
+      "original_pixels": [
+        399,
+        1276
+      ],
+      "compact_pixels": [
+        399,
+        1276
+      ]
+    },
+    {
+      "page": 65,
+      "kind": "source scan",
+      "original_pixels": [
+        399,
+        825
+      ],
+      "compact_pixels": [
+        399,
+        825
+      ]
+    },
+    {
+      "page": 71,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "compact_pixels": [
+        1100,
+        733
+      ]
+    },
+    {
+      "page": 74,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1559
+      ],
+      "compact_pixels": [
+        1708,
+        1559
+      ]
+    },
+    {
+      "page": 76,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1510
+      ],
+      "compact_pixels": [
+        1708,
+        1510
+      ]
+    },
+    {
+      "page": 80,
+      "kind": "source scan",
+      "original_pixels": [
+        852,
+        233
+      ],
+      "compact_pixels": [
+        852,
+        233
+      ]
+    },
+    {
+      "page": 80,
+      "kind": "source scan",
+      "original_pixels": [
+        769,
+        233
+      ],
+      "compact_pixels": [
+        769,
+        233
+      ]
+    },
+    {
+      "page": 80,
+      "kind": "source scan",
+      "original_pixels": [
+        481,
+        198
+      ],
+      "compact_pixels": [
+        481,
+        198
+      ]
+    },
+    {
+      "page": 80,
+      "kind": "source scan",
+      "original_pixels": [
+        450,
+        198
+      ],
+      "compact_pixels": [
+        450,
+        198
+      ]
+    },
+    {
+      "page": 84,
+      "kind": "photograph",
+      "original_pixels": [
+        1525,
+        1017
+      ],
+      "compact_pixels": [
+        1100,
+        734
+      ]
+    },
+    {
+      "page": 84,
+      "kind": "photograph",
+      "original_pixels": [
+        1525,
+        1144
+      ],
+      "compact_pixels": [
+        1100,
+        825
+      ]
+    },
+    {
+      "page": 87,
+      "kind": "chart",
+      "original_pixels": [
+        1833,
+        1195
+      ],
+      "compact_pixels": [
+        1833,
+        1195
+      ]
+    },
+    {
+      "page": 92,
+      "kind": "photograph",
+      "original_pixels": [
+        1861,
+        1396
+      ],
+      "compact_pixels": [
+        1100,
+        825
+      ]
+    },
+    {
+      "page": 95,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1395
+      ],
+      "compact_pixels": [
+        1708,
+        1395
+      ]
+    },
+    {
+      "page": 97,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1371
+      ],
+      "compact_pixels": [
+        1708,
+        1371
+      ]
+    },
+    {
+      "page": 102,
+      "kind": "photograph",
+      "original_pixels": [
+        2000,
+        1500
+      ],
+      "compact_pixels": [
+        1100,
+        825
+      ]
+    },
+    {
+      "page": 105,
+      "kind": "source scan",
+      "original_pixels": [
+        945,
+        56
+      ],
+      "compact_pixels": [
+        945,
+        56
+      ]
+    },
+    {
+      "page": 105,
+      "kind": "source scan",
+      "original_pixels": [
+        1295,
+        148
+      ],
+      "compact_pixels": [
+        1295,
+        148
+      ]
+    },
+    {
+      "page": 105,
+      "kind": "source scan",
+      "original_pixels": [
+        1295,
+        170
+      ],
+      "compact_pixels": [
+        1295,
+        170
+      ]
+    },
+    {
+      "page": 108,
+      "kind": "source scan",
+      "original_pixels": [
+        1950,
+        1247
+      ],
+      "compact_pixels": [
+        1950,
+        1247
+      ]
+    },
+    {
+      "page": 109,
+      "kind": "source scan",
+      "original_pixels": [
+        1950,
+        770
+      ],
+      "compact_pixels": [
+        1950,
+        770
+      ]
+    },
+    {
+      "page": 109,
+      "kind": "source scan",
+      "original_pixels": [
+        1950,
+        673
+      ],
+      "compact_pixels": [
+        1950,
+        673
+      ]
+    },
+    {
+      "page": 110,
+      "kind": "source scan",
+      "original_pixels": [
+        500,
+        948
+      ],
+      "compact_pixels": [
+        500,
+        948
+      ]
+    },
+    {
+      "page": 110,
+      "kind": "source scan",
+      "original_pixels": [
+        1950,
+        806
+      ],
+      "compact_pixels": [
+        1950,
+        806
+      ]
+    },
+    {
+      "page": 113,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        2045
+      ],
+      "compact_pixels": [
+        1708,
+        2045
+      ]
+    },
+    {
+      "page": 117,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "compact_pixels": [
+        1100,
+        733
+      ]
+    },
+    {
+      "page": 119,
+      "kind": "chart",
+      "original_pixels": [
+        1792,
+        2128
+      ],
+      "compact_pixels": [
+        1792,
+        2128
+      ]
+    },
+    {
+      "page": 126,
+      "kind": "photograph",
+      "original_pixels": [
+        1999,
+        1333
+      ],
+      "compact_pixels": [
+        1100,
+        734
+      ]
+    },
+    {
+      "page": 131,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "compact_pixels": [
+        1100,
+        733
+      ]
+    },
+    {
+      "page": 135,
+      "kind": "source scan",
+      "original_pixels": [
+        675,
+        444
+      ],
+      "compact_pixels": [
+        675,
+        444
+      ]
+    },
+    {
+      "page": 135,
+      "kind": "source scan",
+      "original_pixels": [
+        283,
+        225
+      ],
+      "compact_pixels": [
+        283,
+        225
+      ]
+    },
+    {
+      "page": 137,
+      "kind": "photograph",
+      "original_pixels": [
+        1917,
+        1438
+      ],
+      "compact_pixels": [
+        1100,
+        825
+      ]
+    },
+    {
+      "page": 138,
+      "kind": "photograph",
+      "original_pixels": [
+        1375,
+        1833
+      ],
+      "compact_pixels": [
+        825,
+        1100
+      ]
+    }
+  ],
+  "sha256": "bc14e0b5fcc2040602568ea49eb9a2216d94b3d39172665442878965d7bd1091",
+  "visual_review": "passed"
+}

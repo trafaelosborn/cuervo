@@ -1,0 +1,147 @@
+{
+  "source": "sources/DOT/I-040-5(13)291-AS-BUILT.pdf",
+  "sha256": "a42fdd8025076cb38c27c9aca2c738947376b3bdca282a4e12e35783c66e6382",
+  "treatment": "PDF rendering and rectangular cropping only. Original marks retained; no generative restoration, erasure or contrast reconstruction.",
+  "plates": {
+    "dot-town": {
+      "pdf_page": 151,
+      "render_pixels": [
+        6000,
+        4637
+      ],
+      "crop_pixels": [
+        176,
+        582,
+        5751,
+        4146
+      ],
+      "output_pixels": [
+        5575,
+        3564
+      ]
+    },
+    "dot-north": {
+      "pdf_page": 151,
+      "render_pixels": [
+        6000,
+        4637
+      ],
+      "crop_pixels": [
+        3123,
+        688,
+        5716,
+        1712
+      ],
+      "output_pixels": [
+        2593,
+        1024
+      ]
+    },
+    "dot-south": {
+      "pdf_page": 151,
+      "render_pixels": [
+        6000,
+        4637
+      ],
+      "crop_pixels": [
+        2170,
+        1641,
+        5751,
+        2876
+      ],
+      "output_pixels": [
+        3581,
+        1235
+      ]
+    },
+    "dot-interchange": {
+      "pdf_page": 137,
+      "render_pixels": [
+        6000,
+        4637
+      ],
+      "crop_pixels": [
+        309,
+        1059,
+        5734,
+        3300
+      ],
+      "output_pixels": [
+        5425,
+        2241
+      ]
+    },
+    "dot-signs": {
+      "pdf_page": 114,
+      "render_pixels": [
+        6000,
+        4637
+      ],
+      "crop_pixels": [
+        3220,
+        723,
+        4216,
+        2611
+      ],
+      "output_pixels": [
+        996,
+        1888
+      ]
+    }
+  },
+  "chronology": {
+    "base": "manuscript/figures/book-revision06/sources.json",
+    "events": [
+      [
+        "Southwest highway",
+        1952,
+        1952,
+        "1952 / Route relocated",
+        "point"
+      ],
+      [
+        "Local passenger stops",
+        1958.3205479452056,
+        1958.8191780821917,
+        "Apr–Oct 1958 / Stops disappear",
+        "bracket"
+      ],
+      [
+        "Train-order office",
+        1956.7459016393443,
+        1958.8191780821917,
+        "Sep 1956–Oct 1958 / Designation disappears",
+        "bracket"
+      ],
+      [
+        "Cuervo interchange plan",
+        1963.5342465753424,
+        1963.5342465753424,
+        "15 Jul 1963 / State approval; opening date unestablished",
+        "approval"
+      ],
+      [
+        "Nearby interstate project",
+        1963,
+        1965,
+        "1963–1965 / Recorded construction interval",
+        "construction"
+      ],
+      [
+        "Through Golden State",
+        1968,
+        1968,
+        "Mar 1968 / Golden State discontinued",
+        "point"
+      ],
+      [
+        "Freight administration",
+        1974.9534246575342,
+        1974.9534246575342,
+        "Dec 1974 / No agent; billing at Tucumcari",
+        "point"
+      ]
+    ],
+    "addition": "State approval of project I-040-5(13)291; separate from nearby construction interval."
+  }
+}

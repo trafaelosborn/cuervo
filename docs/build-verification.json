@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-26",
+  "environment": "Windows, Python 3.12, versions pinned in requirements.txt",
+  "test": "Built from a separate copy of the repository using included manuscript and figure assets, with the portable font fallback forced on.",
+  "external_source_archive_needed_for_current_typesetting": false,
+  "pages": 148,
+  "page_size_points": [612, 792],
+  "embedded_font_faces": 5,
+  "annotations": 367,
+  "bookmarks": 10,
+  "all_page_text_matches_approved_print_edition": true,
+  "page_geometry_and_link_destinations_match": true,
+  "published_print_sha256": "dcfe3bbcab511a1e22efc6ae37bc81dc8a764137cd7df8bdaa0d7099944e6240",
+  "test_build_sha256": "63023a40a532f0971111f74d0ad4ecade39e360559ae414dd248da5e3c08ac22",
+  "published_release_checksums_verified": true,
+  "historical_research_scripts": "Preserved with their dated evidence; not all historical acquisition and analysis scripts were rerun."
+}

@@ -1,0 +1,516 @@
+{
+  "cuervo_1950": {
+    "count": 210,
+    "median_age": 25.0,
+    "mean_age": 28.495238095238093,
+    "under_18": 85,
+    "age_65_plus": 14,
+    "age_bins": {
+      "0-4": 22,
+      "5-17": 63,
+      "18-34": 51,
+      "35-49": 30,
+      "50-64": 30,
+      "65+": 14
+    },
+    "sheet_person_counts": {
+      "1": 27,
+      "2": 28,
+      "3": 27,
+      "4": 30,
+      "5": 22,
+      "6": 26,
+      "7": 27,
+      "8": 19,
+      "71": 4
+    }
+  },
+  "changes": {
+    "Santa Rosa city;population;1970-2020": {
+      "from": 2485,
+      "to": 2850,
+      "difference": 365,
+      "percent_change": 14.68812877263581
+    },
+    "Santa Rosa city;population;1980-2020": {
+      "from": 2469,
+      "to": 2850,
+      "difference": 381,
+      "percent_change": 15.431348724179838
+    },
+    "Santa Rosa city;population;1990-2000": {
+      "from": 2263,
+      "to": 2744,
+      "difference": 481,
+      "percent_change": 21.254971277065838
+    },
+    "Santa Rosa city;population;1990-2020": {
+      "from": 2263,
+      "to": 2850,
+      "difference": 587,
+      "percent_change": 25.93901900132567
+    },
+    "Santa Rosa city;population;2000-2020": {
+      "from": 2744,
+      "to": 2850,
+      "difference": 106,
+      "percent_change": 3.8629737609329418
+    },
+    "Santa Rosa city;population;2010-2020": {
+      "from": 2848,
+      "to": 2850,
+      "difference": 2,
+      "percent_change": 0.0702247191011196
+    },
+    "Santa Rosa city;household_population;1980-2020": {
+      "from": 2467,
+      "to": 2261,
+      "difference": -206,
+      "percent_change": -8.350222942845564
+    },
+    "Santa Rosa city;household_population;1990-2000": {
+      "from": 2240,
+      "to": 2241,
+      "difference": 1,
+      "percent_change": 0.04464285714285143
+    },
+    "Santa Rosa city;household_population;1990-2020": {
+      "from": 2240,
+      "to": 2261,
+      "difference": 21,
+      "percent_change": 0.9374999999999911
+    },
+    "Santa Rosa city;household_population;2000-2020": {
+      "from": 2241,
+      "to": 2261,
+      "difference": 20,
+      "percent_change": 0.8924587237840287
+    },
+    "Santa Rosa city;household_population;2010-2020": {
+      "from": 2280,
+      "to": 2261,
+      "difference": -19,
+      "percent_change": -0.8333333333333304
+    },
+    "Santa Rosa city;households;1980-2020": {
+      "from": 811,
+      "to": 980,
+      "difference": 169,
+      "percent_change": 20.838471023427864
+    },
+    "Santa Rosa city;households;1990-2000": {
+      "from": 810,
+      "to": 898,
+      "difference": 88,
+      "percent_change": 10.864197530864207
+    },
+    "Santa Rosa city;households;1990-2020": {
+      "from": 810,
+      "to": 980,
+      "difference": 170,
+      "percent_change": 20.98765432098766
+    },
+    "Santa Rosa city;households;2000-2020": {
+      "from": 898,
+      "to": 980,
+      "difference": 82,
+      "percent_change": 9.131403118040083
+    },
+    "Santa Rosa city;households;2010-2020": {
+      "from": 981,
+      "to": 980,
+      "difference": -1,
+      "percent_change": -0.10193679918450993
+    },
+    "Los Lunas village;population;1970-2020": {
+      "from": 973,
+      "to": 17242,
+      "difference": 16269,
+      "percent_change": 1672.0452209660841
+    },
+    "Los Lunas village;population;1980-2020": {
+      "from": 3525,
+      "to": 17242,
+      "difference": 13717,
+      "percent_change": 389.13475177304963
+    },
+    "Los Lunas village;population;1990-2000": {
+      "from": 6013,
+      "to": 10034,
+      "difference": 4021,
+      "percent_change": 66.87177781473474
+    },
+    "Los Lunas village;population;1990-2020": {
+      "from": 6013,
+      "to": 17242,
+      "difference": 11229,
+      "percent_change": 186.7453849991685
+    },
+    "Los Lunas village;population;2000-2020": {
+      "from": 10034,
+      "to": 17242,
+      "difference": 7208,
+      "percent_change": 71.83575842136736
+    },
+    "Los Lunas village;population;2010-2020": {
+      "from": 14835,
+      "to": 17242,
+      "difference": 2407,
+      "percent_change": 16.22514324233233
+    },
+    "Los Lunas village;household_population;1980-2020": {
+      "from": 3158,
+      "to": 16994,
+      "difference": 13836,
+      "percent_change": 438.1253958201393
+    },
+    "Los Lunas village;household_population;1990-2000": {
+      "from": 5936,
+      "to": 9920,
+      "difference": 3984,
+      "percent_change": 67.11590296495957
+    },
+    "Los Lunas village;household_population;1990-2020": {
+      "from": 5936,
+      "to": 16994,
+      "difference": 11058,
+      "percent_change": 186.2870619946092
+    },
+    "Los Lunas village;household_population;2000-2020": {
+      "from": 9920,
+      "to": 16994,
+      "difference": 7074,
+      "percent_change": 71.31048387096774
+    },
+    "Los Lunas village;household_population;2010-2020": {
+      "from": 14688,
+      "to": 16994,
+      "difference": 2306,
+      "percent_change": 15.699891067538129
+    },
+    "Los Lunas village;households;1980-2020": {
+      "from": 1043,
+      "to": 6393,
+      "difference": 5350,
+      "percent_change": 512.9434324065197
+    },
+    "Los Lunas village;households;1990-2000": {
+      "from": 2059,
+      "to": 3601,
+      "difference": 1542,
+      "percent_change": 74.89072365225837
+    },
+    "Los Lunas village;households;1990-2020": {
+      "from": 2059,
+      "to": 6393,
+      "difference": 4334,
+      "percent_change": 210.49052938319574
+    },
+    "Los Lunas village;households;2000-2020": {
+      "from": 3601,
+      "to": 6393,
+      "difference": 2792,
+      "percent_change": 77.53401832824215
+    },
+    "Los Lunas village;households;2010-2020": {
+      "from": 5463,
+      "to": 6393,
+      "difference": 930,
+      "percent_change": 17.023613399231195
+    },
+    "Guadalupe County;population;1970-2020": {
+      "from": 4969,
+      "to": 4452,
+      "difference": -517,
+      "percent_change": -10.404507949285568
+    },
+    "Guadalupe County;population;1980-2020": {
+      "from": 4496,
+      "to": 4452,
+      "difference": -44,
+      "percent_change": -0.9786476868327454
+    },
+    "Guadalupe County;population;1990-2000": {
+      "from": 4156,
+      "to": 4680,
+      "difference": 524,
+      "percent_change": 12.6082771896054
+    },
+    "Guadalupe County;population;1990-2020": {
+      "from": 4156,
+      "to": 4452,
+      "difference": 296,
+      "percent_change": 7.122232916265636
+    },
+    "Guadalupe County;population;2000-2020": {
+      "from": 4680,
+      "to": 4452,
+      "difference": -228,
+      "percent_change": -4.871794871794877
+    },
+    "Guadalupe County;population;2010-2020": {
+      "from": 4687,
+      "to": 4452,
+      "difference": -235,
+      "percent_change": -5.013868145935563
+    },
+    "Guadalupe County;household_population;1980-2020": {
+      "from": 4494,
+      "to": 3855,
+      "difference": -639,
+      "percent_change": -14.21895861148198
+    },
+    "Guadalupe County;household_population;1990-2000": {
+      "from": 4133,
+      "to": 4155,
+      "difference": 22,
+      "percent_change": 0.5323009920154886
+    },
+    "Guadalupe County;household_population;1990-2020": {
+      "from": 4133,
+      "to": 3855,
+      "difference": -278,
+      "percent_change": -6.726348899104762
+    },
+    "Guadalupe County;household_population;2000-2020": {
+      "from": 4155,
+      "to": 3855,
+      "difference": -300,
+      "percent_change": -7.220216606498198
+    },
+    "Guadalupe County;household_population;2010-2020": {
+      "from": 4116,
+      "to": 3855,
+      "difference": -261,
+      "percent_change": -6.341107871720119
+    },
+    "Guadalupe County;households;1980-2020": {
+      "from": 1498,
+      "to": 1659,
+      "difference": 161,
+      "percent_change": 10.747663551401864
+    },
+    "Guadalupe County;households;1990-2000": {
+      "from": 1520,
+      "to": 1655,
+      "difference": 135,
+      "percent_change": 8.881578947368428
+    },
+    "Guadalupe County;households;1990-2020": {
+      "from": 1520,
+      "to": 1659,
+      "difference": 139,
+      "percent_change": 9.14473684210526
+    },
+    "Guadalupe County;households;2000-2020": {
+      "from": 1655,
+      "to": 1659,
+      "difference": 4,
+      "percent_change": 0.24169184290030454
+    },
+    "Guadalupe County;households;2010-2020": {
+      "from": 1766,
+      "to": 1659,
+      "difference": -107,
+      "percent_change": -6.058890147225371
+    },
+    "Tucumcari city;population;1970-2020": {
+      "from": 7189,
+      "to": 5278,
+      "difference": -1911,
+      "percent_change": -26.582278481012654
+    },
+    "Tucumcari city;population;1980-2020": {
+      "from": 6765,
+      "to": 5278,
+      "difference": -1487,
+      "percent_change": -21.98078344419808
+    },
+    "Tucumcari city;population;1990-2000": {
+      "from": 6831,
+      "to": 5989,
+      "difference": -842,
+      "percent_change": -12.326160152247112
+    },
+    "Tucumcari city;population;1990-2020": {
+      "from": 6831,
+      "to": 5278,
+      "difference": -1553,
+      "percent_change": -22.734592299809687
+    },
+    "Tucumcari city;population;2000-2020": {
+      "from": 5989,
+      "to": 5278,
+      "difference": -711,
+      "percent_change": -11.871764902320924
+    },
+    "Tucumcari city;population;2010-2020": {
+      "from": 5363,
+      "to": 5278,
+      "difference": -85,
+      "percent_change": -1.5849338057057571
+    },
+    "Tucumcari city;household_population;2010-2020": {
+      "from": 5341,
+      "to": 5226,
+      "difference": -115,
+      "percent_change": -2.153154839917615
+    },
+    "Tucumcari city;households;2010-2020": {
+      "from": 2410,
+      "to": 2304,
+      "difference": -106,
+      "percent_change": -4.398340248962651
+    },
+    "Vaughn town;population;1970-2020": {
+      "from": 867,
+      "to": 286,
+      "difference": -581,
+      "percent_change": -67.01268742791234
+    },
+    "Vaughn town;population;1980-2020": {
+      "from": 737,
+      "to": 286,
+      "difference": -451,
+      "percent_change": -61.19402985074627
+    },
+    "Vaughn town;population;1990-2000": {
+      "from": 633,
+      "to": 539,
+      "difference": -94,
+      "percent_change": -14.849921011058454
+    },
+    "Vaughn town;population;1990-2020": {
+      "from": 633,
+      "to": 286,
+      "difference": -347,
+      "percent_change": -54.81832543443919
+    },
+    "Vaughn town;population;2000-2020": {
+      "from": 539,
+      "to": 286,
+      "difference": -253,
+      "percent_change": -46.93877551020408
+    },
+    "Vaughn town;population;2010-2020": {
+      "from": 446,
+      "to": 286,
+      "difference": -160,
+      "percent_change": -35.87443946188341
+    },
+    "Vaughn town;household_population;2000-2020": {
+      "from": 539,
+      "to": 286,
+      "difference": -253,
+      "percent_change": -46.93877551020408
+    },
+    "Vaughn town;household_population;2010-2020": {
+      "from": 443,
+      "to": 286,
+      "difference": -157,
+      "percent_change": -35.440180586907445
+    },
+    "Vaughn town;households;2000-2020": {
+      "from": 232,
+      "to": 134,
+      "difference": -98,
+      "percent_change": -42.241379310344826
+    },
+    "Vaughn town;households;2010-2020": {
+      "from": 206,
+      "to": 134,
+      "difference": -72,
+      "percent_change": -34.95145631067961
+    },
+    "New Mexico;population;2010-2020": {
+      "from": 2059179,
+      "to": 2117522,
+      "difference": 58343,
+      "percent_change": 2.8333136653005964
+    },
+    "New Mexico;household_population;2010-2020": {
+      "from": 2016550,
+      "to": 2074672,
+      "difference": 58122,
+      "percent_change": 2.8822493863281284
+    },
+    "New Mexico;households;2010-2020": {
+      "from": 791395,
+      "to": 829514,
+      "difference": 38119,
+      "percent_change": 4.816684462247034
+    },
+    "Albuquerque city;population;2010-2020": {
+      "from": 545852,
+      "to": 564559,
+      "difference": 18707,
+      "percent_change": 3.4271194389688064
+    },
+    "Albuquerque city;household_population;2010-2020": {
+      "from": 538193,
+      "to": 556406,
+      "difference": 18213,
+      "percent_change": 3.384101985718879
+    },
+    "Albuquerque city;households;2010-2020": {
+      "from": 224330,
+      "to": 237826,
+      "difference": 13496,
+      "percent_change": 6.016136941113537
+    },
+    "Los Ranchos de Albuquerque village;population;2010-2020": {
+      "from": 6024,
+      "to": 5874,
+      "difference": -150,
+      "percent_change": -2.490039840637448
+    },
+    "Los Ranchos de Albuquerque village;household_population;2010-2020": {
+      "from": 6024,
+      "to": 5874,
+      "difference": -150,
+      "percent_change": -2.490039840637448
+    },
+    "Los Ranchos de Albuquerque village;households;2010-2020": {
+      "from": 2576,
+      "to": 2543,
+      "difference": -33,
+      "percent_change": -1.2810559006211197
+    },
+    "Newkirk CDP;population;2010-2020": {
+      "from": 7,
+      "to": 8,
+      "difference": 1,
+      "percent_change": 14.28571428571428
+    },
+    "Newkirk CDP;household_population;2010-2020": {
+      "from": 7,
+      "to": 8,
+      "difference": 1,
+      "percent_change": 14.28571428571428
+    },
+    "Newkirk CDP;households;2010-2020": {
+      "from": 5,
+      "to": 6,
+      "difference": 1,
+      "percent_change": 19.999999999999996
+    }
+  },
+  "santa_rosa_1990_2020_share_of_net_growth_in_group_quarters": 0.9642248722316865,
+  "county_outside_santa_rosa_household_population": {
+    "1980": 2027,
+    "1990": 1893,
+    "2000": 1914,
+    "2010": 1836,
+    "2020": 1594
+  },
+  "county_outside_santa_rosa_total": {
+    "1950": 4573,
+    "1960": 3390,
+    "1970": 2484,
+    "1980": 2027,
+    "1990": 1893,
+    "2000": 1936,
+    "2010": 1839,
+    "2020": 1602
+  }
+}

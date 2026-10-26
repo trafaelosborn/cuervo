@@ -1,0 +1,107 @@
+# Manual first-pass household/name readings, September 19, 2026.
+# year;head sheet:line;default surname;members in schedule order separated by |.
+# Surname,given overrides the default. Question mark marks uncertain reading.
+# Group boundaries follow HEAD entries and household continuation, not the dwelling serial alone.
+# Ages, recorded sex, and exact source rows are joined from the prior full-coverage age inventory.
+# Spellings are provisional; these entries are finding aids, not a diplomatic transcription.
+1940;1A:1;Chavez;Manuelita|Aurelia|Alfonso|Procopio|Elisea|Ventura
+1940;1A:7;Baily;William T.|Victoria|Bill|John|Rena|Henry|Esabell|Frank|Marie
+1940;1A:16;Kingston;Jim|Grace|Juanita|Gladys|Madie|J. V.
+1940;1A:22;Gunter;W. M.|Louise|Billy Bob
+1940;1A:25;Griego;Bernardo|Genoveva|Carlos|Maria Serafina|Erlinda|Bernardo Jr.|Angelina|Clisofeia?
+1940;1A:33;Quintana;Manuel|Quiteria|Cristobal|Patricio|Carmel|Jose
+1940;1A:39;Chavez;Dionicio|Pilar G.|Agapito|Paulino?|Estella
+1940;1B:44;Perea;Fermin|Abelina|Juan
+1940;1B:47;Anaya;Victor|Arabecia?|Fernando|Antonio|Merced|Maria Louisa|Cleo|Jose Domingo|Rufino
+1940;1B:56;Lucero;Jose Domingo|Anita|Romero,Antonio
+1940;1B:59;Duarte;Jose A.|Victoria|Miguel|Maria|Vicente|Esteban|Virginia|Raymundo
+1940;1B:67;Martinez;Jesus|Valeria|Jose
+1940;1B:71;Duran;Luis H.|Petra|Jesus|Vivian|Domitila|Florencia|Eloy
+1940;1B:78;Moya;Maximino?|Ramon
+1940;1B:80;Anaya;Tomas|Juanita|Benita
+1940;2A:3;Trujillo;Juan B.|Reyes|Antonio|Lorenzo|Cosme|Isidro|Rubio|Ricardo
+1940;2A:11;Martinez;Juan C.|Elvira|Jacobo|Jose|Domitila|Clorinda|Antonio|Isidro|Elvira
+1940;2A:20;Chavez;Salomon|Lillie
+1940;2A:22;Maestas;Antonio|Gilberta
+1940;2A:24;Hickam;Stewart|Athel|Billie Marie
+1940;2A:27;Marez;Felix|Eva|Ernest
+1940;2A:30;Kester;Burnice|Cordellie|Armstrong,Martha May
+1940;2A:33;Tailor;Eva|Norman,Cecil
+1940;2A:35;Gonzales;Maclario?|Emilia|Elena|Noe|Arcenio|Josefina|Gloria
+1940;2B:42;Sena;Pablo|Rosatella?
+1940;2B:44;Bennett;W. E.|Victoria
+1940;2B:46;Johnson;Farrel|Addie Lee
+1940;2B:48;Gunter;W. C.|H. P.
+1940;2B:50;Maestas;Juanita|Lola
+1940;2B:52;Clinard;Frank|Lois|Frazier,William|Frazier,Bobby Dean
+1940;2B:56;Paz;Antonio|Luz|Jesus|Maria|Juanita|Dario Jose|Jose Francisco
+1940;2B:63;Gomez;Saturno|Lucy|Vicente|Elvira|Dolores|Rafael|Ramona|Francisca|Saturno Jr.
+1940;2B:72;Bennett;Hugh|Ellen|Barbara|Beverly|Donald
+1940;2B:77;Smith;J. C.
+1940;2B:78;Bailey;Paul E.|Mildred May|Ophelia|Viola|Elcie|Wilma|Jimmy Paul|Jimmie Walter|Roy Kenneth
+1940;3A:7;Yates;James J.|Minnie|Mary|Betty|Claud|Henry
+1940;3A:13;Sena;Juan|Trinidad|Horacio
+1940;3A:16;Roberts;Jack W.|Evelyn
+1940;3A:18;Johnson;Cecil|Cleo|Teddy Jack|Emma Louise|Ora Darlene
+1940;3A:23;Martinez;Justiniano
+1940;3A:24;Rael;Aresma?|Candelario|Pelagio|Nola
+1940;3A:28;Duran;Jose Maria|Antonia
+1950;1:1;Parker;James H.|Ruth|Wood,Mike
+1950;1:4;Taylor;Robert L.|Helen
+1950;1:6;Cox;Ed
+1950;1:7;Simpson;Junior|Mary|Royse Lee
+1950;1:10;Simpson;James E.|Nora|James Jr.|Laura Beth|Linda H.|James H.
+1950;1:16;Simpson;Buster|Lila B.|Vaughn Ray|Rebekah Jane|Dwight
+1950;1:21;Norwood;Homer|Frankie
+1950;1:23;Yates;Henry|Virginia|Ballard,Leo
+1950;1:29;Salas;Margarito|Margarita
+1950;2:1;Quintana;Juan G.|Josephita|Margarita|Claudio|Merenciano
+1950;2:8;Sisneros;Ramon|Eufemia|Desiderio|Cecilia|Carlos|Ray|Jessy|Jacky|Lucero,Florencita
+1950;2:17;Vigil;Agapito|Dorotea|Rudy|Fidelia|Raymond|Evangelina|Estevan|Louisa|Esabell|Tito
+1950;2:27;Duran;Jose M.|Antonia
+1950;2:29;Quintana;Manuel|Kiteria L.|Jose|Chavez,Albert
+1950;3:3;Chavez;Procopio|Carmen
+1950;3:5;Perea;Fermin
+1950;3:6;Garcia;Leonor
+1950;3:7;Rael;Leopoldo|Leopoldo Jr.|Jose
+1950;3:10;Salas;Pablo|Lupita|Ramon|Flora
+1950;3:14;Griego;Dilia|Robert
+1950;3:16;Trujillo;Juan B.|Reyes|Jose H.
+1950;3:21;Quintana;Sophio L.|Cruzita P.|Fidelia?|Viola|Cristina
+1950;3:26;Lucero;Leandra|Abela,Carmen
+1950;3:28;Sena;Trinidad|Martha
+1950;4:1;Holebrook;Louisa
+1950;4:2;Gunter;Marcus|Louise|William|Buck
+1950;4:6;Gallegos;Joe|Viola
+1950;4:8;Romero;Pearl Margaret|Margaret
+1950;4:10;Gonzales;Maclario?|Emilia|Arcenio|Josefina|Gloria|Luciano|Lucianda
+1950;4:17;Simpson;Carl A.|Lois|Jimmy|Carl Jr.|Emett
+1950;4:22;Chavez;Samuel|Rosario|Nora|Samuel Jr.|Manuel|Evelyn Jean|Le Roy
+1950;4:29;Anaya;Juan A.|Pabla|Chavez,Procopio
+1950;5:2;Sierra;Felix|Eva|Ralph E.|Steve|Clarima?|Rose Mary
+1950;5:8;Norman;Cecil F.
+1950;5:9;Holbrook;Stuart|Blanche
+1950;5:14;Kester;Bernice|Cordellia
+1950;5:16;Maestas;Antonio|Gilberta|Tony Jr.
+1950;5:20;Hevert?;Bill
+1950;5:21;Sena;Pablo|Dorotea
+1950;5:23;Kester;Herman|Lillie Frances|Alvin Perry|James Leon
+1950;6:1;Bivens;James E.|Lottie|Dorthy|Imogene|Wanda|Donnie|Jimmie|Tommy|Kenneth
+1950;6:11;Aragon;Nicholas|Viatrice|Angie|Ruth|Leona|Pauline
+1950;6:20;Chavez;Alfonso|Lucy|Jake|Rudy|Cecilio|Gene|Mary Ann|Rita|Gomez,Mary Frances
+1950;6:29;Brito;Luciano|Aurelia|Chavez,Manuelita
+1950;7:2;Gunter;Wright C.|Hannah
+1950;7:4;Lack;Harry R.|Esther L.
+1950;7:6;McMillan;Henry W.|Dolt E.?|Shannon
+1950;7:11;Bailey;Paul E.|Mildred May|Ophelia?|Viola|Pearl|Wilma|Paul Jr.|Walter|Kenneth|Ola Fay|Calvin|Mildred M.
+1950;7:24;Yates;James J.|Minnie|Mary|Boyle,Jimmy R.
+1950;7:28;Atkins;Tom
+1950;7:29;Sena;Martin|Cecilia|Martha
+1950;8:3;Brashear;Amanda|Charles
+1950;8:5;Rael;Max|Nichela?|Angelina|Esmeralda|Paulita|Rosa|Orifinia?|Cecilio
+1950;8:13;Rael;Desando?|Maria|Estephanita
+1950;8:19;Higgins;J. F.|P. W.|John R.|Nilla D.
+1950;8:25;Johnston;Charlie
+1950;71:1;Quintana;Martha
+1950;71:2;Boyle;Harold R.|Martha
+1950;71:4;Quintana;Elias

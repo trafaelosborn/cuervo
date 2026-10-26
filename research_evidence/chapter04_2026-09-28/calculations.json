@@ -1,0 +1,16 @@
+{
+  "checked": "2026-09-28",
+  "source": "https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1800-",
+  "cpi_same_basis": {
+    "1921": 53.6,
+    "2025": 967.5
+  },
+  "formula": "historical amount * 967.5 / 53.6",
+  "one_dollar_1921_in_2025": 18.050373134328357,
+  "proposed_100_family_monthly_pool_2025": 1805.0373134328358,
+  "rounded_equivalents": [
+    18,
+    1800
+  ],
+  "limits": "Terry proposed these contributions. Subscribers, collections, salary and implementation are unobserved. CPI measures consumer purchasing power, not practice costs."
+}

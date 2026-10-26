@@ -1,0 +1,96 @@
+{
+  "method": "Screened all retained supplementary blocks for written prior-residence places. These are selected sample-line observations, not a complete migration census. Blank, same-house, vacant, and less-than-one-year entries are not migration observations. Do not multiply by five.",
+  "observations": [
+    {
+      "person_id": "1950-1-3",
+      "name_read": "Mike Wood",
+      "age": 25,
+      "household": "1950-1-1",
+      "source_id": "C50",
+      "sheet": "1",
+      "line": 3,
+      "prior_residence_read": "California; county/place blank",
+      "reference": "one year before the 1950 census, approximately April 1949",
+      "movement_type": "out_of_county",
+      "note": "No box emphasized; earlier Yes mark also visible."
+    },
+    {
+      "person_id": "1950-1-8",
+      "name_read": "Mary Simpson",
+      "age": 21,
+      "household": "1950-1-7",
+      "source_id": "C50",
+      "sheet": "1",
+      "line": 8,
+      "prior_residence_read": "Tatum, Lea County, New Mexico",
+      "reference": "one year before the 1950 census, approximately April 1949",
+      "movement_type": "out_of_county",
+      "note": "No in same-house question; address clear."
+    },
+    {
+      "person_id": "1950-1-13",
+      "name_read": "Laura Beth Simpson",
+      "age": 7,
+      "household": "1950-1-10",
+      "source_id": "C50",
+      "sheet": "1",
+      "line": 13,
+      "prior_residence_read": "Tatum, Lea County, New Mexico",
+      "reference": "one year before the 1950 census, approximately April 1949",
+      "movement_type": "out_of_county",
+      "note": "Same-house checkbox overwritten; retained because address is explicit. Do not treat checkbox as independently clean."
+    },
+    {
+      "person_id": "1950-1-18",
+      "name_read": "Vaughn Ray Simpson",
+      "age": 10,
+      "household": "1950-1-16",
+      "source_id": "C50",
+      "sheet": "1",
+      "line": 18,
+      "prior_residence_read": "Texas; county/place unresolved",
+      "reference": "one year before the 1950 census, approximately April 1949",
+      "movement_type": "out_of_county",
+      "note": "County/place heavily overwritten. Earlier working guess Houston is not accepted."
+    },
+    {
+      "person_id": "1950-6-11",
+      "name_read": "Nicholas Aragon",
+      "age": 25,
+      "household": "1950-6-11",
+      "source_id": "C50",
+      "sheet": "6",
+      "line": 11,
+      "prior_residence_read": "Tucumcari, Quay County, New Mexico",
+      "reference": "one year before the 1950 census, approximately April 1949",
+      "movement_type": "out_of_county",
+      "note": "No in same-house question; address clear."
+    },
+    {
+      "person_id": "1950-6-16",
+      "name_read": "Pauline Aragon",
+      "age": 1,
+      "household": "1950-6-11",
+      "source_id": "C50",
+      "sheet": "6",
+      "line": 16,
+      "prior_residence_read": "Tucumcari, Quay County, New Mexico",
+      "reference": "one year before the 1950 census, approximately April 1949",
+      "movement_type": "out_of_county",
+      "note": "Same-house checkbox overwritten; address explicit."
+    },
+    {
+      "person_id": "1950-7-5",
+      "name_read": "Esther L. Lack",
+      "age": 30,
+      "household": "1950-7-4",
+      "source_id": "C50",
+      "sheet": "7",
+      "line": 5,
+      "prior_residence_read": "Santa Rosa, Guadalupe County, New Mexico",
+      "reference": "one year before the 1950 census, approximately April 1949",
+      "movement_type": "within_county",
+      "note": "Same-house No; county/place written despite same-county boxes being blank."
+    }
+  ]
+}

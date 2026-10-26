@@ -1,0 +1,1582 @@
+{
+  "inputs": {
+    "2010": "TIGER2010BLKPOPHU statewide original; county filter 019",
+    "2020_geometry": "TIGERweb Tracts_Blocks layer 12 (2020)",
+    "2020_counts": "DHC geography file, SUMLEV 100, GEOCOMP 00, GEOVAR 00"
+  },
+  "county_blocks": {
+    "2010": 1708,
+    "2020": 902
+  },
+  "county_population": {
+    "2010": 4687,
+    "2020_TIGER": 4452,
+    "2020_DHC": 4452
+  },
+  "tiger_dhc_different_blocks": 0,
+  "tiger_dhc_differences": [],
+  "center_lon_lat": [
+    -104.40861,
+    35.03111
+  ],
+  "core_rectangle_lon_lat": [
+    -104.422,
+    35.02,
+    -104.395,
+    35.043
+  ],
+  "projection": "WGS84 / UTM zone 13N, EPSG:32613. 2010 source NAD83 EPSG:4269 (archive .prj); 2020 query outSR=4326.",
+  "method": "Lower sums fully contained blocks; upper also sums positive-area crossing blocks. No areal allocation, centroid allocation or individual inference.",
+  "interpretation": "Geographic allocation bounds conditional on published block counts; not confidence intervals or bounds on census/disclosure-avoidance error. Analyst-defined windows are not a legal town or census place.",
+  "zcta_88417_records_in_DHC_state_geo": [],
+  "study_areas": [
+    {
+      "year": 2010,
+      "study_area": "core_rectangle",
+      "area_km2": 6.2823,
+      "population_lower": 0,
+      "population_upper": 17,
+      "housing_lower": 2,
+      "housing_upper": 20,
+      "fully_contained_blocks": 7,
+      "boundary_crossing_blocks": 14,
+      "contained": [
+        {
+          "geoid": "350199616001208",
+          "population": 0,
+          "housing": 2,
+          "area_km2": 0.01439,
+          "inside_area_km2": 0.01439
+        },
+        {
+          "geoid": "350199616001221",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.036665,
+          "inside_area_km2": 0.036665
+        },
+        {
+          "geoid": "350199616001215",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.056346,
+          "inside_area_km2": 0.056346
+        },
+        {
+          "geoid": "350199616001223",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.013719,
+          "inside_area_km2": 0.013719
+        },
+        {
+          "geoid": "350199616001219",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.005606,
+          "inside_area_km2": 0.005606
+        },
+        {
+          "geoid": "350199616001224",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.065498,
+          "inside_area_km2": 0.065498
+        },
+        {
+          "geoid": "350199616001225",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.037082,
+          "inside_area_km2": 0.037082
+        }
+      ],
+      "crossing": [
+        {
+          "geoid": "350199616001139",
+          "population": 1,
+          "housing": 2,
+          "area_km2": 35.888575,
+          "inside_area_km2": 0.726386
+        },
+        {
+          "geoid": "350199616001130",
+          "population": 2,
+          "housing": 3,
+          "area_km2": 2.943068,
+          "inside_area_km2": 1.086299
+        },
+        {
+          "geoid": "350199616001220",
+          "population": 0,
+          "housing": 2,
+          "area_km2": 0.247214,
+          "inside_area_km2": 0.118689
+        },
+        {
+          "geoid": "350199616001226",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.069063,
+          "inside_area_km2": 0.234652
+        },
+        {
+          "geoid": "350199616001129",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.394632,
+          "inside_area_km2": 0.411913
+        },
+        {
+          "geoid": "350199616001251",
+          "population": 2,
+          "housing": 3,
+          "area_km2": 7.834628,
+          "inside_area_km2": 0.03608
+        },
+        {
+          "geoid": "350199616001212",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.083032,
+          "inside_area_km2": 0.002116
+        },
+        {
+          "geoid": "350199616001218",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.080907,
+          "inside_area_km2": 0.032355
+        },
+        {
+          "geoid": "350199616001542",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.617773,
+          "inside_area_km2": 0.487994
+        },
+        {
+          "geoid": "350199616001216",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.027964,
+          "inside_area_km2": 0.027108
+        },
+        {
+          "geoid": "350199616001207",
+          "population": 6,
+          "housing": 5,
+          "area_km2": 45.495488,
+          "inside_area_km2": 2.026422
+        },
+        {
+          "geoid": "350199616001154",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.344283,
+          "inside_area_km2": 0.00033
+        },
+        {
+          "geoid": "350199616001217",
+          "population": 2,
+          "housing": 1,
+          "area_km2": 2.649664,
+          "inside_area_km2": 0.099915
+        },
+        {
+          "geoid": "350199616001222",
+          "population": 4,
+          "housing": 2,
+          "area_km2": 5.107832,
+          "inside_area_km2": 0.762695
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "study_area": "radius_0.5_miles",
+      "area_km2": 2.0341,
+      "population_lower": 0,
+      "population_upper": 15,
+      "housing_lower": 2,
+      "housing_upper": 17,
+      "fully_contained_blocks": 4,
+      "boundary_crossing_blocks": 14,
+      "contained": [
+        {
+          "geoid": "350199616001208",
+          "population": 0,
+          "housing": 2,
+          "area_km2": 0.01439,
+          "inside_area_km2": 0.01439
+        },
+        {
+          "geoid": "350199616001223",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.013719,
+          "inside_area_km2": 0.013719
+        },
+        {
+          "geoid": "350199616001219",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.005606,
+          "inside_area_km2": 0.005606
+        },
+        {
+          "geoid": "350199616001225",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.037082,
+          "inside_area_km2": 0.037082
+        }
+      ],
+      "crossing": [
+        {
+          "geoid": "350199616001139",
+          "population": 1,
+          "housing": 2,
+          "area_km2": 35.888575,
+          "inside_area_km2": 0.097879
+        },
+        {
+          "geoid": "350199616001130",
+          "population": 2,
+          "housing": 3,
+          "area_km2": 2.943068,
+          "inside_area_km2": 0.322977
+        },
+        {
+          "geoid": "350199616001220",
+          "population": 0,
+          "housing": 2,
+          "area_km2": 0.247214,
+          "inside_area_km2": 0.071271
+        },
+        {
+          "geoid": "350199616001226",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.069063,
+          "inside_area_km2": 0.031644
+        },
+        {
+          "geoid": "350199616001221",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.036665,
+          "inside_area_km2": 0.036549
+        },
+        {
+          "geoid": "350199616001129",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.394632,
+          "inside_area_km2": 0.231204
+        },
+        {
+          "geoid": "350199616001215",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.056346,
+          "inside_area_km2": 0.037246
+        },
+        {
+          "geoid": "350199616001218",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.080907,
+          "inside_area_km2": 0.014624
+        },
+        {
+          "geoid": "350199616001542",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.617773,
+          "inside_area_km2": 0.059418
+        },
+        {
+          "geoid": "350199616001216",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.027964,
+          "inside_area_km2": 0.006888
+        },
+        {
+          "geoid": "350199616001207",
+          "population": 6,
+          "housing": 5,
+          "area_km2": 45.495488,
+          "inside_area_km2": 0.77324
+        },
+        {
+          "geoid": "350199616001224",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.065498,
+          "inside_area_km2": 0.062427
+        },
+        {
+          "geoid": "350199616001217",
+          "population": 2,
+          "housing": 1,
+          "area_km2": 2.649664,
+          "inside_area_km2": 0.035811
+        },
+        {
+          "geoid": "350199616001222",
+          "population": 4,
+          "housing": 2,
+          "area_km2": 5.107832,
+          "inside_area_km2": 0.182105
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "study_area": "radius_2_miles",
+      "area_km2": 32.5453,
+      "population_lower": 2,
+      "population_upper": 17,
+      "housing_lower": 7,
+      "housing_upper": 20,
+      "fully_contained_blocks": 13,
+      "boundary_crossing_blocks": 17,
+      "contained": [
+        {
+          "geoid": "350199616001130",
+          "population": 2,
+          "housing": 3,
+          "area_km2": 2.943068,
+          "inside_area_km2": 2.943068
+        },
+        {
+          "geoid": "350199616001208",
+          "population": 0,
+          "housing": 2,
+          "area_km2": 0.01439,
+          "inside_area_km2": 0.01439
+        },
+        {
+          "geoid": "350199616001220",
+          "population": 0,
+          "housing": 2,
+          "area_km2": 0.247214,
+          "inside_area_km2": 0.247214
+        },
+        {
+          "geoid": "350199616001226",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.069063,
+          "inside_area_km2": 1.069063
+        },
+        {
+          "geoid": "350199616001221",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.036665,
+          "inside_area_km2": 0.036665
+        },
+        {
+          "geoid": "350199616001129",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.394632,
+          "inside_area_km2": 1.394632
+        },
+        {
+          "geoid": "350199616001215",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.056346,
+          "inside_area_km2": 0.056346
+        },
+        {
+          "geoid": "350199616001218",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.080907,
+          "inside_area_km2": 0.080907
+        },
+        {
+          "geoid": "350199616001223",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.013719,
+          "inside_area_km2": 0.013719
+        },
+        {
+          "geoid": "350199616001216",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.027964,
+          "inside_area_km2": 0.027964
+        },
+        {
+          "geoid": "350199616001219",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.005606,
+          "inside_area_km2": 0.005606
+        },
+        {
+          "geoid": "350199616001224",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.065498,
+          "inside_area_km2": 0.065498
+        },
+        {
+          "geoid": "350199616001225",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.037082,
+          "inside_area_km2": 0.037082
+        }
+      ],
+      "crossing": [
+        {
+          "geoid": "350199616001139",
+          "population": 1,
+          "housing": 2,
+          "area_km2": 35.888575,
+          "inside_area_km2": 4.367515
+        },
+        {
+          "geoid": "350199616001120",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.316364,
+          "inside_area_km2": 0.030729
+        },
+        {
+          "geoid": "350199616001118",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 30.1073,
+          "inside_area_km2": 1.123065
+        },
+        {
+          "geoid": "350199616001132",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.874583,
+          "inside_area_km2": 0.111989
+        },
+        {
+          "geoid": "350199616001227",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 7.489936,
+          "inside_area_km2": 0.4855
+        },
+        {
+          "geoid": "350199616001251",
+          "population": 2,
+          "housing": 3,
+          "area_km2": 7.834628,
+          "inside_area_km2": 2.194293
+        },
+        {
+          "geoid": "350199616001212",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.083032,
+          "inside_area_km2": 0.061587
+        },
+        {
+          "geoid": "350199616001542",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.617773,
+          "inside_area_km2": 2.563593
+        },
+        {
+          "geoid": "350199616001231",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.215742,
+          "inside_area_km2": 0.159595
+        },
+        {
+          "geoid": "350199616001207",
+          "population": 6,
+          "housing": 5,
+          "area_km2": 45.495488,
+          "inside_area_km2": 7.465696
+        },
+        {
+          "geoid": "350199616001131",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 11.204338,
+          "inside_area_km2": 2.263941
+        },
+        {
+          "geoid": "350199616001121",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 21.876821,
+          "inside_area_km2": 0.041415
+        },
+        {
+          "geoid": "350199616001154",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.344283,
+          "inside_area_km2": 0.042522
+        },
+        {
+          "geoid": "350199616001253",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.908451,
+          "inside_area_km2": 1.360237
+        },
+        {
+          "geoid": "350199616001228",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.082627,
+          "inside_area_km2": 0.012817
+        },
+        {
+          "geoid": "350199616001217",
+          "population": 2,
+          "housing": 1,
+          "area_km2": 2.649664,
+          "inside_area_km2": 0.429512
+        },
+        {
+          "geoid": "350199616001222",
+          "population": 4,
+          "housing": 2,
+          "area_km2": 5.107832,
+          "inside_area_km2": 3.839137
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "study_area": "radius_5_miles",
+      "area_km2": 203.4081,
+      "population_lower": 10,
+      "population_upper": 23,
+      "housing_lower": 13,
+      "housing_upper": 27,
+      "fully_contained_blocks": 32,
+      "boundary_crossing_blocks": 25,
+      "contained": [
+        {
+          "geoid": "350199616001249",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.116701,
+          "inside_area_km2": 0.116701
+        },
+        {
+          "geoid": "350199616001297",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.359821,
+          "inside_area_km2": 2.359821
+        },
+        {
+          "geoid": "350199616001246",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.202542,
+          "inside_area_km2": 0.202542
+        },
+        {
+          "geoid": "350199616001122",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.297344,
+          "inside_area_km2": 0.297344
+        },
+        {
+          "geoid": "350199616001130",
+          "population": 2,
+          "housing": 3,
+          "area_km2": 2.943068,
+          "inside_area_km2": 2.943068
+        },
+        {
+          "geoid": "350199616001208",
+          "population": 0,
+          "housing": 2,
+          "area_km2": 0.01439,
+          "inside_area_km2": 0.01439
+        },
+        {
+          "geoid": "350199616001255",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.398587,
+          "inside_area_km2": 0.398587
+        },
+        {
+          "geoid": "350199616001243",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.027213,
+          "inside_area_km2": 0.027213
+        },
+        {
+          "geoid": "350199616001254",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.006429,
+          "inside_area_km2": 0.006429
+        },
+        {
+          "geoid": "350199616001132",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.874583,
+          "inside_area_km2": 0.874583
+        },
+        {
+          "geoid": "350199616001220",
+          "population": 0,
+          "housing": 2,
+          "area_km2": 0.247214,
+          "inside_area_km2": 0.247214
+        },
+        {
+          "geoid": "350199616001226",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.069063,
+          "inside_area_km2": 1.069063
+        },
+        {
+          "geoid": "350199616001221",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.036665,
+          "inside_area_km2": 0.036665
+        },
+        {
+          "geoid": "350199616001248",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.958558,
+          "inside_area_km2": 2.958558
+        },
+        {
+          "geoid": "350199616001129",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.394632,
+          "inside_area_km2": 1.394632
+        },
+        {
+          "geoid": "350199616001251",
+          "population": 2,
+          "housing": 3,
+          "area_km2": 7.834628,
+          "inside_area_km2": 7.834628
+        },
+        {
+          "geoid": "350199616001212",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.083032,
+          "inside_area_km2": 0.083032
+        },
+        {
+          "geoid": "350199616001215",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.056346,
+          "inside_area_km2": 0.056346
+        },
+        {
+          "geoid": "350199616001218",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.080907,
+          "inside_area_km2": 0.080907
+        },
+        {
+          "geoid": "350199616001223",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.013719,
+          "inside_area_km2": 0.013719
+        },
+        {
+          "geoid": "350199616001542",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.617773,
+          "inside_area_km2": 2.617773
+        },
+        {
+          "geoid": "350199616001216",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.027964,
+          "inside_area_km2": 0.027964
+        },
+        {
+          "geoid": "350199616001219",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.005606,
+          "inside_area_km2": 0.005606
+        },
+        {
+          "geoid": "350199616001231",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.215742,
+          "inside_area_km2": 2.215742
+        },
+        {
+          "geoid": "350199616001224",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.065498,
+          "inside_area_km2": 0.065498
+        },
+        {
+          "geoid": "350199616001253",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.908451,
+          "inside_area_km2": 2.908451
+        },
+        {
+          "geoid": "350199616001252",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.018125,
+          "inside_area_km2": 0.018125
+        },
+        {
+          "geoid": "350199616001228",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.082627,
+          "inside_area_km2": 0.082627
+        },
+        {
+          "geoid": "350199616001229",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.094373,
+          "inside_area_km2": 0.094373
+        },
+        {
+          "geoid": "350199616001217",
+          "population": 2,
+          "housing": 1,
+          "area_km2": 2.649664,
+          "inside_area_km2": 2.649664
+        },
+        {
+          "geoid": "350199616001222",
+          "population": 4,
+          "housing": 2,
+          "area_km2": 5.107832,
+          "inside_area_km2": 5.107832
+        },
+        {
+          "geoid": "350199616001225",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.037082,
+          "inside_area_km2": 0.037082
+        }
+      ],
+      "crossing": [
+        {
+          "geoid": "350199616001234",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 35.779301,
+          "inside_area_km2": 6.341949
+        },
+        {
+          "geoid": "350199616001230",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.138569,
+          "inside_area_km2": 0.034024
+        },
+        {
+          "geoid": "350199616001139",
+          "population": 1,
+          "housing": 2,
+          "area_km2": 35.888575,
+          "inside_area_km2": 27.72082
+        },
+        {
+          "geoid": "350199616001120",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.316364,
+          "inside_area_km2": 1.056753
+        },
+        {
+          "geoid": "350199616001244",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 13.041386,
+          "inside_area_km2": 8.136359
+        },
+        {
+          "geoid": "350199616001118",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 30.1073,
+          "inside_area_km2": 14.832657
+        },
+        {
+          "geoid": "350199616001245",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.355109,
+          "inside_area_km2": 0.628387
+        },
+        {
+          "geoid": "350199616001127",
+          "population": 1,
+          "housing": 2,
+          "area_km2": 11.514656,
+          "inside_area_km2": 8.616834
+        },
+        {
+          "geoid": "350199616001140",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 4.598767,
+          "inside_area_km2": 0.125262
+        },
+        {
+          "geoid": "350199616001210",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.146271,
+          "inside_area_km2": 0.140641
+        },
+        {
+          "geoid": "350199616001227",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 7.489936,
+          "inside_area_km2": 7.358978
+        },
+        {
+          "geoid": "350199616001298",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 4.475796,
+          "inside_area_km2": 3.587842
+        },
+        {
+          "geoid": "350199616001295",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.88221,
+          "inside_area_km2": 0.553791
+        },
+        {
+          "geoid": "350199616001272",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 27.434346,
+          "inside_area_km2": 5.469581
+        },
+        {
+          "geoid": "350199616001141",
+          "population": 5,
+          "housing": 5,
+          "area_km2": 48.094002,
+          "inside_area_km2": 4.196608
+        },
+        {
+          "geoid": "350199616001207",
+          "population": 6,
+          "housing": 5,
+          "area_km2": 45.495488,
+          "inside_area_km2": 34.929357
+        },
+        {
+          "geoid": "350199616001205",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 13.728816,
+          "inside_area_km2": 0.517634
+        },
+        {
+          "geoid": "350199616001131",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 11.204338,
+          "inside_area_km2": 8.051428
+        },
+        {
+          "geoid": "350199616001121",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 21.876821,
+          "inside_area_km2": 17.646605
+        },
+        {
+          "geoid": "350199616001154",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.344283,
+          "inside_area_km2": 0.173163
+        },
+        {
+          "geoid": "350199616001643",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.785386,
+          "inside_area_km2": 1.596176
+        },
+        {
+          "geoid": "350199616001153",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.3217,
+          "inside_area_km2": 0.166065
+        },
+        {
+          "geoid": "350199616001250",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 10.558249,
+          "inside_area_km2": 9.784908
+        },
+        {
+          "geoid": "350199616001136",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 38.502484,
+          "inside_area_km2": 3.905695
+        },
+        {
+          "geoid": "350199616001128",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 6.075914,
+          "inside_area_km2": 0.990416
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "study_area": "core_rectangle",
+      "area_km2": 6.2823,
+      "population_lower": 5,
+      "population_upper": 27,
+      "housing_lower": 1,
+      "housing_upper": 15,
+      "fully_contained_blocks": 2,
+      "boundary_crossing_blocks": 12,
+      "contained": [
+        {
+          "geoid": "350199616001087",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.043494,
+          "inside_area_km2": 0.043494
+        },
+        {
+          "geoid": "350199616001139",
+          "population": 5,
+          "housing": 1,
+          "area_km2": 0.01439,
+          "inside_area_km2": 0.01439
+        }
+      ],
+      "crossing": [
+        {
+          "geoid": "350199616001143",
+          "population": 4,
+          "housing": 1,
+          "area_km2": 7.467488,
+          "inside_area_km2": 0.762695
+        },
+        {
+          "geoid": "350199616001137",
+          "population": 2,
+          "housing": 1,
+          "area_km2": 10.212573,
+          "inside_area_km2": 0.03608
+        },
+        {
+          "geoid": "350199616001136",
+          "population": 6,
+          "housing": 7,
+          "area_km2": 63.926862,
+          "inside_area_km2": 2.09192
+        },
+        {
+          "geoid": "350199616001166",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.863325,
+          "inside_area_km2": 0.032355
+        },
+        {
+          "geoid": "350199616001085",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.431699,
+          "inside_area_km2": 0.44898
+        },
+        {
+          "geoid": "350199616001144",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 8.582186,
+          "inside_area_km2": 0.248371
+        },
+        {
+          "geoid": "350199616001086",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.403481,
+          "inside_area_km2": 0.058461
+        },
+        {
+          "geoid": "350199616001081",
+          "population": 1,
+          "housing": 2,
+          "area_km2": 2.838042,
+          "inside_area_km2": 0.167867
+        },
+        {
+          "geoid": "350199616001108",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 35.88858,
+          "inside_area_km2": 0.726386
+        },
+        {
+          "geoid": "350199616001114",
+          "population": 4,
+          "housing": 2,
+          "area_km2": 2.943083,
+          "inside_area_km2": 1.086314
+        },
+        {
+          "geoid": "350199616001082",
+          "population": 5,
+          "housing": 1,
+          "area_km2": 2.626701,
+          "inside_area_km2": 0.076953
+        },
+        {
+          "geoid": "350199616001322",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.617772,
+          "inside_area_km2": 0.487994
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "study_area": "radius_0.5_miles",
+      "area_km2": 2.0341,
+      "population_lower": 5,
+      "population_upper": 25,
+      "housing_lower": 1,
+      "housing_upper": 14,
+      "fully_contained_blocks": 1,
+      "boundary_crossing_blocks": 12,
+      "contained": [
+        {
+          "geoid": "350199616001139",
+          "population": 5,
+          "housing": 1,
+          "area_km2": 0.01439,
+          "inside_area_km2": 0.01439
+        }
+      ],
+      "crossing": [
+        {
+          "geoid": "350199616001143",
+          "population": 4,
+          "housing": 1,
+          "area_km2": 7.467488,
+          "inside_area_km2": 0.182105
+        },
+        {
+          "geoid": "350199616001136",
+          "population": 6,
+          "housing": 7,
+          "area_km2": 63.926862,
+          "inside_area_km2": 0.835667
+        },
+        {
+          "geoid": "350199616001166",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.863325,
+          "inside_area_km2": 0.014624
+        },
+        {
+          "geoid": "350199616001085",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.431699,
+          "inside_area_km2": 0.268271
+        },
+        {
+          "geoid": "350199616001087",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.043494,
+          "inside_area_km2": 0.035576
+        },
+        {
+          "geoid": "350199616001144",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 8.582186,
+          "inside_area_km2": 0.045363
+        },
+        {
+          "geoid": "350199616001086",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.403481,
+          "inside_area_km2": 0.037246
+        },
+        {
+          "geoid": "350199616001081",
+          "population": 1,
+          "housing": 2,
+          "area_km2": 2.838042,
+          "inside_area_km2": 0.099784
+        },
+        {
+          "geoid": "350199616001108",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 35.88858,
+          "inside_area_km2": 0.097879
+        },
+        {
+          "geoid": "350199616001114",
+          "population": 4,
+          "housing": 2,
+          "area_km2": 2.943083,
+          "inside_area_km2": 0.322992
+        },
+        {
+          "geoid": "350199616001082",
+          "population": 5,
+          "housing": 1,
+          "area_km2": 2.626701,
+          "inside_area_km2": 0.020767
+        },
+        {
+          "geoid": "350199616001322",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.617772,
+          "inside_area_km2": 0.059418
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "study_area": "radius_2_miles",
+      "area_km2": 32.5453,
+      "population_lower": 9,
+      "population_upper": 27,
+      "housing_lower": 3,
+      "housing_upper": 15,
+      "fully_contained_blocks": 4,
+      "boundary_crossing_blocks": 14,
+      "contained": [
+        {
+          "geoid": "350199616001085",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.431699,
+          "inside_area_km2": 1.431699
+        },
+        {
+          "geoid": "350199616001087",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.043494,
+          "inside_area_km2": 0.043494
+        },
+        {
+          "geoid": "350199616001114",
+          "population": 4,
+          "housing": 2,
+          "area_km2": 2.943083,
+          "inside_area_km2": 2.943083
+        },
+        {
+          "geoid": "350199616001139",
+          "population": 5,
+          "housing": 1,
+          "area_km2": 0.01439,
+          "inside_area_km2": 0.01439
+        }
+      ],
+      "crossing": [
+        {
+          "geoid": "350199616001143",
+          "population": 4,
+          "housing": 1,
+          "area_km2": 7.467488,
+          "inside_area_km2": 3.998732
+        },
+        {
+          "geoid": "350199616001137",
+          "population": 2,
+          "housing": 1,
+          "area_km2": 10.212573,
+          "inside_area_km2": 2.194293
+        },
+        {
+          "geoid": "350199616001136",
+          "population": 6,
+          "housing": 7,
+          "area_km2": 63.926862,
+          "inside_area_km2": 7.531194
+        },
+        {
+          "geoid": "350199616001084",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 30.107293,
+          "inside_area_km2": 1.123067
+        },
+        {
+          "geoid": "350199616001166",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.863325,
+          "inside_area_km2": 0.093725
+        },
+        {
+          "geoid": "350199616001138",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.91488,
+          "inside_area_km2": 1.360237
+        },
+        {
+          "geoid": "350199616001144",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 8.582186,
+          "inside_area_km2": 1.568282
+        },
+        {
+          "geoid": "350199616001086",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.403481,
+          "inside_area_km2": 0.117933
+        },
+        {
+          "geoid": "350199616001081",
+          "population": 1,
+          "housing": 2,
+          "area_km2": 2.838042,
+          "inside_area_km2": 0.37017
+        },
+        {
+          "geoid": "350199616001115",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 12.078916,
+          "inside_area_km2": 2.37593
+        },
+        {
+          "geoid": "350199616001116",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 21.87683,
+          "inside_area_km2": 0.041415
+        },
+        {
+          "geoid": "350199616001108",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 35.88858,
+          "inside_area_km2": 4.367515
+        },
+        {
+          "geoid": "350199616001082",
+          "population": 5,
+          "housing": 1,
+          "area_km2": 2.626701,
+          "inside_area_km2": 0.406549
+        },
+        {
+          "geoid": "350199616001322",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.617772,
+          "inside_area_km2": 2.563592
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "study_area": "radius_5_miles",
+      "area_km2": 203.4081,
+      "population_lower": 20,
+      "population_upper": 38,
+      "housing_lower": 6,
+      "housing_upper": 18,
+      "fully_contained_blocks": 10,
+      "boundary_crossing_blocks": 23,
+      "contained": [
+        {
+          "geoid": "350199616001143",
+          "population": 4,
+          "housing": 1,
+          "area_km2": 7.467488,
+          "inside_area_km2": 7.467488
+        },
+        {
+          "geoid": "350199616001137",
+          "population": 2,
+          "housing": 1,
+          "area_km2": 10.212573,
+          "inside_area_km2": 10.212573
+        },
+        {
+          "geoid": "350199616001155",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 3.357145,
+          "inside_area_km2": 3.357145
+        },
+        {
+          "geoid": "350199616001085",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.431699,
+          "inside_area_km2": 1.431699
+        },
+        {
+          "geoid": "350199616001138",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.91488,
+          "inside_area_km2": 2.91488
+        },
+        {
+          "geoid": "350199616001087",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.043494,
+          "inside_area_km2": 0.043494
+        },
+        {
+          "geoid": "350199616001114",
+          "population": 4,
+          "housing": 2,
+          "area_km2": 2.943083,
+          "inside_area_km2": 2.943083
+        },
+        {
+          "geoid": "350199616001082",
+          "population": 5,
+          "housing": 1,
+          "area_km2": 2.626701,
+          "inside_area_km2": 2.626701
+        },
+        {
+          "geoid": "350199616001322",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.617772,
+          "inside_area_km2": 2.617772
+        },
+        {
+          "geoid": "350199616001139",
+          "population": 5,
+          "housing": 1,
+          "area_km2": 0.01439,
+          "inside_area_km2": 0.01439
+        }
+      ],
+      "crossing": [
+        {
+          "geoid": "350199616001152",
+          "population": 7,
+          "housing": 1,
+          "area_km2": 27.444129,
+          "inside_area_km2": 5.469567
+        },
+        {
+          "geoid": "350199616001154",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 10.558249,
+          "inside_area_km2": 9.784908
+        },
+        {
+          "geoid": "350199616001160",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 4.475796,
+          "inside_area_km2": 3.587842
+        },
+        {
+          "geoid": "350199616001161",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 2.355109,
+          "inside_area_km2": 0.628387
+        },
+        {
+          "geoid": "350199616001162",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 13.243928,
+          "inside_area_km2": 8.338902
+        },
+        {
+          "geoid": "350199616001136",
+          "population": 6,
+          "housing": 7,
+          "area_km2": 63.926862,
+          "inside_area_km2": 35.512504
+        },
+        {
+          "geoid": "350199616001084",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 30.107293,
+          "inside_area_km2": 14.832649
+        },
+        {
+          "geoid": "350199616001166",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.863325,
+          "inside_area_km2": 0.291931
+        },
+        {
+          "geoid": "350199616001105",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 5.188982,
+          "inside_area_km2": 0.125262
+        },
+        {
+          "geoid": "350199616001121",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 38.502481,
+          "inside_area_km2": 3.905693
+        },
+        {
+          "geoid": "350199616001163",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 51.336951,
+          "inside_area_km2": 6.341948
+        },
+        {
+          "geoid": "350199616001318",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.88221,
+          "inside_area_km2": 0.553791
+        },
+        {
+          "geoid": "350199616001144",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 8.582186,
+          "inside_area_km2": 8.44176
+        },
+        {
+          "geoid": "350199616001086",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.403481,
+          "inside_area_km2": 0.28002
+        },
+        {
+          "geoid": "350199616001119",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 6.075914,
+          "inside_area_km2": 0.990416
+        },
+        {
+          "geoid": "350199616001102",
+          "population": 4,
+          "housing": 2,
+          "area_km2": 48.103211,
+          "inside_area_km2": 4.196608
+        },
+        {
+          "geoid": "350199616001081",
+          "population": 1,
+          "housing": 2,
+          "area_km2": 2.838042,
+          "inside_area_km2": 1.526834
+        },
+        {
+          "geoid": "350199616001115",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 12.078916,
+          "inside_area_km2": 8.926006
+        },
+        {
+          "geoid": "350199616001107",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 1.785386,
+          "inside_area_km2": 1.596176
+        },
+        {
+          "geoid": "350199616001116",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 21.87683,
+          "inside_area_km2": 17.646614
+        },
+        {
+          "geoid": "350199616001120",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 11.812001,
+          "inside_area_km2": 8.914179
+        },
+        {
+          "geoid": "350199616001108",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 35.88858,
+          "inside_area_km2": 27.720825
+        },
+        {
+          "geoid": "350199616001083",
+          "population": 0,
+          "housing": 0,
+          "area_km2": 0.362819,
+          "inside_area_km2": 0.166065
+        }
+      ]
+    }
+  ]
+}

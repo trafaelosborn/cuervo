@@ -1,0 +1,63 @@
+{
+  "notes": [
+    "1910-1920 precinct comparability not established; county lost territory in 1917.",
+    "Santa Rosa incorporated 1920 discrepancy: 1920 compendium read as 1003, 1930 Tables 4 and 5 print 1093. Keep unresolved.",
+    "1960/1970 divisions are not earlier precincts. Municipality and precinct must remain separate.",
+    "1970 Table 10 Guadalupe footnote records town-to-city and village-to-town designations; no Guadalupe annexation stated. Quay footnote records boundary changes."
+  ],
+  "data": [
+    {
+      "year": 1910,
+      "cuervo_precinct": 545,
+      "santa_rosa_precinct": 1031,
+      "santa_rosa_place": null,
+      "guadalupe_county": 10927
+    },
+    {
+      "year": 1920,
+      "cuervo_precinct": 438,
+      "santa_rosa_precinct": 1390,
+      "santa_rosa_place": null,
+      "guadalupe_county": 8015
+    },
+    {
+      "year": 1930,
+      "cuervo_precinct": 287,
+      "santa_rosa_precinct": 1381,
+      "santa_rosa_place": 1127,
+      "guadalupe_county": 7027
+    },
+    {
+      "year": 1940,
+      "cuervo_precinct": 188,
+      "santa_rosa_precinct": 2527,
+      "santa_rosa_place": 2310,
+      "guadalupe_county": 8646
+    },
+    {
+      "year": 1950,
+      "cuervo_precinct": 210,
+      "santa_rosa_precinct": 2548,
+      "santa_rosa_place": 2199,
+      "guadalupe_county": 6772
+    },
+    {
+      "year": 1960,
+      "cuervo_precinct": null,
+      "santa_rosa_precinct": null,
+      "santa_rosa_place": 2220,
+      "guadalupe_county": 5610,
+      "santa_rosa_division": 3380,
+      "tucumcari_city": 8143
+    },
+    {
+      "year": 1970,
+      "cuervo_precinct": null,
+      "santa_rosa_precinct": null,
+      "santa_rosa_place": 2483,
+      "guadalupe_county": 4969,
+      "santa_rosa_division": 3221,
+      "tucumcari_city": 7189
+    }
+  ]
+}

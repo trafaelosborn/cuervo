@@ -1,0 +1,61 @@
+{
+  "changes": "Seven added chapter-opening photographs and six new picture pages containing eight more photographs. Three prior photographs retained. Prose, notes and figure references unchanged.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "prior_sha256": "6d2f8802cf3f8e6f540d97eeb4b614596992166b3ec724205450e89e962c9732",
+      "new_sha256": "5b819b505ab3ed8c4f59abe6ba751555949965ea064e9c076d6bb0c3fa54cc26",
+      "prose_and_notes_unchanged": true,
+      "new_photo_marker": "window-inscription"
+    },
+    {
+      "chapter": 2,
+      "prior_sha256": "11dfb03da21abfb736c940cdb926508d62c2182fc2694a9fd23dda85f3a38f4c",
+      "new_sha256": "5a95239640b73ea461a7c18486d9321ffb3446d7fc77f8c12690865e7cadccf4",
+      "prose_and_notes_unchanged": true,
+      "new_photo_marker": "entrances"
+    },
+    {
+      "chapter": 3,
+      "prior_sha256": "807fbfbc4198e72e149e9ff00f9f28f88d4f7427bc989b5ee1eb7a4fa1a3ed75",
+      "new_sha256": "807fbfbc4198e72e149e9ff00f9f28f88d4f7427bc989b5ee1eb7a4fa1a3ed75",
+      "prose_and_notes_unchanged": true,
+      "new_photo_marker": null
+    },
+    {
+      "chapter": 4,
+      "prior_sha256": "e8bd3a1998d0b03b13a8f79513c924cca5ec99cd2f5304df0aa847292212f560",
+      "new_sha256": "a773353d9eb030fe298d0ab0e74a75b5a015e934a63386706ce37f1698202384",
+      "prose_and_notes_unchanged": true,
+      "new_photo_marker": "building-fabric"
+    },
+    {
+      "chapter": 5,
+      "prior_sha256": "86512d9501c6a992d531a53e6029606b63550fad762dd83295ee249730875bcf",
+      "new_sha256": "7f1c79cd71ac1023d67834903354c733ee50eba2fa672b3a58a794f736997eca",
+      "prose_and_notes_unchanged": true,
+      "new_photo_marker": "domestic-interiors"
+    },
+    {
+      "chapter": 6,
+      "prior_sha256": "83bf9601d9043046774a1c3113c8726e1b37a94996f4bf13bc828eb4b31e6a12",
+      "new_sha256": "ff91e0b9c47e19a06b9513d64214ab1d7550c4eafcedbd1af86a943c28ff68d5",
+      "prose_and_notes_unchanged": true,
+      "new_photo_marker": "road-and-ground"
+    },
+    {
+      "chapter": 7,
+      "prior_sha256": "9b7ed169f53b049279825e803a9cf7705ba0170a7c011766d89759ba6d4eafee",
+      "new_sha256": "747a25e6d6de6671d3bde18a1acc6fdca66a8624b7a94d996ef4dd3980f33b19",
+      "prose_and_notes_unchanged": true,
+      "new_photo_marker": "rooms-and-structure"
+    },
+    {
+      "chapter": 8,
+      "prior_sha256": "7c10ade52cd4d88ddc7971e0c6873e48254ea90d8d784c33a2a391238535d22a",
+      "new_sha256": "7c10ade52cd4d88ddc7971e0c6873e48254ea90d8d784c33a2a391238535d22a",
+      "prose_and_notes_unchanged": true,
+      "new_photo_marker": null
+    }
+  ]
+}

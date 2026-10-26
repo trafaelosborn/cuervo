@@ -1,0 +1,52 @@
+{
+  "support": [
+    {
+      "activity": "Merchant",
+      "date": "1904–1915 / 1958",
+      "requirement": "Transactions with the surrounding country, across several lines of business.",
+      "observation": "Positive net profits in twelve supplied annual accounts; business still operating in 1958.",
+      "limit": "Shared-cost savings and the final closure are unmeasured.",
+      "note": 2
+    },
+    {
+      "activity": "Ninth grade",
+      "date": "1919",
+      "requirement": "Someone able to teach the pupils.",
+      "observation": "Interruption after Simmons left; Sanchez announced that she would take the pupils.",
+      "limit": "Reason for departure and actual resumption are unknown.",
+      "note": 5
+    },
+    {
+      "activity": "Resident physician",
+      "date": "1921 / PROPOSAL",
+      "requirement": "Dependable support between individual occasions of illness.",
+      "observation": "Terry proposed monthly contributions from one hundred families across a locality.",
+      "limit": "Subscriptions and recruitment are not established.",
+      "note": 6
+    },
+    {
+      "activity": "Newspaper",
+      "date": "1922",
+      "requirement": "Revenue or a backer willing to sustain losses for another purpose.",
+      "observation": "Hicks explained financial withdrawal in commercial and political terms.",
+      "limit": "Her account does not establish the final issue date.",
+      "note": 7
+    }
+  ],
+  "feedback": {
+    "kind": "qualitative; no numerical data or fitted parameters",
+    "observed": "Schooling attracted households, 1910 and 1912",
+    "conditional": "Both dashed arrows; no full later cascade established",
+    "interruptions": [
+      "travel",
+      "delivery",
+      "replacement staff",
+      "new backing"
+    ],
+    "notes": [
+      16,
+      17,
+      18
+    ]
+  }
+}

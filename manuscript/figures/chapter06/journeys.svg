@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="511.2pt" height="417.6pt" viewBox="0 0 511.2 417.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-28T14:04:28.556817</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 417.6 
+L 511.2 417.6 
+L 511.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 46.008 162.945882 
+L 495.864 162.945882 
+L 495.864 41.76 
+L 46.008 41.76 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 356.136 162.945882 
+L 495.864 162.945882 
+L 495.864 41.76 
+L 356.136 41.76 
+z
+" clip-path="url(#p24cab758e3)" style="fill: #f6f3ee; stroke: #f6f3ee; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_6">
+    <path d="M 66.456 102.352941 
+L 89.176 102.352941 
+" clip-path="url(#p24cab758e3)" style="fill: none; stroke: #1b3558; stroke-width: 7"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 89.176 102.352941 
+L 283.716 102.352941 
+" clip-path="url(#p24cab758e3)" style="fill: none; stroke: #9c7151; stroke-width: 7"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 283.716 102.352941 
+L 305.016 102.352941 
+" clip-path="url(#p24cab758e3)" style="fill: none; stroke: #1b3558; stroke-width: 7"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 46.008 162.945882 
+L 495.864 162.945882 
+" style="fill: none; stroke: #c9c2b8; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mab0621ea69" d="M 0 2.345208 
+C 0.621956 2.345208 1.218523 2.098102 1.658312 1.658312 
+C 2.098102 1.218523 2.345208 0.621956 2.345208 0 
+C 2.345208 -0.621956 2.098102 -1.218523 1.658312 -1.658312 
+C 1.218523 -2.098102 0.621956 -2.345208 0 -2.345208 
+C -0.621956 -2.345208 -1.218523 -2.098102 -1.658312 -1.658312 
+C -2.098102 -1.218523 -2.345208 -0.621956 -2.345208 0 
+C -2.345208 0.621956 -2.098102 1.218523 -1.658312 1.658312 
+C -1.218523 2.098102 -0.621956 2.345208 0 2.345208 
+z
+" style="stroke: #1b3558"/>
+    </defs>
+    <g clip-path="url(#p24cab758e3)">
+     <use xlink:href="#mab0621ea69" x="66.456" y="102.352941" style="fill: #1b3558; stroke: #1b3558"/>
+     <use xlink:href="#mab0621ea69" x="89.176" y="102.352941" style="fill: #1b3558; stroke: #1b3558"/>
+     <use xlink:href="#mab0621ea69" x="283.716" y="102.352941" style="fill: #1b3558; stroke: #1b3558"/>
+     <use xlink:href="#mab0621ea69" x="305.016" y="102.352941" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(66.456 124.977962)">7:00 a.m.</text>
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(66.456 136.259798)">Leave Cuervo</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(89.176 75.752662)">8:20 a.m.</text>
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(89.176 87.035232)">Arrive</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(238.521094 75.753396)">7:45 p.m.</text>
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(255.751 87.035232)">Leave</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(259.821094 124.977962)">9:00 p.m.</text>
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(234.166437 136.260532)">Back in Cuervo</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #9c7151" x="186.4176" y="157.213873" transform="rotate(-0 186.4176 157.213873)">11 hr 25 min in Tucumcari</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="46.008" y="27.76" transform="rotate(-0 46.008 27.76)">Tucumcari / 42 railway miles</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 46.008 350.784 
+L 495.864 350.784 
+L 495.864 229.598118 
+L 46.008 229.598118 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 356.136 350.784 
+L 495.864 350.784 
+L 495.864 229.598118 
+L 356.136 229.598118 
+z
+" clip-path="url(#p32d2e8c0a3)" style="fill: #f6f3ee; stroke: #f6f3ee; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_9"/>
+     <g id="text_7">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="49.416" y="367.621891" transform="rotate(-0 49.416 367.621891)">6 a.m.</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_10"/>
+     <g id="text_8">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="151.656" y="367.621891" transform="rotate(-0 151.656 367.621891)">Noon</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_11"/>
+     <g id="text_9">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="253.896" y="367.621891" transform="rotate(-0 253.896 367.621891)">6 p.m.</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_12"/>
+     <g id="text_10">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="356.136" y="367.622594" transform="rotate(-0 356.136 367.622594)">Midnight</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_13"/>
+     <g id="text_11">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(444.081469 368.52277)">6 a.m.</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(438.183656 379.32523)">Next day</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_14">
+    <path d="M 305.016 290.191059 
+L 314.956 290.191059 
+" clip-path="url(#p32d2e8c0a3)" style="fill: none; stroke: #1b3558; stroke-width: 7"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 314.956 290.191059 
+L 464.056 290.191059 
+" clip-path="url(#p32d2e8c0a3)" style="fill: none; stroke: #9c7151; stroke-width: 7"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 464.056 290.191059 
+L 475.416 290.191059 
+" clip-path="url(#p32d2e8c0a3)" style="fill: none; stroke: #1b3558; stroke-width: 7"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 46.008 350.784 
+L 495.864 350.784 
+" style="fill: none; stroke: #c9c2b8; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p32d2e8c0a3)">
+     <use xlink:href="#mab0621ea69" x="305.016" y="290.191059" style="fill: #1b3558; stroke: #1b3558"/>
+     <use xlink:href="#mab0621ea69" x="314.956" y="290.191059" style="fill: #1b3558; stroke: #1b3558"/>
+     <use xlink:href="#mab0621ea69" x="464.056" y="290.191059" style="fill: #1b3558; stroke: #1b3558"/>
+     <use xlink:href="#mab0621ea69" x="475.416" y="290.191059" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(305.016 312.81608)">9:00 p.m.</text>
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(305.016 324.097915)">Leave Cuervo</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(314.956 263.590779)">9:35 p.m.</text>
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(314.956 274.873349)">Arrive</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(419.068187 263.591514)">6:20 a.m.</text>
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(436.091 274.873349)">Leave</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(430.428187 312.81608)">7:00 a.m.</text>
+    <text style="font-size: 9.4px; font-family: 'DejaVu Sans'" transform="translate(404.566437 324.09865)">Back in Cuervo</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #9c7151" x="389.364" y="345.05199" transform="rotate(-0 389.364 345.05199)">Overnight in Santa Rosa</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="46.008" y="215.598118" transform="rotate(-0 46.008 215.598118)">Santa Rosa / 17 railway miles</text>
+   </g>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="46.008" y="402.984" transform="rotate(-0 46.008 402.984)">NAVY  Train journey     BROWN  Time at destination</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p24cab758e3">
+   <rect x="46.008" y="41.76" width="449.856" height="121.185882"/>
+  </clipPath>
+  <clipPath id="p32d2e8c0a3">
+   <rect x="46.008" y="229.598118" width="449.856" height="121.185882"/>
+  </clipPath>
+ </defs>
+</svg>

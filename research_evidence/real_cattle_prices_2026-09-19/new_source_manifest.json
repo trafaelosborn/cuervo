@@ -1,0 +1,33 @@
+[
+  {
+    "id": "USDA265",
+    "title": "Prices Received by Farmers for Beef Cattle, 1909-59",
+    "url": "https://esmis.nal.usda.gov/usda-esmis/files/x920fw86z/5t34sp07q/df65vc27m/prflvstckdypltry_Prices_Received_by_Farmers_for_Beef_Cattle__1909-59.pdf",
+    "path": "sources/08_context/usda_beef_cattle_prices_1909_1959_bulletin_265.pdf",
+    "locator": "Table 43, printed/PDF page 46; method page 3",
+    "used_years": "1913-1958; 1959 overlap checked",
+    "visual_check": true,
+    "bytes": 6494718,
+    "sha256": "797af802df93ea2b5b1cb2bebfb9dcdc798b1a73d8acc0a95f46fcfb76750ce5"
+  },
+  {
+    "id": "USDA680",
+    "title": "Prices Received by Farmers: Cattle, Milk Cows, Hogs, Sheep, Wool, 1959-78",
+    "url": "https://esmis.nal.usda.gov/usda-esmis/files/x920fw86z/xg94hs65j/rv042x51f/prflvstckdypltry_Prices_Received_by_Farmers_-_Cattle__Milk_Cows__Hogs__Sheep__Wool__by_State_and_United_States__1959-78.pdf",
+    "path": "sources/08_context/usda_cattle_prices_1959_1978.pdf",
+    "locator": "Beef cattle table, NEW MEXICO, printed/PDF page 16; methods pages 4-5; January 1982",
+    "used_years": "1959-1978",
+    "visual_check": true,
+    "bytes": 12757456,
+    "sha256": "be035d62fbe49df51603ac3d2821a3d15a963d6ff4a9a82d17679d4d9e3a1e44"
+  },
+  {
+    "id": "BLSCPI",
+    "title": "Historical CPI-U, U.S. city average, all items: index averages",
+    "url": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202312.pdf",
+    "locator": "December 2023 release, PDF pages 3-4, Annual avg. column",
+    "used_years": "1913-1978",
+    "retrieval": "BLS web text retrieved September 19, 2026; PDF download HTTP 403; original not held locally",
+    "visual_check": false
+  }
+]

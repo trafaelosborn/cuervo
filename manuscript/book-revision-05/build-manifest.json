@@ -1,0 +1,275 @@
+{
+  "date": "2026-09-29",
+  "pages": 180,
+  "body_words": 31075,
+  "notes": 174,
+  "references": 221,
+  "visual_positions": 41,
+  "author_photographs": 18,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Reading Cuervo",
+      "body_words": 2000,
+      "notes": 14,
+      "references": 17,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-05/chapters/chapter-01-reading-cuervo.md",
+      "sha256": "9d766fde4e905c16920dbc6a7bc0e39fb830bbcbd3bf077c3767dfa6cf21920c",
+      "opening_page": 3,
+      "source_notes_page": 15
+    },
+    {
+      "chapter": 2,
+      "title": "Why a town here?",
+      "body_words": 3899,
+      "notes": 25,
+      "references": 35,
+      "visual_positions": 5,
+      "source": "manuscript/book-revision-05/chapters/chapter-02-why-a-town-here.md",
+      "sha256": "a4361ef95115af407a41e9ccb62af6ab65af2793202027a69b59f11511783b3e",
+      "opening_page": 17,
+      "source_notes_page": 35
+    },
+    {
+      "chapter": 3,
+      "title": "The business of ranch country",
+      "body_words": 5439,
+      "notes": 29,
+      "references": 44,
+      "visual_positions": 5,
+      "source": "manuscript/book-revision-05/chapters/chapter-03-the-business-of-ranch-country.md",
+      "sha256": "58a9799359899090382e253002cfe645d80793866c2475907a6346156b85a2a7",
+      "opening_page": 38,
+      "source_notes_page": 62
+    },
+    {
+      "chapter": 4,
+      "title": "Keeping a town working",
+      "body_words": 4287,
+      "notes": 21,
+      "references": 24,
+      "visual_positions": 6,
+      "source": "manuscript/book-revision-05/chapters/chapter-04-keeping-a-town-working.md",
+      "sha256": "4b0219f4e5f476f708925098375e91335f015efc01a59525ed932afd657a438d",
+      "opening_page": 65,
+      "source_notes_page": 87
+    },
+    {
+      "chapter": 5,
+      "title": "People across places",
+      "body_words": 4322,
+      "notes": 24,
+      "references": 32,
+      "visual_positions": 6,
+      "source": "manuscript/book-revision-05/chapters/chapter-05-people-across-places.md",
+      "sha256": "114e7f570dd33a3221e8f8e771b837a5ffe760c8a83a44fd2398aa3aa559fe51",
+      "opening_page": 90,
+      "source_notes_page": 112
+    },
+    {
+      "chapter": 6,
+      "title": "Changing the connections",
+      "body_words": 4887,
+      "notes": 26,
+      "references": 27,
+      "visual_positions": 6,
+      "source": "manuscript/book-revision-05/chapters/chapter-06-changing-the-connections.md",
+      "sha256": "db7f713ecc2d19872c64a1229b156c3b950b1b026157937be070bd6f05255a83",
+      "opening_page": 116,
+      "source_notes_page": 141
+    },
+    {
+      "chapter": 7,
+      "title": "Explaining the cumulative decline",
+      "body_words": 4394,
+      "notes": 22,
+      "references": 28,
+      "visual_positions": 5,
+      "source": "manuscript/book-revision-05/chapters/chapter-07-explaining-the-cumulative-decline.md",
+      "sha256": "672547c8c7a56c35beef106e47ee8efa53d94f21240348061de909d03332906e",
+      "opening_page": 144,
+      "source_notes_page": 165
+    },
+    {
+      "chapter": 8,
+      "title": "What remained",
+      "body_words": 1847,
+      "notes": 13,
+      "references": 14,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-05/chapters/chapter-08-what-remained.md",
+      "sha256": "f52954666698c2b72c63a2393db140b890e143bf95a4bdd245e4e6098e93796d",
+      "opening_page": 168,
+      "source_notes_page": 179
+    }
+  ],
+  "figure_pages": [
+    {
+      "page": 3,
+      "figure": "1:opening-photo"
+    },
+    {
+      "page": 5,
+      "figure": "1:simultaneous-change"
+    },
+    {
+      "page": 7,
+      "figure": "1:regional-locator"
+    },
+    {
+      "page": 13,
+      "figure": "1:photo-window-inscription"
+    },
+    {
+      "page": 17,
+      "figure": "2:opening-photo"
+    },
+    {
+      "page": 22,
+      "figure": "2:cuervo-map"
+    },
+    {
+      "page": 25,
+      "figure": "2:santa-rosa-map"
+    },
+    {
+      "page": 28,
+      "figure": "2:trade-notices"
+    },
+    {
+      "page": 31,
+      "figure": "2:photo-entrances"
+    },
+    {
+      "page": 38,
+      "figure": "3:opening-photo"
+    },
+    {
+      "page": 44,
+      "figure": "3:merchant-finance"
+    },
+    {
+      "page": 49,
+      "figure": "3:trade-connections"
+    },
+    {
+      "page": 53,
+      "figure": "3:county-livestock"
+    },
+    {
+      "page": 58,
+      "figure": "3:prices-and-population"
+    },
+    {
+      "page": 65,
+      "figure": "4:opening-photo"
+    },
+    {
+      "page": 70,
+      "figure": "4:school-staff-and-care"
+    },
+    {
+      "page": 72,
+      "figure": "4:school-parcel"
+    },
+    {
+      "page": 74,
+      "figure": "4:photo-building-fabric"
+    },
+    {
+      "page": 77,
+      "figure": "4:doctor-support"
+    },
+    {
+      "page": 81,
+      "figure": "4:newspaper-purpose"
+    },
+    {
+      "page": 90,
+      "figure": "5:opening-photo"
+    },
+    {
+      "page": 94,
+      "figure": "5:population-and-age"
+    },
+    {
+      "page": 97,
+      "figure": "5:people-and-households"
+    },
+    {
+      "page": 103,
+      "figure": "5:work-under-one-roof"
+    },
+    {
+      "page": 106,
+      "figure": "5:photo-domestic-interiors"
+    },
+    {
+      "page": 109,
+      "figure": "5:regional-households"
+    },
+    {
+      "page": 116,
+      "figure": "6:opening-photo"
+    },
+    {
+      "page": 119,
+      "figure": "6:journeys"
+    },
+    {
+      "page": 122,
+      "figure": "6:retail"
+    },
+    {
+      "page": 128,
+      "figure": "6:photo-road-and-ground"
+    },
+    {
+      "page": 132,
+      "figure": "6:station-book"
+    },
+    {
+      "page": 138,
+      "figure": "6:chronology"
+    },
+    {
+      "page": 144,
+      "figure": "7:opening-photo"
+    },
+    {
+      "page": 146,
+      "figure": "7:functional-chronology"
+    },
+    {
+      "page": 151,
+      "figure": "7:support"
+    },
+    {
+      "page": 157,
+      "figure": "7:feedback"
+    },
+    {
+      "page": 160,
+      "figure": "7:photo-rooms-and-structure"
+    },
+    {
+      "page": 168,
+      "figure": "8:opening-photo"
+    },
+    {
+      "page": 172,
+      "figure": "8:church"
+    },
+    {
+      "page": 175,
+      "figure": "8:road"
+    },
+    {
+      "page": 176,
+      "figure": "8:fabric"
+    }
+  ],
+  "pdf_sha256": "c7f5f7138fab067184872ee50f6891753c6445b964a80e88853a295c783271c1",
+  "visual_review": "passed"
+}

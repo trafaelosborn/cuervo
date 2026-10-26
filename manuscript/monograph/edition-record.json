@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-21",
+  "current_print_file": "B:\\Meridian\\Cuervo\\output\\pdf\\cuervo-monograph-print-letter.pdf",
+  "sha256": "dcfe3bbcab511a1e22efc6ae37bc81dc8a764137cd7df8bdaa0d7099944e6240",
+  "source_revision": 10,
+  "title": "Cuervo: An Economic History of a New Mexico Ghost Town",
+  "supersedes_print_file": "B:/Meridian/Cuervo/output/pdf/cuervo-revision-10-print-letter.pdf",
+  "changes": [
+    "Added the approved subtitle to the title page and PDF title metadata.",
+    "Removed Complete manuscript and revision/date labels from title page.",
+    "Removed proof status and revision text from all running footers.",
+    "Removed typography-trial and unfinished-production paragraph.",
+    "Removed digital-navigation instruction from printed contents.",
+    "Replaced camera filenames and internal project-concordance language with linked photo page references.",
+    "Cleaned document title and subject metadata."
+  ],
+  "preserved": [
+    "Chapter text and source notes",
+    "All images and original image streams",
+    "Chapter, figure and bibliography pagination",
+    "All 367 links and ten bookmarks",
+    "US Letter duplex print setup"
+  ]
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "chapter": 1,
+    "category": "factual clarity",
+    "before": "That July, Rancho Armendariz",
+    "after": "In July 2026, Rancho Armendariz"
+  },
+  {
+    "chapter": 1,
+    "category": "factual clarity",
+    "before": "about two-thirds of its year-round housing reportedly had air conditioning, yet its population",
+    "after": "about two-thirds of Santa Rosa's year-round housing reportedly had air conditioning, yet the town's population"
+  },
+  {
+    "chapter": 1,
+    "category": "cadence",
+    "before": "The card documents an assessed building and its condition. It does not date the last sale of gasoline or explain why the business stopped.",
+    "after": "The assessment records the property's condition, leaving its trading history open."
+  },
+  {
+    "chapter": 2,
+    "category": "source discrepancy",
+    "before": "Grubbs dated the Cabra store to the fall of 1899.",
+    "after": "Grubbs traced the Cabra store to 1899."
+  },
+  {
+    "chapter": 2,
+    "category": "cadence",
+    "before": "His reconstruction establishes the business there before its move to the new rail connection.",
+    "after": "The business was already operating there before its move to the new rail connection."
+  },
+  {
+    "chapter": 2,
+    "category": "cadence",
+    "before": "The animals were passing through; the report does not identify them as local production. Cuervo nevertheless performed work for their journey.",
+    "after": "Cuervo supplied feed and rest to cattle passing through from elsewhere."
+  },
+  {
+    "chapter": 2,
+    "category": "cadence",
+    "before": "The newspaper reports do not measure the resulting purchases. They do establish a reason for people to gather that was independent of the arrival of a particular freight train.",
+    "after": "Schooling gave families a reason to gather in town throughout the term."
+  },
+  {
+    "chapter": 2,
+    "category": "cadence",
+    "before": "The two services were related, but one record of a buyer's arrival does not tell the whole history of shipments. Each part needs to be followed on its own terms.",
+    "after": "Passenger and freight services could support different stages of the same trade."
+  },
+  {
+    "chapter": 2,
+    "category": "cadence",
+    "before": "Those findings belong to the next chapter, but they establish a necessary boundary here: the railway opportunity did not collapse into immediate commercial failure.",
+    "after": "The railway opportunity supported a business that survived its early setbacks."
+  },
+  {
+    "chapter": 3,
+    "category": "cadence",
+    "before": " His figures describe an early rise, a setback and a partial recovery. They do not describe an uninterrupted collapse after the first difficulty.",
+    "after": " His figures describe an early rise, a setback and a partial recovery."
+  },
+  {
+    "chapter": 3,
+    "category": "cadence",
+    "before": "The reported earnings establish recovery after the early setback. Grubbs reconstructed them from older accounts, retaining historical categories and rounding. On that basis, Bond & Wiest continued to earn money as the balance of its business changed.",
+    "after": "Bond & Wiest recovered from the early setback and continued to earn money as the balance of its business changed. Grubbs reconstructed those earnings from older accounts, retaining their historical categories and rounding."
+  },
+  {
+    "chapter": 3,
+    "category": "cadence",
+    "before": "The Encino arrangement establishes the earlier advantage; it does not date its disappearance.",
+    "after": "The Encino arrangement shows why combining shipments had once been useful."
+  },
+  {
+    "chapter": 3,
+    "category": "cadence",
+    "before": "The figures establish broad ownership, but do not show a rising rate across those years or reveal the destinations of the trucks.",
+    "after": "Truck ownership was already common in both years."
+  },
+  {
+    "chapter": 3,
+    "category": "cadence",
+    "before": "The equipment figures establish that capacity; its local effects depend on the journeys and commercial arrangements producers chose.",
+    "after": "The local effects depended on which journeys and commercial arrangements producers chose."
+  },
+  {
+    "chapter": 3,
+    "category": "denominator clarity",
+    "before": "That was 45.8% of the 1935 farm count. The observation does not identify where they worked or what they did, but it establishes a substantial overlap between operating a farm and obtaining earnings elsewhere.",
+    "after": "That was 45.8% of the 851 farms counted in 1935. The farm count had risen from 596 in 1930 before its later decline; the long-term endpoints conceal that intervening rise. Off-farm earnings were already common among operators, although their workplaces and occupations are unspecified."
+  },
+  {
+    "chapter": 3,
+    "category": "cadence",
+    "before": "The evidence establishes dispersed production and trade, with several functions brought together in a local merchant. It leaves the share of ranch income spent in Cuervo unmeasured.",
+    "after": "The local merchant brought several functions together within a dispersed economy of production and trade."
+  },
+  {
+    "chapter": 4,
+    "category": "cadence",
+    "before": "Filling a role could determine whether provision continued. The school and postal records establish that requirement directly, while leaving the reasons for the vacancies open.",
+    "after": "Both services depended on someone being available to fill a particular role."
+  },
+  {
+    "chapter": 4,
+    "category": "cadence",
+    "before": "The matching name suggests a changed practice base while care continued through travel. The reports do not date the move or explain it. They do identify a form of access different from maintaining a practitioner in Cuervo: the doctor could come from another place to perform a particular service.",
+    "after": "The matching name suggests a changed practice base while care continued through travel. A doctor based elsewhere could still visit Cuervo, though the reports leave the move’s date and reason open."
+  },
+  {
+    "chapter": 4,
+    "category": "cadence",
+    "before": "The advertisements record competition for readers' custom. Actual purchases remain unmeasured, but the rival offers establish a commercial audience extending across town boundaries.",
+    "after": "The rival advertisements sought customers across town boundaries."
+  },
+  {
+    "chapter": 4,
+    "category": "cadence",
+    "before": "This is where service history meets demographic history. The school reports of 1910 and 1912 show households coming into Cuervo for education. Later accounts show education linking local people with other places. Neither observation licenses a simple reversal in which every lost service automatically removes its former users from the population.\n\nService history leads to a demographic question: who remained, and how did their lives connect the available institutions? The next chapter follows household composition, work and selected residential histories. It separates the people counted at Cuervo from the destinations serving them.",
+    "after": "Schooling drew families into Cuervo in 1910 and 1912. Later accounts link local people to schools elsewhere. Changes in services and residence could follow different schedules. The next chapter follows households, work and residential histories to distinguish the people living at Cuervo from the places serving them."
+  },
+  {
+    "chapter": 5,
+    "category": "cadence",
+    "before": "These selected histories establish distinct routes through the region: schooling, ranch work and later homes had different destinations and dates. They illustrate the available arrangements without measuring their prevalence.",
+    "after": "These selected histories follow different routes through the region. Schooling, ranch work and later homes had different destinations and dates."
+  },
+  {
+    "chapter": 5,
+    "category": "cadence",
+    "before": " The arithmetic does not identify the destinations of people missing from the county's later count.",
+    "after": ""
+  },
+  {
+    "chapter": 6,
+    "category": "cadence",
+    "before": "The timetable establishes a practical advantage for the longer trip: useful daytime hours at the destination. It describes offered rail journeys, leaving passengers, purchases and alternative road travel outside its coverage.",
+    "after": "The longer rail trip offered a practical advantage: useful daytime hours at the destination."
+  },
+  {
+    "chapter": 6,
+    "category": "cadence",
+    "before": "The notices establish changing provision; the guide records one later view. Together they leave little support for assuming a large, stable tourist economy that remained intact until interstate construction.",
+    "after": "The notices and guide show services changing over time, well before interstate construction."
+  },
+  {
+    "chapter": 6,
+    "category": "source locator",
+    "before": "The siding continued to appear. Its listed capacity was 103 cars in the late-1950s operating tables. A 1967 timetable still identified a Cuervo siding, with a capacity of 92. Those figures should not be read as proof that the track was shortened. Changes in car length or the basis of a capacity figure could alter the count. They do establish that a siding remained in the operating description.",
+    "after": "The siding continued to appear. Its listed capacity was 103 cars in the October 1958 and September 1959 operating tables, and 92 in a 1967 timetable. Changes in car length or capacity conventions could alter that count without a change in track length.[^13]"
+  },
+  {
+    "chapter": 6,
+    "category": "source precision",
+    "before": "Its discontinuance came in 1968, documented in the contemporary regulatory discussion.",
+    "after": "The April 25, 1968 Congressional Record reported that it had been discontinued that March."
+  },
+  {
+    "chapter": 6,
+    "category": "cadence",
+    "before": "The evidence establishes several supply channels before Cuervo's passenger stop disappeared. It leaves the division of local purchases among those channels unmeasured.",
+    "after": "Several supply channels were available before Cuervo's passenger stop disappeared."
+  },
+  {
+    "chapter": 7,
+    "category": "cadence",
+    "before": "Those observations establish an operating business with more than a roadside clientele. They also place its early commercial success before the designation of Route 66.",
+    "after": "Its early commercial success preceded the designation of Route 66."
+  },
+  {
+    "chapter": 7,
+    "category": "cadence",
+    "before": "The accounts establish joint operation without measuring its savings.",
+    "after": "The company operated these activities together."
+  },
+  {
+    "chapter": 7,
+    "category": "cadence",
+    "before": "The agricultural series establishes changing conditions for producers. County inventories and state prices have different geographic coverage from the village, so they frame the pressures on local trade without measuring individual closures or ranch margins.",
+    "after": "County inventories and state prices describe the wider conditions facing local producers and traders."
+  },
+  {
+    "chapter": 7,
+    "category": "cadence",
+    "before": "The evidence identifies particular outside connections; it does not measure the share of ranch income once retained locally or its later change.",
+    "after": "The documented outside connections show how producers could obtain support beyond the town."
+  },
+  {
+    "chapter": 7,
+    "category": "cadence",
+    "before": "Retail evidence establishes Santa Rosa's importance without identifying every customer.",
+    "after": "Santa Rosa served a wider retail market."
+  },
+  {
+    "chapter": 7,
+    "category": "cadence",
+    "before": "They give the region a more accurate shape than a single relationship in which the larger neighbor absorbed every activity.",
+    "after": "Different services drew the two towns into different regional relationships."
+  },
+  {
+    "chapter": 7,
+    "category": "cadence",
+    "before": "These overlapping conditions set the scale of the explanation. The evidence identifies changes in access, agricultural returns and institutional support. It establishes some decisions directly, while leaving their respective shares of the later contraction unmeasured.",
+    "after": "Access, agricultural returns and institutional support changed on overlapping schedules. Together they altered the conditions for maintaining services at Cuervo."
+  },
+  {
+    "chapter": 7,
+    "category": "cadence",
+    "before": "Relocation is best described at the scale at which it is observed: a publication, a billing responsibility or a named household. The regional history contains those movements without establishing that Cuervo transferred to one destination as a unit.",
+    "after": "Relocation took several forms: a publication, a billing responsibility or a named household could move to a different destination."
+  },
+  {
+    "chapter": 8,
+    "category": "cadence",
+    "before": "The announcement establishes that activity without measuring its profit or Cuervo employment. Trade associated with the locality continued beyond the old storefronts.",
+    "after": "Trade associated with the locality continued beyond the old storefronts."
+  },
+  {
+    "chapter": 8,
+    "category": "cadence",
+    "before": "Boundaries and transactions still required decisions. The continuing property record establishes that use of the townsite without implying a general redevelopment program.",
+    "after": "The townsite remained a place where owners negotiated boundaries and exchanged land."
+  },
+  {
+    "chapter": 8,
+    "category": "date clarity",
+    "before": "A December 2025 parish bulletin supplies a later observation.",
+    "after": "A parish bulletin dated December 21, 2025 supplies a later observation."
+  },
+  {
+    "chapter": 8,
+    "category": "cadence",
+    "before": "The entry documents money reported under Cuervo's name. It does not identify where the event occurred or how often services were held.",
+    "after": "The entry leaves the venue and frequency of services unspecified."
+  }
+]

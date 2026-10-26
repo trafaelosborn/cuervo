@@ -1,0 +1,359 @@
+{
+  "date": "2026-09-28",
+  "pages": 174,
+  "body_words": 31494,
+  "notes": 174,
+  "references": 220,
+  "visual_positions": 28,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Reading Cuervo",
+      "body_words": 2010,
+      "notes": 14,
+      "references": 17,
+      "visual_positions": 3,
+      "source": "manuscript/book-revision-03/chapters/chapter-01-reading-cuervo.md",
+      "sha256": "6d2f8802cf3f8e6f540d97eeb4b614596992166b3ec724205450e89e962c9732",
+      "opening_page": 3,
+      "source_notes_page": 13
+    },
+    {
+      "chapter": 2,
+      "title": "Why a town here?",
+      "body_words": 3960,
+      "notes": 25,
+      "references": 35,
+      "visual_positions": 3,
+      "source": "manuscript/book-revision-03/chapters/chapter-02-why-a-town-here.md",
+      "sha256": "11dfb03da21abfb736c940cdb926508d62c2182fc2694a9fd23dda85f3a38f4c",
+      "opening_page": 15,
+      "source_notes_page": 32
+    },
+    {
+      "chapter": 3,
+      "title": "The business of ranch country",
+      "body_words": 5478,
+      "notes": 29,
+      "references": 44,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-03/chapters/chapter-03-the-business-of-ranch-country.md",
+      "sha256": "807fbfbc4198e72e149e9ff00f9f28f88d4f7427bc989b5ee1eb7a4fa1a3ed75",
+      "opening_page": 35,
+      "source_notes_page": 59
+    },
+    {
+      "chapter": 4,
+      "title": "Keeping a town working",
+      "body_words": 4378,
+      "notes": 21,
+      "references": 24,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-03/chapters/chapter-04-keeping-a-town-working.md",
+      "sha256": "e8bd3a1998d0b03b13a8f79513c924cca5ec99cd2f5304df0aa847292212f560",
+      "opening_page": 63,
+      "source_notes_page": 84
+    },
+    {
+      "chapter": 5,
+      "title": "People across places",
+      "body_words": 4346,
+      "notes": 24,
+      "references": 32,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-03/chapters/chapter-05-people-across-places.md",
+      "sha256": "86512d9501c6a992d531a53e6029606b63550fad762dd83295ee249730875bcf",
+      "opening_page": 87,
+      "source_notes_page": 108
+    },
+    {
+      "chapter": 6,
+      "title": "Changing the connections",
+      "body_words": 4954,
+      "notes": 26,
+      "references": 26,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-03/chapters/chapter-06-changing-the-connections.md",
+      "sha256": "83bf9601d9043046774a1c3113c8726e1b37a94996f4bf13bc828eb4b31e6a12",
+      "opening_page": 112,
+      "source_notes_page": 135
+    },
+    {
+      "chapter": 7,
+      "title": "Explaining the cumulative decline",
+      "body_words": 4489,
+      "notes": 22,
+      "references": 28,
+      "visual_positions": 3,
+      "source": "manuscript/book-revision-03/chapters/chapter-07-explaining-the-cumulative-decline.md",
+      "sha256": "9b7ed169f53b049279825e803a9cf7705ba0170a7c011766d89759ba6d4eafee",
+      "opening_page": 139,
+      "source_notes_page": 159
+    },
+    {
+      "chapter": 8,
+      "title": "What remained",
+      "body_words": 1879,
+      "notes": 13,
+      "references": 14,
+      "visual_positions": 3,
+      "source": "manuscript/book-revision-03/chapters/chapter-08-what-remained.md",
+      "sha256": "7c10ade52cd4d88ddc7971e0c6873e48254ea90d8d784c33a2a391238535d22a",
+      "opening_page": 162,
+      "source_notes_page": 173
+    }
+  ],
+  "figure_pages": [
+    {
+      "page": 3,
+      "figure": "1:opening-photo"
+    },
+    {
+      "page": 5,
+      "figure": "1:simultaneous-change"
+    },
+    {
+      "page": 7,
+      "figure": "1:regional-locator"
+    },
+    {
+      "page": 20,
+      "figure": "2:cuervo-map"
+    },
+    {
+      "page": 23,
+      "figure": "2:santa-rosa-map"
+    },
+    {
+      "page": 26,
+      "figure": "2:trade-notices"
+    },
+    {
+      "page": 41,
+      "figure": "3:merchant-finance"
+    },
+    {
+      "page": 46,
+      "figure": "3:trade-connections"
+    },
+    {
+      "page": 50,
+      "figure": "3:county-livestock"
+    },
+    {
+      "page": 55,
+      "figure": "3:prices-and-population"
+    },
+    {
+      "page": 68,
+      "figure": "4:school-staff-and-care"
+    },
+    {
+      "page": 70,
+      "figure": "4:school-parcel"
+    },
+    {
+      "page": 73,
+      "figure": "4:doctor-support"
+    },
+    {
+      "page": 77,
+      "figure": "4:newspaper-purpose"
+    },
+    {
+      "page": 91,
+      "figure": "5:population-and-age"
+    },
+    {
+      "page": 94,
+      "figure": "5:people-and-households"
+    },
+    {
+      "page": 100,
+      "figure": "5:work-under-one-roof"
+    },
+    {
+      "page": 105,
+      "figure": "5:regional-households"
+    },
+    {
+      "page": 115,
+      "figure": "6:journeys"
+    },
+    {
+      "page": 118,
+      "figure": "6:retail"
+    },
+    {
+      "page": 126,
+      "figure": "6:station-book"
+    },
+    {
+      "page": 132,
+      "figure": "6:chronology"
+    },
+    {
+      "page": 141,
+      "figure": "7:functional-chronology"
+    },
+    {
+      "page": 146,
+      "figure": "7:support"
+    },
+    {
+      "page": 152,
+      "figure": "7:feedback"
+    },
+    {
+      "page": 166,
+      "figure": "8:church"
+    },
+    {
+      "page": 169,
+      "figure": "8:road"
+    },
+    {
+      "page": 170,
+      "figure": "8:fabric"
+    }
+  ],
+  "pdf_sha256": "899664555ee31795604dc290392439246c4ee705df13d3f719f64dd6738d84ca",
+  "visual_review": "passed: all 174 pages inspected in 22 overview sheets; four new figure pages also inspected at 125 dpi; no clipping, overlap, caption spill or unplanned short text pages.",
+  "figure_numbering_verified": [
+    {
+      "page": 5,
+      "label": "Figure 1.1.",
+      "figure": "1:simultaneous-change"
+    },
+    {
+      "page": 7,
+      "label": "Figure 1.2.",
+      "figure": "1:regional-locator"
+    },
+    {
+      "page": 20,
+      "label": "Figure 2.1.",
+      "figure": "2:cuervo-map"
+    },
+    {
+      "page": 23,
+      "label": "Figure 2.2.",
+      "figure": "2:santa-rosa-map"
+    },
+    {
+      "page": 26,
+      "label": "Figure 2.3.",
+      "figure": "2:trade-notices"
+    },
+    {
+      "page": 41,
+      "label": "Figure 3.1.",
+      "figure": "3:merchant-finance"
+    },
+    {
+      "page": 46,
+      "label": "Figure 3.2.",
+      "figure": "3:trade-connections"
+    },
+    {
+      "page": 50,
+      "label": "Figure 3.3.",
+      "figure": "3:county-livestock"
+    },
+    {
+      "page": 55,
+      "label": "Figure 3.4.",
+      "figure": "3:prices-and-population"
+    },
+    {
+      "page": 68,
+      "label": "Figure 4.1.",
+      "figure": "4:school-staff-and-care"
+    },
+    {
+      "page": 70,
+      "label": "Figure 4.2.",
+      "figure": "4:school-parcel"
+    },
+    {
+      "page": 73,
+      "label": "Figure 4.3.",
+      "figure": "4:doctor-support"
+    },
+    {
+      "page": 77,
+      "label": "Figure 4.4.",
+      "figure": "4:newspaper-purpose"
+    },
+    {
+      "page": 91,
+      "label": "Figure 5.1.",
+      "figure": "5:population-and-age"
+    },
+    {
+      "page": 94,
+      "label": "Figure 5.2.",
+      "figure": "5:people-and-households"
+    },
+    {
+      "page": 100,
+      "label": "Figure 5.3.",
+      "figure": "5:work-under-one-roof"
+    },
+    {
+      "page": 105,
+      "label": "Figure 5.4.",
+      "figure": "5:regional-households"
+    },
+    {
+      "page": 115,
+      "label": "Figure 6.1.",
+      "figure": "6:journeys"
+    },
+    {
+      "page": 118,
+      "label": "Figure 6.2.",
+      "figure": "6:retail"
+    },
+    {
+      "page": 126,
+      "label": "Figure 6.3.",
+      "figure": "6:station-book"
+    },
+    {
+      "page": 132,
+      "label": "Figure 6.4.",
+      "figure": "6:chronology"
+    },
+    {
+      "page": 141,
+      "label": "Figure 7.1.",
+      "figure": "7:functional-chronology"
+    },
+    {
+      "page": 146,
+      "label": "Figure 7.2.",
+      "figure": "7:support"
+    },
+    {
+      "page": 152,
+      "label": "Figure 7.3.",
+      "figure": "7:feedback"
+    },
+    {
+      "page": 166,
+      "label": "Figure 8.1.",
+      "figure": "8:church"
+    },
+    {
+      "page": 169,
+      "label": "Figure 8.2.",
+      "figure": "8:road"
+    },
+    {
+      "page": 170,
+      "label": "Figure 8.3.",
+      "figure": "8:fabric"
+    }
+  ]
+}

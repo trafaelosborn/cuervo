@@ -1,0 +1,155 @@
+[
+  {
+    "id": "01-10-1919",
+    "file": "B:\\Meridian\\Cuervo\\sources\\02_newspapers\\cuervo_clipper\\full_scans\\The Cuervo Clipper, 01-10-1919 - The Cuervo Clipper 01-10-1919.pdf",
+    "sha256": "dcc38ea1e0fb0457c2cf1456ecc6db0ecbe6b686498f307d8a74bd84b3e06552",
+    "pdf_page": 2
+  },
+  {
+    "id": "09-09-1921",
+    "file": "B:\\Meridian\\Cuervo\\sources\\02_newspapers\\cuervo_clipper\\full_scans\\The Cuervo Clipper, 09-09-1921 - The Cuervo Clipper 09-09-1921.pdf",
+    "sha256": "43d4e78cc3ed9ea15cd5aaf6b74aa749ea1408fec30fc49f635b6d027285f3d3",
+    "pdf_page": 2
+  },
+  {
+    "id": "02-11-1921",
+    "file": "B:\\Meridian\\Cuervo\\sources\\02_newspapers\\cuervo_clipper\\full_scans\\The Cuervo Clipper, 02-11-1921 - The Cuervo Clipper 02-11-1921.pdf",
+    "sha256": "764dcfbcfec2380f8a0c7abd3ab2723df78a88d051f36d19474aed2a79a2ee9e",
+    "pdf_page": 2
+  },
+  {
+    "id": "12-01-1922",
+    "file": "B:\\Meridian\\Cuervo\\sources\\02_newspapers\\cuervo_clipper\\full_scans\\The Cuervo Clipper, 12-01-1922 - The Cuervo Clipper 12-01-1922.pdf",
+    "sha256": "e53a57e8ee4370d3e3ea232a12304b3a8157d23a0e13ec0ce4bfe23fa32c01e2",
+    "pdf_page": 2
+  },
+  {
+    "id": "04-15-1921",
+    "file": "B:\\Meridian\\Cuervo\\sources\\02_newspapers\\cuervo_clipper\\full_scans\\The Cuervo Clipper, 04-15-1921 - The Cuervo Clipper 04-15-1921.pdf",
+    "sha256": "456b68b62924fd7df7d8db01f859d286d09f9a1f0ca1f20b77ec16d7d0339ec8",
+    "pdf_page": 2
+  },
+  {
+    "id": "school-survey",
+    "file": "B:\\Meridian\\Cuervo\\Cuervo\\Cuervo\\Cuervo Plats\\C-232.pdf",
+    "sha256": "d200ce6f6e1bda6951d12390ad89a9409b2f5a5978277a13dc44ddbf65a24f54",
+    "pdf_page": 1
+  },
+  {
+    "id": "postal-1913",
+    "file": "B:\\Meridian\\Cuervo\\sources\\05_postal\\us_post_office_star_routes_curtailed_1914.pdf",
+    "sha256": "089f5e23aef034e33ed478170b5e72e09e6d860f3754bbfb2af3a02b3b1d0144",
+    "pdf_page": 33
+  },
+  {
+    "output": "doctor-proposal.png",
+    "source_id": "02-11-1921",
+    "crop_pixels": [
+      2029,
+      1888,
+      2458,
+      3089
+    ],
+    "treatment": "Crop only; original orientation and marks retained."
+  },
+  {
+    "output": "school-program-reading.png",
+    "source_id": "09-09-1921",
+    "crop_pixels": [
+      1618,
+      490,
+      2024,
+      2632
+    ],
+    "treatment": "Crop only; original orientation and marks retained."
+  },
+  {
+    "output": "school-conditions-reading.png",
+    "source_id": "09-09-1921",
+    "crop_pixels": [
+      2017,
+      1160,
+      2420,
+      1631
+    ],
+    "treatment": "Crop only; original orientation and marks retained."
+  },
+  {
+    "output": "hicks-scale.png",
+    "source_id": "12-01-1922",
+    "crop_pixels": [
+      1670,
+      798,
+      2069,
+      2074
+    ],
+    "treatment": "Crop only; original orientation and marks retained."
+  },
+  {
+    "output": "hicks-purpose.png",
+    "source_id": "12-01-1922",
+    "crop_pixels": [
+      2069,
+      1730,
+      2468,
+      2555
+    ],
+    "treatment": "Crop only; original orientation and marks retained."
+  },
+  {
+    "output": "school-overview.png",
+    "source_id": "school-survey",
+    "crop_pixels": [
+      0,
+      0,
+      3696,
+      2801
+    ],
+    "treatment": "Crop only; original orientation and marks retained."
+  },
+  {
+    "output": "school-footprint.png",
+    "source_id": "school-survey",
+    "crop_pixels": [
+      1120,
+      1706,
+      2682,
+      2395
+    ],
+    "treatment": "Crop only; original orientation and marks retained."
+  },
+  {
+    "output": "postal-row.png",
+    "source_id": "postal-1913",
+    "crop_pixels": [
+      294,
+      2129,
+      3856,
+      2218
+    ],
+    "treatment": "Crop only; original orientation and marks retained."
+  },
+  {
+    "output": "postal-headers.png",
+    "source_id": "postal-1913",
+    "crop_pixels": [
+      308,
+      1123,
+      3867,
+      1330
+    ],
+    "treatment": "Crop only; original orientation and marks retained."
+  },
+  {
+    "output": "teacher-notice.png",
+    "source_id": "01-10-1919",
+    "derived_from": "B:\\Meridian\\Cuervo\\research_evidence\\school_and_merchant_2026-09-21\\page_renders\\clipper_1919-01-10_detail.png",
+    "crop_pixels": [
+      69,
+      17,
+      451,
+      405
+    ],
+    "treatment": "Crop only, removing neighboring-column fragments."
+  }
+]

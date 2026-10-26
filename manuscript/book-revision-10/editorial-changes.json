@@ -1,0 +1,395 @@
+[
+  {
+    "chapter": 1,
+    "reason": "Locate the subject before developing the argument",
+    "before": "Today, Cuervo is commonly described as a Route 66 ghost town.",
+    "after": "Cuervo, in eastern New Mexico, is commonly described as a Route 66 ghost town."
+  },
+  {
+    "chapter": 1,
+    "reason": "Make Chapter 1 general; reserve merchant origins, relocation and shipment detail for Chapters 2–3",
+    "before": "## A store with a wide reach\n\nThe early merchant offers a clear example. In 1958, Frank H. Grubbs wrote a study of the Bond enterprises. He traced the Cuervo business to a predecessor at Cabra in 1899. The move to Cuervo was complete by the end of 1903. Grubbs connected it with access to the railway.[^5]\n\nThe Cuervo firm did several jobs. It sold goods, extended credit and dealt in sheep and wool. In March 1910, the *Clipper* reported fourteen cars of sheep loaded at Cuervo for Kansas. The following week’s issue reported Bond & Wiest unloading separate cars of flour, sugar and grain.[^6] The railway carried agricultural goods out and supplies in.\n\nMuch of the work that supported this trade took place outside the village. Ranchers needed access to distant buyers. They also needed goods that arrived from elsewhere. Cuervo brought these transactions together. Its small resident population was only part of the merchant’s market.\n\nGrubbs found the merchant still operating in 1958.[^5] A firm serving ranch country could outlast other local undertakings without generating a large town around it.\n\n## What kept a service open?\n\nSchooling also drew families into Cuervo from the surrounding country in 1910 and 1912.[^7] Its ability to attract residents depended on maintaining instruction, premises and staff.\n\nThe newspaper relied on a backer who valued a political return as well as commercial receipts. Katharine A. Hicks’s December 1922 withdrawal of financial support changed that arrangement.[^8] A service could lose its sponsor while some of its users remained.\n\n",
+    "after": "## Serving the surrounding country\n\nBond & Wiest, a general-merchandise business, sold supplies, extended credit and traded in sheep and wool.[^5] Its railway shipments connected the surrounding ranch country with distant markets.[^6] Much of the work supporting this trade took place outside the village. The people living beside the store were only part of its market.\n\nOther services drew on different support. Schooling attracted families from the surrounding country in 1910 and 1912.[^7] The *Cuervo Clipper* relied on financial backing from an owner who valued its political influence as well as its receipts. Katharine A. Hicks withdrew that backing in December 1922.[^8] A service could lose its sponsor while some of its users remained.\n\nThese businesses and institutions gave people reasons to come to Cuervo. Keeping them there required customers, staff and continuing support. Their requirements explain why one could grow or survive while another withdrew.\n\n"
+  },
+  {
+    "chapter": 1,
+    "reason": "Avoid an unidentified or apparently exclusive merchant; keep the introductory economic principle",
+    "before": "Cuervo’s merchant did both. Its market extended beyond the village, so the local population was a poor measure of the trade available.",
+    "after": "A small resident population can therefore support a business whose customers live farther afield."
+  },
+  {
+    "chapter": 1,
+    "reason": "Keep the introductory example brief; detailed record history remains in Chapter 8",
+    "before": "An assessor card prepared in January 1983 classified a Cuervo property as a gas station, rated its condition poor and used a salvage basis for valuation. A later entry recorded no change in December 2008. The assessment records the property’s condition, leaving its trading history open.",
+    "after": "A 1983 assessor card classified a Cuervo property as a gas station while recording poor condition and a salvage basis for valuation. That description identifies a former use without establishing when fuel sales ended."
+  },
+  {
+    "chapter": 1,
+    "reason": "Give readers a clear progression into the rest of the book",
+    "before": "This book follows the work that gathered at Cuervo, the support that sustained it, and the changes that reduced its role while ranching continued. It begins with the question of why that work gathered here.",
+    "after": "The chapters move from the formation of its businesses to the services and households they supported, then follow changes in transport and access to competing centers. Together, those histories explain how the town’s role diminished while the surrounding country remained in use. The first question is why work gathered here."
+  },
+  {
+    "chapter": 2,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Its merchant supplied, financed and marketed production; the railway made a different location attractive for that business.",
+    "after": "The Bond business supplied goods, extended credit and helped market livestock and wool. The railway made a different location attractive for that work."
+  },
+  {
+    "chapter": 2,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Like Cuervo’s merchant, it linked the railway to a wider territory,",
+    "after": "Like Bond & Wiest, it linked the railway to a wider territory,"
+  },
+  {
+    "chapter": 2,
+    "reason": "Distinguish a dated public-service observation from natural water availability",
+    "before": "The map also records limitations. Santa Rosa lacked a public water supply, public lights and a fire department or apparatus at the time of the survey. Streets were unpaved.",
+    "after": "The December 1908 Sanborn survey also recorded limited municipal services: no public water-supply system, public lighting, fire department or fire apparatus. The water entry concerned public provision, not the presence of natural water sources. Streets were unpaved."
+  },
+  {
+    "chapter": 2,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Cuervo’s merchant did not need to reproduce all those functions to operate successfully.",
+    "after": "Bond & Wiest did not need to reproduce all those functions to operate successfully."
+  },
+  {
+    "chapter": 2,
+    "reason": "Identify the business without assigning an undocumented job title or identity to the newspaper’s surname",
+    "before": "In March 1910, Wiest and Holbrook were reported in Santa Rosa receiving cattle for the firm.",
+    "after": "In March 1910, the *Clipper* reported Wiest and an associate, Holbrook, receiving cattle for Bond & Wiest in Santa Rosa."
+  },
+  {
+    "chapter": 2,
+    "reason": "Make multiple merchants explicit without claiming the directory is exhaustive",
+    "before": "By 1920, the business directory listed Armijo Mercantile as well as Bond & Wiest, the Golden Rule Garage, and the Oklahoma and Rock Island hotels.",
+    "after": "The 1920 business directory listed two named mercantile firms, Armijo Mercantile and Bond & Wiest, alongside the Golden Rule Garage and the Oklahoma and Rock Island hotels."
+  },
+  {
+    "chapter": 1,
+    "reason": "Remove a repeated introductory conclusion and its stray spillover page; earlier service examples retain the point",
+    "before": "The relevant requirements belong to activities. A missing teacher or withdrawn subsidy can matter more immediately than a change in the population total. Replacements, new funding and different ways of operating can restore provision, as Cuervo’s reopenings show.\n\n",
+    "after": ""
+  },
+  {
+    "chapter": 2,
+    "reason": "Tighten a repeated explanation while preserving the evidence",
+    "before": "The wider early record includes physicians’ advertisements, a visiting dentist, lodging, groceries, a lumber yard and a barber. A telephone connection to Montoya was reported complete in January 1910. These were different ways of making the locality more useful, and they depended on different customers and arrangements.",
+    "after": "Other early reports and advertisements record physicians, a visiting dentist, lodging, groceries, a lumber yard and a barber. A telephone connection to Montoya was reported complete in January 1910."
+  },
+  {
+    "chapter": 2,
+    "reason": "Keep named services while removing a redundant summary and spillover",
+    "before": "The 1920 business directory listed two named mercantile firms, Armijo Mercantile and Bond & Wiest, alongside the Golden Rule Garage and the Oklahoma and Rock Island hotels. It also named a school principal, a postmaster, a railway agent and a stage and mail line to Lucille. Cuervo combined trade, lodging, repairs, public services and communications.",
+    "after": "The 1920 directory listed two mercantile firms, Armijo Mercantile and Bond & Wiest, alongside the Golden Rule Garage and the Oklahoma and Rock Island hotels. It also named a principal, postmaster, railway agent and a stage and mail line to Lucille."
+  },
+  {
+    "chapter": 3,
+    "reason": "Explicit reference and accessible prose",
+    "before": "There is, however, a useful later observation of the merchant’s role.",
+    "after": "A 1947 advertisement provides a later observation of Bond & Wiest’s role."
+  },
+  {
+    "chapter": 3,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Cuervo’s business remained connected with the supply side of livestock production.",
+    "after": "Bond & Wiest remained connected with the supply side of livestock production."
+  },
+  {
+    "chapter": 3,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Cuervo’s merchant supplied handling, finance and trade.",
+    "after": "Bond & Wiest supplied handling, finance and trade."
+  },
+  {
+    "chapter": 3,
+    "reason": "Distinguish two generations on first mention; Grubbs p. 115 visually rechecked",
+    "before": "Grubbs found J. S. Holbrook operating the Cuervo business in 1958.",
+    "after": "Grubbs found J. S. Holbrook, son of the earlier manager Joe Holbrook Jr., operating the Cuervo business in 1958."
+  },
+  {
+    "chapter": 3,
+    "reason": "Identify the earlier Holbrook and date the correspondence; Grubbs pp. 102, 109 and 115 visually rechecked",
+    "before": "He described Holbrook’s irritation at the position enjoyed by a Boston buyer and his reluctance to accept it without alternatives.",
+    "after": "He described Joe Holbrook Jr.’s irritation with a Boston wool buyer in 1913 and his reluctance to accept the buyer’s terms without alternatives."
+  },
+  {
+    "chapter": 3,
+    "reason": "Add exact locator for the clarified identity and correspondence date",
+    "before": "Grubbs, pp. 108–109, drawing on correspondence about eastern wool buyers and Holbrook’s bargaining.",
+    "after": "Grubbs, pp. 108–109, drawing on correspondence about eastern wool buyers, including the July 10, 1913 letter cited in p. 109, note 43; pp. 102 and 115 identify the Holbrook generations."
+  },
+  {
+    "chapter": 4,
+    "reason": "Explicit reference and accessible prose",
+    "before": "A neighbor proposed regular payments to attract a doctor.",
+    "after": "A proposal from nearby Newkirk called for regular payments to attract a doctor."
+  },
+  {
+    "chapter": 4,
+    "reason": "Specify closure of the post office rather than of the settlement",
+    "before": "Its reason was the discontinuance of Hanson because there was no suitable candidate for postmaster.",
+    "after": "The department was closing Hanson’s post office because no suitable candidate for postmaster was available."
+  },
+  {
+    "chapter": 4,
+    "reason": "Kilometers first; source precision retained in parentheses",
+    "before": "seven and a half miles",
+    "after": "about 12 kilometers (7.5 miles)"
+  },
+  {
+    "chapter": 4,
+    "reason": "Convert the cited route length using 1 mile = 1.609344 kilometers",
+    "before": "7.50 miles",
+    "after": "12.07 kilometers (7.50 miles)"
+  },
+  {
+    "chapter": 4,
+    "reason": "Replace an abstract heading with its concrete subject",
+    "before": "## Building a school constituency",
+    "after": "## How the school attracted families"
+  },
+  {
+    "chapter": 4,
+    "reason": "Distinguish the term’s end from permanent school closure",
+    "before": "the preceding school closing",
+    "after": "the end of the preceding school term"
+  },
+  {
+    "chapter": 4,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Dr. A. A. Sanford advertised at the Cuervo drugstore in February 1918.",
+    "after": "Dr. A. A. Sanford advertised at a drugstore in Cuervo in February 1918."
+  },
+  {
+    "chapter": 4,
+    "reason": "Explicit reference and accessible prose",
+    "before": "The December 1, 1922 paper advertised another way of distributing care.",
+    "after": "The December 1, 1922 *Clipper* advertised another way of distributing care."
+  },
+  {
+    "chapter": 4,
+    "reason": "Explicit reference and accessible prose",
+    "before": "The newspaper that published these appeals depended on an arrangement of its own.",
+    "after": "The *Cuervo Clipper*, which published these appeals, depended on an arrangement of its own."
+  },
+  {
+    "chapter": 4,
+    "reason": "Avoid implying that several distinct garage notices describe one exclusive business",
+    "before": "the *Clipper* reported that the Cuervo garage had opened again",
+    "after": "the *Clipper* reported that a garage in Cuervo had opened again"
+  },
+  {
+    "chapter": 4,
+    "reason": "Name the businesses and their work in the chapter conclusion",
+    "before": "The merchant’s wide market and the garage’s combined tasks helped make local business possible.",
+    "after": "Bond & Wiest’s wide market and Harrison’s combined repair, blacksmithing and fuel business helped make local trade possible."
+  },
+  {
+    "chapter": 5,
+    "reason": "Introduce the source in familiar language",
+    "before": "The schedules show a larger change in how they lived:",
+    "after": "The individual census returns show a larger change in how they lived:"
+  },
+  {
+    "chapter": 5,
+    "reason": "Define the term before using it throughout the chapter",
+    "before": "The original household schedules add a useful check.",
+    "after": "The original census forms, called schedules, add a useful check."
+  },
+  {
+    "chapter": 5,
+    "reason": "Replace internal research terminology",
+    "before": "Seven retained answers name an outside place or state.",
+    "after": "Seven answers in the inspected forms name an outside place or state."
+  },
+  {
+    "chapter": 5,
+    "reason": "Use a concrete description of the counted unit",
+    "before": "643 main occupation appearances",
+    "after": "643 main occupation entries"
+  },
+  {
+    "chapter": 5,
+    "reason": "Identify the source genre",
+    "before": "The later Higgins accounts extend the distinction beyond one census.",
+    "after": "The Higgins family’s later obituaries extend the distinction beyond one census."
+  },
+  {
+    "chapter": 5,
+    "reason": "Do not imply a first-person account",
+    "before": "John Sr.’s later account describes ranching northeast of Cuervo",
+    "after": "John Sr.’s obituary describes ranching northeast of Cuervo"
+  },
+  {
+    "chapter": 5,
+    "reason": "Identify the source genre",
+    "before": "Willa’s account adds a business in another place.",
+    "after": "Willa’s obituary adds a business in another place."
+  },
+  {
+    "chapter": 5,
+    "reason": "Remove a forward reference to an as-yet-unintroduced son and graduation",
+    "before": "John Sr.’s account also says that he was reared in Cuervo and schooled in Santa Rosa. The connection therefore preceded the son’s 1969 graduation. Education outside the smaller settlement appears across two generations.",
+    "after": "John Sr.’s obituary also says that he was reared in Cuervo and schooled in Santa Rosa. Schooling outside the smaller settlement continued into the next generation."
+  },
+  {
+    "chapter": 5,
+    "reason": "Identify both the relationship and the source",
+    "before": "John Higgins Jr.’s family account dates his Santa Rosa High School graduation",
+    "after": "His son John Higgins Jr.’s obituary dates his Santa Rosa High School graduation"
+  },
+  {
+    "chapter": 5,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Other family accounts widen the map.",
+    "after": "Other obituaries widen the map."
+  },
+  {
+    "chapter": 5,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Tito Vigil’s account likewise names",
+    "after": "Tito Vigil’s obituary likewise names"
+  },
+  {
+    "chapter": 5,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Rudolpho, or Rudy, Chavez’s family account likewise names",
+    "after": "Rudolpho, or Rudy, Chavez’s obituary likewise names"
+  },
+  {
+    "chapter": 5,
+    "reason": "Pair the study-window area units",
+    "before": "6.28 square kilometers",
+    "after": "6.28 square kilometers (2.42 square miles)"
+  },
+  {
+    "chapter": 5,
+    "reason": "Explain the procedure in familiar language; the following sentences retain its limits",
+    "before": "A fixed study window around the settlement produces overlapping population-allocation ranges: zero to seventeen in 2010 and five to twenty-seven in 2020.",
+    "after": "Allocating census blocks to a fixed study area around the settlement gives overlapping ranges: zero to seventeen people in 2010 and five to twenty-seven in 2020."
+  },
+  {
+    "chapter": 6,
+    "reason": "Explicit reference and accessible prose",
+    "before": "The local newspaper reported a busy day for hotels and stores.",
+    "after": "The *Cuervo Clipper* reported a busy day for hotels and stores."
+  },
+  {
+    "chapter": 6,
+    "reason": "Name the railway and standardize route distances",
+    "before": "Rock Island’s public timetable placed Santa Rosa 17 railway miles from Cuervo and Tucumcari 42 miles away.",
+    "after": "The Rock Island railway’s public timetable placed Santa Rosa about 27 kilometers (17 miles) from Cuervo by rail and Tucumcari about 68 kilometers (42 miles) away."
+  },
+  {
+    "chapter": 6,
+    "reason": "Paired distance units",
+    "before": "a 6.9-mile section",
+    "after": "an 11.1-kilometer (6.9-mile) section"
+  },
+  {
+    "chapter": 6,
+    "reason": "Remove working-draft language",
+    "before": "the original E-Federal Aid Project 114-C title sheet now confirms that approval date.",
+    "after": "the original E-Federal Aid Project 114-C title sheet bears that approval date."
+  },
+  {
+    "chapter": 6,
+    "reason": "Paired elevation units with approximate source precision",
+    "before": "climbed roughly two hundred feet",
+    "after": "climbed roughly 60 meters (200 feet)"
+  },
+  {
+    "chapter": 6,
+    "reason": "Define the source and train on first mention",
+    "before": "an employee timetable showed the Imperial stopping",
+    "after": "a timetable for railway staff showed the Imperial passenger train stopping"
+  },
+  {
+    "chapter": 6,
+    "reason": "Explicit reference and accessible prose",
+    "before": "The Golden State continued along the corridor",
+    "after": "The Golden State passenger train continued along the corridor"
+  },
+  {
+    "chapter": 6,
+    "reason": "Expand the acronym on first use in this chapter",
+    "before": "The NTSB’s investigation of a 2002 accident",
+    "after": "The National Transportation Safety Board’s (NTSB) investigation of a 2002 accident"
+  },
+  {
+    "chapter": 6,
+    "reason": "Pair both distances in the shared-unit source-note expression",
+    "before": "The 17 and 42 miles are railway distances.",
+    "after": "The approximate 27-kilometer (17-mile) and 68-kilometer (42-mile) lengths are railway distances."
+  },
+  {
+    "chapter": 7,
+    "reason": "Explicit reference and accessible prose",
+    "before": "The merchant connected scattered producers to supplies, finance and outside buyers.",
+    "after": "Bond & Wiest connected scattered producers to supplies, finance and outside buyers."
+  },
+  {
+    "chapter": 7,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Hicks explained her financial withdrawal through losses, a fulfilled political purpose and an alternative county paper.",
+    "after": "Katharine A. Hicks explained her withdrawal of backing from the *Clipper* through losses, a fulfilled political purpose and an alternative county paper."
+  },
+  {
+    "chapter": 7,
+    "reason": "Explicit reference and accessible prose",
+    "before": "Terry’s medical fund instead records a proposed remedy:",
+    "after": "W. B. Terry’s proposed medical fund offered a different remedy:"
+  },
+  {
+    "chapter": 7,
+    "reason": "Explicit reference and accessible prose",
+    "before": "The early merchant already relied on distant buyers and suppliers.",
+    "after": "Bond & Wiest already relied on distant buyers and suppliers."
+  },
+  {
+    "chapter": 7,
+    "reason": "Pair the municipal land-area comparison",
+    "before": "from 6.1 to about 18.73 square miles",
+    "after": "from 15.8 square kilometers (6.1 square miles) to about 48.5 square kilometers (18.73 square miles)"
+  },
+  {
+    "chapter": 8,
+    "reason": "Identify the source without relying on conversation context",
+    "before": "The supplied town map combines a printed base with subsequent coloring.",
+    "after": "The undated Cuervo parcel map combines a printed base with subsequent coloring."
+  },
+  {
+    "chapter": 8,
+    "reason": "Name the public body",
+    "before": "In December 2011, the school board chose Flora Page’s $10,250 offer from four bids.",
+    "after": "In December 2011, the Santa Rosa Consolidated Schools board chose Flora Page’s $10,250 offer from four bids."
+  },
+  {
+    "chapter": 1,
+    "reason": "Preserve the distinction between an assessed classification and verified trading activity",
+    "before": "That description identifies a former use without establishing when fuel sales ended.",
+    "after": "The card describes the property, but does not establish whether fuel was still being sold."
+  },
+  {
+    "chapter": 6,
+    "reason": "Paired distance units in source notes",
+    "before": "7.678 project miles",
+    "after": "a project length of 12.36 kilometers (7.678 miles)",
+    "occurrences": 1
+  },
+  {
+    "chapter": 6,
+    "reason": "Paired distance units in source notes",
+    "before": "6.9-mile",
+    "after": "11.1-kilometer (6.9-mile)",
+    "occurrences": 1
+  },
+  {
+    "chapter": 6,
+    "reason": "Paired distance units in source notes",
+    "before": "6.8 miles",
+    "after": "10.9 kilometers (6.8 miles)",
+    "occurrences": 1
+  }
+]

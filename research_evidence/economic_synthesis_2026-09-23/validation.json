@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "PDF downloads, hashes and page counts",
+      "files": 11,
+      "pages": 124
+    },
+    {
+      "check": "Agricultural mean-area arithmetic and physical source-page ranges",
+      "observations": 7
+    },
+    {
+      "check": "Trade source files, page ranges and four newspaper image/source hashes",
+      "observations": 20
+    },
+    {
+      "check": "Branch comparison source page ranges",
+      "branches": 4
+    },
+    {
+      "check": "Report local file and image links",
+      "links": 13
+    },
+    {
+      "check": "Companion JSON parsing",
+      "status": "passed"
+    }
+  ],
+  "visual_qa": "Both generated figures visually inspected; agricultural layout adjusted and re-inspected.",
+  "limits": "File integrity, link validity and arithmetic checks do not independently verify historical interpretations or eliminate source limitations."
+}

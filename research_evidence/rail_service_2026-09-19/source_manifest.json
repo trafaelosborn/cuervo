@@ -1,0 +1,161 @@
+[
+  {
+    "path": "sources\\01_railroad\\southern_pacific_timetable_1954-04.pdf",
+    "url": "https://streamlinermemories.info/SP/SP54-04TT.pdf",
+    "bytes": 33551584,
+    "pages": 48,
+    "sha256": "2a177dad8b9f062d8eb356e249274059f394f3bdb5c36f811f2c4122645693ab",
+    "hits": [
+      {
+        "page": 2,
+        "terms": [
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 3,
+        "terms": [
+          "Cuervo",
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 4,
+        "terms": [
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 5,
+        "terms": [
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 9,
+        "terms": [
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 10,
+        "terms": [
+          "Cuervo",
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 13,
+        "terms": [
+          "Cuervo"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "sources\\01_railroad\\southern_pacific_timetable_1960-04.pdf",
+    "url": "https://streamlinermemories.info/SP/SP60-4TT.pdf",
+    "bytes": 17719613,
+    "pages": 32,
+    "sha256": "99ab558b9b83525df35257b65cf89dc593c90e87e8a0720ecdf844a3bdcd2e26",
+    "hits": [
+      {
+        "page": 1,
+        "terms": [
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 3,
+        "terms": [
+          "Cuervo",
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 4,
+        "terms": [
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 6,
+        "terms": [
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 7,
+        "terms": [
+          "Cuervo"
+        ]
+      },
+      {
+        "page": 10,
+        "terms": [
+          "Cuervo"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "sources\\01_railroad\\congressional_record_1968-04-25_passenger_discontinuance.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1968-pt8/pdf/GPO-CRECB-1968-pt8-9-3.pdf",
+    "bytes": 39912043,
+    "pages": 91,
+    "sha256": "b86bcbfdbb3afa6c696ba0b708fa28dc159f714d889f1a9084446a64c3d32593",
+    "hits": [
+      {
+        "page": 88,
+        "terms": [
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      },
+      {
+        "page": 89,
+        "terms": [
+          "Golden State",
+          "GOLDEN STATE"
+        ]
+      }
+    ]
+  },
+  {
+    "path": "sources\\01_railroad\\nmdot_state_rail_plan_2026.pdf",
+    "url": "https://api.realfile.rtsclients.com/PublicFiles/f260a66b364d453e91ff9b3fedd494dc/acb6f07f-6a85-4736-aa30-392113a3a535/NMDOT_New_Mexico_State_Rail_Plan_FINAL_20260213.pdf",
+    "bytes": 13137589,
+    "pages": 141,
+    "sha256": "4eb3b70a89858119ef21fb6e5c188799a65cb4f567e4d9285fa5f52eda95693c",
+    "hits": [
+      3,
+      10,
+      45,
+      52,
+      53
+    ]
+  },
+  {
+    "path": "sources\\01_railroad\\southern_pacific_condensed_timetable_1955-01.pdf",
+    "url": "https://streamlinermemories.info/SP/SP55-1CTT.pdf",
+    "pages": 16,
+    "bytes": 8294714,
+    "sha256": "bc36051bd86908797b5b7ab7b654e4e70a12b19fd7e0bbcfaece29b8307e08a2",
+    "hits": [
+      4,
+      5,
+      15,
+      16
+    ]
+  }
+]

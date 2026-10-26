@@ -1,0 +1,8 @@
+[
+ {"file":"ia_superintendent_1914_metadata.json","url":"https://archive.org/metadata/reportsuperinte60instgoog"},
+ {"file":"ia_superintendent_serial_metadata.json","url":"https://archive.org/metadata/esrp1266165938"},
+ {"file":"ia_education_survey_1921_metadata.json","url":"https://archive.org/metadata/reportonnewmexic00newm"},
+ {"file":"ia_early_education_search.json","url":"https://archive.org/advancedsearch.php?q=creator%3A%28%22New+Mexico%22%29+AND+%28title%3Aeducation+OR+title%3Asuperintendent+OR+title%3Aschool%29+AND+date%3A%5B1900-01-01T00%3A00%3A00Z+TO+1965-12-31T23%3A59%3A59Z%5D&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=date&rows=200&output=json"},
+ {"file":"ttu_education_records_guide.html","url":"https://www.depts.ttu.edu/swco/guide/n.php"},
+ {"file":"route66news_school_search.html","url":"https://www.route66news.com/?s=Cuervo+school"}
+]

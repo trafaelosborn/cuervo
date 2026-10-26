@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-24",
+  "scope": "Manually transcribed from visually inspected Census scans. Estimates, not inventories of verified appliances. Census definition excludes evaporative coolers.",
+  "observations": [
+    {"year":1960,"geography":"Guadalupe County","universe":"occupied housing units","denominator":1410,"one_room_unit":25,"two_or_more_room_units":17,"central_system":0,"none":1368,"any_ac":42,"percent":2.9787234043,"source_file":"census_1960_nm_housing_equipment.pdf","table":"Housing Equipment, for the State and for Counties","printed_page":"2","pdf_page":19,"note":"HC(A3)-33, September 1961, within a multi-state scan. Ellipsis in central-system cell; component counts reconcile with occupied total."},
+    {"year":1960,"geography":"New Mexico","universe":"occupied housing units","denominator":251209,"one_room_unit":10079,"two_or_more_room_units":3378,"central_system":10414,"none":227316,"any_ac":23871,"source_file":"census_1960_nm_housing_equipment.pdf","printed_page":"2","pdf_page":19,"note":"AC components sum to 251187, 22 below the occupied total; no adjustment made. Approximate rate 9.5%."},
+    {"year":1970,"geography":"Guadalupe County","universe":"year-round housing units, AC distribution","denominator":1649,"headline_housing_total_20pct_sample":1646,"one_room_unit":340,"two_or_more_room_units":18,"central_system":120,"none":1171,"any_ac":478,"percent":28.9872644027,"sample_rate_percent":15,"source_file":"census_1970_nm_housing_ch2.pdf","table":"62","printed_page":"33-96","pdf_page":51,"note":"Use the AC distribution total, not the headline housing total. Appendix C Table A (App-18/PDF18 in appendix file) places AC in 15% sample and housing totals in 20% sample. Different universe from 1960 occupied units."},
+    {"year":1980,"geography":"New Mexico","universe":"year-round housing units","denominator":493489,"published_ac_percent":60.0,"source_file":"census_1980_nm_summary_governmental.pdf","table":"5","printed_page":"33-9","pdf_page":21},
+    {"year":1980,"geography":"Guadalupe County","universe":"year-round housing units","denominator":2068,"published_ac_percent":45.2,"built_1970_to_march_1980_percent":16.2,"built_1939_or_earlier_percent":39.4,"public_or_private_company_water_percent":80.2,"public_sewer_percent":65.1,"central_heating_percent":36.8,"source_file":"census_1980_nm_summary_governmental.pdf","table":"5","printed_page":"33-9","pdf_page":21},
+    {"year":1980,"geography":"Santa Rosa city","universe":"year-round housing units","denominator":985,"published_ac_percent":66.1,"built_1970_to_march_1980_percent":18.8,"built_1939_or_earlier_percent":32.3,"public_or_private_company_water_percent":97.6,"public_sewer_percent":93.1,"central_heating_percent":48.4,"source_file":"census_1980_nm_summary_governmental.pdf","table":"5","printed_page":"33-10","pdf_page":22},
+    {"year":1980,"geography":"Los Lunas village","universe":"year-round housing units","denominator":1144,"published_ac_percent":66.9,"built_1970_to_march_1980_percent":60.3,"built_1939_or_earlier_percent":13.8,"public_or_private_company_water_percent":92.5,"public_sewer_percent":81.0,"central_heating_percent":83.1,"source_file":"census_1980_nm_summary_governmental.pdf","table":"5","printed_page":"33-10","pdf_page":22},
+    {"year":1980,"geography":"Tucumcari city","universe":"year-round housing units","denominator":2904,"published_ac_percent":44.8,"source_file":"census_1980_nm_summary_governmental.pdf","table":"5","printed_page":"33-10","pdf_page":22},
+    {"year":1980,"geography":"Vaughn town","universe":"year-round housing units","denominator":369,"published_ac_percent":25.5,"source_file":"census_1980_nm_summary_governmental.pdf","table":"5","printed_page":"33-10","pdf_page":22}
+  ],
+  "definition_pages": [
+    {"year":1960,"file":"census_1960_housing_definitions.pdf","printed_page":"XXXVI","pdf_page":22},
+    {"year":1970,"file":"census_1970_nm_housing_appendix.pdf","printed_page":"App-11","pdf_page":11},
+    {"year":1980,"file":"census_1980_nm_summary_governmental.pdf","printed_page":"B-7","pdf_page":31}
+  ]
+}

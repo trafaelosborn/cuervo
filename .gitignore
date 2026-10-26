@@ -1,0 +1,29 @@
+# Generated products and caches
+/output/
+/tmp/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# External source and camera archives
+/sources/
+/Cuervo/
+*.CR2
+*.cr2
+*.zip
+
+# Private correspondence and machine settings
+**/records_requests/
+**/mail_status.json
+**/email-delivery.json
+**/*_before_update.*
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/

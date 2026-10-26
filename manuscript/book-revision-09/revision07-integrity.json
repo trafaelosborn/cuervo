@@ -1,0 +1,20 @@
+{
+  "manuscript/book-revision-07/bibliography.md": "58a354bf185113890fc0b46ddbba07493fdb394aafa738541923e056b09d8278",
+  "manuscript/book-revision-07/build-manifest.json": "d2a438e8b01a41df11e3a055e3459700bc65e5993fc03e7fb9fd0488605e19f2",
+  "manuscript/book-revision-07/cuervo-complete-manuscript.md": "94b53f374a7fe23ffaeb82aa74a3ea76a540d92dce2b7a7655b2051e213ca539",
+  "manuscript/book-revision-07/editorial-changes.json": "0de30e318d76ed683708371c2d634d38f6d68b6b25d478618a871eabe7a6647e",
+  "manuscript/book-revision-07/editorial-response.md": "0b5210e12657f41f23a4d8ff71d74f416e41d73806b134185a0181ce490d26cd",
+  "manuscript/book-revision-07/photograph-credits.md": "38bc97d9b09d866335b1ab4d3343b99549671ed0ad25e191a890a5eea370d790",
+  "manuscript/book-revision-07/revision06-integrity.json": "e382dc81350916ce011217ef6b3831552f40897b21a252cd64cf8d4075d9fa54",
+  "manuscript/book-revision-07/validation.json": "5403f23351e7e5fab56d3d4ba6e87186ec7a29d3990b20f9db5275d2479732b2",
+  "manuscript/book-revision-07/visual-review.json": "dec4545dbc97f77a2a567e4b7677e596781f62a90cee3899d5f2a693c76593b3",
+  "manuscript/book-revision-07/chapters/chapter-01-reading-cuervo.md": "e49efbb7359137ddcb2d9f99b0aee746f953d42e4c0b2726d196479da1508e6d",
+  "manuscript/book-revision-07/chapters/chapter-02-why-a-town-here.md": "c7004d3cdeceddf91e412b108fac9247b443c4063bb52b8ac409314e266f9fd5",
+  "manuscript/book-revision-07/chapters/chapter-03-the-business-of-ranch-country.md": "2acf95797c246de8d36060f8644f37cd16d98fd1a6281982bbe0d2f43f67d42a",
+  "manuscript/book-revision-07/chapters/chapter-04-keeping-a-town-working.md": "2d0694fdd200ef7e1b2fe493bc6b0455ed7bf64f39b4b5663a25d3549471b45d",
+  "manuscript/book-revision-07/chapters/chapter-05-people-across-places.md": "2cbc52e358c54343f7b40ed279aeafb1ed3f08ca94c33d8df10404a7141b1e82",
+  "manuscript/book-revision-07/chapters/chapter-06-changing-the-connections.md": "f6feacb8400d4a5741b252a1464ae6da184d72292825dab397cee83c5e57b38a",
+  "manuscript/book-revision-07/chapters/chapter-07-explaining-the-cumulative-decline.md": "856835f76dcd1f1ecb45e93ae867624e4d9b499d24b7ef21cf2ee733b6568e88",
+  "manuscript/book-revision-07/chapters/chapter-08-what-remained.md": "cb3bae54170de29efd9871138b712e69ba7a0141de8a4fc3b213aad75c3591e8",
+  "output/pdf/cuervo-complete-reading-proof-revision-07.pdf": "a52e1b240f7c11ebf8b71b84030a11c05034a4f96216a38ab95423365a42b808"
+}

@@ -1,0 +1,21 @@
+{
+  "financial_rows": {
+    "table_32": 13,
+    "table_33": 13,
+    "table_34": 13,
+    "table_35": 12
+  },
+  "net_profit_min": [
+    1911,
+    5.3
+  ],
+  "net_profit_max": [
+    1907,
+    18.7
+  ],
+  "units": "thousands of nominal historical dollars",
+  "positive_net_profit_years": 12,
+  "clipper_pages_visually_verified": 3,
+  "report_missing_local_links": [],
+  "original_financial_records_audited": false
+}

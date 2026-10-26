@@ -1,0 +1,80 @@
+{
+  "status": "passed",
+  "date": "2026-09-29",
+  "pdf_sha256": "c7f5f7138fab067184872ee50f6891753c6445b964a80e88853a295c783271c1",
+  "all_pages_rendered": 180,
+  "preliminary_overview_sheets_reviewed": 23,
+  "repaginated_proof_changed_pages_reviewed": [
+    2,
+    86
+  ],
+  "repaginated_proof_detail_pages_reviewed": [
+    2,
+    11,
+    35,
+    64,
+    86,
+    130,
+    142,
+    179
+  ],
+  "release_render_comparison": {
+    "pages": 180,
+    "pixel_identical_pages": 157,
+    "changed_pages": [
+      15,
+      16,
+      35,
+      36,
+      37,
+      62,
+      63,
+      64,
+      87,
+      88,
+      89,
+      112,
+      113,
+      114,
+      115,
+      141,
+      142,
+      143,
+      165,
+      166,
+      167,
+      179,
+      180
+    ],
+    "comparison": "Final release against the fully checked 180-page proof before preserving source-note en dashes"
+  },
+  "release_changed_note_pages_visually_reviewed": [
+    15,
+    16,
+    35,
+    36,
+    37,
+    62,
+    63,
+    64,
+    87,
+    88,
+    89,
+    112,
+    113,
+    114,
+    115,
+    141,
+    142,
+    143,
+    165,
+    166,
+    167,
+    179,
+    180
+  ],
+  "release_detail_pages_reviewed": [
+    64
+  ],
+  "findings": "No clipping, overlap, missing images or short orphan pages. Eighteen photographs and 41 visual positions retained. Original source-image typography preserved."
+}

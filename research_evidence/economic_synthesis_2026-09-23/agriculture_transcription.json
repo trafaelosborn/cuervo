@@ -1,0 +1,338 @@
+{
+  "geography": "Guadalupe County, New Mexico; NOT Cuervo or its trade catchment",
+  "method": "Manual image transcription, aligned with column headers and row labels. Earlier farm/land figures reuse a separately verified project transcription.",
+  "sources": {
+    "A35L": {
+      "file": "sources/economic_synthesis_2026-09-23/1935_nm_county_table2.pdf",
+      "pdf_page": 1,
+      "printed_page": 873,
+      "table": "II",
+      "column": "Guadalupe, lower panel",
+      "rows": "cattle 19-22; sheep 34-37"
+    },
+    "A35F": {
+      "file": "sources/economic_synthesis_2026-09-23/1935_nm_county_table1.pdf",
+      "pdf_pages": [
+        1,
+        2
+      ],
+      "printed_pages": [
+        870,
+        871
+      ],
+      "table": "I",
+      "column": "Guadalupe",
+      "rows": "farms 1-2; mean acres 17-18; land 19-20"
+    },
+    "A35W": {
+      "file": "sources/economic_synthesis_2026-09-23/1935_nm_county_table4.pdf",
+      "pdf_pages": [
+        1,
+        2
+      ],
+      "printed_pages": [
+        864,
+        865
+      ],
+      "table": "IV",
+      "column": "Guadalupe",
+      "rows": "farm population 40/45; labor 62/64; off-farm work 65-66"
+    },
+    "A45L": {
+      "file": "sources/03_census/agriculture_rebound_2026-09-19/1945_nm_agriculture_full.pdf",
+      "pdf_page": 71,
+      "printed_page": 54,
+      "table": "III",
+      "column": "Guadalupe",
+      "rows": "cattle 8-9; sheep 23-24; wool 33; sold alive cattle 35/sheep 39"
+    },
+    "A45F": {
+      "file": "sources/03_census/agriculture_rebound_2026-09-19/1945_nm_agriculture_full.pdf",
+      "pdf_page": 37,
+      "printed_page": 20,
+      "table": "I",
+      "column": "Guadalupe",
+      "rows": "farms 1; land 4; mean acres 7",
+      "verification": "Previously verified in rebound_1940_1950_2026-09-19/agriculture_observations.json"
+    },
+    "A50L": {
+      "file": "sources/03_census/agriculture_rebound_2026-09-19/1950_nm_agriculture_counties.pdf",
+      "pdf_page": 15,
+      "printed_page": 52,
+      "table": "4 part 1",
+      "column": "Guadalupe",
+      "rows": "cattle 14/16; sheep 65/67; wool 87-88; enumeration 90"
+    },
+    "A50F": {
+      "file": "sources/03_census/agriculture_rebound_2026-09-19/1950_nm_agriculture_counties.pdf",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "printed_pages": [
+        40,
+        41
+      ],
+      "table": "1",
+      "column": "Guadalupe",
+      "rows": "farms 1; land 10; mean acres 12",
+      "verification": "Previously verified in rebound_1940_1950_2026-09-19/agriculture_observations.json"
+    },
+    "A59L": {
+      "file": "sources/economic_synthesis_2026-09-23/1959_nm_county_table8.pdf",
+      "pdf_pages": [
+        1,
+        2
+      ],
+      "printed_pages": [
+        139,
+        140
+      ],
+      "table": "8",
+      "column": "Guadalupe",
+      "rows": "cattle 1-4; sheep 62-65"
+    },
+    "A59F": {
+      "file": "sources/economic_synthesis_2026-09-23/1959_nm_county_table1.pdf",
+      "pdf_pages": [
+        1,
+        2
+      ],
+      "printed_pages": [
+        116,
+        117
+      ],
+      "table": "1",
+      "column": "Guadalupe",
+      "rows": "farms 1-2; definition change 3; land 6-7; mean 8-9; pasture 40-41/56-57/64-65"
+    },
+    "A59W": {
+      "file": "sources/economic_synthesis_2026-09-23/1959_nm_county_table6.pdf",
+      "pdf_pages": [
+        1,
+        2
+      ],
+      "printed_pages": [
+        133,
+        134
+      ],
+      "table": "6",
+      "column": "Guadalupe",
+      "rows": "sample farms 1-2; trucks 19-22; tractors 23-26; family labor 69-70; hired 79-80; regular hired 83-84; enumeration 66"
+    }
+  },
+  "inventory_reference_dates": {
+    "1930": "April 1; cattle exclude animals under 3 months",
+    "1935": "January 1",
+    "1940": "April 1",
+    "1945": "January 1",
+    "1950": "Enumeration in April; reported county mean interval April 15-28",
+    "1954": "Fall enumeration; not the September labor reference week",
+    "1959": "Fall enumeration; county average interval November 15-21"
+  },
+  "series": [
+    {
+      "year": 1930,
+      "cattle_head": 15509,
+      "cattle_reporting_farms": 383,
+      "sheep_lambs_head": 99296,
+      "sheep_reporting_farms": 146,
+      "all_farms": 596,
+      "land_in_farms_acres": 641088,
+      "mean_farm_acres": 1075.7,
+      "livestock_source": "A35L",
+      "land_source": "A35F",
+      "cattle_per_reporting_farm": 40.49,
+      "sheep_per_reporting_farm": 680.11
+    },
+    {
+      "year": 1935,
+      "cattle_head": 12027,
+      "cattle_reporting_farms": 574,
+      "sheep_lambs_head": 75369,
+      "sheep_reporting_farms": 132,
+      "all_farms": 851,
+      "land_in_farms_acres": 1150413,
+      "mean_farm_acres": 1351.8,
+      "livestock_source": "A35L",
+      "land_source": "A35F",
+      "cattle_per_reporting_farm": 20.95,
+      "sheep_per_reporting_farm": 570.98
+    },
+    {
+      "year": 1940,
+      "cattle_head": 19227,
+      "cattle_reporting_farms": 370,
+      "sheep_lambs_head": 67765,
+      "sheep_reporting_farms": 91,
+      "all_farms": 476,
+      "land_in_farms_acres": 963025,
+      "mean_farm_acres": 2023.2,
+      "livestock_source": "A45L",
+      "land_source": "A45F",
+      "cattle_per_reporting_farm": 51.96,
+      "sheep_per_reporting_farm": 744.67
+    },
+    {
+      "year": 1945,
+      "cattle_head": 27047,
+      "cattle_reporting_farms": 481,
+      "sheep_lambs_head": 68772,
+      "sheep_reporting_farms": 115,
+      "all_farms": 640,
+      "land_in_farms_acres": 1517361,
+      "mean_farm_acres": 2370.9,
+      "livestock_source": "A45L",
+      "land_source": "A45F",
+      "cattle_per_reporting_farm": 56.23,
+      "sheep_per_reporting_farm": 598.02
+    },
+    {
+      "year": 1950,
+      "cattle_head": 41276,
+      "cattle_reporting_farms": 325,
+      "sheep_lambs_head": 56412,
+      "sheep_reporting_farms": 62,
+      "all_farms": 381,
+      "land_in_farms_acres": 1827287,
+      "mean_farm_acres": 4796.0,
+      "livestock_source": "A50L",
+      "land_source": "A50F",
+      "cattle_per_reporting_farm": 127.0,
+      "sheep_per_reporting_farm": 909.87
+    },
+    {
+      "year": 1954,
+      "cattle_head": 38598,
+      "cattle_reporting_farms": 298,
+      "sheep_lambs_head": 62413,
+      "sheep_reporting_farms": 70,
+      "all_farms": 333,
+      "land_in_farms_acres": 1776714,
+      "mean_farm_acres": 5335.5,
+      "livestock_source": "A59L",
+      "land_source": "A59F",
+      "cattle_per_reporting_farm": 129.52,
+      "sheep_per_reporting_farm": 891.61
+    },
+    {
+      "year": 1959,
+      "cattle_head": 31020,
+      "cattle_reporting_farms": 258,
+      "sheep_lambs_head": 44426,
+      "sheep_reporting_farms": 70,
+      "all_farms": 297,
+      "land_in_farms_acres": 1588274,
+      "mean_farm_acres": 5347.7,
+      "livestock_source": "A59L",
+      "land_source": "A59F",
+      "cattle_per_reporting_farm": 120.23,
+      "sheep_per_reporting_farm": 634.66
+    }
+  ],
+  "land_use": [
+    {
+      "year": 1954,
+      "other_pasture_acres": 1740663,
+      "woodland_pastured_acres": 15319,
+      "cropland_only_pasture_acres": 2852,
+      "source": "A59F"
+    },
+    {
+      "year": 1959,
+      "other_pasture_acres": 1562499,
+      "woodland_pastured_acres": 12409,
+      "cropland_only_pasture_acres": 1337,
+      "source": "A59F"
+    }
+  ],
+  "labor_and_equipment": [
+    {
+      "year": 1935,
+      "family_workers": 1434,
+      "hired_workers": 261,
+      "reference_period": "First week of January 1935",
+      "source": "A35W",
+      "sample_based": false
+    },
+    {
+      "year": 1954,
+      "family_workers": 593,
+      "hired_workers": 292,
+      "regular_hired_workers": 91,
+      "estimated_farms": 328,
+      "farms_reporting_motortrucks": 285,
+      "motortrucks": 394,
+      "farms_reporting_tractors": 103,
+      "tractors": 121,
+      "reference_period": "Labor: September 26-October 2, 1954",
+      "source": "A59W",
+      "sample_based": true
+    },
+    {
+      "year": 1959,
+      "family_workers": 413,
+      "hired_workers": 121,
+      "regular_hired_workers": 66,
+      "estimated_farms": 299,
+      "farms_reporting_motortrucks": 250,
+      "motortrucks": 349,
+      "farms_reporting_tractors": 97,
+      "tractors": 116,
+      "reference_period": "Labor: week preceding enumeration; county average enumeration November 15-21",
+      "source": "A59W",
+      "sample_based": true
+    }
+  ],
+  "additional_observations": [
+    {
+      "metric": "1959 decrease in farm count attributed by census to definition change",
+      "value": 10,
+      "source": "A59F"
+    },
+    {
+      "metric": "farm population April 1 1930",
+      "value": 2562,
+      "source": "A35W"
+    },
+    {
+      "metric": "farm population January 1 1935",
+      "value": 3888,
+      "source": "A35W"
+    },
+    {
+      "metric": "farm operators reporting off-farm work for pay/income in 1934",
+      "value": 390,
+      "percent": 45.8,
+      "source": "A35W"
+    },
+    {
+      "metric": "wool shorn 1939",
+      "value": 560362,
+      "unit": "pounds",
+      "source": "A45L"
+    },
+    {
+      "metric": "wool shorn 1944",
+      "value": 642919,
+      "unit": "pounds",
+      "source": "A45L",
+      "note": "Source image reads 642,919; supersedes an OCR-like misreading of 612,919."
+    },
+    {
+      "metric": "wool shorn 1949",
+      "value": 544477,
+      "unit": "pounds",
+      "source": "A50L"
+    }
+  ],
+  "limits": [
+    "Inventory dates and cattle age coverage vary; do not treat this as a harmonized annual series.",
+    "Farm definitions, coverage and location rules change. A farm can be a ranch; a reporting farm is neither a household nor a full-time job.",
+    "Land assigned to farm headquarters can include acreage in adjoining counties. Land in farms is not identical to grazing land or all land physically inside the county.",
+    "1954 and 1959 labor and equipment are sample estimates. Labor measures different seasonal weeks, not annual employment, unique people, or full-time equivalents. The 1935 measure has a further definition/reference-period break.",
+    "Heads of sheep and cattle are not equivalent units of output, labor, income, or grazing pressure. No animal-unit conversion is made.",
+    "Fewer farms with larger mean size is consistent with concentration but cannot identify parcel mergers, individual ranch survival, or mechanization causally.",
+    "No direct Cuervo-vs-Santa Rosa spending, freight-origin, land-use, or farm-labor allocation is available here."
+  ]
+}

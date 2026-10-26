@@ -1,0 +1,157 @@
+{
+  "method": "Publication dates, reported event dates, administrative status dates and unverified leads are distinct. Records are not unique establishments.",
+  "observations": [
+    {
+      "id": "RF-B01",
+      "entity": "Cuervo roadside provision",
+      "date": "1946",
+      "source_type": "Contemporary guide",
+      "observation": "Gasoline and groceries reported; cafe, garage and tourist accommodation absent in the guide description.",
+      "locator": "Rittenhouse, A guide book to highway 66, p. 73; Newberry G89.747",
+      "local_file": "sources/regional_functions_2026-09-21/rittenhouse_1946/b99b026a-2ef9-4995-b8f4-107c50846580/21978e4f91fb7dc4.jpg",
+      "limit": "One date and observer; population geography unspecified; no continuing-absence claim."
+    },
+    {
+      "id": "RF-B02",
+      "entity": "Newkirk roadside provision",
+      "date": "1946",
+      "source_type": "Contemporary guide",
+      "observation": "More food and lodging provision than in the Cuervo entry.",
+      "locator": "Rittenhouse p. 73",
+      "local_file": "sources/regional_functions_2026-09-21/rittenhouse_1946/b99b026a-2ef9-4995-b8f4-107c50846580/21978e4f91fb7dc4.jpg",
+      "limit": "Comparative observation, not a controlled causal comparison."
+    },
+    {
+      "id": "RF-B03",
+      "entity": "Santa Rosa roadside provision",
+      "date": "1946",
+      "source_type": "Contemporary guide",
+      "observation": "Wider range of roadside and general services.",
+      "locator": "Rittenhouse pp. 73-74",
+      "local_file": "sources/regional_functions_2026-09-21/rittenhouse_1946/b99b026a-2ef9-4995-b8f4-107c50846580/19e568a5727958a0.jpg",
+      "limit": "Does not identify customer origins or spending."
+    },
+    {
+      "id": "RF-B04",
+      "entity": "Willa's Beauty Shop",
+      "publication_date": "2005-02-15",
+      "operating_interval": null,
+      "source_type": "Family obituary",
+      "observation": "Santa Rosa shop ownership reported without operating dates.",
+      "url": "https://www.chavezfuneralhome.com/obituaries/813378",
+      "local_file": "sources/pupil_links_and_holbrook_2026-09-21/willa_higgins_2005.html",
+      "limit": "Does not date overlap with Cuervo residence. Preserved source rechecked; new web fetch failed."
+    },
+    {
+      "id": "RF-B05",
+      "entity": "Elma's Beauty Shop",
+      "date": "1950",
+      "source_type": "Census occupation and industry entry",
+      "observation": "Elma Jones, proprietor, named shop.",
+      "locator": "ED 10-9, sheet 10, line 10",
+      "local_file": "sources/03_census/1950_manuscripts/ed_10-9/43290879-New_Mexico-180133-0011.jpg",
+      "limit": "Presence in schedule; opening and closure unknown."
+    },
+    {
+      "id": "RF-B06",
+      "entity": "Regional telephone directory",
+      "date": "1960-12",
+      "status": "Catalog lead; volume not held",
+      "source_type": "User-contributed catalog listing",
+      "observation": "Mountain States directory includes Santa Rosa among six named regional communities.",
+      "url": "https://www.librarything.com/nseries/371859/New-Mexico-Telephone-Directories",
+      "limit": "Institutional holding and digitized copy unverified; no business listing read."
+    },
+    {
+      "id": "RF-B07",
+      "entity": "Unnamed Cuervo gas station north of I-40",
+      "publication_date": "2013-10-01",
+      "reported_visit_date": "Recent trip; exact date unspecified",
+      "source_type": "First-person travel account",
+      "author": "K. Mennem",
+      "observation": "Describes functioning fuel service north of I-40 alongside the older settlement to the south.",
+      "url": "https://www.sandiegoreader.com/news/2013/oct/01/travel-new-mexico-ghost-towns/",
+      "local_file": "sources/regional_functions_2026-09-21/mennem_2013_ghost_towns.html",
+      "limit": "Single published observation; no named operator, receipt or continuous operating history."
+    },
+    {
+      "id": "RF-B08",
+      "entity": "Tony's Texaco",
+      "facility_id": "1927",
+      "record_as_of": "2020-11-19",
+      "source_type": "NMED administrative tank inventory",
+      "status": "Row and headers visually checked",
+      "address_as_recorded": "Exit 291 I-40, Cuervo",
+      "removed_AST": 0,
+      "removed_UST": 3,
+      "in_use_AST": 0,
+      "in_use_UST": 0,
+      "pdf_page": 14,
+      "local_file": "sources/regional_functions_2026-09-21/nmed_all_storage_tanks_2020-11-19.pdf",
+      "limit": "No removal or business-closure date; not yet reconciled to parcels or other registrations."
+    },
+    {
+      "id": "RF-B09",
+      "entity": "Sena Station",
+      "facility_id": "30531",
+      "record_as_of": "2020-11-19",
+      "source_type": "NMED administrative tank inventory",
+      "status": "Row and headers visually checked",
+      "address_as_recorded": "Guadalupe, Cuervo",
+      "removed_AST": 0,
+      "removed_UST": 4,
+      "in_use_AST": 0,
+      "in_use_UST": 0,
+      "pdf_page": 74,
+      "local_file": "sources/regional_functions_2026-09-21/nmed_all_storage_tanks_2020-11-19.pdf",
+      "limit": "No removal or business-closure date; not yet reconciled to parcels or other registrations."
+    },
+    {
+      "id": "RF-B10",
+      "entity": "Cuervo Gas Station",
+      "facility_id": "31151",
+      "record_as_of": "2020-11-19",
+      "source_type": "NMED administrative tank inventory",
+      "status": "Row and headers visually checked",
+      "address_as_recorded": "291 Exit I-40; frontage-road text truncated, Cuervo",
+      "removed_AST": 3,
+      "removed_UST": 3,
+      "in_use_AST": 0,
+      "in_use_UST": 0,
+      "pdf_page": 83,
+      "local_file": "sources/regional_functions_2026-09-21/nmed_all_storage_tanks_2020-11-19.pdf",
+      "limit": "No removal or business-closure date; not yet reconciled to parcels or other registrations."
+    },
+    {
+      "id": "RF-B11",
+      "entity": "Later NMED name listing",
+      "record_as_of": "2025-05-15",
+      "source_type": "Administrative inventory",
+      "observation": "FIDs 1927, 30531 and 31151 listed on PDF pages 30, 169 and 191.",
+      "status": "762-page PDF held; facility names checked in web PDF text",
+      "local_file": "sources/regional_functions_2026-09-21/nmed_all_storage_tanks_generated_2025-05-15.pdf",
+      "limit": "Filename says May 14; printed generation date says May 15. Inclusion is not active operation."
+    },
+    {
+      "id": "RF-B12",
+      "entity": "Whiting Brothers No. 75, west Cuervo",
+      "date": null,
+      "status": "Unverified lead",
+      "source_type": "Collector report of information received from another person",
+      "observation": "Reported highway-department purchase and demolition for I-40.",
+      "url": "https://rt66.x10host.com/wbros/gastable.html",
+      "limit": "No acquisition instrument, plan or dated image verified the event. Not linked to NMED sites."
+    },
+    {
+      "id": "RF-B13",
+      "entity": "Commercial/postal building fabric",
+      "metadata_date": "1986-03",
+      "source_type": "William J. Lucas photograph, UNM PICT-986-012",
+      "identifier": "986-012-0009.tif",
+      "observation": "Postal sign, commercial lettering, tires and barrels visible at standing building.",
+      "url": "https://econtent.unm.edu/digital/collection/wjlr66/id/9/rec/1",
+      "local_file": "sources/09_photographs/lucas_cuervo_1986-03_986-012-0009_access.jpg",
+      "limit": "Visible signs and fabric do not establish business or postal operation."
+    }
+  ]
+}

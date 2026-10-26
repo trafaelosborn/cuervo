@@ -1,0 +1,52 @@
+[
+  {
+    "person": "Willa D. Higgins",
+    "date": "1941",
+    "place": "ranch west of Santa Rosa",
+    "kind": "family move",
+    "source": "F7"
+  },
+  {
+    "person": "John R. and Willa D. Higgins",
+    "date_start": "1949",
+    "date_end": "1979",
+    "place": "Cuervo",
+    "kind": "reported home interval",
+    "source": "F7",
+    "census_anchor": "1950-8-21 / 1950-8-22"
+  },
+  {
+    "person": "John R. and Willa D. Higgins",
+    "date": "1983",
+    "place": "Fort Sumner",
+    "kind": "family home established",
+    "source": "F6",
+    "limit": "F7 says 1980s; residence between 1979 and 1983 not specified"
+  },
+  {
+    "person": "Willa D. Higgins",
+    "date": null,
+    "place": "Santa Rosa",
+    "kind": "beauty-shop ownership",
+    "source": "F7",
+    "limit": "Operating years and overlap with Cuervo residence unknown; not itself a home address"
+  },
+  {
+    "person": "John R. Higgins Jr.",
+    "date": "1969",
+    "place": "Santa Rosa High School",
+    "kind": "graduation",
+    "source": "F8",
+    "limit": "School location, not a dated residential move"
+  },
+  {
+    "person": "John R. Higgins Jr. and family",
+    "date": "2006",
+    "from": "Cuervo",
+    "to": "Santa Rosa",
+    "kind": "reported residential move",
+    "source": "F8",
+    "years_after_graduation": 37,
+    "limit": "Other ranch work mentioned; no proof of uninterrupted Cuervo residence from 1969"
+  }
+]

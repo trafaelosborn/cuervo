@@ -1,0 +1,19 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.tsv text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.cff text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ttf binary
+*.otf binary
+# Preserve historical source hashes and encodings.
+manuscript/** -text
+research_evidence/** -text
+manuscript/fonts/** linguist-vendored
+archive/*.csv linguist-generated

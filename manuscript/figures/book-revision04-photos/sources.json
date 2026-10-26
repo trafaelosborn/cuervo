@@ -1,0 +1,468 @@
+{
+  "date": "2026-09-28",
+  "credit": "Taylor Osborn",
+  "total_selected_photographs": 18,
+  "previous_proof_photographs": 3,
+  "new_photographs": 15,
+  "new_chapter_opening_photographs": 7,
+  "new_photo_pages": 6,
+  "new_photo_page_images": 8,
+  "review_scope": "73 March JPEGs on seven existing contact sheets; 79 October CR2 camera previews and 15 October-folder JPEGs on eight new contact sheets. Eight DNGs and videos not reviewed for this selection. DJI JPEGs are indoor test frames, not aerials.",
+  "date_note": "March file dates and folder dates differ; Canon EXIF reports August 2020 within the October 2024 folder. No exact capture dates are printed. Source metadata is retained here without silently correcting it.",
+  "caption_rule": "Describe visible subject and place. Do not infer named occupants, exact historical uses, closure dates, causal explanations, ownership or present activity from these views. The stone facade in Chapter 4 is not assigned a school identity.",
+  "raw_note": "Full-size camera JPEGs are adequate for this reading proof. Original CR2 files remain available for an authored final color workflow.",
+  "openers": {
+    "1": {
+      "file": "IMG_7453.JPG",
+      "caption": "Building and surrounding land, Cuervo."
+    },
+    "2": {
+      "file": "IMG_7436.JPG",
+      "caption": "A gabled building among brush, Cuervo."
+    },
+    "3": {
+      "file": "1Y5A2051.CR2",
+      "caption": "Neighboring buildings and their surroundings, Cuervo."
+    },
+    "4": {
+      "file": "1Y5A2043.CR2",
+      "caption": "Stone facade and entrance path, Cuervo."
+    },
+    "5": {
+      "file": "1Y5A2060.CR2",
+      "caption": "Light through an exposed roof, Cuervo."
+    },
+    "6": {
+      "file": "IMG_7445.JPG",
+      "caption": "Vehicle remains, buildings and a passing truck, Cuervo."
+    },
+    "7": {
+      "file": "1Y5A2046.CR2",
+      "caption": "Stone walls and fallen timber, Cuervo."
+    },
+    "8": {
+      "file": "1Y5A2119.CR2",
+      "caption": "A stone church and adjoining buildings, Cuervo."
+    }
+  },
+  "plates": {
+    "window-inscription": {
+      "chapter": 1,
+      "files": [
+        "1Y5A2086.CR2"
+      ],
+      "caption": "Window and graffiti, Cuervo.",
+      "layout": "single"
+    },
+    "entrances": {
+      "chapter": 2,
+      "files": [
+        "1Y5A2044.CR2",
+        "1Y5A2054.CR2"
+      ],
+      "caption": "Two entrances, Cuervo: a stone arch at left; a timber surround at right.",
+      "layout": "pair"
+    },
+    "building-fabric": {
+      "chapter": 4,
+      "files": [
+        "1Y5A2095.CR2"
+      ],
+      "caption": "Exposed lath, door framing and sunlight, Cuervo.",
+      "layout": "single"
+    },
+    "domestic-interiors": {
+      "chapter": 5,
+      "files": [
+        "IMG_9759.JPG",
+        "1Y5A2085.CR2"
+      ],
+      "caption": "Kitchen fittings above; a window and painted walls below. Interiors, Cuervo. These photographs are not assigned to the named households discussed in this chapter.",
+      "layout": "stack"
+    },
+    "road-and-ground": {
+      "chapter": 6,
+      "files": [
+        "IMG_7396.JPG"
+      ],
+      "caption": "An unpaved road, utility poles and surviving masonry, Cuervo.",
+      "layout": "single"
+    },
+    "rooms-and-structure": {
+      "chapter": 7,
+      "files": [
+        "1Y5A2097.CR2"
+      ],
+      "caption": "Roof framing, exposed lath and doorways, Cuervo.",
+      "layout": "single"
+    }
+  },
+  "existing_chapter08_figures": {
+    "8.2": "IMG_7385.JPG",
+    "8.3": "IMG_7456.JPG"
+  },
+  "assets": {
+    "IMG_7453.JPG": {
+      "source": "B:/Photos/Raw Collections/2024.03.26 Cuervo NM/IMG_7453.JPG",
+      "source_sha256": "39f555c59ac47c2c2625066eac6d5a3fa92e828219385a9705b2c4d721cfd68d",
+      "proof_image": "manuscript/figures/book-revision04-photos/IMG_7453.jpg",
+      "proof_sha256": "edea98eeabcfe2453f468120cfe74c7273054bf766bf42e4bb4ec00081219d81",
+      "oriented_source_pixels": [
+        4032,
+        3024
+      ],
+      "proof_pixels": [
+        3600,
+        2700
+      ],
+      "exif_date_time_original": "2024:03:22 11:53:12",
+      "original_orientation_tag": 1,
+      "method": "Original JPEG; EXIF orientation applied.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "IMG_7436.JPG": {
+      "source": "B:/Photos/Raw Collections/2024.03.26 Cuervo NM/IMG_7436.JPG",
+      "source_sha256": "8ae38dbd235b045fedf71b57b85966aeeea36178c149672848f7417107fdcb00",
+      "proof_image": "manuscript/figures/book-revision04-photos/IMG_7436.jpg",
+      "proof_sha256": "0279e4148c5069fb55fd938c9971dcf24dff6e6a7d0ba97a0e784499f33d4e34",
+      "oriented_source_pixels": [
+        5712,
+        4284
+      ],
+      "proof_pixels": [
+        3600,
+        2700
+      ],
+      "exif_date_time_original": "2024:03:22 11:42:10",
+      "original_orientation_tag": 1,
+      "method": "Original JPEG; EXIF orientation applied.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2051.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2051.CR2",
+      "source_sha256": "c2b3104f8d9767268815df0caccfc9434d56ca319bf23f0c394e7422ab6815ef",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2051.jpg",
+      "proof_sha256": "4857212cb2f5a58d5c4e0ab643bbb79b6d92a60d0548e180dd7577ac3aba6427",
+      "oriented_source_pixels": [
+        5472,
+        3648
+      ],
+      "proof_pixels": [
+        3600,
+        2400
+      ],
+      "exif_date_time_original": "2020:08:29 03:23:10",
+      "original_orientation_tag": 1,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2043.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2043.CR2",
+      "source_sha256": "20efdafbce267fa271897c70cde02c1cdee04188fe2a292f285fd03473ec0c9d",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2043.jpg",
+      "proof_sha256": "32ff3637e6e830c6f79d34d6861d02125a3ac3cd2f8c47575c4f234b7b0288c7",
+      "oriented_source_pixels": [
+        5472,
+        3648
+      ],
+      "proof_pixels": [
+        3600,
+        2400
+      ],
+      "exif_date_time_original": "2020:08:29 03:14:55",
+      "original_orientation_tag": 1,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2060.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2060.CR2",
+      "source_sha256": "92361f17d4a02b0895fd3e86741fa5a9ecd67af151e3106426dfb6969198398b",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2060.jpg",
+      "proof_sha256": "8b72935e83e5ec714f1413b65e3017a19bde6bc9a32d4c9f9c83ce493583f1f7",
+      "oriented_source_pixels": [
+        5472,
+        3648
+      ],
+      "proof_pixels": [
+        3600,
+        2400
+      ],
+      "exif_date_time_original": "2020:08:29 03:24:39",
+      "original_orientation_tag": 1,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "IMG_7445.JPG": {
+      "source": "B:/Photos/Raw Collections/2024.03.26 Cuervo NM/IMG_7445.JPG",
+      "source_sha256": "5586c13e22304687c8ef463af57be888fbada767965442021b1b7eba7701aa5f",
+      "proof_image": "manuscript/figures/book-revision04-photos/IMG_7445.jpg",
+      "proof_sha256": "0688701d411c9a15f4a1b2c54f39668be47b35901bc99d3676f22ee2a4d82f75",
+      "oriented_source_pixels": [
+        5712,
+        4284
+      ],
+      "proof_pixels": [
+        3600,
+        2700
+      ],
+      "exif_date_time_original": "2024:03:22 11:50:18",
+      "original_orientation_tag": 1,
+      "method": "Original JPEG; EXIF orientation applied.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2046.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2046.CR2",
+      "source_sha256": "6d395470046826ab642ef9bb8aa49f4fc6a8de255b9c5775867f68a61f50b5df",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2046.jpg",
+      "proof_sha256": "2463960ac0c545bea38cc3a5780e354f180768045fbf77e933606c475f3570f0",
+      "oriented_source_pixels": [
+        5472,
+        3648
+      ],
+      "proof_pixels": [
+        3600,
+        2400
+      ],
+      "exif_date_time_original": "2020:08:29 03:20:26",
+      "original_orientation_tag": 1,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2119.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2119.CR2",
+      "source_sha256": "888d118f9f71406e9770d270f3ff6b179e4203cfe3f8dde74d8f58215d77564d",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2119.jpg",
+      "proof_sha256": "d8533aec8751e3386a9f05dd6641efe75078663bde1411ebe08a6737981819b0",
+      "oriented_source_pixels": [
+        5472,
+        3648
+      ],
+      "proof_pixels": [
+        3600,
+        2400
+      ],
+      "exif_date_time_original": "2020:08:29 04:24:59",
+      "original_orientation_tag": 1,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2086.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2086.CR2",
+      "source_sha256": "f8ed32db7a9cf702913160631e216d54d0a73614d694a2d24f3a0e697c7524d6",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2086.jpg",
+      "proof_sha256": "65117e8f26411b2c4defa4fcf44066fc317e7997fcce646ffcb1d0f688d0f212",
+      "oriented_source_pixels": [
+        5472,
+        3648
+      ],
+      "proof_pixels": [
+        3600,
+        2400
+      ],
+      "exif_date_time_original": "2020:08:29 04:12:07",
+      "original_orientation_tag": 1,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2044.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2044.CR2",
+      "source_sha256": "2946a694ef4a376f0414392e5860db7d918ffec6cff97e9cc7cf322d792bb075",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2044.jpg",
+      "proof_sha256": "8245fc99cafc2a839e48c3e9111583c87b5814915915faf566b0ddc6042c036a",
+      "oriented_source_pixels": [
+        3648,
+        5472
+      ],
+      "proof_pixels": [
+        2400,
+        3600
+      ],
+      "exif_date_time_original": "2020:08:29 03:15:16",
+      "original_orientation_tag": 8,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2054.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2054.CR2",
+      "source_sha256": "888eae7b7b3c29410c054a3c19bdbea6a7a3f58f464eae5b87b78871bd3dbb37",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2054.jpg",
+      "proof_sha256": "7a9c040fb04c72fe5cc4c1d858a1367d5df1e7abc684fbb426187c6b5f221489",
+      "oriented_source_pixels": [
+        3648,
+        5472
+      ],
+      "proof_pixels": [
+        2400,
+        3600
+      ],
+      "exif_date_time_original": "2020:08:29 03:24:06",
+      "original_orientation_tag": 8,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2095.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2095.CR2",
+      "source_sha256": "e3ca41a33042848208b2053bd1b9911fe66e96b77e8bbaf8d332a05ad105a0ed",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2095.jpg",
+      "proof_sha256": "006b5b81d9ce2619cbfcfe063a570cefaf1ba9b49fef64fee7ea4486bd6a26db",
+      "oriented_source_pixels": [
+        5472,
+        3648
+      ],
+      "proof_pixels": [
+        3600,
+        2400
+      ],
+      "exif_date_time_original": "2020:08:29 04:18:45",
+      "original_orientation_tag": 1,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "IMG_9759.JPG": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/IMG_9759.JPG",
+      "source_sha256": "55cde8ab27cd82e93093cd15ce963b389340d385bbfadbe834e8adb9c79a4938",
+      "proof_image": "manuscript/figures/book-revision04-photos/IMG_9759.jpg",
+      "proof_sha256": "b39cfb0aa81b78c8a6ee437b7efa5d2959e819c9e9d4629c578ebfd0797b7551",
+      "oriented_source_pixels": [
+        5712,
+        4284
+      ],
+      "proof_pixels": [
+        3600,
+        2700
+      ],
+      "exif_date_time_original": "2024:10:25 13:54:54",
+      "original_orientation_tag": 1,
+      "method": "Original JPEG; EXIF orientation applied.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2085.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2085.CR2",
+      "source_sha256": "a94fb9b38ebcc612ac52d9f207a74d7dac0849ce8515f1c4f1c3cacd23b5169e",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2085.jpg",
+      "proof_sha256": "bac4815662d9324ce9f26326014a407e08d23d6780b0e9b3006272981b0c2381",
+      "oriented_source_pixels": [
+        5472,
+        3648
+      ],
+      "proof_pixels": [
+        3600,
+        2400
+      ],
+      "exif_date_time_original": "2020:08:29 04:07:51",
+      "original_orientation_tag": 1,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "IMG_7396.JPG": {
+      "source": "B:/Photos/Raw Collections/2024.03.26 Cuervo NM/IMG_7396.JPG",
+      "source_sha256": "f86c7b9fd9194362edab90fb05addbff5c0bb2c7916a6539719ee84f1e42a60a",
+      "proof_image": "manuscript/figures/book-revision04-photos/IMG_7396.jpg",
+      "proof_sha256": "a864583cf7d92fc057afa6c13fb5507b466b67737c465a3acf2bef1b73e0712e",
+      "oriented_source_pixels": [
+        4032,
+        3024
+      ],
+      "proof_pixels": [
+        3600,
+        2700
+      ],
+      "exif_date_time_original": "2024:03:22 11:27:32",
+      "original_orientation_tag": 1,
+      "method": "Original JPEG; EXIF orientation applied.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "1Y5A2097.CR2": {
+      "source": "B:/Photos/Raw Collections/2024.10.24 Cuervo NM/1Y5A2097.CR2",
+      "source_sha256": "5556341a33c1b0c43a61f82d61922b53227dccf128e8c40410d509cfbc867d38",
+      "proof_image": "manuscript/figures/book-revision04-photos/1Y5A2097.jpg",
+      "proof_sha256": "27b81c56f6dd0848aa2cc86ed1c0e214c7884f1dd2e9b4d60c8b8cfc68af9ec2",
+      "oriented_source_pixels": [
+        5472,
+        3648
+      ],
+      "proof_pixels": [
+        3600,
+        2400
+      ],
+      "exif_date_time_original": "2020:08:29 04:18:54",
+      "original_orientation_tag": 1,
+      "method": "Camera full-size embedded JPEG extracted from CR2; orientation applied; no raw development.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "IMG_7385.JPG": {
+      "source": "B:/Photos/Raw Collections/2024.03.26 Cuervo NM/IMG_7385.JPG",
+      "source_sha256": "7c289ffe2a8da95bdabc073a782a008dfa14538f0b092f50d0fe98813bdcac45",
+      "proof_image": "manuscript/figures/book-revision04-photos/IMG_7385.jpg",
+      "proof_sha256": "7db95bef7e4409e823752377e30d2b02c397876387437be64e32262cd97f38dd",
+      "oriented_source_pixels": [
+        5712,
+        4284
+      ],
+      "proof_pixels": [
+        3600,
+        2700
+      ],
+      "exif_date_time_original": "2024:03:22 11:19:59",
+      "original_orientation_tag": 1,
+      "method": "Original JPEG; EXIF orientation applied.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    },
+    "IMG_7456.JPG": {
+      "source": "B:/Photos/Raw Collections/2024.03.26 Cuervo NM/IMG_7456.JPG",
+      "source_sha256": "dd74881a5758fa13391f63310d6f236f0301578c4b57c8eceb8b47ad68440b7b",
+      "proof_image": "manuscript/figures/book-revision04-photos/IMG_7456.jpg",
+      "proof_sha256": "160dab715b7a3b49fbc7c1e29ca3f23cb6252248ab5cec1c0380c10f08fe97be",
+      "oriented_source_pixels": [
+        4284,
+        5712
+      ],
+      "proof_pixels": [
+        2700,
+        3600
+      ],
+      "exif_date_time_original": "2024:03:22 11:54:56",
+      "original_orientation_tag": 6,
+      "method": "Original JPEG; EXIF orientation applied.",
+      "credit": "Taylor Osborn",
+      "treatment": "Full frame; aspect ratio preserved; reproduction resizing only.",
+      "caption_date": "Unassigned: directory labels and embedded camera dates differ."
+    }
+  },
+  "visual_review": "passed: all final pages inspected; photographic positions checked at larger size",
+  "original_photographs_unchanged": true
+}

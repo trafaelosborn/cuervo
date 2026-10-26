@@ -1,0 +1,42 @@
+[
+  {
+    "person": "Flora S. Page",
+    "birth_year": 1931,
+    "source": "S10",
+    "school_path": "Cuervo and Santa Rosa schools",
+    "graduation_year": null,
+    "limit": "No attendance or transfer date. Eighth-grade graduation at stone building reported separately in S16."
+  },
+  {
+    "person": "Roy Kenneth Bailey",
+    "birth_year": 1939,
+    "source": "S11",
+    "school_path": "Raised in Cuervo; Santa Rosa High School",
+    "graduation_year": 1958,
+    "limit": "No stated Cuervo-school attendance or bus route. High-school destination is not a school-closure date."
+  },
+  {
+    "person": "Rudolpho (Rudy) Chavez",
+    "birth_year": 1942,
+    "source": "S12",
+    "school_path": "Cuervo school and Santa Rosa High School",
+    "graduation_year": null,
+    "limit": "No dated transition. Made home in Cuervo after marrying in 1965, so school attendance elsewhere does not establish permanent migration."
+  },
+  {
+    "person": "Tito S. Vigil",
+    "birth_year": 1949,
+    "source": "S13",
+    "school_path": "Cuervo schools and Santa Rosa High School",
+    "graduation_year": 1967,
+    "limit": "Elementary attendance dates unstated; age-based mid-1950s attendance would be an inference."
+  },
+  {
+    "person": "Fred L. Higgins",
+    "birth_year": 1952,
+    "source": "S14",
+    "school_path": "Grew up in Cuervo; Santa Rosa schools",
+    "graduation_year": 1970,
+    "limit": "Does not state attendance at Cuervo school or year of reassignment."
+  }
+]

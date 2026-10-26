@@ -1,0 +1,7233 @@
+{
+  "method": "First-pass visual inventory of main occupation/industry fields on all 87 population sheets of EDs 10-8, 10-9 and 10-10. One industry-only row is retained separately from occupation counts. Supplementary-only prior jobs excluded. These are schedule appearances, not deduplicated employed people, labor-force rates, private-household counts or establishments. Residence is not workplace. Head anchors are provisional; hotel groups and individual census reports need reconciliation before household statistics. Normalized readings, not diplomatic transcription. Worker class is copied but not used to infer industry or work status.",
+  "row_fields": [
+    "line",
+    "occupation_normalized",
+    "industry_reading",
+    "sector",
+    "worker_class",
+    "note"
+  ],
+  "sector_key": {
+    "AG": "Agriculture and ranching",
+    "RAIL": "Railroad",
+    "AUTO": "Motor vehicle sales, service and repair",
+    "FOOD": "Restaurants and bars",
+    "LODG": "Lodging",
+    "RETAIL": "Other retail and wholesale",
+    "BUILD": "Construction and building trades",
+    "GOV": "Government administration and protection",
+    "EDU": "Education",
+    "UTIL": "Utilities and communications",
+    "PERS": "Personal, domestic and other services",
+    "PRO": "Health, finance and professional services",
+    "OTHER": "Other or unresolved industry"
+  },
+  "pages": [
+    {
+      "ed": "10-8",
+      "image": 2,
+      "sheet": 1,
+      "heads": [
+        1,
+        2,
+        7,
+        16,
+        18,
+        28,
+        29
+      ],
+      "nonperson_lines": [
+        6
+      ],
+      "rows": [
+        [
+          1,
+          "Filling station attendant",
+          "Hodges Station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          2,
+          "Cook",
+          "Chris Cafe (name provisional)",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Proprietor",
+          "Service station",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          9,
+          "Service helper",
+          "Service station",
+          "AUTO",
+          "NP",
+          "Other activity; worked hours also given"
+        ],
+        [
+          16,
+          "Proprietor",
+          "Guinn Bros. Cafe",
+          "FOOD",
+          "O",
+          "Has job, away from work"
+        ],
+        [
+          17,
+          "Assistant proprietor",
+          "Guinn Bros. Cafe",
+          "FOOD",
+          "NP",
+          "Has job, away from work"
+        ],
+        [
+          18,
+          "Bartender",
+          "Pecos Bar",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [
+        29
+      ]
+    },
+    {
+      "ed": "10-8",
+      "image": 3,
+      "sheet": 2,
+      "heads": [
+        4,
+        9,
+        14,
+        18,
+        21,
+        26
+      ],
+      "nonperson_lines": [
+        3,
+        12,
+        13,
+        17
+      ],
+      "rows": [
+        [
+          4,
+          "Plastering",
+          "Building construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Painting",
+          "Contract painter",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          11,
+          "Cooking",
+          "City school lunch program",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          14,
+          "Shoe repairman",
+          "Frank's Shoe Shop",
+          "PERS",
+          "O",
+          ""
+        ],
+        [
+          21,
+          "Service station attendant",
+          "66 Service Station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Cook",
+          "Medley Cafe (name provisional)",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 4,
+      "sheet": 3,
+      "heads": [
+        1,
+        3,
+        7,
+        11,
+        13,
+        17,
+        23,
+        27,
+        29
+      ],
+      "nonperson_lines": [
+        4,
+        5,
+        6
+      ],
+      "rows": [
+        [
+          7,
+          "Proprietor",
+          "La Loma garage, service station and tourist court",
+          "AUTO",
+          "O",
+          "Mixed motor and lodging business; classified AUTO; separately tag lodging"
+        ],
+        [
+          11,
+          "Courthouse janitor",
+          "County courthouse",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          12,
+          "Station manager",
+          "La Loma service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Mechanic",
+          "La Loma garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Co-proprietor",
+          "La Loma garage, service station and tourist court",
+          "AUTO",
+          "O",
+          "Mixed motor and lodging business; classified AUTO; separately tag lodging"
+        ],
+        [
+          28,
+          "Cook and laundry worker",
+          "La Loma tourist court",
+          "LODG",
+          "P",
+          "Head entry struck out; maid in relationship column"
+        ],
+        [
+          29,
+          "Railroad worker",
+          "S.P. Railway Co.",
+          "RAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Bottom rechecked: line 30 is wife Flora Dimas, no main occupation."
+    },
+    {
+      "ed": "10-8",
+      "image": 5,
+      "sheet": 4,
+      "heads": [
+        4,
+        13,
+        19,
+        24,
+        27
+      ],
+      "nonperson_lines": [
+        18
+      ],
+      "rows": [
+        [
+          4,
+          "Railroad worker",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          19,
+          "Railroad worker",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Railroad worker",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Laying rock foundation",
+          "House construction",
+          "BUILD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 6,
+      "sheet": 5,
+      "heads": [
+        1,
+        7,
+        13,
+        23
+      ],
+      "nonperson_lines": [
+        21,
+        22,
+        28,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          7,
+          "Night watchman for city",
+          "Night marshal",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          14,
+          "Saleslady",
+          "Clothing agency",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Proprietor",
+          "Garage and Court Cafe (garage name uncertain)",
+          "AUTO",
+          "O",
+          "Mixed motor and restaurant business"
+        ],
+        [
+          25,
+          "Co-proprietor",
+          "Garage and Court Cafe (garage name uncertain)",
+          "AUTO",
+          "O",
+          "Mixed motor and restaurant business"
+        ],
+        [
+          26,
+          "Waitress",
+          "Court Cafe",
+          "FOOD",
+          "NP",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Top rechecked: line 1 is a head, with no main occupation."
+    },
+    {
+      "ed": "10-8",
+      "image": 7,
+      "sheet": 6,
+      "heads": [
+        1,
+        3,
+        6,
+        8,
+        14,
+        17,
+        27
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          6,
+          "Proprietor",
+          "Shamrock Bar-Cafe",
+          "FOOD",
+          "O",
+          ""
+        ],
+        [
+          7,
+          "Co-proprietor",
+          "Shamrock Bar-Cafe",
+          "FOOD",
+          "O",
+          "Relationship partner"
+        ],
+        [
+          8,
+          "Proprietor",
+          "Santa Rosa tourist court",
+          "LODG",
+          "O",
+          ""
+        ],
+        [
+          10,
+          "Assistant manager",
+          "Santa Rosa tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Post office janitor",
+          "Santa Rosa post office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          15,
+          "Mechanic",
+          "Young Motor Co.",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Mail carrier",
+          "Santa Rosa mail route",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          19,
+          "Assistant cook",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Preparing holes for posts",
+          "Highway construction",
+          "BUILD",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 8,
+      "sheet": 7,
+      "heads": [
+        4,
+        12,
+        19,
+        24,
+        27,
+        30
+      ],
+      "nonperson_lines": [
+        2,
+        3,
+        11,
+        18,
+        29
+      ],
+      "rows": [
+        [
+          4,
+          "Proprietor",
+          "Barber shop",
+          "PERS",
+          "O",
+          ""
+        ],
+        [
+          6,
+          "Shines shoes",
+          "Barber shop",
+          "PERS",
+          "NP",
+          ""
+        ],
+        [
+          12,
+          "Bakes pastries",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Assistant mechanic",
+          "Santa Rosa Garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Proprietor",
+          "Santa Rosa Garage",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          28,
+          "Assistant cook",
+          "Jack's Cafe",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 9,
+      "sheet": 8,
+      "heads": [
+        7,
+        9,
+        13,
+        17,
+        21,
+        25,
+        27
+      ],
+      "nonperson_lines": [
+        16
+      ],
+      "rows": [
+        [
+          7,
+          "Plastering a cistern",
+          "Plaster work",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Laying foundation for building",
+          "Building construction",
+          "BUILD",
+          "P",
+          "Has job, away from work"
+        ],
+        [
+          22,
+          "Transporting lumber",
+          "Assistant to driver",
+          "OTHER",
+          "P",
+          "Industry unspecified; transport/lumber ambiguity"
+        ],
+        [
+          24,
+          "Herding sheep",
+          "Sheep ranch",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Bank janitor",
+          "Santa Rosa First National Bank",
+          "PRO",
+          "G",
+          "G written although industry is banking; do not infer government employment"
+        ],
+        [
+          27,
+          "Carpenter's assistant",
+          "Carpenter",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          28,
+          "Kept house",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [
+        8
+      ]
+    },
+    {
+      "ed": "10-8",
+      "image": 10,
+      "sheet": 9,
+      "heads": [
+        5,
+        11,
+        15,
+        20,
+        27
+      ],
+      "nonperson_lines": [
+        4,
+        14
+      ],
+      "rows": [
+        [
+          15,
+          "Digging water holes",
+          "Farm",
+          "AG",
+          "P",
+          "Farm labor rather than independent construction contractor as written"
+        ],
+        [
+          20,
+          "In charge of water business",
+          "Southwestern Public Service",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Waitress",
+          "State Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Grocery carrier",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 11,
+      "sheet": 10,
+      "heads": [
+        1,
+        10,
+        16,
+        21,
+        24
+      ],
+      "nonperson_lines": [
+        9
+      ],
+      "rows": [
+        [
+          1,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          3,
+          "Farmer helper",
+          "Farm",
+          "AG",
+          "NP",
+          ""
+        ],
+        [
+          13,
+          "Mine laborer",
+          "Guadalupe mines",
+          "OTHER",
+          "P",
+          "Mining"
+        ],
+        [
+          14,
+          "Typist",
+          "Department of Public Welfare",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          16,
+          "Railroad worker",
+          "Santa Fe Railroad",
+          "RAIL",
+          "P",
+          "This is what the industry entry says; not silently changed to S.P."
+        ],
+        [
+          21,
+          "Railroad worker",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Checks meters for water service",
+          "Southwestern water public service",
+          "UTIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 12,
+      "sheet": 11,
+      "heads": [
+        1,
+        6,
+        14,
+        18,
+        23,
+        29
+      ],
+      "nonperson_lines": [
+        22,
+        28
+      ],
+      "rows": [
+        [
+          1,
+          "Measures water reservoirs",
+          "County AAA office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          6,
+          "Building a cistern",
+          "Construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Delivers groceries",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Clerk and pharmacist",
+          "Retail drug store",
+          "RETAIL",
+          "P",
+          "Retail industry retained although occupation also professional"
+        ],
+        [
+          18,
+          "Highway laborer",
+          "State Highway Department",
+          "BUILD",
+          "G",
+          ""
+        ],
+        [
+          23,
+          "Cook",
+          "Medley Cafe",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 13,
+      "sheet": 12,
+      "heads": [
+        5,
+        12,
+        18,
+        21,
+        24,
+        29
+      ],
+      "nonperson_lines": [
+        15,
+        16,
+        17
+      ],
+      "rows": [
+        [
+          5,
+          "Plasters walls",
+          "Contract plasterer",
+          "BUILD",
+          "P",
+          "Has job, away from work"
+        ],
+        [
+          29,
+          "Operates truck",
+          "City trash disposal",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          30,
+          "Cleans rooms",
+          "Midland Hotel",
+          "LODG",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 14,
+      "sheet": 13,
+      "heads": [
+        2,
+        6,
+        7,
+        10,
+        18,
+        24,
+        26,
+        30
+      ],
+      "nonperson_lines": [
+        17,
+        25,
+        28,
+        29
+      ],
+      "rows": [
+        [
+          5,
+          "Dishwasher",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Supervises juveniles in city",
+          "Juvenile city marshal",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          10,
+          "Laying house foundation",
+          "Adobe construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Patrols city streets",
+          "City marshal",
+          "GOV",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 15,
+      "sheet": 14,
+      "heads": [
+        8,
+        19,
+        24,
+        28
+      ],
+      "nonperson_lines": [
+        7,
+        10,
+        22,
+        23
+      ],
+      "rows": [
+        [
+          24,
+          "Janitor",
+          "Southwestern public water and electric service",
+          "UTIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 16,
+      "sheet": 15,
+      "heads": [
+        4,
+        7,
+        13,
+        18,
+        24
+      ],
+      "nonperson_lines": [
+        6,
+        16,
+        17
+      ],
+      "rows": [
+        [
+          4,
+          "Butcher",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Highway laborer",
+          "State Highway Department",
+          "BUILD",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 17,
+      "sheet": 16,
+      "heads": [
+        5,
+        9,
+        11,
+        15,
+        17,
+        18,
+        26,
+        28
+      ],
+      "nonperson_lines": [
+        1,
+        2,
+        3,
+        4,
+        8,
+        13,
+        14
+      ],
+      "rows": [
+        [
+          6,
+          "Runs popcorn machine",
+          "Movie theatre",
+          "PERS",
+          "P",
+          "Entertainment service"
+        ],
+        [
+          11,
+          "Co-proprietor",
+          "Car repair shop",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          15,
+          "Presses clothes",
+          "Quality Cleaners",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Kept house",
+          "Housekeeper",
+          "PERS",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 18,
+      "sheet": 17,
+      "heads": [
+        4,
+        11,
+        13,
+        16,
+        20,
+        28
+      ],
+      "nonperson_lines": [
+        3,
+        15
+      ],
+      "rows": [
+        [
+          4,
+          "Put dirt in lawn of house",
+          "Landscaping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Helped unload lumber from trucks",
+          "Truck laborer",
+          "OTHER",
+          "P",
+          "Industry ambiguous between transport and lumber trade"
+        ],
+        [
+          20,
+          "Herds sheep",
+          "Sheep ranch",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          28,
+          "Farm hand",
+          "Farm",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Washes clothes",
+          "Laundry",
+          "PERS",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 19,
+      "sheet": 18,
+      "heads": [
+        10,
+        17,
+        21,
+        24
+      ],
+      "nonperson_lines": [
+        30
+      ],
+      "rows": [
+        [
+          1,
+          "Did housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          2,
+          "Did housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          11,
+          "Cleans tourist cabins",
+          "McKee Tourist Court (name provisional)",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Waitress",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Clerk",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 20,
+      "sheet": 19,
+      "heads": [
+        2,
+        12,
+        20,
+        25,
+        29
+      ],
+      "nonperson_lines": [
+        1,
+        19
+      ],
+      "rows": [
+        [
+          2,
+          "Laborer",
+          "Southwestern water and electric service",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          3,
+          "Cleans tourist cabins",
+          "La Loma Lodge tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          5,
+          "Waitress",
+          "State Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Drives truck",
+          "Driver for refining company (name uncertain)",
+          "OTHER",
+          "P",
+          "Petroleum transport; exact industry uncertain"
+        ],
+        [
+          26,
+          "Marks prices on goods",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          28,
+          "Butcher's helper",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 21,
+      "sheet": 20,
+      "heads": [
+        4,
+        12,
+        19,
+        25,
+        27
+      ],
+      "nonperson_lines": [
+        10,
+        11,
+        22,
+        23,
+        24,
+        30
+      ],
+      "rows": [
+        [
+          12,
+          "Cooks food",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Does laundry and cleans cabins",
+          "Pueblo Tourist Court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          29,
+          "Service station attendant",
+          "66 Service Station",
+          "AUTO",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 22,
+      "sheet": 21,
+      "heads": [
+        2,
+        9,
+        12,
+        15,
+        19,
+        27,
+        30
+      ],
+      "nonperson_lines": [
+        1
+      ],
+      "household_overrides": {
+        "26": "21:9"
+      },
+      "rows": [
+        [
+          2,
+          "Railroad worker",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Herding sheep",
+          "Sheep ranch",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Herding sheep",
+          "Sheep ranch",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Laying bricks",
+          "Bricklaying labor",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Fry cook",
+          "Jack's Cafe",
+          "FOOD",
+          "P",
+          "Has job, away from work"
+        ],
+        [
+          30,
+          "Manager",
+          "Charles Ilfeld wholesale company",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 23,
+      "sheet": 22,
+      "heads": [
+        2,
+        7,
+        10,
+        11,
+        16,
+        17,
+        21,
+        22
+      ],
+      "nonperson_lines": [
+        15,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          10,
+          "Washes dishes",
+          "Shamrock Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Washes dishes",
+          "Jack's Cafe",
+          "FOOD",
+          "P",
+          "Has job, away from work"
+        ],
+        [
+          17,
+          "Signal maintenance",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Pumper",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 24,
+      "sheet": 71,
+      "heads": [
+        1,
+        9,
+        13,
+        17,
+        24
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Railroad worker",
+          "S.P. Railroad",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          2,
+          "Proprietor",
+          "66 Cafe",
+          "FOOD",
+          "O",
+          ""
+        ],
+        [
+          3,
+          "Cook's helper",
+          "66 Cafe",
+          "FOOD",
+          "NP",
+          ""
+        ],
+        [
+          4,
+          "Housekeeping",
+          "Housekeeper",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          5,
+          "Cook and waitress",
+          "66 Cafe",
+          "FOOD",
+          "NP",
+          ""
+        ],
+        [
+          9,
+          "Laying foundation for house",
+          "Building construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Railroad worker",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 25,
+      "sheet": 72,
+      "heads": [
+        1,
+        4,
+        6,
+        9,
+        11,
+        18,
+        20,
+        25,
+        27
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Manager",
+          "Southwestern water and electric public service",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Pumper for railroad",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Does laundry and cleans rooms",
+          "Charles Tourist Court (name provisional)",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Proprietor",
+          "Palace Pool Hall",
+          "PERS",
+          "P",
+          "P written despite proprietor occupation; has job, away from work"
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 26,
+      "sheet": 73,
+      "heads": [
+        4,
+        8,
+        14,
+        20,
+        25
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          8,
+          "Cook",
+          "State Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Railroad laborer",
+          "S.P. Railroad Company",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Railroad laborer",
+          "Santa Fe Railroad Company",
+          "RAIL",
+          "P",
+          "S.P. struck and corrected to Santa Fe"
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 27,
+      "sheet": 74,
+      "heads": [
+        1,
+        2,
+        10,
+        16,
+        17,
+        19,
+        23,
+        26,
+        30
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Washes dishes",
+          "Jack's Cafe",
+          "FOOD",
+          "P",
+          "Has job away; possible duplicate of sheet 22 line 16; unresolved"
+        ],
+        [
+          2,
+          "Railroad laborer",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Proprietor",
+          "Midland Hotel",
+          "LODG",
+          "O",
+          ""
+        ],
+        [
+          18,
+          "Assistant manager",
+          "Midland Hotel",
+          "LODG",
+          "NP",
+          ""
+        ],
+        [
+          23,
+          "Warehouse manager",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "City clerk; deputy treasurer",
+          "County Courthouse",
+          "GOV",
+          "G",
+          "Dual description retained"
+        ],
+        [
+          28,
+          "Clerk and soda jerk",
+          "Retail drug store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Proprietor",
+          "Dry cleaners",
+          "PERS",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-8",
+      "image": 28,
+      "sheet": 75,
+      "heads": [
+        7,
+        8,
+        15,
+        16,
+        21,
+        22,
+        25,
+        27,
+        29
+      ],
+      "nonperson_lines": [
+        14,
+        23,
+        24,
+        30
+      ],
+      "rows": [
+        [
+          1,
+          "Takes orders",
+          "Dry cleaners",
+          "PERS",
+          "NP",
+          ""
+        ],
+        [
+          8,
+          "Farm hand",
+          "Farm",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Herding sheep",
+          "Sheep ranch",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Filling station attendant",
+          "Ray Robinson Station (name provisional)",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Service station attendant",
+          "Central Motor Co.",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Clerk",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Cook",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Line 28 appears to repeat late-added Florencio Moncayo on sheet 21 line 26; no occupation on either appearance; person count requires reconciliation."
+    },
+    {
+      "ed": "10-8",
+      "image": 29,
+      "sheet": 76,
+      "heads": [
+        2,
+        3,
+        6,
+        9
+      ],
+      "nonperson_lines": [
+        1,
+        8,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          2,
+          "Railroad work (faint; exact occupation unresolved)",
+          "Railroad S.P.",
+          "RAIL",
+          "P",
+          "Faint added-record sheet"
+        ],
+        [
+          3,
+          "Bricklayer (provisional)",
+          "Construction",
+          "BUILD",
+          "P",
+          "Faint"
+        ],
+        [
+          9,
+          "Unresolved (possibly communications)",
+          "Unresolved",
+          "OTHER",
+          "P",
+          "Faint; do not use for a specific industry claim"
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Sheet number 76 inferred from sequence; heading faint. Heads identified partly from relationship coding."
+    },
+    {
+      "ed": "10-9",
+      "image": 2,
+      "sheet": 1,
+      "heads": [
+        2,
+        6,
+        12,
+        16,
+        19,
+        30
+      ],
+      "nonperson_lines": [
+        1,
+        10,
+        11
+      ],
+      "rows": [
+        [
+          2,
+          "Manager",
+          "Service station and tourist court",
+          "AUTO",
+          "P",
+          "Mixed motor and lodging business"
+        ],
+        [
+          6,
+          "Drives truck",
+          "Gasoline truck driver",
+          "OTHER",
+          "P",
+          "Has job away"
+        ],
+        [
+          12,
+          "Drives truck",
+          "Guadalupe [remainder unresolved]",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Service station attendant",
+          "Conoco service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          19,
+          "Measuring land",
+          "Soil Conservation office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          30,
+          "Head waitress",
+          "Malone's Cafe",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 3,
+      "sheet": 2,
+      "heads": [
+        7,
+        12,
+        14,
+        18,
+        20,
+        24,
+        29
+      ],
+      "nonperson_lines": [
+        6,
+        11,
+        17,
+        26,
+        27,
+        28
+      ],
+      "rows": [
+        [
+          1,
+          "Sweep floor",
+          "Movie theater",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          2,
+          "Sweep floor",
+          "Movie theater",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Proprietor",
+          "Gasoline service station",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          8,
+          "Telephone operator",
+          "Bell telephone system",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Dry clean clothes",
+          "Santa Rosa Cleaners",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Foreman and plasterer",
+          "Construction, Sullen Company (name provisional)",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Repairs on farm",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          20,
+          "Drives truck for construction job",
+          "Truck driver",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Repairs watches; proprietor",
+          "Jewelry store",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          25,
+          "Clerk",
+          "Jewelry store",
+          "RETAIL",
+          "NP",
+          ""
+        ],
+        [
+          29,
+          "Electric service lineman",
+          "Southwestern electric public service",
+          "UTIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 4,
+      "sheet": 3,
+      "heads": [
+        4,
+        7,
+        12,
+        13,
+        15,
+        17,
+        26
+      ],
+      "nonperson_lines": [
+        2,
+        3,
+        24,
+        25
+      ],
+      "rows": [
+        [
+          6,
+          "Cares for babies; takes care of library",
+          "City library",
+          "GOV",
+          "P",
+          "Mixed description; private worker class retained"
+        ],
+        [
+          7,
+          "Section foreman",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Herding sheep",
+          "Sheep ranch",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Janitor",
+          "City high school",
+          "EDU",
+          "G",
+          "Has job away"
+        ],
+        [
+          17,
+          "Head janitor",
+          "City high school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          26,
+          "Foreman, state highway job",
+          "State highway",
+          "BUILD",
+          "G",
+          ""
+        ],
+        [
+          28,
+          "Clerk and delivery",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 5,
+      "sheet": 4,
+      "heads": [
+        7,
+        9,
+        10,
+        17,
+        27
+      ],
+      "nonperson_lines": [
+        5,
+        6,
+        16,
+        25,
+        26
+      ],
+      "rows": [
+        [
+          8,
+          "Bartender",
+          "Glass Bar",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Diesel operator",
+          "Southwestern Public Service Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Beauty operator",
+          "Beauty parlor",
+          "PERS",
+          "P",
+          "Rita Gutierrez; no shop name"
+        ],
+        [
+          27,
+          "Delivers mail (odd jobs)",
+          "City post office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          30,
+          "Cashier",
+          "Movie theater",
+          "PERS",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 6,
+      "sheet": 5,
+      "heads": [
+        5,
+        10,
+        17,
+        22,
+        28
+      ],
+      "nonperson_lines": [
+        3,
+        4,
+        20,
+        21
+      ],
+      "rows": [
+        [
+          6,
+          "",
+          "Newspaper office",
+          "OTHER",
+          "P",
+          "Eight hours recorded; industry only"
+        ],
+        [
+          13,
+          "Clerk",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          28,
+          "Postmaster",
+          "Santa Rosa postal office",
+          "GOV",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Crossed-out lines 20-21 excluded, including dry cleaner on line 20."
+    },
+    {
+      "ed": "10-9",
+      "image": 7,
+      "sheet": 6,
+      "heads": [
+        2,
+        5,
+        13,
+        18,
+        23,
+        29
+      ],
+      "nonperson_lines": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        17
+      ],
+      "rows": [
+        [
+          5,
+          "Fixes plumbing",
+          "Plumber",
+          "BUILD",
+          "O",
+          ""
+        ],
+        [
+          7,
+          "Bartender",
+          "Dome Bar",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Clerk",
+          "Retail dry goods store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Cleans rooms",
+          "Sims Boarding House (name provisional)",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Proprietor",
+          "Barber shop",
+          "PERS",
+          "O",
+          ""
+        ],
+        [
+          24,
+          "Clerk",
+          "Retail dry goods store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Proprietor",
+          "Plaza Confectionery",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          26,
+          "Clerk and soda jerk",
+          "Plaza Confectionery",
+          "RETAIL",
+          "NP",
+          ""
+        ],
+        [
+          29,
+          "Keeps the books",
+          "Bookkeeping, First National Bank",
+          "PRO",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 8,
+      "sheet": 7,
+      "heads": [
+        3,
+        8,
+        10,
+        11,
+        13,
+        18,
+        21,
+        22,
+        26,
+        28
+      ],
+      "nonperson_lines": [
+        17,
+        25
+      ],
+      "rows": [
+        [
+          8,
+          "Rancher; feed cattle",
+          "Cattle ranch",
+          "AG",
+          "O",
+          "Bill Phillips; urban residence, farm checkbox no"
+        ],
+        [
+          10,
+          "Telegrapher",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          "Has job away"
+        ],
+        [
+          11,
+          "Proprietor",
+          "Tourist court and filling station",
+          "LODG",
+          "O",
+          "Mixed lodging and motor business"
+        ],
+        [
+          13,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          18,
+          "Cleans cabins",
+          "Conoco tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Proprietor",
+          "City laundry",
+          "PERS",
+          "O",
+          ""
+        ],
+        [
+          22,
+          "Cashier and manager",
+          "First National Bank",
+          "PRO",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Doctor",
+          "Osteopathic doctor",
+          "PRO",
+          "O",
+          ""
+        ],
+        [
+          27,
+          "Proprietor",
+          "Retail grocery store",
+          "RETAIL",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 9,
+      "sheet": 8,
+      "heads": [
+        9,
+        10,
+        13,
+        21,
+        27
+      ],
+      "nonperson_lines": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        26,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          10,
+          "Proprietor",
+          "Retail grocery store",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          13,
+          "Railroad worker",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Manager",
+          "Pool hall",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          28,
+          "Cleans cabins",
+          "Yucca tourist court",
+          "LODG",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 10,
+      "sheet": 9,
+      "heads": [
+        2,
+        11,
+        12,
+        16,
+        21,
+        30
+      ],
+      "nonperson_lines": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "rows": [
+        [
+          2,
+          "Proprietor",
+          "Grocery and dry goods retail store",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          12,
+          "Clerk; sells lumber",
+          "Santa Rosa Lumber Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "District conservationist",
+          "Soil Conservation office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          20,
+          "Engineering aide",
+          "New Mexico Soil Conservation",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          21,
+          "Butcher",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Butcher's helper",
+          "Retail grocery store",
+          "RETAIL",
+          "NP",
+          ""
+        ],
+        [
+          30,
+          "Paints buildings",
+          "Painter",
+          "BUILD",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 11,
+      "sheet": 10,
+      "heads": [
+        4,
+        9,
+        11,
+        14,
+        21,
+        27
+      ],
+      "nonperson_lines": [
+        7,
+        8,
+        13,
+        19,
+        20
+      ],
+      "rows": [
+        [
+          3,
+          "Drills wells",
+          "Well driller",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          5,
+          "Waitress",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Sales agent",
+          "Magnolia Gas Co.",
+          "RETAIL",
+          "P",
+          "Petroleum sales; distinct from service-station work"
+        ],
+        [
+          10,
+          "Proprietor",
+          "Elma's Beauty Shop",
+          "PERS",
+          "O",
+          "Elma Jones; named beauty business in 1950, not Willa's"
+        ],
+        [
+          11,
+          "Teacher",
+          "City public high school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          14,
+          "Proprietor",
+          "Ford dealer, garage and filling station",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          21,
+          "Railroad worker",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Waitress",
+          "Malone's Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Keeps house; cares for children",
+          "Housekeeper",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Makes road with grader",
+          "Highway construction",
+          "BUILD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 12,
+      "sheet": 11,
+      "heads": [
+        3,
+        15,
+        18,
+        24
+      ],
+      "nonperson_lines": [
+        14,
+        23,
+        25,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          3,
+          "Plumber's assistant",
+          "Plumbing",
+          "BUILD",
+          "P",
+          "Has job away"
+        ],
+        [
+          6,
+          "Service station attendant",
+          "Hedges service station (name provisional)",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Janitor",
+          "City high school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          22,
+          "Clerk; cashier",
+          "Malone's Curio Shop (name provisional)",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Waitress",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          "Female head substituted for crossed-out male entry"
+        ]
+      ],
+      "blank_occupation_work_rows": [
+        15
+      ]
+    },
+    {
+      "ed": "10-9",
+      "image": 13,
+      "sheet": 12,
+      "heads": [
+        4,
+        7,
+        13,
+        15,
+        21,
+        22,
+        26,
+        30
+      ],
+      "nonperson_lines": [
+        1,
+        2,
+        3
+      ],
+      "rows": [
+        [
+          7,
+          "Assistant manager",
+          "Bennett-Enos Drug (name provisional)",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Clerk",
+          "Dry goods store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Telephone operator; office clerk",
+          "Mountain States telephone system",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Bookkeeper",
+          "Retail grocery and dry goods",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Service station attendant",
+          "Fabela and Meade station (name provisional)",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Postal clerk",
+          "City post office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          27,
+          "Elementary teacher",
+          "City grade school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          30,
+          "Proprietor",
+          "Club Cafe",
+          "FOOD",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 14,
+      "sheet": 13,
+      "heads": [
+        4,
+        13,
+        19,
+        22,
+        27
+      ],
+      "nonperson_lines": [
+        3,
+        17,
+        18,
+        21,
+        26
+      ],
+      "rows": [
+        [
+          4,
+          "Janitor",
+          "City public school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          6,
+          "Housework; cares for children",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          8,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          19,
+          "Doctor",
+          "Osteopathic doctor",
+          "PRO",
+          "O",
+          ""
+        ],
+        [
+          22,
+          "Elementary school teacher",
+          "City public school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          23,
+          "Shop foreman",
+          "Printing shop",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Collection man; doorman",
+          "Movie theater",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Practices law",
+          "Lawyer",
+          "PRO",
+          "O",
+          ""
+        ],
+        [
+          28,
+          "High school teacher",
+          "City high school",
+          "EDU",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 15,
+      "sheet": 14,
+      "heads": [
+        2,
+        6,
+        12,
+        19,
+        26
+      ],
+      "nonperson_lines": [
+        3,
+        11,
+        15,
+        16,
+        17,
+        18,
+        25
+      ],
+      "rows": [
+        [
+          4,
+          "Waitress",
+          "Jack's Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Elementary teacher",
+          "County school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          7,
+          "Waitress",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Does the laundry",
+          "Will Rogers auto court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Assistant signalman",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Bartender",
+          "Rio Bar",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Crossed-out farm hand on line 2 replaced by female head without occupation; not counted as farm worker."
+    },
+    {
+      "ed": "10-9",
+      "image": 16,
+      "sheet": 15,
+      "heads": [
+        6,
+        11,
+        17,
+        22,
+        29
+      ],
+      "nonperson_lines": [
+        8,
+        9,
+        10,
+        15,
+        16,
+        27,
+        28
+      ],
+      "rows": [
+        [
+          6,
+          "Makes earth tanks and ditches",
+          "Dirt moving",
+          "BUILD",
+          "O",
+          ""
+        ],
+        [
+          7,
+          "Chief cook",
+          "School hot kitchen program",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          11,
+          "Co-proprietor",
+          "Tourist court and service station",
+          "LODG",
+          "O",
+          "Mixed lodging and motor business"
+        ],
+        [
+          17,
+          "Proprietor",
+          "Ralph's Auto Garage",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          21,
+          "Mechanic",
+          "Ralph's Auto Garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Mechanic",
+          "Shum Bros. Garage (name provisional)",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          29,
+          "Shop foreman",
+          "Chief Motor Garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Clerk typist",
+          "Soil Conservation office",
+          "GOV",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 17,
+      "sheet": 16,
+      "heads": [
+        2,
+        4,
+        8,
+        10,
+        11
+      ],
+      "nonperson_lines": [
+        1,
+        9,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          2,
+          "Proprietor",
+          "Gasoline service station",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          3,
+          "Service station attendant",
+          "Sargent's station",
+          "AUTO",
+          "NP",
+          ""
+        ],
+        [
+          4,
+          "Proprietor",
+          "Cafe",
+          "FOOD",
+          "O",
+          ""
+        ],
+        [
+          5,
+          "Cook",
+          "Cafe",
+          "FOOD",
+          "NP",
+          ""
+        ],
+        [
+          6,
+          "Engineer",
+          "Road construction",
+          "BUILD",
+          "P",
+          "Worker class corrected, provisional P; has job away"
+        ],
+        [
+          7,
+          "Cook",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Cook",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          11,
+          "Motor court attendant",
+          "Tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Laundry; makes beds",
+          "Tourist court",
+          "LODG",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 18,
+      "sheet": 71,
+      "heads": [
+        1,
+        3,
+        9,
+        14,
+        17,
+        20,
+        23,
+        26,
+        30
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Postal clerk",
+          "City post office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          2,
+          "Clerk; bookkeeper",
+          "Hardware store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          3,
+          "Railroad laborer",
+          "S.P. Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          5,
+          "Secretary",
+          "County extension agent office",
+          "GOV",
+          "P",
+          "Private worker class retained"
+        ],
+        [
+          6,
+          "Filing; bookkeeping",
+          "Charles Ilfeld wholesale Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Delivers papers",
+          "Journal paper route",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Carpentry work",
+          "Carpenter",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Rancher",
+          "Ranch",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          20,
+          "Proprietor",
+          "Rio Bar, liquor dealer",
+          "FOOD",
+          "O",
+          ""
+        ],
+        [
+          22,
+          "Farmer's helper",
+          "Farm",
+          "AG",
+          "NP",
+          ""
+        ],
+        [
+          23,
+          "City crew leader",
+          "U.S. Bureau of Census",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          26,
+          "Assessments and clerk",
+          "County deputy assessor",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          27,
+          "Senior stenographer",
+          "State Department of Public Welfare",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          30,
+          "High school teacher",
+          "City public school",
+          "EDU",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Line 15 J.D. McKinzie may duplicate sheet 9 line 11 J.O. McKinzie; no occupation on either appearance."
+    },
+    {
+      "ed": "10-9",
+      "image": 19,
+      "sheet": 72,
+      "heads": [
+        1,
+        2,
+        5,
+        9,
+        11,
+        13,
+        22,
+        30
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Telephone operator",
+          "Mountain States Telephone Co.",
+          "UTIL",
+          "P",
+          "Has job away"
+        ],
+        [
+          2,
+          "Proprietor",
+          "Retail grocery store",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          5,
+          "Cook",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Waitress",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          "Has job away"
+        ],
+        [
+          8,
+          "Cares for baby; takes care of house",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Proprietor",
+          "State Cafe",
+          "FOOD",
+          "O",
+          ""
+        ],
+        [
+          10,
+          "Waitress",
+          "State Cafe",
+          "FOOD",
+          "NP",
+          ""
+        ],
+        [
+          11,
+          "Electric power plant operator",
+          "Southwestern Public Service",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Proprietor",
+          "Retail grocery store",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          29,
+          "Housework; cares for children",
+          "Housemaid",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 20,
+      "sheet": 73,
+      "heads": [
+        7,
+        9,
+        12,
+        14,
+        15,
+        20,
+        22,
+        25,
+        30
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          9,
+          "Pool hall operator",
+          "C-H Club pool hall",
+          "PERS",
+          "O",
+          ""
+        ],
+        [
+          12,
+          "Manages rentals",
+          "Apartment house",
+          "PRO",
+          "O",
+          "Has job away"
+        ],
+        [
+          14,
+          "Cashier; clerk",
+          "Malone's Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Field liquor inspector",
+          "Liquor inspection",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          20,
+          "Preacher",
+          "Baptist Church",
+          "PRO",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Cashier",
+          "Southwestern electric and water service",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Clerk and assistant secretary",
+          "City public high school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          24,
+          "Clerk; soda jerk",
+          "Plaza Confectionery",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Clerk",
+          "Retail grocery",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Clerk",
+          "Curio shop",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Proprietor",
+          "Dry goods store",
+          "RETAIL",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 21,
+      "sheet": 74,
+      "heads": [
+        6,
+        8,
+        9,
+        10,
+        11,
+        13,
+        16,
+        17,
+        18,
+        19,
+        20,
+        26
+      ],
+      "nonperson_lines": [
+        7,
+        27,
+        28,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          8,
+          "High school teacher",
+          "City high school",
+          "EDU",
+          "G",
+          "Corrected entry retained"
+        ],
+        [
+          9,
+          "High school teacher",
+          "City high school",
+          "EDU",
+          "G",
+          "Corrected entry retained"
+        ],
+        [
+          10,
+          "Elementary teacher",
+          "City grade school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          11,
+          "Dry cleans clothes; presser",
+          "Santa Rosa Cleaners",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "High school teacher",
+          "Santa Rosa high school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          14,
+          "Supervises county schools",
+          "County school supervisor",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          16,
+          "Mining engineer",
+          "Mining",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          18,
+          "Operates store; proprietor",
+          "General merchandise",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          19,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          20,
+          "Proprietor",
+          "Service station",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          22,
+          "Tractor driver",
+          "Road construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Cashier",
+          "Movie theater",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Night watchman",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 22,
+      "sheet": 75,
+      "heads": [
+        1,
+        5,
+        9,
+        15,
+        18,
+        19,
+        23,
+        24
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Mechanic",
+          "Bennett and Lane Motor Garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          2,
+          "Waitress",
+          "Club Cafe",
+          "FOOD",
+          "P",
+          "Has job away"
+        ],
+        [
+          5,
+          "Part owner and manager",
+          "Movie theater",
+          "PERS",
+          "O",
+          ""
+        ],
+        [
+          7,
+          "Manager's helper",
+          "Movie theater",
+          "PERS",
+          "NP",
+          ""
+        ],
+        [
+          8,
+          "Operates movie machine",
+          "Movie theater",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Drives truck",
+          "Yard transport [remainder unresolved]",
+          "OTHER",
+          "P",
+          "Has job away"
+        ],
+        [
+          10,
+          "Washing and ironing",
+          "Laundry",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Furniture salesman",
+          "Hayden Furniture Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Waitress",
+          "Jack's Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Maintenance engineer",
+          "Southwestern Public Service Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          19,
+          "Co-proprietor",
+          "Filling station and motor court",
+          "AUTO",
+          "O",
+          "Mixed motor and lodging business"
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 23,
+      "sheet": 76,
+      "heads": [
+        1,
+        5,
+        8,
+        11,
+        13,
+        14,
+        17,
+        21,
+        24,
+        28,
+        30
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Proprietor",
+          "Gasoline service station",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          2,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "NP",
+          ""
+        ],
+        [
+          5,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          6,
+          "Farmer's helper",
+          "Farm",
+          "AG",
+          "NP",
+          ""
+        ],
+        [
+          7,
+          "Delivers newspaper",
+          "Paper route",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          8,
+          "Cashier",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          11,
+          "Co-proprietor",
+          "Car dealer, garage and service station",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          13,
+          "High school teacher",
+          "City high school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          15,
+          "Elementary teacher",
+          "County school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          17,
+          "Shop foreman",
+          "Motor garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Typing and filing",
+          "Agricultural adjustment administration",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          21,
+          "Proprietor",
+          "Service station",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          28,
+          "High school principal",
+          "City high school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          30,
+          "Sales clerk",
+          "Retail dry goods store",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-9",
+      "image": 24,
+      "sheet": 77,
+      "heads": [
+        4,
+        6,
+        9,
+        13,
+        14,
+        17,
+        20,
+        21,
+        24,
+        25,
+        26,
+        29
+      ],
+      "nonperson_lines": [
+        30
+      ],
+      "rows": [
+        [
+          6,
+          "Proprietor",
+          "Boot and saddle shop",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          7,
+          "Makes shirts; stitches",
+          "Boot and saddle shop",
+          "RETAIL",
+          "NP",
+          ""
+        ],
+        [
+          9,
+          "Mechanic",
+          "Motor garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Proprietor",
+          "Cafe",
+          "FOOD",
+          "O",
+          ""
+        ],
+        [
+          14,
+          "Mail carrier",
+          "City post office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          17,
+          "Farm hand",
+          "Farm",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Proprietor",
+          "Barber shop",
+          "PERS",
+          "O",
+          "Has job away"
+        ],
+        [
+          21,
+          "Mason work",
+          "Construction company",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Cleans clothes",
+          "Cleaners Co.",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          29,
+          "County clerk; district court clerk",
+          "Guadalupe County",
+          "GOV",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [
+        4
+      ]
+    },
+    {
+      "ed": "10-9",
+      "image": 25,
+      "sheet": 78,
+      "heads": [
+        1,
+        4,
+        6,
+        8,
+        11
+      ],
+      "nonperson_lines": [
+        10,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "household_overrides": {
+        "9": "9:11",
+        "17": "UNASSIGNED"
+      },
+      "rows": [
+        [
+          4,
+          "Dump truck driver",
+          "Road construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Mechanic",
+          "Road construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          8,
+          "Heavy equipment operator (exact word uncertain)",
+          "Construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Geologist (provisional)",
+          "Mine",
+          "OTHER",
+          "P",
+          "Faint occupation; mine clear"
+        ],
+        [
+          11,
+          "Cook, restaurant (provisional)",
+          "Cafe",
+          "FOOD",
+          "O",
+          "Faint added entry; 14 hours"
+        ],
+        [
+          17,
+          "Projectionist (provisional)",
+          "Motion pictures",
+          "PERS",
+          "",
+          "Faint; person explicitly unassigned to dwelling"
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 2,
+      "sheet": 1,
+      "heads": [
+        1,
+        4,
+        8,
+        10,
+        16,
+        19,
+        22,
+        26
+      ],
+      "nonperson_lines": [
+        6,
+        7,
+        20,
+        21
+      ],
+      "rows": [
+        [
+          10,
+          "Drills water wells",
+          "Farm and ranch",
+          "AG",
+          "P",
+          "Industry-based agriculture; occupation also construction-related"
+        ],
+        [
+          16,
+          "Drives truck",
+          "Transport Co.",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          19,
+          "Painted house",
+          "Interior painter",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Steel setter for bridges",
+          "Construction Co.",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Bulldozer operator",
+          "Construction Co.",
+          "BUILD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Hotel families: head/wife labels crossed or recoded. Anchors preserve identifiable family groups, not official private-household definitions."
+    },
+    {
+      "ed": "10-10",
+      "image": 3,
+      "sheet": 2,
+      "heads": [
+        4,
+        9,
+        11,
+        12,
+        16,
+        19,
+        21,
+        28,
+        29
+      ],
+      "nonperson_lines": [
+        2,
+        3,
+        14,
+        15
+      ],
+      "rows": [
+        [
+          4,
+          "Proprietor",
+          "Hotel",
+          "LODG",
+          "O",
+          "Has job away"
+        ],
+        [
+          5,
+          "Telephone operator",
+          "Telephone company",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Road laborer",
+          "Road construction",
+          "BUILD",
+          "P",
+          "Has job away"
+        ],
+        [
+          9,
+          "Drives truck",
+          "Transport Co.",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          11,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Dishwasher",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Teller; cashier",
+          "First National Bank",
+          "PRO",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Railroad laborer",
+          "Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          29,
+          "Foreman",
+          "Sheep ranch",
+          "AG",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Hotel residents in upper rows; family anchors are not an official private-household count."
+    },
+    {
+      "ed": "10-10",
+      "image": 4,
+      "sheet": 3,
+      "heads": [
+        4,
+        14,
+        21,
+        25
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Saleslady",
+          "Retail dry goods store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          2,
+          "Saleslady",
+          "Retail dry goods store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Cares for children",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Washes dishes",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Cares for tourist court grounds",
+          "Tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Makes beds; cleans rooms",
+          "Hotel",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Carries mail",
+          "City post office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          27,
+          "Road laborer",
+          "Road construction",
+          "BUILD",
+          "P",
+          "Has job away"
+        ],
+        [
+          28,
+          "Saleslady",
+          "Dry goods store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          29,
+          "Soda jerk; cashier",
+          "Drug store",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Line 20 infant marked April; retained as written person appearance, not a reconstructed April 1 population."
+    },
+    {
+      "ed": "10-10",
+      "image": 5,
+      "sheet": 4,
+      "heads": [
+        5,
+        10,
+        14,
+        16,
+        18,
+        22,
+        28
+      ],
+      "nonperson_lines": [
+        4,
+        8,
+        9,
+        27
+      ],
+      "rows": [
+        [
+          7,
+          "Saleslady",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Washes dishes; janitor",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Typing and filing",
+          "Public Service company",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Typing and filing",
+          "County superintendent office",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          14,
+          "Bartender",
+          "Liquor dealer, bar",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Salesman",
+          "Drug store (provisional)",
+          "RETAIL",
+          "P",
+          "Corrected row; has job away"
+        ],
+        [
+          22,
+          "Justice of peace; night watchman",
+          "Police judge; city marshal",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          28,
+          "Cares for fish",
+          "Fish hatchery",
+          "GOV",
+          "G",
+          "Has job away; government fishery distinct from farm/ranch"
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 6,
+      "sheet": 5,
+      "heads": [
+        11,
+        13,
+        24,
+        26
+      ],
+      "nonperson_lines": [
+        10,
+        23
+      ],
+      "rows": [
+        [
+          1,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          4,
+          "Sweeps store",
+          "Dry goods store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Plumber",
+          "Plumbing",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Loads trucks",
+          "Wholesale company",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 7,
+      "sheet": 6,
+      "heads": [
+        1,
+        10,
+        24,
+        26,
+        29
+      ],
+      "nonperson_lines": [
+        6,
+        7,
+        8,
+        9,
+        20,
+        21,
+        22,
+        23
+      ],
+      "rows": [
+        [
+          1,
+          "Drives truck",
+          "Gasoline truck driver",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          12,
+          "Postal clerk",
+          "City post office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          13,
+          "Manager",
+          "Tourist court and service station",
+          "LODG",
+          "P",
+          "Mixed lodging and motor business"
+        ],
+        [
+          14,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          28,
+          "Cashier and sales clerk",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          29,
+          "Carpenter",
+          "Carpentry",
+          "BUILD",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 8,
+      "sheet": 7,
+      "heads": [
+        1,
+        7,
+        12,
+        17,
+        21,
+        30
+      ],
+      "nonperson_lines": [
+        5,
+        6,
+        29
+      ],
+      "rows": [
+        [
+          1,
+          "County agent",
+          "Extension service",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          7,
+          "Proprietor",
+          "Liquor bar",
+          "FOOD",
+          "O",
+          ""
+        ],
+        [
+          12,
+          "Drives truck",
+          "Gas company",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Sales clerk",
+          "General merchandise",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Washes dishes",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Farm hand",
+          "Farm",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Manager",
+          "Lumber and hardware Co.",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 9,
+      "sheet": 8,
+      "heads": [
+        4,
+        10,
+        16,
+        18,
+        21,
+        23,
+        30
+      ],
+      "nonperson_lines": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "rows": [
+        [
+          3,
+          "Superintendent",
+          "State highway construction",
+          "BUILD",
+          "G",
+          ""
+        ],
+        [
+          4,
+          "Mechanic",
+          "Motor garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Service station attendant",
+          "Filling station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Operates diesel",
+          "Electric Service Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Journeyman lineman",
+          "Electric service",
+          "UTIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 10,
+      "sheet": 9,
+      "heads": [
+        4,
+        10,
+        14,
+        20,
+        23,
+        25
+      ],
+      "nonperson_lines": [
+        2,
+        3,
+        12,
+        13,
+        18,
+        19,
+        28,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          4,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Bartender",
+          "Liquor bar",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Irons clothes",
+          "Housework",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Cares for needs of parish",
+          "Parish priest",
+          "PRO",
+          "",
+          "Rev. Phillip Cassidy (name provisional); Santa Rosa residence does not establish Cuervo mission service"
+        ],
+        [
+          21,
+          "Cares for needs of parish",
+          "Assistant priest",
+          "PRO",
+          "",
+          ""
+        ],
+        [
+          22,
+          "Keeps house",
+          "Housekeeper",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Co-proprietor",
+          "Cafe",
+          "FOOD",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 11,
+      "sheet": 10,
+      "heads": [
+        1,
+        9,
+        18,
+        20,
+        29
+      ],
+      "nonperson_lines": [
+        7,
+        8,
+        16,
+        17,
+        26,
+        27,
+        28
+      ],
+      "rows": [
+        [
+          1,
+          "Janitor",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          11,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Jobber; delivers gas",
+          "Gas Co.",
+          "RETAIL",
+          "P",
+          "Petroleum wholesaling indicated by jobber"
+        ],
+        [
+          29,
+          "Shipping clerk",
+          "Wholesale company",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Teacher, elementary and high",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 12,
+      "sheet": 11,
+      "heads": [
+        2,
+        7,
+        11,
+        13,
+        19,
+        28
+      ],
+      "nonperson_lines": [
+        9,
+        10,
+        18,
+        24,
+        25,
+        26,
+        27,
+        30
+      ],
+      "rows": [
+        [
+          2,
+          "Proprietor",
+          "Dry goods store",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          3,
+          "Sales clerk",
+          "Dry goods store",
+          "RETAIL",
+          "NP",
+          ""
+        ],
+        [
+          6,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Proprietor",
+          "Drug and pharmacy",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          11,
+          "Proprietor",
+          "Abstract Co.",
+          "PRO",
+          "O",
+          ""
+        ],
+        [
+          13,
+          "Mechanic",
+          "Motor garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          19,
+          "Assistant superintendent",
+          "Fish and Wildlife Service",
+          "GOV",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Skewed sheet; line numbers follow left margin and ruled lines."
+    },
+    {
+      "ed": "10-10",
+      "image": 13,
+      "sheet": 12,
+      "heads": [
+        1,
+        4,
+        7,
+        11,
+        13,
+        17,
+        22,
+        24,
+        28
+      ],
+      "nonperson_lines": [
+        3,
+        5,
+        6,
+        9,
+        10,
+        21
+      ],
+      "rows": [
+        [
+          2,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          7,
+          "Drives truck",
+          "Gasoline truck driving",
+          "OTHER",
+          "O",
+          ""
+        ],
+        [
+          12,
+          "Proprietor",
+          "Liquor dealer, wholesale Co.",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          13,
+          "Bookkeeper",
+          "Garage Co.",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "State policeman",
+          "State police force",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          20,
+          "Cashier",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Proprietor",
+          "Funeral director; undertaker",
+          "PRO",
+          "O",
+          ""
+        ],
+        [
+          24,
+          "Insurance agent",
+          "Insurance Co.",
+          "PRO",
+          "O",
+          ""
+        ],
+        [
+          29,
+          "Teaches piano",
+          "Private teacher",
+          "EDU",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Proprietor",
+          "General merchandise",
+          "RETAIL",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 14,
+      "sheet": 13,
+      "heads": [
+        2,
+        4,
+        7,
+        9,
+        10,
+        16,
+        19,
+        21,
+        23,
+        26,
+        29
+      ],
+      "nonperson_lines": [
+        1,
+        13,
+        14,
+        15,
+        18,
+        25,
+        28
+      ],
+      "rows": [
+        [
+          5,
+          "Elementary teacher",
+          "City schools",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          6,
+          "Bookkeeper",
+          "Wholesale Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Carpentry work",
+          "Carpenter",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Cashier; sales clerk",
+          "Curio shop",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "State policeman",
+          "State police force",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          19,
+          "Proprietor",
+          "Liquor bar",
+          "FOOD",
+          "O",
+          ""
+        ],
+        [
+          21,
+          "Proprietor",
+          "City Cleaners",
+          "PERS",
+          "O",
+          ""
+        ],
+        [
+          23,
+          "Sales agent",
+          "Gas company",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Does laundry",
+          "Tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Does laundry",
+          "Tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          29,
+          "Drills water wells",
+          "Well driller",
+          "BUILD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 15,
+      "sheet": 14,
+      "heads": [
+        3,
+        7,
+        11,
+        15,
+        24,
+        26,
+        30
+      ],
+      "nonperson_lines": [
+        2,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        29
+      ],
+      "rows": [
+        [
+          7,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          11,
+          "Drills water wells",
+          "Driller",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Driller's helper",
+          "Driller",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Construction foreman",
+          "Construction Co.",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Manager",
+          "Tourist court and grocery store",
+          "LODG",
+          "P",
+          "Mixed lodging and retail business"
+        ],
+        [
+          30,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 16,
+      "sheet": 15,
+      "heads": [
+        6,
+        9,
+        19,
+        22
+      ],
+      "nonperson_lines": [
+        8,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "rows": [
+        [
+          2,
+          "Farmer's helper",
+          "Farm",
+          "AG",
+          "NP",
+          ""
+        ],
+        [
+          6,
+          "Secretary",
+          "City Chamber of Commerce",
+          "GOV",
+          "G",
+          "Government class as written; chamber status not independently established"
+        ],
+        [
+          9,
+          "Construction work",
+          "Construction Co.",
+          "BUILD",
+          "O",
+          ""
+        ],
+        [
+          19,
+          "Road laborer",
+          "Road construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Laborer",
+          "Building construction Co.",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Telephone operator",
+          "Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 17,
+      "sheet": 16,
+      "heads": [
+        4,
+        13,
+        16,
+        24,
+        26,
+        30
+      ],
+      "nonperson_lines": [
+        2,
+        3,
+        10,
+        11,
+        12,
+        15,
+        25
+      ],
+      "rows": [
+        [
+          14,
+          "Telephone operator",
+          "Telephone Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Keeps house",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          19,
+          "Telephone operator",
+          "Telephone Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Sales clerk",
+          "Curio shop",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "High school teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          28,
+          "Cashier",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 18,
+      "sheet": 17,
+      "heads": [
+        6,
+        12,
+        23,
+        27
+      ],
+      "nonperson_lines": [
+        11,
+        19,
+        20,
+        21,
+        22,
+        25,
+        26
+      ],
+      "rows": [
+        [
+          2,
+          "Farmer",
+          "Farm",
+          "AG",
+          "NP",
+          ""
+        ],
+        [
+          4,
+          "Farmer",
+          "Farm",
+          "AG",
+          "NP",
+          ""
+        ],
+        [
+          6,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          "Corrected name/relationship row retained"
+        ],
+        [
+          7,
+          "Elementary teacher",
+          "County school",
+          "EDU",
+          "G",
+          "Farmer and teacher in same family group"
+        ],
+        [
+          12,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Washes dishes",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 19,
+      "sheet": 18,
+      "heads": [
+        5,
+        12,
+        22,
+        29
+      ],
+      "nonperson_lines": [
+        19,
+        20,
+        21
+      ],
+      "rows": [
+        [
+          5,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "Carpentry work",
+          "Carpenter",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Sales clerk; soda jerk",
+          "Drug store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Carries supplies",
+          "Lumber Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Sales clerk",
+          "Drug store",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 20,
+      "sheet": 19,
+      "heads": [
+        4,
+        10,
+        12,
+        16,
+        23,
+        26
+      ],
+      "nonperson_lines": [
+        7,
+        8,
+        9
+      ],
+      "rows": [
+        [
+          5,
+          "Housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          "Corrected row retained; duplicate crossed-out housework on line 6 excluded"
+        ],
+        [
+          19,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Mechanic",
+          "Motor company",
+          "AUTO",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 21,
+      "sheet": 20,
+      "heads": [
+        3,
+        5,
+        13,
+        22
+      ],
+      "nonperson_lines": [
+        2,
+        4,
+        11,
+        12
+      ],
+      "rows": [
+        [
+          5,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          7,
+          "Bookkeeper",
+          "Grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          8,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Laborer",
+          "Dam construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          19,
+          "Mechanic",
+          "Motor garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Railroad laborer",
+          "Railroad Co.",
+          "RAIL",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 22,
+      "sheet": 21,
+      "heads": [
+        1,
+        8,
+        10,
+        15,
+        19,
+        22
+      ],
+      "nonperson_lines": [
+        12,
+        13,
+        14,
+        17,
+        18
+      ],
+      "rows": [
+        [
+          1,
+          "Plastered walls in house",
+          "Building construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          4,
+          "Cleans house; washes dishes",
+          "Housework",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          8,
+          "Vocational agriculture teacher",
+          "City school",
+          "EDU",
+          "G",
+          "Jesse I. Parker (initial provisional)"
+        ],
+        [
+          10,
+          "Proprietor",
+          "Drug store",
+          "RETAIL",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 23,
+      "sheet": 22,
+      "heads": [
+        3,
+        10,
+        12,
+        17,
+        25
+      ],
+      "nonperson_lines": [
+        1,
+        2
+      ],
+      "rows": [
+        [
+          3,
+          "Builds cabinets; carpentry work",
+          "Carpenter",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          5,
+          "Receptionist",
+          "Doctor's office",
+          "PRO",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Soda jerk; sales clerk",
+          "Drug store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Sells newspapers",
+          "Newspaper route",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          11,
+          "Cleans court cabins",
+          "Housework",
+          "LODG",
+          "P",
+          "Lodging classification follows explicit court cabins"
+        ],
+        [
+          12,
+          "Carpentry work",
+          "Carpenter",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Road laborer",
+          "Road construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Sales clerk",
+          "Grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 24,
+      "sheet": 23,
+      "heads": [
+        2,
+        4,
+        7,
+        10,
+        13,
+        15,
+        16,
+        19,
+        21,
+        22,
+        23,
+        27
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          2,
+          "Proprietor",
+          "Tourist court",
+          "LODG",
+          "O",
+          ""
+        ],
+        [
+          4,
+          "Proprietor",
+          "Tourist court and service station",
+          "LODG",
+          "O",
+          "Mixed lodging and motor business; crossed duplicate line 5 excluded"
+        ],
+        [
+          6,
+          "Sales clerk",
+          "Tourist court grocery store",
+          "RETAIL",
+          "NP",
+          ""
+        ],
+        [
+          7,
+          "Assistant",
+          "County extension agent",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          10,
+          "Janitor",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          13,
+          "Manager",
+          "Dry goods store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Sales clerk",
+          "Dry goods store",
+          "RETAIL",
+          "NP",
+          ""
+        ],
+        [
+          15,
+          "County assessor",
+          "County assessment office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          17,
+          "County school superintendent",
+          "County superintendent office",
+          "EDU",
+          "G",
+          "Corrected placement from husband's line 16"
+        ],
+        [
+          19,
+          "Co-proprietor",
+          "Furniture store",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          20,
+          "Keeps books",
+          "Bookkeeper",
+          "RETAIL",
+          "NP",
+          "Family furniture store inferred from adjacent proprietor spouse; industry otherwise generic"
+        ],
+        [
+          21,
+          "Proprietor",
+          "City newspaper",
+          "OTHER",
+          "P",
+          "P as written despite proprietor"
+        ],
+        [
+          22,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Carpenter",
+          "Construction Co.",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Cook",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          28,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Skewed page; job lines follow ruled lines to numbered right margin. Crossed-out occupations on 5 and 16 excluded."
+    },
+    {
+      "ed": "10-10",
+      "image": 25,
+      "sheet": 24,
+      "heads": [
+        3,
+        7
+      ],
+      "nonperson_lines": [
+        1,
+        2,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          7,
+          "Census enumerator",
+          "U.S. Bureau of Census",
+          "GOV",
+          "G",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 26,
+      "sheet": 71,
+      "heads": [
+        1,
+        4,
+        6,
+        11,
+        12,
+        15,
+        20,
+        23,
+        28,
+        29
+      ],
+      "nonperson_lines": [
+        19
+      ],
+      "rows": [
+        [
+          1,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          4,
+          "Proprietor",
+          "Garage and service station",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          6,
+          "County secretary",
+          "Production and Marketing Administration",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          12,
+          "Drives truck",
+          "Bivale Co. (name provisional), truck driving",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Secretary",
+          "County nurse office",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          23,
+          "Laborer",
+          "Road construction",
+          "BUILD",
+          "P",
+          "40 hours despite OT in activity field"
+        ],
+        [
+          29,
+          "Rancher",
+          "Ranch",
+          "AG",
+          "O",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 27,
+      "sheet": 72,
+      "heads": [
+        3,
+        7,
+        10,
+        14,
+        17,
+        21,
+        24,
+        26,
+        27
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          3,
+          "Proprietor",
+          "Cafe and lounge",
+          "FOOD",
+          "O",
+          ""
+        ],
+        [
+          7,
+          "Bartender",
+          "Cocktail lounge",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Manager",
+          "Lumber and hardware Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Stationary engineer",
+          "Public Service company",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Superintendent",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          21,
+          "Salesman",
+          "Grocery wholesale Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Drives truck",
+          "Grocery wholesale Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Sheriff",
+          "County sheriff",
+          "GOV",
+          "G",
+          "Occupation shifted from incorrect preceding row"
+        ],
+        [
+          28,
+          "Telephone operator",
+          "Telephone Co.",
+          "UTIL",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 28,
+      "sheet": 73,
+      "heads": [
+        4,
+        7,
+        11,
+        15,
+        19,
+        22,
+        25,
+        27
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          4,
+          "Soil conservationist",
+          "Soil Conservation",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          5,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          7,
+          "Junior high teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          8,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          11,
+          "High school coach",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          12,
+          "Elementary school teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          15,
+          "Proprietor",
+          "Butane-propane gas Co.",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          16,
+          "Keeps books",
+          "Bookkeeper",
+          "RETAIL",
+          "P",
+          "Family gas business inferred from adjacent spouse; industry otherwise generic"
+        ],
+        [
+          19,
+          "Elementary principal",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          20,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          22,
+          "High school teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          23,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          25,
+          "Sales agent",
+          "Medicine Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Co-proprietor",
+          "Furniture store",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          28,
+          "Proprietor",
+          "Beauty shop",
+          "PERS",
+          "O",
+          "Ina Abdalla; shop unnamed, not Willa Higgins"
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 29,
+      "sheet": 74,
+      "heads": [
+        1,
+        4,
+        5,
+        9,
+        10,
+        12,
+        15,
+        17,
+        19,
+        23,
+        27
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          2,
+          "Beauty operator",
+          "Beauty shop",
+          "PERS",
+          "P",
+          "Dolores Sena; shop unnamed"
+        ],
+        [
+          5,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Proprietor",
+          "Insurance agency",
+          "PRO",
+          "O",
+          ""
+        ],
+        [
+          12,
+          "Proprietor",
+          "Butane-propane gas company",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          13,
+          "Telephone operator",
+          "Telephone Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          15,
+          "Proprietor",
+          "Motor garage",
+          "AUTO",
+          "P",
+          "P as written"
+        ],
+        [
+          16,
+          "Keeps books",
+          "Bookkeeper",
+          "AUTO",
+          "NP",
+          "Family garage inferred from adjacent proprietor spouse"
+        ],
+        [
+          19,
+          "Proprietor",
+          "Gasoline distributing company",
+          "RETAIL",
+          "O",
+          ""
+        ],
+        [
+          23,
+          "Electric service",
+          "Electrical contractor",
+          "BUILD",
+          "O",
+          ""
+        ],
+        [
+          24,
+          "Sales clerk",
+          "Electric appliance shop",
+          "RETAIL",
+          "NP",
+          ""
+        ],
+        [
+          25,
+          "Electrical apprentice",
+          "Electrical contractor",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Manager",
+          "Motor company",
+          "AUTO",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 30,
+      "sheet": 75,
+      "heads": [
+        2,
+        7,
+        9,
+        10,
+        11,
+        14,
+        17,
+        20,
+        23,
+        25,
+        27
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          2,
+          "Telephone combination man",
+          "Telephone Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Drives truck",
+          "Laundry Co.",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          8,
+          "County director",
+          "State welfare department",
+          "GOV",
+          "G",
+          ""
+        ],
+        [
+          9,
+          "Farmer",
+          "Farm",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          14,
+          "Chief mechanical engineer",
+          "Electric Service Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          17,
+          "Superintendent",
+          "Road construction Co.",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          21,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Filling station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Laborer",
+          "Road construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          29,
+          "Service station attendant",
+          "Service station",
+          "AUTO",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": [
+        24
+      ]
+    },
+    {
+      "ed": "10-10",
+      "image": 31,
+      "sheet": 76,
+      "heads": [
+        3,
+        7,
+        11,
+        13,
+        14,
+        16,
+        19,
+        22,
+        27
+      ],
+      "nonperson_lines": [
+        1
+      ],
+      "household_overrides": {
+        "2": "23:27"
+      },
+      "rows": [
+        [
+          3,
+          "Rancher",
+          "Ranch",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          5,
+          "Cashier",
+          "General merchandise store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          7,
+          "Parts man",
+          "Motor garage",
+          "AUTO",
+          "P",
+          ""
+        ],
+        [
+          8,
+          "Telephone operator",
+          "Telephone Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          11,
+          "Preacher",
+          "Methodist church (denomination provisional)",
+          "PRO",
+          "P",
+          ""
+        ],
+        [
+          12,
+          "County nurse",
+          "County health office",
+          "PRO",
+          "G",
+          "Direct health work"
+        ],
+        [
+          13,
+          "Bartender",
+          "Liquor bar",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Soil and concrete inspector",
+          "State Highway Department",
+          "BUILD",
+          "G",
+          ""
+        ],
+        [
+          19,
+          "Drives truck",
+          "Grocery wholesale Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          22,
+          "Farm hand",
+          "Farm",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          23,
+          "Cleans tourist court",
+          "Tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          24,
+          "Cleans tourist court",
+          "Tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Janitor",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          28,
+          "Washes dishes",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 32,
+      "sheet": 77,
+      "heads": [
+        3,
+        8,
+        14,
+        20,
+        24,
+        30
+      ],
+      "nonperson_lines": [
+        28,
+        29
+      ],
+      "rows": [
+        [
+          3,
+          "Iron worker",
+          "Steel company",
+          "OTHER",
+          "P",
+          "Manufacturing versus installation not established"
+        ],
+        [
+          9,
+          "Proprietor",
+          "Laundry",
+          "PERS",
+          "O",
+          ""
+        ],
+        [
+          15,
+          "Sales clerk",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Delivery boy",
+          "Retail grocery store",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Proprietor",
+          "Tire agency",
+          "AUTO",
+          "O",
+          ""
+        ],
+        [
+          24,
+          "Proprietor",
+          "Tourist court and service station",
+          "LODG",
+          "O",
+          "Mixed lodging and motor business"
+        ],
+        [
+          26,
+          "Motel manager",
+          "Tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          27,
+          "Cares for house",
+          "Housework",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          30,
+          "Waitress",
+          "Cafe",
+          "FOOD",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 33,
+      "sheet": 78,
+      "heads": [
+        1,
+        7,
+        9,
+        10,
+        15,
+        18,
+        19,
+        20,
+        24
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Elementary school teacher",
+          "County school",
+          "EDU",
+          "G",
+          "Teacher inferred from school entry and coding; occupation omits word teacher"
+        ],
+        [
+          2,
+          "Elementary school teacher",
+          "County school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          8,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Rancher",
+          "Ranch",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          12,
+          "Rancher's helper",
+          "Ranch",
+          "AG",
+          "NP",
+          ""
+        ],
+        [
+          13,
+          "Rancher's helper",
+          "Ranch",
+          "AG",
+          "NP",
+          ""
+        ],
+        [
+          15,
+          "Fish culturist",
+          "Fish hatchery",
+          "GOV",
+          "G",
+          "Government hatchery distinct from farm/ranch"
+        ],
+        [
+          18,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          ""
+        ],
+        [
+          19,
+          "Bartender",
+          "Retail liquor",
+          "FOOD",
+          "P",
+          ""
+        ],
+        [
+          20,
+          "Co-proprietor",
+          "Tourist court and service station",
+          "LODG",
+          "O",
+          "Mixed lodging and motor business"
+        ],
+        [
+          24,
+          "Laborer",
+          "Building construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Washes clothes",
+          "Laundry",
+          "PERS",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 34,
+      "sheet": 79,
+      "heads": [
+        2,
+        10,
+        17,
+        18,
+        22,
+        24,
+        26
+      ],
+      "nonperson_lines": [],
+      "rows": [
+        [
+          1,
+          "Does housework",
+          "Housekeeping",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          2,
+          "Laborer",
+          "Building construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          16,
+          "Washing and ironing",
+          "Tourist court",
+          "LODG",
+          "P",
+          ""
+        ],
+        [
+          18,
+          "Ranch foreman",
+          "Ranch",
+          "AG",
+          "P",
+          ""
+        ],
+        [
+          19,
+          "Elementary teacher",
+          "City school",
+          "EDU",
+          "G",
+          "Ranch foreman and teacher married in same household"
+        ],
+        [
+          22,
+          "Warehouse man",
+          "Grocery wholesale Co.",
+          "RETAIL",
+          "P",
+          ""
+        ],
+        [
+          25,
+          "Telephone operator",
+          "Telephone Co.",
+          "UTIL",
+          "P",
+          ""
+        ],
+        [
+          26,
+          "Rancher",
+          "Ranch",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          30,
+          "Keeps house",
+          "Housemaid",
+          "PERS",
+          "P",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 35,
+      "sheet": 80,
+      "heads": [
+        1,
+        4
+      ],
+      "nonperson_lines": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          4,
+          "Rancher",
+          "Sheep ranch",
+          "AG",
+          "O",
+          ""
+        ],
+        [
+          5,
+          "Rancher's helper",
+          "Sheep ranch",
+          "AG",
+          "NP",
+          ""
+        ]
+      ],
+      "blank_occupation_work_rows": []
+    },
+    {
+      "ed": "10-10",
+      "image": 36,
+      "sheet": 81,
+      "heads": [
+        1,
+        6,
+        14,
+        15,
+        16,
+        18,
+        22
+      ],
+      "nonperson_lines": [
+        13,
+        21,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "rows": [
+        [
+          1,
+          "Construction helper",
+          "Construction Co.",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          3,
+          "Laborer",
+          "Road construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          4,
+          "Laborer",
+          "Road construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          6,
+          "Tractor operator",
+          "Road construction",
+          "BUILD",
+          "P",
+          ""
+        ],
+        [
+          9,
+          "Truck driver",
+          "Oil tanker",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          10,
+          "Barber",
+          "Barber shop",
+          "PERS",
+          "P",
+          ""
+        ],
+        [
+          11,
+          "Musician",
+          "Night club",
+          "FOOD",
+          "P",
+          "George M. Clayborn; possible duplicate of line 16, unresolved"
+        ],
+        [
+          12,
+          "Truck driver",
+          "Oil tanker",
+          "OTHER",
+          "P",
+          ""
+        ],
+        [
+          14,
+          "Night watchman (provisional)",
+          "Unresolved",
+          "OTHER",
+          "",
+          "Faint added entry"
+        ],
+        [
+          15,
+          "Truck driver",
+          "Gasoline trucking (provisional)",
+          "OTHER",
+          "",
+          "Faint added entry"
+        ],
+        [
+          16,
+          "Night club musician",
+          "Night club",
+          "FOOD",
+          "O",
+          "Faint; possibly duplicates line 11, unresolved"
+        ],
+        [
+          17,
+          "Desk clerk",
+          "Transportation service (provisional)",
+          "OTHER",
+          "P",
+          "Faint"
+        ],
+        [
+          18,
+          "Railroad telegrapher",
+          "Southern Pacific Railroad",
+          "RAIL",
+          "P",
+          "Faint added entry"
+        ]
+      ],
+      "blank_occupation_work_rows": [],
+      "review_notes": "Added ICR page. Lines 1-12 belong to dwelling 6, hotel on preceding sheets. Provisional family anchors must not be treated as official private households. Line 22 has name/age only."
+    }
+  ],
+  "review_status": {
+    "all_population_sheets_first_pass_read": true,
+    "independent_double_transcription": false,
+    "possible_duplicate_pairs": [
+      {
+        "locations": [
+          "10-8:22:16",
+          "10-8:74:1"
+        ],
+        "reason": "Natividad Garcia, dishwasher, Jacks Cafe; ages/status and dwelling references differ."
+      },
+      {
+        "locations": [
+          "10-10:81:11",
+          "10-10:81:16"
+        ],
+        "reason": "George M. Clayborn, nightclub musician; ages 50/30 and marital status differ."
+      }
+    ],
+    "faint_reading_pages": [
+      "10-8:76",
+      "10-9:78",
+      "10-10:81"
+    ],
+    "denominator": "Main occupation appearances; not published town population."
+  }
+}

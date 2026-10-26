@@ -1,0 +1,65 @@
+{
+  "method": "Five affirmative boxes read in the supplementary questions. This is a minimum observed count of self-reported veterans in 1950, not total enlistments, draftees, wartime absences, casualties, or a service rate. Non-sample residents generally lack these answers.",
+  "observations": [
+    {
+      "person_id": "1950-1-23",
+      "name_read": "Henry Yates",
+      "age": 34,
+      "source_id": "C50",
+      "sheet": "1",
+      "line": 23,
+      "question": "33a, service during World War II",
+      "answer_read": "Yes",
+      "candidate_1940_person": "1940-3A-12",
+      "linkage_status": "strong candidate; not externally verified"
+    },
+    {
+      "person_id": "1950-3-1",
+      "name_read": "Jose Quintana",
+      "age": 27,
+      "source_id": "C50",
+      "sheet": "3",
+      "line": 1,
+      "question": "33a, service during World War II",
+      "answer_read": "Yes",
+      "candidate_1940_person": "1940-1A-38",
+      "linkage_status": "strong candidate; not externally verified"
+    },
+    {
+      "person_id": "1950-5-14",
+      "name_read": "Bernice Kester",
+      "age": 40,
+      "source_id": "C50",
+      "sheet": "5",
+      "line": 14,
+      "question": "33a, service during World War II",
+      "answer_read": "Yes",
+      "candidate_1940_person": "1940-2A-30",
+      "linkage_status": "strong candidate; not externally verified"
+    },
+    {
+      "person_id": "1950-6-11",
+      "name_read": "Nicholas Aragon",
+      "age": 25,
+      "source_id": "C50",
+      "sheet": "6",
+      "line": 11,
+      "question": "33a, service during World War II",
+      "answer_read": "Yes",
+      "candidate_1940_person": null,
+      "linkage_status": "not linked in this pass"
+    },
+    {
+      "person_id": "1950-71-2",
+      "name_read": "Harold R. Boyle",
+      "age": 26,
+      "source_id": "C50",
+      "sheet": "71",
+      "line": 2,
+      "question": "33a, service during World War II",
+      "answer_read": "Yes",
+      "candidate_1940_person": null,
+      "linkage_status": "not linked in this pass"
+    }
+  ]
+}

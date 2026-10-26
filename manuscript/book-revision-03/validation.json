@@ -1,0 +1,201 @@
+{
+  "pages": 174,
+  "body_words": 31494,
+  "notes": 174,
+  "valid_source_links": 220,
+  "distinct_note_destinations": 174,
+  "contents_link_annotations": 16,
+  "chapter_bookmarks": 8,
+  "all_body_paragraphs_preserved_in_pdf": true,
+  "sentence_checks": [
+    {
+      "chapter": 1,
+      "paragraphs": 42,
+      "mean_sentence_words": 12.0,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 2,
+      "paragraphs": 80,
+      "mean_sentence_words": 12.8,
+      "longest_sentence_words": 33
+    },
+    {
+      "chapter": 3,
+      "paragraphs": 108,
+      "mean_sentence_words": 13.4,
+      "longest_sentence_words": 30
+    },
+    {
+      "chapter": 4,
+      "paragraphs": 99,
+      "mean_sentence_words": 12.4,
+      "longest_sentence_words": 26
+    },
+    {
+      "chapter": 5,
+      "paragraphs": 94,
+      "mean_sentence_words": 12.8,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 6,
+      "paragraphs": 103,
+      "mean_sentence_words": 13.5,
+      "longest_sentence_words": 28
+    },
+    {
+      "chapter": 7,
+      "paragraphs": 97,
+      "mean_sentence_words": 12.4,
+      "longest_sentence_words": 27
+    },
+    {
+      "chapter": 8,
+      "paragraphs": 46,
+      "mean_sentence_words": 13.2,
+      "longest_sentence_words": 25
+    }
+  ],
+  "short_pages_for_review": [],
+  "pdf_sha256": "899664555ee31795604dc290392439246c4ee705df13d3f719f64dd6738d84ca",
+  "text_checks": "passed",
+  "visual_review": "passed: all 174 pages inspected in 22 overview sheets; four new figure pages also inspected at 125 dpi; no clipping, overlap, caption spill or unplanned short text pages.",
+  "figure_numbering_verified": [
+    {
+      "page": 5,
+      "label": "Figure 1.1.",
+      "figure": "1:simultaneous-change"
+    },
+    {
+      "page": 7,
+      "label": "Figure 1.2.",
+      "figure": "1:regional-locator"
+    },
+    {
+      "page": 20,
+      "label": "Figure 2.1.",
+      "figure": "2:cuervo-map"
+    },
+    {
+      "page": 23,
+      "label": "Figure 2.2.",
+      "figure": "2:santa-rosa-map"
+    },
+    {
+      "page": 26,
+      "label": "Figure 2.3.",
+      "figure": "2:trade-notices"
+    },
+    {
+      "page": 41,
+      "label": "Figure 3.1.",
+      "figure": "3:merchant-finance"
+    },
+    {
+      "page": 46,
+      "label": "Figure 3.2.",
+      "figure": "3:trade-connections"
+    },
+    {
+      "page": 50,
+      "label": "Figure 3.3.",
+      "figure": "3:county-livestock"
+    },
+    {
+      "page": 55,
+      "label": "Figure 3.4.",
+      "figure": "3:prices-and-population"
+    },
+    {
+      "page": 68,
+      "label": "Figure 4.1.",
+      "figure": "4:school-staff-and-care"
+    },
+    {
+      "page": 70,
+      "label": "Figure 4.2.",
+      "figure": "4:school-parcel"
+    },
+    {
+      "page": 73,
+      "label": "Figure 4.3.",
+      "figure": "4:doctor-support"
+    },
+    {
+      "page": 77,
+      "label": "Figure 4.4.",
+      "figure": "4:newspaper-purpose"
+    },
+    {
+      "page": 91,
+      "label": "Figure 5.1.",
+      "figure": "5:population-and-age"
+    },
+    {
+      "page": 94,
+      "label": "Figure 5.2.",
+      "figure": "5:people-and-households"
+    },
+    {
+      "page": 100,
+      "label": "Figure 5.3.",
+      "figure": "5:work-under-one-roof"
+    },
+    {
+      "page": 105,
+      "label": "Figure 5.4.",
+      "figure": "5:regional-households"
+    },
+    {
+      "page": 115,
+      "label": "Figure 6.1.",
+      "figure": "6:journeys"
+    },
+    {
+      "page": 118,
+      "label": "Figure 6.2.",
+      "figure": "6:retail"
+    },
+    {
+      "page": 126,
+      "label": "Figure 6.3.",
+      "figure": "6:station-book"
+    },
+    {
+      "page": 132,
+      "label": "Figure 6.4.",
+      "figure": "6:chronology"
+    },
+    {
+      "page": 141,
+      "label": "Figure 7.1.",
+      "figure": "7:functional-chronology"
+    },
+    {
+      "page": 146,
+      "label": "Figure 7.2.",
+      "figure": "7:support"
+    },
+    {
+      "page": 152,
+      "label": "Figure 7.3.",
+      "figure": "7:feedback"
+    },
+    {
+      "page": 166,
+      "label": "Figure 8.1.",
+      "figure": "8:church"
+    },
+    {
+      "page": 169,
+      "label": "Figure 8.2.",
+      "figure": "8:road"
+    },
+    {
+      "page": 170,
+      "label": "Figure 8.3.",
+      "figure": "8:fabric"
+    }
+  ]
+}

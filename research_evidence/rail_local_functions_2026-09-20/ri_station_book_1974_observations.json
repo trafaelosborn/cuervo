@@ -1,0 +1,82 @@
+{
+  "source": "sources/01_railroad/local_functions_2026-09-20/ri_station_book.pdf",
+  "title": "Rock Island Station Book",
+  "issue_date": "1974-12-15",
+  "date_source_pdf_page": 1,
+  "method": "Manual transcription from complete rendered source pages, including headings and symbol definitions. No embedded text in source.",
+  "table_source": {
+    "pdf_page": 67,
+    "printed_page": "C 15"
+  },
+  "cross_checks": [
+    {
+      "pdf_page": 16,
+      "printed_page": "B 10",
+      "subject": "Cuervo row and no-agent legend"
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": "B 37",
+      "subject": "Santa Rosa row"
+    },
+    {
+      "pdf_page": 130,
+      "printed_page": "J 20",
+      "subject": "Cuervo main-line location at mile 1149.5 from Chicago"
+    }
+  ],
+  "stations": [
+    {
+      "name": "Tucumcari",
+      "state": "NM",
+      "no_agent_marker": false,
+      "car_accounting_blocking": "16137",
+      "splc": "773150",
+      "revenue_audit": "8310",
+      "billing": "8310"
+    },
+    {
+      "name": "Montoya",
+      "state": "NM",
+      "no_agent_marker": true,
+      "car_accounting_blocking": "16158",
+      "splc": "773168",
+      "revenue_audit": "8353",
+      "billing": "8310"
+    },
+    {
+      "name": "Newkirk",
+      "state": "NM",
+      "no_agent_marker": true,
+      "car_accounting_blocking": "16169",
+      "splc": "774113",
+      "revenue_audit": "8354",
+      "billing": "8310"
+    },
+    {
+      "name": "Cuervo",
+      "state": "NM",
+      "no_agent_marker": true,
+      "car_accounting_blocking": "16178",
+      "splc": "774115",
+      "revenue_audit": "8355",
+      "billing": "8310"
+    },
+    {
+      "name": "Santa Rosa",
+      "state": "NM",
+      "no_agent_marker": true,
+      "car_accounting_blocking": "16196",
+      "splc": "774120",
+      "revenue_audit": "8357",
+      "billing": "8310"
+    }
+  ],
+  "interpretation": "Cuervo has a distinct freight-accounting identity and uses the billing identifier of Tucumcari in this published 1974 reference.",
+  "limits": [
+    "Does not establish a completed cattle shipment.",
+    "Does not establish surviving pens or livestock acceptance.",
+    "Does not establish continuous freight service since 1958.",
+    "Unmarked agent field at Tucumcari is not a payroll record."
+  ]
+}

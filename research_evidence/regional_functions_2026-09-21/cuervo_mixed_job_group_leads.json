@@ -1,0 +1,144 @@
+{
+  "1950-2-1": [
+    {
+      "sheet": 2,
+      "line": 1,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg",
+      "name": "Juan G. Quintana"
+    },
+    {
+      "sheet": 2,
+      "line": 4,
+      "occupation_normalized": "Store clerk",
+      "sector": "Retail",
+      "status_reading": "worked",
+      "note": "First word overwritten; clerk clear; retail classification provisional.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg",
+      "name": "Claudio Quintana"
+    },
+    {
+      "sheet": 2,
+      "line": 5,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg",
+      "name": "Merenciano Quintana"
+    }
+  ],
+  "1950-4-17": [
+    {
+      "sheet": 4,
+      "line": 17,
+      "occupation_normalized": "Railroad agent",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg",
+      "name": "Carl A. Simpson"
+    },
+    {
+      "sheet": 4,
+      "line": 19,
+      "occupation_normalized": "Store clerk",
+      "sector": "Retail",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0005.jpg",
+      "name": "Jimmy Simpson"
+    }
+  ],
+  "1950-5-14": [
+    {
+      "sheet": 5,
+      "line": 14,
+      "occupation_normalized": "Service station",
+      "sector": "Fuel service",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg",
+      "name": "Bernice Kester"
+    },
+    {
+      "sheet": 5,
+      "line": 15,
+      "occupation_normalized": "Cafe manager",
+      "sector": "Food / drink",
+      "status_reading": "worked",
+      "note": "Keeping house in item 15, but Yes to work in item 16.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg",
+      "name": "Cordellia Kester"
+    }
+  ],
+  "1950-6-1": [
+    {
+      "sheet": 6,
+      "line": 1,
+      "occupation_normalized": "Railroad foreman",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0007.jpg",
+      "name": "James E. Bivens"
+    },
+    {
+      "sheet": 6,
+      "line": 3,
+      "occupation_normalized": "Cafe waitress",
+      "sector": "Food / drink",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0007.jpg",
+      "name": "Dorthy Bivens"
+    }
+  ],
+  "1950-7-4": [
+    {
+      "sheet": 7,
+      "line": 4,
+      "occupation_normalized": "Railroad telegraph role (abbreviated)",
+      "sector": "Railroad",
+      "status_reading": "worked",
+      "note": "Written Railroad Tele.; expansion inferred, not a verbatim title.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg",
+      "name": "Harry R. Lack"
+    },
+    {
+      "sheet": 7,
+      "line": 5,
+      "occupation_normalized": "Beautician; beauty shop",
+      "sector": "Personal service",
+      "status_reading": "has_job_not_worked",
+      "note": "Yes in item 18; occupation lies on printed row boundary.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg",
+      "name": "Esther L. Lack"
+    }
+  ],
+  "1950-8-19": [
+    {
+      "sheet": 8,
+      "line": 19,
+      "occupation_normalized": "Ranch work",
+      "sector": "Ranching",
+      "status_reading": "worked",
+      "note": "",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg",
+      "name": "J. F. Higgins"
+    },
+    {
+      "sheet": 8,
+      "line": 21,
+      "occupation_normalized": "Veterans instructor",
+      "sector": "Education / instruction",
+      "status_reading": "worked",
+      "note": "Government class; not automatically a schoolteacher.",
+      "source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg",
+      "name": "John R. Higgins"
+    }
+  ]
+}

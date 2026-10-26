@@ -1,0 +1,18 @@
+{
+  "pages": 150,
+  "body_words": 20873,
+  "valid_source_links": 213,
+  "distinct_note_destinations": 169,
+  "contents_links": 20,
+  "photo_concordance_links": 16,
+  "bookmarks": 10,
+  "all_body_text_transferred": true,
+  "all_notes_transferred": true,
+  "revision5_integrity": "original chapter and PDF hashes match",
+  "page_edge_checks": "passed",
+  "short_pages_for_review": [],
+  "rendered_pages": 150,
+  "pdf_sha256": "7da800053e9415f9f12838d26d0eb5fef8bdfd98c9ba40755442af6e2b65030b",
+  "visual_review": "passed: all 150 pages inspected in overview; new DOT plates and chronology, changed text and final contents checked individually; orphan bibliography tail removed",
+  "revision7_integrity": "original manuscript and PDF hashes match"
+}

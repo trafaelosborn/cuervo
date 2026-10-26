@@ -1,0 +1,211 @@
+{
+  "date": "2026-09-28",
+  "pages": 192,
+  "body_words": 41257,
+  "notes": 174,
+  "references": 220,
+  "visual_positions": 25,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Reading Cuervo",
+      "body_words": 2485,
+      "notes": 14,
+      "references": 17,
+      "visual_positions": 2,
+      "source": "manuscript/book-revision-01/chapters/chapter-01-reading-cuervo.md",
+      "sha256": "4866e901f77de23b3637046bbf4ef27a6fcbd0bc94346c4a3914e02a0e978aac",
+      "opening_page": 3,
+      "source_notes_page": 13
+    },
+    {
+      "chapter": 2,
+      "title": "Why a town here?",
+      "body_words": 5010,
+      "notes": 25,
+      "references": 35,
+      "visual_positions": 3,
+      "source": "manuscript/book-revision-01/chapters/chapter-02-why-a-town-here.md",
+      "sha256": "b5552120905251c8e9c422bc997e4e926cc0270034385a3947c792f66ad96900",
+      "opening_page": 15,
+      "source_notes_page": 34
+    },
+    {
+      "chapter": 3,
+      "title": "The business of ranch country",
+      "body_words": 6378,
+      "notes": 29,
+      "references": 44,
+      "visual_positions": 3,
+      "source": "manuscript/book-revision-01/chapters/chapter-03-the-business-of-ranch-country.md",
+      "sha256": "eeece9eb7ebbd23df9472a8b16c877ec380216ad0ffd1dac357459c9d1a0f01b",
+      "opening_page": 37,
+      "source_notes_page": 61
+    },
+    {
+      "chapter": 4,
+      "title": "Keeping a town working",
+      "body_words": 6176,
+      "notes": 21,
+      "references": 24,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-01/chapters/chapter-04-keeping-a-town-working.md",
+      "sha256": "5dd3aa4c69e6c1b6296000df46950297298c1be3c87138d7133d9b08b19494dd",
+      "opening_page": 65,
+      "source_notes_page": 89
+    },
+    {
+      "chapter": 5,
+      "title": "People across places",
+      "body_words": 5454,
+      "notes": 24,
+      "references": 32,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-01/chapters/chapter-05-people-across-places.md",
+      "sha256": "38e21b3debcb918e3c592cca5601d0491f4f078d0221b07b5b1b120ab0985ec1",
+      "opening_page": 92,
+      "source_notes_page": 115
+    },
+    {
+      "chapter": 6,
+      "title": "Changing the connections",
+      "body_words": 6257,
+      "notes": 26,
+      "references": 26,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-01/chapters/chapter-06-changing-the-connections.md",
+      "sha256": "4c64e63493eef4138e8639319b2fa53d2c1a26561d8535dd50894841b6bfc0e6",
+      "opening_page": 119,
+      "source_notes_page": 145
+    },
+    {
+      "chapter": 7,
+      "title": "Explaining the cumulative decline",
+      "body_words": 6438,
+      "notes": 22,
+      "references": 28,
+      "visual_positions": 2,
+      "source": "manuscript/book-revision-01/chapters/chapter-07-explaining-the-cumulative-decline.md",
+      "sha256": "fe12f75d030376f666ad2c20ce3c004391e500da92c7234bd6324928aaa759ce",
+      "opening_page": 149,
+      "source_notes_page": 173
+    },
+    {
+      "chapter": 8,
+      "title": "What remained",
+      "body_words": 3059,
+      "notes": 13,
+      "references": 14,
+      "visual_positions": 3,
+      "source": "manuscript/book-revision-01/chapters/chapter-08-what-remained.md",
+      "sha256": "095aca2b5deb83ee256e89ded71981a01874c953e122e04a81c3f03f37439ede",
+      "opening_page": 176,
+      "source_notes_page": 191
+    }
+  ],
+  "figure_pages": [
+    {
+      "page": 3,
+      "figure": "1:opening-photo"
+    },
+    {
+      "page": 5,
+      "figure": "1:simultaneous-change"
+    },
+    {
+      "page": 21,
+      "figure": "2:cuervo-map"
+    },
+    {
+      "page": 24,
+      "figure": "2:santa-rosa-map"
+    },
+    {
+      "page": 27,
+      "figure": "2:trade-notices"
+    },
+    {
+      "page": 43,
+      "figure": "3:merchant-finance"
+    },
+    {
+      "page": 52,
+      "figure": "3:county-livestock"
+    },
+    {
+      "page": 57,
+      "figure": "3:cattle-price-cycle"
+    },
+    {
+      "page": 71,
+      "figure": "4:school-staff-and-care"
+    },
+    {
+      "page": 73,
+      "figure": "4:school-parcel"
+    },
+    {
+      "page": 76,
+      "figure": "4:doctor-support"
+    },
+    {
+      "page": 81,
+      "figure": "4:newspaper-purpose"
+    },
+    {
+      "page": 96,
+      "figure": "5:population-and-age"
+    },
+    {
+      "page": 99,
+      "figure": "5:people-and-households"
+    },
+    {
+      "page": 106,
+      "figure": "5:work-under-one-roof"
+    },
+    {
+      "page": 112,
+      "figure": "5:regional-households"
+    },
+    {
+      "page": 122,
+      "figure": "6:journeys"
+    },
+    {
+      "page": 125,
+      "figure": "6:retail"
+    },
+    {
+      "page": 134,
+      "figure": "6:station-book"
+    },
+    {
+      "page": 142,
+      "figure": "6:chronology"
+    },
+    {
+      "page": 157,
+      "figure": "7:support"
+    },
+    {
+      "page": 164,
+      "figure": "7:feedback"
+    },
+    {
+      "page": 182,
+      "figure": "8:church"
+    },
+    {
+      "page": 186,
+      "figure": "8:road"
+    },
+    {
+      "page": 187,
+      "figure": "8:fabric"
+    }
+  ],
+  "pdf_sha256": "4d6f4d24e25779a39d2a315896da11dea14d21c68b1cb90cce8a90428fc890c2",
+  "visual_review": "passed: all 192 final rendered pages inspected in 24 contact sheets; pages 2, 11, 157 and 164 additionally reviewed at full-page size; all three Chapter 8 illustration pages also reviewed at full-page size in the standalone proof",
+  "visual_findings": "No clipping, overlap, missing glyphs, isolated headings or unintended blank pages observed. Short pages before figures and at chapter ends remain part of the provisional reading-proof sequence. Final print and photographic pacing pending."
+}

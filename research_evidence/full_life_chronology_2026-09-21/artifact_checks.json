@@ -1,0 +1,30 @@
+{
+  "pdf_pages": 17,
+  "chronology_observations": 57,
+  "register_entries": 14,
+  "source_entries": 33,
+  "raw_metadata_files": 1463,
+  "raw_metadata_with_retrieval_log": 1460,
+  "pdf_external_link_annotations": 23,
+  "link_errors": [],
+  "page_word_counts": [
+    134,
+    398,
+    442,
+    524,
+    435,
+    272,
+    487,
+    455,
+    468,
+    454,
+    401,
+    478,
+    196,
+    335,
+    461,
+    421,
+    400
+  ],
+  "visual_review": "Contact sheets and full-page renders require human inspection after this script."
+}

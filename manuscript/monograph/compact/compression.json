@@ -1,0 +1,1217 @@
+{
+  "source": "B:\\Meridian\\Cuervo\\output\\pdf\\cuervo-monograph-print-letter.pdf",
+  "output": "B:\\Meridian\\Cuervo\\output\\pdf\\cuervo-monograph-compact.pdf",
+  "source_sha256": "dcfe3bbcab511a1e22efc6ae37bc81dc8a764137cd7df8bdaa0d7099944e6240",
+  "output_sha256": "bc14e0b5fcc2040602568ea49eb9a2216d94b3d39172665442878965d7bd1091",
+  "source_bytes": 42086440,
+  "output_bytes": 9618641,
+  "size_limit_bytes": 9800000,
+  "maximum_photograph_edge": 1100,
+  "source_scans_full_pixel_dimensions": true,
+  "charts_and_masks_lossless": true,
+  "trials": [
+    {
+      "photo_quality": 80,
+      "scan_quality": 84,
+      "photo_edge": 1150,
+      "estimated_bytes": 10183779,
+      "category_bytes": {
+        "photograph": 3212345,
+        "chart": 3060898,
+        "mask": 33178,
+        "source scan": 3472757
+      }
+    },
+    {
+      "photo_quality": 78,
+      "scan_quality": 84,
+      "photo_edge": 1150,
+      "estimated_bytes": 10030813,
+      "category_bytes": {
+        "photograph": 3059379,
+        "chart": 3060898,
+        "mask": 33178,
+        "source scan": 3472757
+      }
+    },
+    {
+      "photo_quality": 76,
+      "scan_quality": 84,
+      "photo_edge": 1150,
+      "estimated_bytes": 9844107,
+      "category_bytes": {
+        "photograph": 2872673,
+        "chart": 3060898,
+        "mask": 33178,
+        "source scan": 3472757
+      }
+    },
+    {
+      "photo_quality": 76,
+      "scan_quality": 84,
+      "photo_edge": 1120,
+      "estimated_bytes": 9703242,
+      "category_bytes": {
+        "photograph": 2731808,
+        "chart": 3060898,
+        "mask": 33178,
+        "source scan": 3472757
+      }
+    },
+    {
+      "photo_quality": 76,
+      "scan_quality": 84,
+      "photo_edge": 1100,
+      "estimated_bytes": 9620204,
+      "category_bytes": {
+        "photograph": 2648770,
+        "chart": 3060898,
+        "mask": 33178,
+        "source scan": 3472757
+      }
+    }
+  ],
+  "images": [
+    {
+      "page": 3,
+      "kind": "photograph",
+      "original_pixels": [
+        1861,
+        1396
+      ],
+      "output_pixels": [
+        1100,
+        825
+      ],
+      "before_bytes": 969077,
+      "after_bytes": 108629,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 5,
+      "kind": "source scan",
+      "original_pixels": [
+        395,
+        611
+      ],
+      "output_pixels": [
+        395,
+        611
+      ],
+      "before_bytes": 313554,
+      "after_bytes": 53837,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 5,
+      "kind": "source scan",
+      "original_pixels": [
+        1442,
+        242
+      ],
+      "output_pixels": [
+        1442,
+        242
+      ],
+      "before_bytes": 326629,
+      "after_bytes": 55964,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 5,
+      "kind": "source scan",
+      "original_pixels": [
+        393,
+        160
+      ],
+      "output_pixels": [
+        393,
+        160
+      ],
+      "before_bytes": 72436,
+      "after_bytes": 12802,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 5,
+      "kind": "source scan",
+      "original_pixels": [
+        393,
+        119
+      ],
+      "output_pixels": [
+        393,
+        119
+      ],
+      "before_bytes": 56906,
+      "after_bytes": 10090,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 7,
+      "kind": "chart",
+      "original_pixels": [
+        1875,
+        1711
+      ],
+      "output_pixels": [
+        1875,
+        1711
+      ],
+      "before_bytes": 280749,
+      "after_bytes": 230357,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 7,
+      "kind": "mask",
+      "original_pixels": [
+        1875,
+        1711
+      ],
+      "output_pixels": [
+        1875,
+        1711
+      ],
+      "before_bytes": 813,
+      "after_bytes": 3132,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 10,
+      "kind": "photograph",
+      "original_pixels": [
+        1999,
+        1333
+      ],
+      "output_pixels": [
+        1100,
+        734
+      ],
+      "before_bytes": 1001214,
+      "after_bytes": 62078,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 14,
+      "kind": "photograph",
+      "original_pixels": [
+        1861,
+        1396
+      ],
+      "output_pixels": [
+        1100,
+        825
+      ],
+      "before_bytes": 1885724,
+      "after_bytes": 216816,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 18,
+      "kind": "source scan",
+      "original_pixels": [
+        660,
+        340
+      ],
+      "output_pixels": [
+        660,
+        340
+      ],
+      "before_bytes": 333442,
+      "after_bytes": 76898,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 18,
+      "kind": "source scan",
+      "original_pixels": [
+        708,
+        875
+      ],
+      "output_pixels": [
+        708,
+        875
+      ],
+      "before_bytes": 819763,
+      "after_bytes": 212071,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 21,
+      "kind": "source scan",
+      "original_pixels": [
+        896,
+        389
+      ],
+      "output_pixels": [
+        896,
+        389
+      ],
+      "before_bytes": 656351,
+      "after_bytes": 47088,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 21,
+      "kind": "source scan",
+      "original_pixels": [
+        896,
+        360
+      ],
+      "output_pixels": [
+        896,
+        360
+      ],
+      "before_bytes": 581287,
+      "after_bytes": 47890,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 21,
+      "kind": "source scan",
+      "original_pixels": [
+        810,
+        390
+      ],
+      "output_pixels": [
+        810,
+        390
+      ],
+      "before_bytes": 636422,
+      "after_bytes": 46766,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 21,
+      "kind": "source scan",
+      "original_pixels": [
+        604,
+        716
+      ],
+      "output_pixels": [
+        604,
+        716
+      ],
+      "before_bytes": 696255,
+      "after_bytes": 80696,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 23,
+      "kind": "source scan",
+      "original_pixels": [
+        386,
+        186
+      ],
+      "output_pixels": [
+        386,
+        186
+      ],
+      "before_bytes": 91165,
+      "after_bytes": 17753,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 23,
+      "kind": "source scan",
+      "original_pixels": [
+        1143,
+        831
+      ],
+      "output_pixels": [
+        1143,
+        831
+      ],
+      "before_bytes": 801955,
+      "after_bytes": 143106,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 23,
+      "kind": "source scan",
+      "original_pixels": [
+        386,
+        113
+      ],
+      "output_pixels": [
+        386,
+        113
+      ],
+      "before_bytes": 49046,
+      "after_bytes": 9569,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 25,
+      "kind": "photograph",
+      "original_pixels": [
+        950,
+        1425
+      ],
+      "output_pixels": [
+        733,
+        1100
+      ],
+      "before_bytes": 813641,
+      "after_bytes": 140715,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 25,
+      "kind": "photograph",
+      "original_pixels": [
+        950,
+        1425
+      ],
+      "output_pixels": [
+        733,
+        1100
+      ],
+      "before_bytes": 697868,
+      "after_bytes": 101999,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 31,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "output_pixels": [
+        1100,
+        733
+      ],
+      "before_bytes": 1622568,
+      "after_bytes": 169231,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 36,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1562
+      ],
+      "output_pixels": [
+        1708,
+        1562
+      ],
+      "before_bytes": 328449,
+      "after_bytes": 265397,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 36,
+      "kind": "mask",
+      "original_pixels": [
+        1708,
+        1562
+      ],
+      "output_pixels": [
+        1708,
+        1562
+      ],
+      "before_bytes": 682,
+      "after_bytes": 2608,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 40,
+      "kind": "chart",
+      "original_pixels": [
+        1875,
+        1805
+      ],
+      "output_pixels": [
+        1875,
+        1805
+      ],
+      "before_bytes": 507090,
+      "after_bytes": 410163,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 40,
+      "kind": "mask",
+      "original_pixels": [
+        1875,
+        1805
+      ],
+      "output_pixels": [
+        1875,
+        1805
+      ],
+      "before_bytes": 854,
+      "after_bytes": 3302,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 44,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1098
+      ],
+      "output_pixels": [
+        1708,
+        1098
+      ],
+      "before_bytes": 88549,
+      "after_bytes": 73458,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 44,
+      "kind": "mask",
+      "original_pixels": [
+        1708,
+        1098
+      ],
+      "output_pixels": [
+        1708,
+        1098
+      ],
+      "before_bytes": 489,
+      "after_bytes": 1839,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 48,
+      "kind": "chart",
+      "original_pixels": [
+        1833,
+        1833
+      ],
+      "output_pixels": [
+        1833,
+        1833
+      ],
+      "before_bytes": 396981,
+      "after_bytes": 321154,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 48,
+      "kind": "mask",
+      "original_pixels": [
+        1833,
+        1833
+      ],
+      "output_pixels": [
+        1833,
+        1833
+      ],
+      "before_bytes": 848,
+      "after_bytes": 3278,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 53,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "output_pixels": [
+        1100,
+        733
+      ],
+      "before_bytes": 1382011,
+      "after_bytes": 126055,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 57,
+      "kind": "source scan",
+      "original_pixels": [
+        403,
+        471
+      ],
+      "output_pixels": [
+        403,
+        471
+      ],
+      "before_bytes": 197192,
+      "after_bytes": 34732,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 57,
+      "kind": "source scan",
+      "original_pixels": [
+        382,
+        388
+      ],
+      "output_pixels": [
+        382,
+        388
+      ],
+      "before_bytes": 148210,
+      "after_bytes": 26577,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 59,
+      "kind": "source scan",
+      "original_pixels": [
+        1542,
+        680
+      ],
+      "output_pixels": [
+        1542,
+        680
+      ],
+      "before_bytes": 832979,
+      "after_bytes": 197194,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 59,
+      "kind": "source scan",
+      "original_pixels": [
+        1541,
+        1168
+      ],
+      "output_pixels": [
+        1541,
+        1168
+      ],
+      "before_bytes": 1132509,
+      "after_bytes": 322082,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 60,
+      "kind": "photograph",
+      "original_pixels": [
+        1999,
+        1333
+      ],
+      "output_pixels": [
+        1100,
+        734
+      ],
+      "before_bytes": 1351489,
+      "after_bytes": 140084,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 62,
+      "kind": "source scan",
+      "original_pixels": [
+        429,
+        1201
+      ],
+      "output_pixels": [
+        429,
+        1201
+      ],
+      "before_bytes": 575570,
+      "after_bytes": 102707,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 65,
+      "kind": "source scan",
+      "original_pixels": [
+        399,
+        1276
+      ],
+      "output_pixels": [
+        399,
+        1276
+      ],
+      "before_bytes": 626189,
+      "after_bytes": 112929,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 65,
+      "kind": "source scan",
+      "original_pixels": [
+        399,
+        825
+      ],
+      "output_pixels": [
+        399,
+        825
+      ],
+      "before_bytes": 396690,
+      "after_bytes": 71921,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 71,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "output_pixels": [
+        1100,
+        733
+      ],
+      "before_bytes": 1007299,
+      "after_bytes": 101343,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 74,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1559
+      ],
+      "output_pixels": [
+        1708,
+        1559
+      ],
+      "before_bytes": 223301,
+      "after_bytes": 183487,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 74,
+      "kind": "mask",
+      "original_pixels": [
+        1708,
+        1559
+      ],
+      "output_pixels": [
+        1708,
+        1559
+      ],
+      "before_bytes": 680,
+      "after_bytes": 2603,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 76,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1510
+      ],
+      "output_pixels": [
+        1708,
+        1510
+      ],
+      "before_bytes": 217916,
+      "after_bytes": 175739,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 76,
+      "kind": "mask",
+      "original_pixels": [
+        1708,
+        1510
+      ],
+      "output_pixels": [
+        1708,
+        1510
+      ],
+      "before_bytes": 659,
+      "after_bytes": 2522,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 80,
+      "kind": "source scan",
+      "original_pixels": [
+        852,
+        233
+      ],
+      "output_pixels": [
+        852,
+        233
+      ],
+      "before_bytes": 159764,
+      "after_bytes": 58092,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 80,
+      "kind": "source scan",
+      "original_pixels": [
+        769,
+        233
+      ],
+      "output_pixels": [
+        769,
+        233
+      ],
+      "before_bytes": 102819,
+      "after_bytes": 38228,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 80,
+      "kind": "source scan",
+      "original_pixels": [
+        481,
+        198
+      ],
+      "output_pixels": [
+        481,
+        198
+      ],
+      "before_bytes": 82620,
+      "after_bytes": 26597,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 80,
+      "kind": "source scan",
+      "original_pixels": [
+        450,
+        198
+      ],
+      "output_pixels": [
+        450,
+        198
+      ],
+      "before_bytes": 82989,
+      "after_bytes": 29602,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 84,
+      "kind": "photograph",
+      "original_pixels": [
+        1525,
+        1017
+      ],
+      "output_pixels": [
+        1100,
+        734
+      ],
+      "before_bytes": 550335,
+      "after_bytes": 58249,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 84,
+      "kind": "photograph",
+      "original_pixels": [
+        1525,
+        1144
+      ],
+      "output_pixels": [
+        1100,
+        825
+      ],
+      "before_bytes": 915016,
+      "after_bytes": 122239,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 87,
+      "kind": "chart",
+      "original_pixels": [
+        1833,
+        1195
+      ],
+      "output_pixels": [
+        1833,
+        1195
+      ],
+      "before_bytes": 199457,
+      "after_bytes": 160860,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 87,
+      "kind": "mask",
+      "original_pixels": [
+        1833,
+        1195
+      ],
+      "output_pixels": [
+        1833,
+        1195
+      ],
+      "before_bytes": 568,
+      "after_bytes": 2145,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 92,
+      "kind": "photograph",
+      "original_pixels": [
+        1861,
+        1396
+      ],
+      "output_pixels": [
+        1100,
+        825
+      ],
+      "before_bytes": 1838499,
+      "after_bytes": 200420,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 95,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1395
+      ],
+      "output_pixels": [
+        1708,
+        1395
+      ],
+      "before_bytes": 239452,
+      "after_bytes": 194801,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 95,
+      "kind": "mask",
+      "original_pixels": [
+        1708,
+        1395
+      ],
+      "output_pixels": [
+        1708,
+        1395
+      ],
+      "before_bytes": 613,
+      "after_bytes": 2332,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 97,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        1371
+      ],
+      "output_pixels": [
+        1708,
+        1371
+      ],
+      "before_bytes": 177511,
+      "after_bytes": 143402,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 97,
+      "kind": "mask",
+      "original_pixels": [
+        1708,
+        1371
+      ],
+      "output_pixels": [
+        1708,
+        1371
+      ],
+      "before_bytes": 603,
+      "after_bytes": 2292,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 102,
+      "kind": "photograph",
+      "original_pixels": [
+        2000,
+        1500
+      ],
+      "output_pixels": [
+        1100,
+        825
+      ],
+      "before_bytes": 1465257,
+      "after_bytes": 155842,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 105,
+      "kind": "source scan",
+      "original_pixels": [
+        945,
+        56
+      ],
+      "output_pixels": [
+        945,
+        56
+      ],
+      "before_bytes": 10057,
+      "after_bytes": 8044,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 105,
+      "kind": "source scan",
+      "original_pixels": [
+        1295,
+        148
+      ],
+      "output_pixels": [
+        1295,
+        148
+      ],
+      "before_bytes": 31574,
+      "after_bytes": 25257,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 105,
+      "kind": "source scan",
+      "original_pixels": [
+        1295,
+        170
+      ],
+      "output_pixels": [
+        1295,
+        170
+      ],
+      "before_bytes": 47330,
+      "after_bytes": 37862,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 108,
+      "kind": "source scan",
+      "original_pixels": [
+        1950,
+        1247
+      ],
+      "output_pixels": [
+        1950,
+        1247
+      ],
+      "before_bytes": 1402191,
+      "after_bytes": 591972,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 109,
+      "kind": "source scan",
+      "original_pixels": [
+        1950,
+        770
+      ],
+      "output_pixels": [
+        1950,
+        770
+      ],
+      "before_bytes": 588740,
+      "after_bytes": 279142,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 109,
+      "kind": "source scan",
+      "original_pixels": [
+        1950,
+        673
+      ],
+      "output_pixels": [
+        1950,
+        673
+      ],
+      "before_bytes": 844540,
+      "after_bytes": 374991,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 110,
+      "kind": "source scan",
+      "original_pixels": [
+        500,
+        948
+      ],
+      "output_pixels": [
+        500,
+        948
+      ],
+      "before_bytes": 79665,
+      "after_bytes": 40839,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 110,
+      "kind": "source scan",
+      "original_pixels": [
+        1950,
+        806
+      ],
+      "output_pixels": [
+        1950,
+        806
+      ],
+      "before_bytes": 477563,
+      "after_bytes": 209472,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 113,
+      "kind": "chart",
+      "original_pixels": [
+        1708,
+        2045
+      ],
+      "output_pixels": [
+        1708,
+        2045
+      ],
+      "before_bytes": 325676,
+      "after_bytes": 270862,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 113,
+      "kind": "mask",
+      "original_pixels": [
+        1708,
+        2045
+      ],
+      "output_pixels": [
+        1708,
+        2045
+      ],
+      "before_bytes": 881,
+      "after_bytes": 3407,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 117,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "output_pixels": [
+        1100,
+        733
+      ],
+      "before_bytes": 1403134,
+      "after_bytes": 154884,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 119,
+      "kind": "chart",
+      "original_pixels": [
+        1792,
+        2128
+      ],
+      "output_pixels": [
+        1792,
+        2128
+      ],
+      "before_bytes": 782289,
+      "after_bytes": 631218,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 119,
+      "kind": "mask",
+      "original_pixels": [
+        1792,
+        2128
+      ],
+      "output_pixels": [
+        1792,
+        2128
+      ],
+      "before_bytes": 958,
+      "after_bytes": 3718,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 126,
+      "kind": "photograph",
+      "original_pixels": [
+        1999,
+        1333
+      ],
+      "output_pixels": [
+        1100,
+        734
+      ],
+      "before_bytes": 1493225,
+      "after_bytes": 153098,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 131,
+      "kind": "photograph",
+      "original_pixels": [
+        1875,
+        1250
+      ],
+      "output_pixels": [
+        1100,
+        733
+      ],
+      "before_bytes": 1804933,
+      "after_bytes": 191875,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 135,
+      "kind": "source scan",
+      "original_pixels": [
+        675,
+        444
+      ],
+      "output_pixels": [
+        675,
+        444
+      ],
+      "before_bytes": 395186,
+      "after_bytes": 53784,
+      "method": "JPEG quality 84, maximum edge original, chroma subsampling 0"
+    },
+    {
+      "page": 135,
+      "kind": "source scan",
+      "original_pixels": [
+        283,
+        225
+      ],
+      "output_pixels": [
+        283,
+        225
+      ],
+      "before_bytes": 20256,
+      "after_bytes": 16203,
+      "method": "lossless stream cleanup"
+    },
+    {
+      "page": 137,
+      "kind": "photograph",
+      "original_pixels": [
+        1917,
+        1438
+      ],
+      "output_pixels": [
+        1100,
+        825
+      ],
+      "before_bytes": 2061780,
+      "after_bytes": 218413,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    },
+    {
+      "page": 138,
+      "kind": "photograph",
+      "original_pixels": [
+        1375,
+        1833
+      ],
+      "output_pixels": [
+        825,
+        1100
+      ],
+      "before_bytes": 1972857,
+      "after_bytes": 226800,
+      "method": "JPEG quality 76, maximum edge 1100, chroma subsampling 2"
+    }
+  ],
+  "visual_review": "passed"
+}

@@ -1,0 +1,488 @@
+{
+  "real_overlap": [
+    1920,
+    1950
+  ],
+  "nominal_overlap": [
+    1910,
+    1950
+  ],
+  "real_census_years": [
+    1920,
+    1930,
+    1940,
+    1950
+  ],
+  "nominal_census_years": [
+    1910,
+    1920,
+    1930,
+    1940,
+    1950
+  ],
+  "price_frequency": "annual",
+  "population_frequency": "observed census years only; no interpolation",
+  "deflator": "BLS annual CPI-U; real dollars refer to 1950 purchasing power",
+  "indexed_method": "Value divided by same series base-year value, multiplied by 100",
+  "caveats": [
+    "Statewide cattle prices, Cuervo precinct population; differing geographic scales.",
+    "Population reporting units are not assumed to have constant boundaries; 1910-1920 redistricting is documented.",
+    "Annual prices include months following census enumeration.",
+    "No annual population estimates or correlation/regression have been inferred.",
+    "The indexed plots compare proportional changes; the dual-axis plot compares levels in different units."
+  ],
+  "sources": [
+    {
+      "id": "USDA265",
+      "title": "Prices Received by Farmers for Beef Cattle, 1909-59",
+      "url": "https://esmis.nal.usda.gov/usda-esmis/files/x920fw86z/5t34sp07q/df65vc27m/prflvstckdypltry_Prices_Received_by_Farmers_for_Beef_Cattle__1909-59.pdf",
+      "path": "sources/08_context/usda_beef_cattle_prices_1909_1959_bulletin_265.pdf",
+      "locator": "Table 43, printed/PDF page 46; method page 3",
+      "used_years": "1913-1958; 1959 overlap checked",
+      "visual_check": true,
+      "bytes": 6494718,
+      "sha256": "797af802df93ea2b5b1cb2bebfb9dcdc798b1a73d8acc0a95f46fcfb76750ce5"
+    },
+    {
+      "id": "BLSCPI",
+      "title": "Historical CPI-U, U.S. city average, all items: index averages",
+      "url": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202312.pdf",
+      "locator": "December 2023 release, PDF pages 3-4, Annual avg. column",
+      "used_years": "1913-1978",
+      "retrieval": "BLS web text retrieved September 19, 2026; PDF download HTTP 403; original not held locally",
+      "visual_check": false
+    },
+    {
+      "path": "research_evidence\\census_full_history_2026-09-18\\published_population_series.json",
+      "locators": "research_evidence/population_series_verified.md"
+    },
+    {
+      "additional_nominal_years": {
+        "1910": 5.7,
+        "1911": 4.25,
+        "1912": 5.6
+      },
+      "locator": "USDA bulletin 265, table 43, printed/PDF p.46"
+    }
+  ],
+  "observations": [
+    {
+      "year": 1910,
+      "nominal_usd_per_cwt": 5.7,
+      "real_1950_usd_per_cwt": null,
+      "cuervo_precinct_population": 545,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 100.0,
+      "population_index_1910_100": 100.0
+    },
+    {
+      "year": 1911,
+      "nominal_usd_per_cwt": 4.25,
+      "real_1950_usd_per_cwt": null,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 74.56140350877193,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1912,
+      "nominal_usd_per_cwt": 5.6,
+      "real_1950_usd_per_cwt": null,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 98.24561403508771,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1913,
+      "nominal_usd_per_cwt": 6.0,
+      "real_1950_usd_per_cwt": 14.606060606060607,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 105.26315789473684,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1914,
+      "nominal_usd_per_cwt": 6.2,
+      "real_1950_usd_per_cwt": 14.942000000000002,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 108.7719298245614,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1915,
+      "nominal_usd_per_cwt": 6.5,
+      "real_1950_usd_per_cwt": 15.50990099009901,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 114.03508771929825,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1916,
+      "nominal_usd_per_cwt": 6.5,
+      "real_1950_usd_per_cwt": 14.371559633027523,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 114.03508771929825,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1917,
+      "nominal_usd_per_cwt": 8.4,
+      "real_1950_usd_per_cwt": 15.815625,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 147.36842105263156,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1918,
+      "nominal_usd_per_cwt": 9.8,
+      "real_1950_usd_per_cwt": 15.64105960264901,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 171.92982456140354,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1919,
+      "nominal_usd_per_cwt": 9.3,
+      "real_1950_usd_per_cwt": 12.95549132947977,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": null,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 163.1578947368421,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1920,
+      "nominal_usd_per_cwt": 8.2,
+      "real_1950_usd_per_cwt": 9.881,
+      "cuervo_precinct_population": 438,
+      "real_price_index_1920_100": 100.0,
+      "population_index_1920_100": 100.0,
+      "nominal_price_index_1910_100": 143.85964912280699,
+      "population_index_1910_100": 80.36697247706422
+    },
+    {
+      "year": 1921,
+      "nominal_usd_per_cwt": 4.95,
+      "real_1950_usd_per_cwt": 6.664525139664806,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 67.44788118272245,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 86.84210526315789,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1922,
+      "nominal_usd_per_cwt": 4.85,
+      "real_1950_usd_per_cwt": 6.9574404761904765,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 70.4123112659698,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 85.0877192982456,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1923,
+      "nominal_usd_per_cwt": 4.65,
+      "real_1950_usd_per_cwt": 6.553508771929825,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 66.32434745400086,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 81.57894736842105,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1924,
+      "nominal_usd_per_cwt": 4.55,
+      "real_1950_usd_per_cwt": 6.412573099415204,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 64.89801740122662,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 79.82456140350877,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1925,
+      "nominal_usd_per_cwt": 4.75,
+      "real_1950_usd_per_cwt": 6.541428571428572,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 66.2020905923345,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 83.33333333333333,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1926,
+      "nominal_usd_per_cwt": 5.6,
+      "real_1950_usd_per_cwt": 7.624858757062148,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 77.16687336364889,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 98.24561403508771,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1927,
+      "nominal_usd_per_cwt": 6.9,
+      "real_1950_usd_per_cwt": 9.55689655172414,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 96.71993271656856,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 121.05263157894737,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1928,
+      "nominal_usd_per_cwt": 9.0,
+      "real_1950_usd_per_cwt": 12.68421052631579,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 128.36970474967907,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 157.89473684210526,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1929,
+      "nominal_usd_per_cwt": 8.6,
+      "real_1950_usd_per_cwt": 12.120467836257308,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 122.6643845385822,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 150.87719298245614,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1930,
+      "nominal_usd_per_cwt": 6.3,
+      "real_1950_usd_per_cwt": 9.091616766467068,
+      "cuervo_precinct_population": 287,
+      "real_price_index_1920_100": 92.01109975171609,
+      "population_index_1920_100": 65.52511415525115,
+      "nominal_price_index_1910_100": 110.52631578947368,
+      "population_index_1910_100": 52.6605504587156
+    },
+    {
+      "year": 1931,
+      "nominal_usd_per_cwt": 4.8,
+      "real_1950_usd_per_cwt": 7.610526315789475,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 77.02182284980746,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 84.21052631578947,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1932,
+      "nominal_usd_per_cwt": 3.8,
+      "real_1950_usd_per_cwt": 6.684671532846716,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 67.65177140822503,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 66.66666666666667,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1933,
+      "nominal_usd_per_cwt": 3.2,
+      "real_1950_usd_per_cwt": 5.932307692307693,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 60.0375234521576,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 56.14035087719298,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1934,
+      "nominal_usd_per_cwt": 3.2,
+      "real_1950_usd_per_cwt": 5.755223880597015,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 58.245358572988714,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 56.14035087719298,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1935,
+      "nominal_usd_per_cwt": 6.0,
+      "real_1950_usd_per_cwt": 10.554744525547447,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 106.81858643403953,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 105.26315789473684,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1936,
+      "nominal_usd_per_cwt": 5.6,
+      "real_1950_usd_per_cwt": 9.709352517985613,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 98.26285313212846,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 98.24561403508771,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1937,
+      "nominal_usd_per_cwt": 6.1,
+      "real_1950_usd_per_cwt": 10.209027777777777,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 103.31978319783197,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 107.01754385964912,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1938,
+      "nominal_usd_per_cwt": 5.2,
+      "real_1950_usd_per_cwt": 8.887943262411348,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 89.94983566856945,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 91.22807017543859,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1939,
+      "nominal_usd_per_cwt": 6.2,
+      "real_1950_usd_per_cwt": 10.749640287769784,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 108.79101596771363,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 108.7719298245614,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1940,
+      "nominal_usd_per_cwt": 7.3,
+      "real_1950_usd_per_cwt": 12.566428571428572,
+      "cuervo_precinct_population": 188,
+      "real_price_index_1920_100": 127.17770034843205,
+      "population_index_1920_100": 42.922374429223744,
+      "nominal_price_index_1910_100": 128.0701754385965,
+      "population_index_1910_100": 34.4954128440367
+    },
+    {
+      "year": 1941,
+      "nominal_usd_per_cwt": 8.3,
+      "real_1950_usd_per_cwt": 13.607482993197282,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 137.71362203417956,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 145.61403508771932,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1942,
+      "nominal_usd_per_cwt": 10.3,
+      "real_1950_usd_per_cwt": 15.228834355828221,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 154.12240011970673,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 180.7017543859649,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1943,
+      "nominal_usd_per_cwt": 10.7,
+      "real_1950_usd_per_cwt": 14.905780346820809,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 150.85295361624136,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 187.71929824561403,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1944,
+      "nominal_usd_per_cwt": 9.7,
+      "real_1950_usd_per_cwt": 13.282386363636363,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 134.42350332594233,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 170.1754385964912,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1945,
+      "nominal_usd_per_cwt": 10.8,
+      "real_1950_usd_per_cwt": 14.46,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 146.34146341463415,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 189.4736842105263,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1946,
+      "nominal_usd_per_cwt": 12.7,
+      "real_1950_usd_per_cwt": 15.695897435897436,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 158.8492808005003,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 222.80701754385964,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1947,
+      "nominal_usd_per_cwt": 16.5,
+      "real_1950_usd_per_cwt": 17.831838565022423,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 180.46593021984032,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 289.4736842105263,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1948,
+      "nominal_usd_per_cwt": 21.4,
+      "real_1950_usd_per_cwt": 21.4,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 216.5772695071349,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 375.43859649122805,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1949,
+      "nominal_usd_per_cwt": 19.2,
+      "real_1950_usd_per_cwt": 19.44201680672269,
+      "cuervo_precinct_population": null,
+      "real_price_index_1920_100": 196.76163148186106,
+      "population_index_1920_100": null,
+      "nominal_price_index_1910_100": 336.84210526315786,
+      "population_index_1910_100": null
+    },
+    {
+      "year": 1950,
+      "nominal_usd_per_cwt": 23.1,
+      "real_1950_usd_per_cwt": 23.1,
+      "cuervo_precinct_population": 210,
+      "real_price_index_1920_100": 233.78200586985122,
+      "population_index_1920_100": 47.945205479452056,
+      "nominal_price_index_1910_100": 405.2631578947368,
+      "population_index_1910_100": 38.53211009174312
+    }
+  ],
+  "outputs": [
+    "cuervo_cattle_population_nominal_index_1910_1950.png",
+    "cuervo_cattle_population_nominal_index_1910_1950.svg",
+    "cuervo_cattle_population_real_index_1920_1950.png",
+    "cuervo_cattle_population_real_index_1920_1950.svg",
+    "cuervo_cattle_population_real_units_1920_1950.png",
+    "cuervo_cattle_population_real_units_1920_1950.svg"
+  ]
+}

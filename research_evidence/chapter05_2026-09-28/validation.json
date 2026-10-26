@@ -1,0 +1,24 @@
+{
+  "chapter": 5,
+  "pages": 27,
+  "body_words": 5555,
+  "note_definitions": 24,
+  "valid_internal_links": 32,
+  "distinct_internal_destinations": 24,
+  "mean_sentence_words": 12.8,
+  "longest_sentence_words": 28,
+  "longest_sentences": [
+    "The household series is consistent with expansion connected to a larger metropolitan labor and housing market, but it does not establish commuting as the cause of that expansion.",
+    "For this book, the useful finding is narrower: households associated with ranching formed a substantial part of the population, while family growth and reorganization extended beyond them.",
+    "These observations rule out a simple account in which earlier decline had already left Cuervo with almost nobody young enough to work or form a family.",
+    "The stronger account keeps the documented roles: Cuervo resident during a reported interval, Santa Rosa business owner during an unspecified one, and later Fort Sumner resident.",
+    "Their value is to establish possibilities that a single-arrow story would suppress: schooling in one place, work across several, and a home established later in another.",
+    "The difference between 545 in 1910 and 438 in 1920 therefore cannot be assigned wholly to births, deaths and migration within an unchanged Cuervo area.",
+    "Even with that limitation, the broad finding is secure enough to guide the narrative: contraction and aging did not move together throughout the early history.",
+    "Allowing for the unread entries, the median was between twenty and twenty-one in 1910, twenty-one in 1920, and between eighteen and nineteen in 1930."
+  ],
+  "pdf_sha256": "61bf79b3cb32440da56eb67e700f44033cfd971aa61f3c5b81d7eb774fe9ed05",
+  "text_checks": "passed",
+  "visual_review": "passed: all 27 final pages in rendered contact sheets; figures on pages 5, 8, 15 and 21 inspected at full rendered-page size",
+  "checked": "2026-09-28"
+}

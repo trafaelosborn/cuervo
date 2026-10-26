@@ -1,0 +1,123 @@
+{
+  "source": "Part I chapter 7, PDF 17-18 / printed 642-643, Table 14 rows 26-28. Only categories with a county establishment are listed. All-food subtotal: 17/3/14 stores, $102,000/$42,000/$60,000 sales.",
+  "null": "Suppressed (x), not zero. Printed money rounded independently; subtotals need not add exactly.",
+  "columns": [
+    "category",
+    "county_stores",
+    "santa_rosa_stores",
+    "rest_stores",
+    "county_sales",
+    "santa_rosa_sales",
+    "rest_sales"
+  ],
+  "rows": [
+    [
+      "Grocery stores, without meat",
+      14,
+      2,
+      12,
+      27000,
+      null,
+      null
+    ],
+    [
+      "Combination grocery and meat",
+      3,
+      1,
+      2,
+      74000,
+      null,
+      null
+    ],
+    [
+      "General stores",
+      19,
+      6,
+      13,
+      769000,
+      316000,
+      453000
+    ],
+    [
+      "Motor-vehicle sales",
+      4,
+      2,
+      2,
+      248000,
+      null,
+      null
+    ],
+    [
+      "Filling stations",
+      11,
+      5,
+      6,
+      38000,
+      33000,
+      5000
+    ],
+    [
+      "Garages and repair shops",
+      4,
+      2,
+      2,
+      53000,
+      null,
+      null
+    ],
+    [
+      "Restaurants and lunch rooms",
+      4,
+      2,
+      2,
+      85000,
+      null,
+      null
+    ],
+    [
+      "Other eating places",
+      1,
+      0,
+      1,
+      null,
+      0,
+      null
+    ],
+    [
+      "Lumber yards and building materials",
+      2,
+      1,
+      1,
+      null,
+      null,
+      null
+    ],
+    [
+      "Electrical shops, without radios",
+      1,
+      1,
+      0,
+      null,
+      null,
+      0
+    ],
+    [
+      "Drug stores",
+      3,
+      1,
+      2,
+      38000,
+      null,
+      null
+    ],
+    [
+      "All other stores",
+      1,
+      0,
+      1,
+      12000,
+      0,
+      12000
+    ]
+  ]
+}

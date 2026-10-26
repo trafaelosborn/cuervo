@@ -1,0 +1,612 @@
+TABLES 16 TO  18 * PAGE  13
+TIMES SHOWN  BELOW  ARE  STANDARD TIME
+SUNSET  ROUTE golden  state route
+EL PASO, SAN ANTONIO,  HOUSTON,  NEW  ORLEANS EL PASO, KANSAS CITY, ST. LOUIS, CHICAGO
+EASTBOUND
+Table 1 7 Table 1 8Elev.Elev. Mis. Mis.
+4 00 2 50 9  15 7 406 35
+S
+5 00
+Zq
+3
+4 35 12 40i 7 22
+8  00
+11 19
+11 2 13
+12 34
+ML? 426 6 15 3 21
+1 3 12
+3 53
+Wabash 11 59
+5  09 12
+CRI4P 9  101
+5  53
+6 12 t
+Lv Kansas City. Mo.7 00 6 45 CRI&P 12
+3 00
+t-Does not stop. 1-Flag stop to entrain or detrain revenue passengers
+10 06
+10 31
+8  20
+8  35
+10 00
+10 30
+10  
+12
+12 45
+12 50
+6 55
+17 05
+17 18
+6 00
+6 28
+2 33
+12 53
+111 14
+11 43
+18  47
+8  54
+6 15
+8  10
+5 00
+7 54
+5 15
+7 00
+1 4S  
+3 17
+9  00
+9  05
+4 11
+4 37
+779
+796
+722
+844
+0  
+279
+0  
+266 
+310  
+384
+10 25
+2 10
+12 45
+4  05
+5  44
+7 15
+11 30
+7 28
+12 15
+12 25
+1 45  
+8  05
+3984
+3130
+2847
+1541
+1506
+1340
+905
+779
+4075
+3984
+779
+457
+Lv Kansas City. Mo... 
+Ar Des Moines, la.... 
+" St. Paul, Minn.... 
+Ar Minneapolis, Minn.
+0
+223
+482
+493
+498  
+537  
+721 
+749  
+795  
+877  
+946
+332
+426
+0  
+113 
+361 
+387  
+741 
+874
+9  22
+10  44  
+12 01
+8  14
+8  48
+9  45
+10  10  
+110 33
+11 20
+11 30
+112 04
+12 45
+1 08
+1 35
+2 00
+2 33
+3 03
+3 16
+3 35
+4  10
+661 
+712 
+712 
+713 
+643 
+550  
+605  
+407  
+456  
+367 
+452 
+345  
+410  
+202 
+189  
+174 
+156 
+126
+117 
+107  
+90 
+82 
+47 
+47 
+51 
+85  
+34  
+60 
+45  
+22 
+10  
+16 
+19  
+16 
+24
+23 
+29 
+29 
+16 
+18  
+23 
+35  
+39  
+39  
+38 
+34 
+21 
+19  
+13 
+10  
+12
+9  
+15 
+14 
+13 
+11 
+17 
+25
+8  
+9  
+8  
+10
+3720 
+3889  
+3990 
+4170  
+4323 
+4441  
+4562 
+5439  
+5439  
+6115 
+6666 
+6268 
+5942  
+5285  
+4600  
+4834
+4553  
+4319  ' 
+4075  i
+4075
+3665
+1361
+1194
+267
+262
+779
+457
+8  15
+1 15
+8  15
+9  00
+6 30
+9  15
+3 45
+4  50
+3 00
+6 50
+Golden 
+State 
+No.  4  
+Daily
+3 22
+13 24
+13 34
+3 5
+14  88
+433
+Lv Kansas City, Mo 
+Ar St. Louis, Mo...
+Sunset 
+Limited 
+No.  2 
+Daily
+Lv Tucumcari. N.M.  (CT).. CRILP
+Ar Dalhart, Tex...................... “
+7 38 
+17 43 
+17 55
+8  45
+9  45  
+bb 
+bb 
+bb 
+bb 
+bb
+11 33
+11 59  
+bb 
+bb
+12 56 
+bb 
+bb 
+bb
+1 37 
+bb 
+bb
+1 59  
+bb
+2 35
+2 45  
+bb 
+bb
+3 22 
+bb i 
+bb
+bb <  
+bb 
+bb 
+bb 
+bb 
+bb 
+bb I 
+5 06 
+bb 
+5 24 
+bb 
+bb 
+t 6 07t
+f-Stops to entrain pay passengers for Dalhart-Amarillo or be­
+yond; also detrain from El  Paso or beyond.
+m-Stops to detrain revenue.passengers from west of Tucumcari; 
+also entrain for Kansas City or beyond.
+Lv Dalhart, Tex. (CT) 
+“ Guymon, Okla....
+" Liberal. Kan  
+“ Hutchinson, Kan.. 
+“ McPherson. Kan.. 
+" Herington, Kan... 
+" Topeka, Kan  
+Ar Kansas City, Mo...
+Lv El Paso, Tex. (MT)A... .8ou.Pac. 
+“ Fort Bliss. Tex  “ 
+“ Newman,  N.  M  " 
+" Orogrande ....................... “
+“ Alamogordo  " 
+" Tularosa ..................... "
+" Three Rivers  "
+ 
+Ar Carrizozo (To Ft. Stanton). " 
+Lv Carrizozo  " 
+“ Ancho...................................... “
+“ Corona..................................... “
+“ Duran...................................... “
+" Vaughn  "
+“ Pastura  "
+ 
+“ Santa Rosa  "
+“ Cuervo.......................... “
+“ Newkirk........................ “
+“ Montoya....................... “
+Ar Tucumcari. N.M.  (MT)(«7) “
+EASY TRAIN-TO-TRAIN  
+BAGGAGE  TRANSFER  IN 
+NEW  ORLEANS  & HOUSTON
+Lv Tucumcari, N.M.  (CT). CRI&P
+Ar Amarillo, Tex  " 
+“ El Reno, Okla.................. “
+" Oklahoma City, Okla.... "
+" Little Rock, Ark  "
+Ar Memphis, Tenn  "
+g 
+zco
+3984
+4656 
+5984  
+5183
+1 06 
+f 1 15.
+1 45.
+2 00.
+Pasa- 
+enger 
+No.  44  
+Daily
+. 2300  
+.2307 
+. 2322 
+. 2322 
+. 2329 
+.2334 
+.2341 
+.2353 
+.2362 
+.2366 
+.2371
+2380.
+2386.
+2387. 
+2394. 
+2401. 
+2412. 
+2415. 
+2427. 
+2435.
+2443..........
+2456 1 3 31
+Lv Kansas City, Mo Mo, Pae.
+Ar St. Louis, Mo. .............. "
+0
+6
+20 .................
+49,o1l) 17........
+710 58  - 8  0087 
+100  
+117 
+144  
+144  
+168 
+195  
+215 . 
+230
+251_____
+272 g 3 10  
+290  
+299  
+311 
+332
+0
+278 7 35
+946 8  00  
+1275 7 :: 
+14501  6 50  
+14561 7 051
+e*Nb-  4-Stops on flag at all stations between Vinton and New  
+Orleans to entrain revenue passengers to New  Orleans or 
+beyond, and detrain from Houston.
+Ask the Red Cap Porter 
+who meets your train!
+Lv Dalhart, Tex. (CT) FWLD  
+Ar Pueblo, Colo. (MT) CAS  
+“ Colorado Springs, Colo.... " 
+Ar Denver, Colo. (MT)  "
+Lv SanAntonio,Tex.(S.P.)A 
+" Converse..........
+" Randolph Field. 
+" Schertz..............
+“ Marion..............
+" Seguin...............
+" Kingsbury........
+" Luling................
+“ Harwood (54).. 
+' Waelder .......
+" Flatonia........
+" Schulenburg.. 
+“ Weimar.........
+" Columbus.... 
+" Alley  ton........
+“ Eagle Lake.. 
+“ Lissie.............
+" East Bernard, 
+" Tavener........
+“ Rosenberg... 
+" Richmond... 
+" Sugar Land..
+AU  PM  time in Dark faced flgures. AAir Mail dispatched.
+C.T.-Central Standard Time. M.T.-Mountaln Stan. Time.
+•-No. 6-8 tops on flag at stations between El  Paso and Houston 
+to entrain or detrain revenue passengers to or from any station.
+kfc-No. 6-Stops on flag between Houston and New  Orleans to 
+detrain revenue passengers from beyond Houston, including 
+connecting Lines and 8. P. train 14 at Houston.
+Lv Houston (38, 49). 
+" Crosby..................
+" Dayton.................
+“ Liberty..................
+" Devers..................
+" Nome ....................
+" Beaumont (56)... 
+" Orange, Texas.... 
+" Vinton, Louisiana. 
+“ Sulphur.................
+" Lake Charles.... 
+“ Iowa......................
+" Welsh....................
+" Roanoke...............
+" Jennings................
+“ Mermentau..........
+" Midland................
+" Crowley................
+" Rayne...................
+Ar Lafayette..............
+Lv Lafayette..............
+" Broussard.............
+" Cade.,....-.........
+" New  Iberia...........
+" Jeanerette............
+" Baldwin................
+“ Franklin................
+" Bayou Sale...........
+" Patterson..............
+" Berwick................
+" Morgan City........
+" Boeuf....................
+" Gibson..................
+" Schriever..............
+" Lafourche.............
+" Raceland Junction 
+“ Des Allemands... 
+“ Boutte............................
+" West Bridge Junction. . 
+" Mississippi River Bridge 
+" East Bridge Junction.., 
+Ar New  Orleans, La.(C.T.)
+(UoiM Passenger Terminal) A 779  Lv Kansas City, Mo.
+570  Ar Rock Island, IU ..
+609  Ar Englewood. III....
+606l Ar Chicago, III. (CT) 
+p-Stops on flag to detrain revenue passengers from Douglas 
+and West, also entrain for Tucumcari and East.
+o-Stops on flag to entrain revenue passengers for Kansas City 
+or beyond; also detrain from Colton or beyond.
+nnStops to entrain revenue Pullman passengers for Englewood 
+and Chicago; also to detrain Pullman passengers from El  Paso 
+and west; revenue coach passengers from California points.
+x-No.  2-Stops on flag at Uvalde  to entrain revenue passengers to 
+or beyond Houston and points East where sched iled to stop 
+and detrain revenue passengers from or beyond El Paso. Also 
+stops on flag at Rosenberg to detrain from or beyond El  Paso.
+10 40  .. „w
+4 45  4 10
+6 10
+8  05
+EASTBOUND  
+Im- 
+perial 
+No.  40  
+“• Daily
+.1894  
+1907  
+1909  
+1911 
+1919  
+1930  
+1939  
+1950  
+1960  
+1972
+1984  
+1997  
+2095  
+2019  
+2022 
+2035  
+2042 
+2052 
+2057  
+2068 
+2071
+-........-...........2080
+Ar Houston (Gd. Cen. Sta.) A  2105 
+......................  .A  2105 
+... 2126 
+... 2140 
+...2146 
+.. 2159
+... 2169 
+.A  2189
+.. 2210 
+,..2225
+.. 2238. 
+...2248
+..2260, 
+.2272. 
+.. 2276. 
+, . 2282 .
+2462 1 3 48  1 6 25
+246s! 4  15
+cut Acadian 
+6 No.  4  
+iy Daily
+11 05
+Elev. Table 1 Q Mis.
+Sunset 
+Limited 
+No.  2 
+Daily
+At  tenant 
+No.  6 
+Daily
+3720 Lv El  Paso,Tex. (MT.) A 1283 2 30 8  05
+((inion staj.Set watch ahead one hour
+3664 " Ysleta (C.T.).............1296 f 9  31
+363?“ Clint............................1305 f 9  44
+3615 “ Fabens........................1312 f 9  54
+3585 " Tornillo......................1318 no oi
+3592 “ Fort Hancock............1336 HO 40
+3568 “ McNary ......................1341 HO 46
+394$ “ Finlay............. . ..........1354 HI 05
+4117 « Small ...........................1359 HI 20
+4519 " Sierra Blanca....... ... .1376 12 04
+4281 " Hot Wells ...................1399 H2 30
+3942 " Lobo............................1417 H2 54
+4432 Ar Valentine....................1445 1 40
+4432 Lv Valentine....................1445 1 55
+4694 " Marfa..........................1430 7 05 2 48
+5074 " Paisano (Summit)... 1493 f 3 09
+4484 “ Alpine.........................1505 7 34 3 31
+4043 " Marathon...................1537 4 15
+3881 “ Haymond...................1552 f 4 38
+3725 " Tesnus........................1561
+3663“ Rosenfeld....................1572
+3368 “ Longfellow..................1580 f 5 19
+3093 " Emerson.....................1588
+2771 Ar Sanderson...................1597 9  28 5 45
+2771 Lv Sanderson...................1597 9  38 6 00
+2106 " Dryden.......................1618 6 31
+1815 “ PumpviUe ...................1647 f 7 11
+1397 “ Langtry......................1661 7 29 i
+1413 “ Shumla ........................1673
+1382 " High Bridge (Pecos
+River)......................1677 111 11 a 8  00'
+1545 “ Comstock...................1690 8  38
+1130 “ Bullis..........................1705
+955 “ Devil’s River..............1710 1 9  08
+923 " McKees......................1716
+964 Ar Del Rio (5t)..............1725 12 13 9  30
+964 Lv Del Rio.......................1725 12 23 9  50
+1009 " Spofford (51)..............1762 10 34
+975 " Anacacho....................1770 Z
+1102 " Odlaw .........................1779 ?
+997 “ Cline............................1784 Z fll 01
+939 “ Hacienda....................1796
+931 " Uvalde ........................1803 X  1 44 11 31
+985 " Knippa.....................1813 co Hl 43
+957 " Sabinal........................1824 C 11 5L
+1065 " Seco.............................1832
+881 “ D ’Hanis......................1837 q H2 14
+890 " Hondo.........................1845
+992 " Dunlay........................1855 1
+778 “ Noonan.......................1863 3
+721 " Lacoste.......................1870
+631 “ Macdona....................1877
+661 Ar San Antonio,Tex...A1894 3U 4O 2 10(8. P. station)

@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-21",
+  "status": "partly unresolved",
+  "primary_1950": {
+    "source": "C50",
+    "sheet": "5",
+    "lines": [
+      9,
+      10
+    ],
+    "household": "1950-5-9",
+    "people": [
+      {
+        "id": "1950-5-9",
+        "name_read": "Stuart Holbrook",
+        "age": 33,
+        "occupation_expanded": "general merchandise manager",
+        "class_of_worker": "P"
+      },
+      {
+        "id": "1950-5-10",
+        "name_read": "Blanche",
+        "age": 31,
+        "relationship": "wife",
+        "occupation": "store clerk",
+        "class_of_worker": "P"
+      }
+    ],
+    "sample_answer": "Stuart: same house one year earlier",
+    "employer_named": false,
+    "workplace_located": false
+  },
+  "later_notice": {
+    "source": "H1",
+    "name": "J. Stuart Holbrook",
+    "age": 49,
+    "community": "Cuervo",
+    "wife_read": "Selma",
+    "company_association": "Bond-Wiest",
+    "other_activity": "heavy-equipment contracting",
+    "identity": "plausible, not conclusively linked to 1950",
+    "printed_date_verified": false
+  },
+  "date_inference": {
+    "working_date": "1965-06-05",
+    "basis": [
+      "Saturday-morning death notice",
+      "Adjacent White/McDivitt flight report approximately 48 hours after launch",
+      "NASA confirms Gemini IV launched June 3, 1965"
+    ],
+    "sources": [
+      "H1",
+      "H2"
+    ],
+    "limits": "A contextual inference does not substitute for the printed date."
+  },
+  "access_log": [
+    "Earlier direct PDF download returned HTTP 403",
+    "Earlier web screenshot could not render the PDF",
+    "September 21 in-app browser showed a blank viewer; no source PDF/image acquired",
+    "Web tool still exposed extracted text; visual issue-date check remains open"
+  ],
+  "unresolved": [
+    "Printed newspaper date, title and page",
+    "Blanche versus Selma spouse identification",
+    "Dates and nature of Bond-Wiest association",
+    "Whether or where the company operated in 1965"
+  ],
+  "next_concrete_step": "UNM draft requests the complete apparent Albuquerque Tribune A-2 page around June 5, 1965, plus the listed business volumes and relevant later records.",
+  "not_established": [
+    "Bond-Wiest closure date",
+    "Operating Cuervo store in 1965",
+    "Uninterrupted 1950–1965 retail employment"
+  ]
+}

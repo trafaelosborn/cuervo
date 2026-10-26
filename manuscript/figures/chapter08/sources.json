@@ -1,0 +1,66 @@
+[
+  {
+    "source": "B:\\Photos\\Raw Collections\\2024.03.26 Cuervo NM\\IMG_7385.JPG",
+    "sha256": "7c289ffe2a8da95bdabc073a782a008dfa14538f0b092f50d0fe98813bdcac45",
+    "oriented_original_pixels": [
+      5712,
+      4284
+    ],
+    "proof_pixels": [
+      2200,
+      1650
+    ],
+    "metadata": {
+      "Orientation": "1",
+      "DateTime": "2024:03:22 11:19:59",
+      "DateTimeOriginal": "2024:03:22 11:19:59",
+      "DateTimeDigitized": "2024:03:22 11:19:59"
+    },
+    "treatment": "EXIF orientation, proportional proof resize; no retouching"
+  },
+  {
+    "source": "B:\\Photos\\Raw Collections\\2024.03.26 Cuervo NM\\IMG_7456.JPG",
+    "sha256": "dd74881a5758fa13391f63310d6f236f0301578c4b57c8eceb8b47ad68440b7b",
+    "oriented_original_pixels": [
+      4284,
+      5712
+    ],
+    "proof_pixels": [
+      1650,
+      2200
+    ],
+    "metadata": {
+      "Orientation": "6",
+      "DateTime": "2024:03:22 11:54:56",
+      "DateTimeOriginal": "2024:03:22 11:54:56",
+      "DateTimeDigitized": "2024:03:22 11:54:56"
+    },
+    "treatment": "EXIF orientation, proportional proof resize; no retouching"
+  },
+  {
+    "source": "sources/10_church_history/st_rose_bulletin_2025-12-21.pdf",
+    "page": 2,
+    "render_dpi": 135,
+    "crop_pixels": [
+      277,
+      1217,
+      560,
+      1442
+    ],
+    "output": "collection.png",
+    "treatment": "Unretouched crop; omitted surrounding content disclosed"
+  },
+  {
+    "source": "sources/10_church_history/st_rose_bulletin_2025-12-21.pdf",
+    "page": 3,
+    "render_dpi": 135,
+    "crop_pixels": [
+      423,
+      991,
+      1098,
+      1435
+    ],
+    "output": "missions.png",
+    "treatment": "Unretouched crop; omitted surrounding content disclosed"
+  }
+]

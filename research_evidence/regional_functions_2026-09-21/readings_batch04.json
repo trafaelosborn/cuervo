@@ -1,0 +1,6 @@
+[
+ {"ed":"10-8","image":14,"sheet":13,"heads":[2,6,7,10,18,24,26,30],"nonperson_lines":[17,25,28,29],"rows":[[5,"Dishwasher","Club Cafe","FOOD","P",""],[6,"Supervises juveniles in city","Juvenile city marshal","GOV","G",""],[10,"Laying house foundation","Adobe construction","BUILD","P",""],[26,"Patrols city streets","City marshal","GOV","G",""]],"blank_occupation_work_rows":[]},
+ {"ed":"10-8","image":15,"sheet":14,"heads":[8,19,24,28],"nonperson_lines":[7,10,22,23],"rows":[[24,"Janitor","Southwestern public water and electric service","UTIL","P",""]],"blank_occupation_work_rows":[]},
+ {"ed":"10-8","image":16,"sheet":15,"heads":[4,7,13,18,24],"nonperson_lines":[6,16,17],"rows":[[4,"Butcher","Retail grocery store","RETAIL","P",""],[7,"Highway laborer","State Highway Department","BUILD","G",""]],"blank_occupation_work_rows":[]},
+ {"ed":"10-8","image":17,"sheet":16,"heads":[5,9,11,15,17,18,26,28],"nonperson_lines":[1,2,3,4,8,13,14],"rows":[[6,"Runs popcorn machine","Movie theatre","PERS","P","Entertainment service"],[11,"Co-proprietor","Car repair shop","AUTO","O",""],[15,"Presses clothes","Quality Cleaners","PERS","P",""],[16,"Kept house","Housekeeper","PERS","P",""]],"blank_occupation_work_rows":[]}
+]

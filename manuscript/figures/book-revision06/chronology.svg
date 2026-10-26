@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="511.2pt" height="529.2pt" viewBox="0 0 511.2 529.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-29T13:38:17.052452</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 529.2 
+L 511.2 529.2 
+L 511.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 20.448 69.247756 
+L 490.752 69.247756 
+L 490.752 23.814 
+L 20.448 23.814 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m4f78d15b46" d="M 0 2.828427 
+C 0.750108 2.828427 1.469594 2.530406 2 2 
+C 2.530406 1.469594 2.828427 0.750108 2.828427 0 
+C 2.828427 -0.750108 2.530406 -1.469594 2 -2 
+C 1.469594 -2.530406 0.750108 -2.828427 0 -2.828427 
+C -0.750108 -2.828427 -1.469594 -2.530406 -2 -2 
+C -2.530406 -1.469594 -2.828427 -0.750108 -2.828427 0 
+C -2.828427 0.750108 -2.530406 1.469594 -2 2 
+C -1.469594 2.530406 -0.750108 2.828427 0 2.828427 
+z
+" style="stroke: #1b3558"/>
+    </defs>
+    <g clip-path="url(#p8ed29df3dd)">
+     <use xlink:href="#m4f78d15b46" x="54.041143" y="54.103171" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 20.448 69.247756 
+L 490.752 69.247756 
+" style="fill: none; stroke: #d8d2c9; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="20.448" y="34.293308" transform="rotate(-0 20.448 34.293308)">Southwest highway</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242528" x="20.448" y="86.083606" transform="rotate(-0 20.448 86.083606)">1952 / Route relocated</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 20.448 153.300205 
+L 490.752 153.300205 
+L 490.752 107.866449 
+L 20.448 107.866449 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_7">
+     <g id="line2d_7"/>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8"/>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9"/>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10"/>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11"/>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4"/>
+   <g id="line2d_13">
+    <path d="M 160.204678 138.15562 
+L 168.579955 138.15562 
+" clip-path="url(#pfb7f528868)" style="fill: none; stroke: #9c7151; stroke-width: 4"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 20.448 153.300205 
+L 490.752 153.300205 
+" style="fill: none; stroke: #d8d2c9; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="20.448" y="118.345756" transform="rotate(-0 20.448 118.345756)">Local passenger stops</text>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m3f1bffbb23" d="M 0 2.12132 
+C 0.562581 2.12132 1.102195 1.897805 1.5 1.5 
+C 1.897805 1.102195 2.12132 0.562581 2.12132 0 
+C 2.12132 -0.562581 1.897805 -1.102195 1.5 -1.5 
+C 1.102195 -1.897805 0.562581 -2.12132 0 -2.12132 
+C -0.562581 -2.12132 -1.102195 -1.897805 -1.5 -1.5 
+C -1.897805 -1.102195 -2.12132 -0.562581 -2.12132 0 
+C -2.12132 0.562581 -1.897805 1.102195 -1.5 1.5 
+C -1.102195 1.897805 -0.562581 2.12132 0 2.12132 
+z
+" style="stroke: #9c7151"/>
+    </defs>
+    <g clip-path="url(#pfb7f528868)">
+     <use xlink:href="#m3f1bffbb23" x="160.204678" y="138.15562" style="fill: #ffffff; stroke: #9c7151"/>
+     <use xlink:href="#m3f1bffbb23" x="168.579955" y="138.15562" style="fill: #ffffff; stroke: #9c7151"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242528" x="20.448" y="170.136055" transform="rotate(-0 20.448 170.136055)">Apr–Oct 1958 / Stops disappear</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_6">
+    <path d="M 20.448 237.352654 
+L 490.752 237.352654 
+L 490.752 191.918898 
+L 20.448 191.918898 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_13">
+     <g id="line2d_14"/>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_15"/>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_16"/>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_17"/>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_18"/>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_19"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6"/>
+   <g id="line2d_20">
+    <path d="M 133.756019 222.208068 
+L 168.579955 222.208068 
+" clip-path="url(#p1512c2cb69)" style="fill: none; stroke: #9c7151; stroke-width: 4"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 20.448 237.352654 
+L 490.752 237.352654 
+" style="fill: none; stroke: #d8d2c9; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="20.448" y="202.398205" transform="rotate(-0 20.448 202.398205)">Train-order office</text>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p1512c2cb69)">
+     <use xlink:href="#m3f1bffbb23" x="133.756019" y="222.208068" style="fill: #ffffff; stroke: #9c7151"/>
+     <use xlink:href="#m3f1bffbb23" x="168.579955" y="222.208068" style="fill: #ffffff; stroke: #9c7151"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242528" x="20.448" y="254.188504" transform="rotate(-0 20.448 254.188504)">Sep 1956–Oct 1958 / Designation disappears</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_8">
+    <path d="M 20.448 321.405102 
+L 490.752 321.405102 
+L 490.752 275.971346 
+L 20.448 275.971346 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_19">
+     <g id="line2d_21"/>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_22"/>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_23"/>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_24"/>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_25"/>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_26"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8"/>
+   <g id="line2d_27">
+    <path d="M 238.803429 306.260517 
+L 272.396571 306.260517 
+" clip-path="url(#pb371f943a1)" style="fill: none; stroke: #1b3558; stroke-width: 4"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 20.448 321.405102 
+L 490.752 321.405102 
+" style="fill: none; stroke: #d8d2c9; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="20.448" y="286.450654" transform="rotate(-0 20.448 286.450654)">Nearby interstate project</text>
+   </g>
+   <g id="PathCollection_4">
+    <defs>
+     <path id="mc25cfdcc4a" d="M 0 2.12132 
+C 0.562581 2.12132 1.102195 1.897805 1.5 1.5 
+C 1.897805 1.102195 2.12132 0.562581 2.12132 0 
+C 2.12132 -0.562581 1.897805 -1.102195 1.5 -1.5 
+C 1.102195 -1.897805 0.562581 -2.12132 0 -2.12132 
+C -0.562581 -2.12132 -1.102195 -1.897805 -1.5 -1.5 
+C -1.897805 -1.102195 -2.12132 -0.562581 -2.12132 0 
+C -2.12132 0.562581 -1.897805 1.102195 -1.5 1.5 
+C -1.102195 1.897805 -0.562581 2.12132 0 2.12132 
+z
+" style="stroke: #1b3558"/>
+    </defs>
+    <g clip-path="url(#pb371f943a1)">
+     <use xlink:href="#mc25cfdcc4a" x="238.803429" y="306.260517" style="fill: #1b3558; stroke: #1b3558"/>
+     <use xlink:href="#mc25cfdcc4a" x="272.396571" y="306.260517" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242528" x="20.448" y="338.240953" transform="rotate(-0 20.448 338.240953)">1963–1965 / Recorded construction interval</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_10">
+    <path d="M 20.448 405.457551 
+L 490.752 405.457551 
+L 490.752 360.023795 
+L 20.448 360.023795 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pc5b2f024e5)">
+     <use xlink:href="#m4f78d15b46" x="322.786286" y="390.312966" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_9">
+    <g id="xtick_25">
+     <g id="line2d_28"/>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_29"/>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_30"/>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_31"/>
+    </g>
+    <g id="xtick_29">
+     <g id="line2d_32"/>
+    </g>
+    <g id="xtick_30">
+     <g id="line2d_33"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_10"/>
+   <g id="patch_11">
+    <path d="M 20.448 405.457551 
+L 490.752 405.457551 
+" style="fill: none; stroke: #d8d2c9; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="20.448" y="370.503103" transform="rotate(-0 20.448 370.503103)">Through Golden State</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242528" x="20.448" y="422.293401" transform="rotate(-0 20.448 422.293401)">March 1968 / Golden State discontinued</text>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_12">
+    <path d="M 20.448 489.51 
+L 490.752 489.51 
+L 490.752 444.076244 
+L 20.448 444.076244 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#pcf96d29a58)">
+     <use xlink:href="#m4f78d15b46" x="439.57998" y="474.365415" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_11">
+    <g id="xtick_31">
+     <g id="line2d_34"/>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="20.448" y="524.107656" transform="rotate(-0 20.448 524.107656)">1950</text>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="line2d_35"/>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="104.430857" y="524.107656" transform="rotate(-0 104.430857 524.107656)">1955</text>
+     </g>
+    </g>
+    <g id="xtick_33">
+     <g id="line2d_36"/>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="188.413714" y="524.107656" transform="rotate(-0 188.413714 524.107656)">1960</text>
+     </g>
+    </g>
+    <g id="xtick_34">
+     <g id="line2d_37"/>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="272.396571" y="524.107656" transform="rotate(-0 272.396571 524.107656)">1965</text>
+     </g>
+    </g>
+    <g id="xtick_35">
+     <g id="line2d_38"/>
+     <g id="text_15">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="356.379429" y="524.107656" transform="rotate(-0 356.379429 524.107656)">1970</text>
+     </g>
+    </g>
+    <g id="xtick_36">
+     <g id="line2d_39"/>
+     <g id="text_16">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="440.362286" y="524.107656" transform="rotate(-0 440.362286 524.107656)">1975</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_12"/>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="20.448" y="454.555551" transform="rotate(-0 20.448 454.555551)">Freight administration</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242528" x="20.448" y="506.34585" transform="rotate(-0 20.448 506.34585)">Dec 1974 / No agent; billing at Tucumcari</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8ed29df3dd">
+   <rect x="20.448" y="23.814" width="470.304" height="45.433756"/>
+  </clipPath>
+  <clipPath id="pfb7f528868">
+   <rect x="20.448" y="107.866449" width="470.304" height="45.433756"/>
+  </clipPath>
+  <clipPath id="p1512c2cb69">
+   <rect x="20.448" y="191.918898" width="470.304" height="45.433756"/>
+  </clipPath>
+  <clipPath id="pb371f943a1">
+   <rect x="20.448" y="275.971346" width="470.304" height="45.433756"/>
+  </clipPath>
+  <clipPath id="pc5b2f024e5">
+   <rect x="20.448" y="360.023795" width="470.304" height="45.433756"/>
+  </clipPath>
+  <clipPath id="pcf96d29a58">
+   <rect x="20.448" y="444.076244" width="470.304" height="45.433756"/>
+  </clipPath>
+ </defs>
+</svg>

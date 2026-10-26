@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1950-8-22",
+    "field": "given_read",
+    "prior": "Nilla D.",
+    "revised": "Willa D.",
+    "basis": "Original sheet and detail crop; corroborated by spouse and parent obituaries",
+    "effect": "name only; no age/population change"
+  },
+  {
+    "id": "1950-8-20",
+    "field": "given_read",
+    "prior": "P. W.",
+    "revised": "D. W.",
+    "basis": "Original handwriting reads D.W.; John Sr. obituary names mother Dea (Waddell)",
+    "effect": "name initials only; no age/population change"
+  },
+  {
+    "id": "1950-7-19",
+    "field": "age_completed_years",
+    "prior": 10,
+    "revised": 10,
+    "basis": "Rechecked and retained as written; discrepancy with 1939-03-04 obituary birth date remains",
+    "effect": "no census age correction; match is probable"
+  },
+  {
+    "id": "1950-7-13",
+    "field": "given_read",
+    "prior": "Ophelia?",
+    "revised": null,
+    "basis": "Crossed and rewritten row remains unresolved; prior report explicitly retained one row",
+    "effect": "excluded as a decisive linkage anchor; historical total unchanged"
+  }
+]

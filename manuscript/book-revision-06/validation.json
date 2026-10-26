@@ -1,0 +1,23 @@
+{
+  "pages": 150,
+  "body_words": 20990,
+  "valid_source_links": 211,
+  "distinct_note_destinations": 169,
+  "contents_links": 20,
+  "photo_concordance_links": 16,
+  "bookmarks": 10,
+  "all_body_text_transferred": true,
+  "all_notes_transferred": true,
+  "revision5_integrity": "original chapter and PDF hashes match",
+  "page_edge_checks": "passed",
+  "short_pages_for_review": [
+    {
+      "page": 55,
+      "words": 97,
+      "text": "CUERVO\nMERIDIAN\nCOMPLETE READING PROOF / REVISION 6\n55\n28. National Register nomination, abandoned Route 66 from Cuervo to NM 156 (1993),\nsections 7–10 (PDF pp. 5–6). Its 1952 relocation date is separate from the NTSB’s\n1963–1965 interstate project. Overlap with falling cattle prices does not identify\nbusiness-specific effects. See Chapter 6, notes 8 and 21.\n29. Douglass C. North, “Agriculture in Regional Economic Growth,” Economic\nDevelopment Institute seminar, October 20, 1959, pp. 3–5 (PDF pp. 5–7). World Bank\nArchives copy. The Cuervo appli"
+    }
+  ],
+  "rendered_pages": 150,
+  "pdf_sha256": "d1653b9595f393986c3fbb46f6903629004740a915fdfa0cc4a394a5218d17f1",
+  "visual_review": "passed"
+}

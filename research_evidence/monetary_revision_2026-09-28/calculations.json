@@ -1,0 +1,335 @@
+{
+  "checked": "2026-09-28",
+  "base_year": 2025,
+  "cpi_source": "https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1800-",
+  "cpi_basis": "Published historical table, 1967 basis; all ratios use this same series.",
+  "cpi_selected_years": {
+    "1899": 25,
+    "1900": 25,
+    "1901": 25,
+    "1902": 26,
+    "1903": 27,
+    "1904": 27,
+    "1905": 27,
+    "1906": 27,
+    "1907": 28,
+    "1908": 27,
+    "1909": 27,
+    "1910": 28,
+    "1911": 28,
+    "1912": 29,
+    "1913": 29.7,
+    "1914": 30.1,
+    "1915": 30.4,
+    "1932": 41,
+    "2025": 967.5
+  },
+  "method": "nominal amount * CPI(2025) / CPI(year)",
+  "limits": "Consumer purchasing power, not business valuation, asset replacement cost, local prices or ranch input costs. Pre-1913 reconstructed historical index. Annual-average index also used for year-end balances. Historical amounts already rounded in Grubbs.",
+  "source": "B:\\Meridian\\Cuervo\\research_evidence\\origins_followup_2026-09-23\\financial_transcription.json",
+  "source_sha256": "e9ddfd75293b215e39f7788049d160f740278d05163336a66330999f24bd1027",
+  "series": {
+    "table_32": [
+      {
+        "year": 1903,
+        "nominal_thousands": 8.1,
+        "constant_2025_thousands": 290.25
+      },
+      {
+        "year": 1904,
+        "nominal_thousands": 12.2,
+        "constant_2025_thousands": 437.1666666666667
+      },
+      {
+        "year": 1905,
+        "nominal_thousands": 12.9,
+        "constant_2025_thousands": 462.25
+      },
+      {
+        "year": 1906,
+        "nominal_thousands": 14.4,
+        "constant_2025_thousands": 516.0
+      },
+      {
+        "year": 1907,
+        "nominal_thousands": 26.4,
+        "constant_2025_thousands": 912.2142857142857
+      },
+      {
+        "year": 1908,
+        "nominal_thousands": 25.1,
+        "constant_2025_thousands": 899.4166666666666
+      },
+      {
+        "year": 1909,
+        "nominal_thousands": 25.6,
+        "constant_2025_thousands": 917.3333333333334
+      },
+      {
+        "year": 1910,
+        "nominal_thousands": 24.5,
+        "constant_2025_thousands": 846.5625
+      },
+      {
+        "year": 1911,
+        "nominal_thousands": 20.3,
+        "constant_2025_thousands": 701.4375
+      },
+      {
+        "year": 1912,
+        "nominal_thousands": 18.9,
+        "constant_2025_thousands": 630.5431034482758
+      },
+      {
+        "year": 1913,
+        "nominal_thousands": 17.8,
+        "constant_2025_thousands": 579.8484848484849
+      },
+      {
+        "year": 1914,
+        "nominal_thousands": 17.5,
+        "constant_2025_thousands": 562.5
+      },
+      {
+        "year": 1915,
+        "nominal_thousands": 18.5,
+        "constant_2025_thousands": 588.7746710526316
+      }
+    ],
+    "table_33": [
+      {
+        "year": 1903,
+        "nominal_thousands": 8.7,
+        "constant_2025_thousands": 311.75
+      },
+      {
+        "year": 1904,
+        "nominal_thousands": 9.8,
+        "constant_2025_thousands": 351.1666666666667
+      },
+      {
+        "year": 1905,
+        "nominal_thousands": 13.4,
+        "constant_2025_thousands": 480.1666666666667
+      },
+      {
+        "year": 1906,
+        "nominal_thousands": 15.1,
+        "constant_2025_thousands": 541.0833333333334
+      },
+      {
+        "year": 1907,
+        "nominal_thousands": 17.2,
+        "constant_2025_thousands": 594.3214285714286
+      },
+      {
+        "year": 1908,
+        "nominal_thousands": 11.8,
+        "constant_2025_thousands": 422.8333333333333
+      },
+      {
+        "year": 1909,
+        "nominal_thousands": 6.5,
+        "constant_2025_thousands": 232.91666666666666
+      },
+      {
+        "year": 1910,
+        "nominal_thousands": 8.7,
+        "constant_2025_thousands": 300.61607142857144
+      },
+      {
+        "year": 1911,
+        "nominal_thousands": 8.5,
+        "constant_2025_thousands": 293.70535714285717
+      },
+      {
+        "year": 1912,
+        "nominal_thousands": 16.6,
+        "constant_2025_thousands": 553.8103448275863
+      },
+      {
+        "year": 1913,
+        "nominal_thousands": 13.3,
+        "constant_2025_thousands": 433.25757575757575
+      },
+      {
+        "year": 1914,
+        "nominal_thousands": 17.2,
+        "constant_2025_thousands": 552.8571428571428
+      },
+      {
+        "year": 1915,
+        "nominal_thousands": 21.3,
+        "constant_2025_thousands": 677.8865131578948
+      }
+    ],
+    "table_34": [
+      {
+        "year": 1903,
+        "nominal_thousands": 0.0,
+        "constant_2025_thousands": 0.0
+      },
+      {
+        "year": 1904,
+        "nominal_thousands": 2.3,
+        "constant_2025_thousands": 82.41666666666667
+      },
+      {
+        "year": 1905,
+        "nominal_thousands": 2.2,
+        "constant_2025_thousands": 78.83333333333333
+      },
+      {
+        "year": 1906,
+        "nominal_thousands": 8.1,
+        "constant_2025_thousands": 290.25
+      },
+      {
+        "year": 1907,
+        "nominal_thousands": 2.6,
+        "constant_2025_thousands": 89.83928571428571
+      },
+      {
+        "year": 1908,
+        "nominal_thousands": 11.1,
+        "constant_2025_thousands": 397.75
+      },
+      {
+        "year": 1909,
+        "nominal_thousands": 17.7,
+        "constant_2025_thousands": 634.25
+      },
+      {
+        "year": 1910,
+        "nominal_thousands": 15.2,
+        "constant_2025_thousands": 525.2142857142857
+      },
+      {
+        "year": 1911,
+        "nominal_thousands": 10.3,
+        "constant_2025_thousands": 355.9017857142857
+      },
+      {
+        "year": 1912,
+        "nominal_thousands": 12.4,
+        "constant_2025_thousands": 413.6896551724138
+      },
+      {
+        "year": 1913,
+        "nominal_thousands": 20.1,
+        "constant_2025_thousands": 654.7727272727273
+      },
+      {
+        "year": 1914,
+        "nominal_thousands": 20.8,
+        "constant_2025_thousands": 668.5714285714286
+      },
+      {
+        "year": 1915,
+        "nominal_thousands": 38.1,
+        "constant_2025_thousands": 1212.5575657894738
+      }
+    ],
+    "table_35": [
+      {
+        "year": 1904,
+        "nominal_thousands": 7.0,
+        "constant_2025_thousands": 250.83333333333334
+      },
+      {
+        "year": 1905,
+        "nominal_thousands": 12.2,
+        "constant_2025_thousands": 437.1666666666667
+      },
+      {
+        "year": 1906,
+        "nominal_thousands": 8.3,
+        "constant_2025_thousands": 297.4166666666667
+      },
+      {
+        "year": 1907,
+        "nominal_thousands": 18.7,
+        "constant_2025_thousands": 646.1517857142857
+      },
+      {
+        "year": 1908,
+        "nominal_thousands": 13.3,
+        "constant_2025_thousands": 476.5833333333333
+      },
+      {
+        "year": 1909,
+        "nominal_thousands": 12.2,
+        "constant_2025_thousands": 437.1666666666667
+      },
+      {
+        "year": 1910,
+        "nominal_thousands": 5.6,
+        "constant_2025_thousands": 193.5
+      },
+      {
+        "year": 1911,
+        "nominal_thousands": 5.3,
+        "constant_2025_thousands": 183.13392857142858
+      },
+      {
+        "year": 1912,
+        "nominal_thousands": 11.8,
+        "constant_2025_thousands": 393.67241379310343
+      },
+      {
+        "year": 1913,
+        "nominal_thousands": 13.9,
+        "constant_2025_thousands": 452.8030303030303
+      },
+      {
+        "year": 1914,
+        "nominal_thousands": 14.4,
+        "constant_2025_thousands": 462.85714285714283
+      },
+      {
+        "year": 1915,
+        "nominal_thousands": 16.7,
+        "constant_2025_thousands": 531.4884868421053
+      }
+    ]
+  },
+  "selected_equivalents": [
+    {
+      "year": 1899,
+      "nominal_dollars": 10000,
+      "constant_2025_dollars": 387000.0
+    },
+    {
+      "year": 1910,
+      "nominal_dollars": 4000,
+      "constant_2025_dollars": 138214.2857142857
+    },
+    {
+      "year": 1911,
+      "nominal_dollars": 5300,
+      "constant_2025_dollars": 183133.92857142858
+    },
+    {
+      "year": 1915,
+      "nominal_dollars": 16700,
+      "constant_2025_dollars": 531488.4868421053
+    },
+    {
+      "year": 1904,
+      "nominal_dollars": 75,
+      "constant_2025_dollars": 2687.5
+    },
+    {
+      "year": 1907,
+      "nominal_dollars": 125,
+      "constant_2025_dollars": 4319.196428571428
+    },
+    {
+      "year": 1932,
+      "nominal_dollars": 90000,
+      "constant_2025_dollars": 2123780.487804878
+    }
+  ],
+  "profit_change_1911_1915_nominal_pct": 215.0943396226415,
+  "profit_change_1911_1915_real_pct": 190.21847070506456
+}

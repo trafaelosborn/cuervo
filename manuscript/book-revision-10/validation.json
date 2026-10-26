@@ -1,0 +1,19 @@
+{
+  "pages": 147,
+  "body_words": 19100,
+  "valid_source_links": 211,
+  "distinct_note_destinations": 169,
+  "contents_links": 20,
+  "photo_concordance_links": 16,
+  "bookmarks": 10,
+  "all_body_text_transferred": true,
+  "all_notes_transferred": true,
+  "revision5_integrity": "original chapter and PDF hashes match",
+  "page_edge_checks": "passed",
+  "short_pages_for_review": [],
+  "rendered_pages": 147,
+  "pdf_sha256": "e361e17a47bdabf3f90eb6ad53ca3c680684c12b761448f6cd9ea6106341322d",
+  "visual_review": "passed",
+  "revision6_to_9_integrity": "All protected hashes match",
+  "external_link_annotations": 120
+}

@@ -1,0 +1,25 @@
+{
+  "observed_date": "2026-09-20",
+  "method": "Read-only browser inspection of rendered official catalog pages and listing photographs; manually recorded observations, not an exported original or transcript.",
+  "ou_collections": [
+    {"title": "Chicago, Rock Island and Pacific Railroad Company Collection", "identifier": "WHC-M-703", "url": "https://archives.libraries.ou.edu/repositories/2/resources/8359", "restriction": "Temporarily unavailable because of a preservation project begun May 18, 2026. No reopening date stated on the inspected record."},
+    {"title": "Rock Island Technical Society Collection", "identifier": "WHC-M-2534", "url": "https://archives.libraries.ou.edu/repositories/2/resources/8206", "restriction": "Temporarily unavailable because of a preservation project begun May 18, 2026. No reopening date stated on the inspected record."}
+  ],
+  "ou_availability_contact": "specialresearchcollections@ou.edu",
+  "ou_keyword_searches": [
+    {"term": "Cuervo", "result": "No Records Found"},
+    {"term": "Tucumcari", "count": 14, "review": "Two result pages inspected; one subject entry and thirteen photograph/postcard entries. No named freight transaction record identified."}
+  ],
+  "catalog_limit": "Box contents may appear only in PDF finding aids and are not all indexed by locality.",
+  "station_book_photographs": {
+    "url": "https://www.ebay.com/itm/206139269786",
+    "printed_date": "September 1967",
+    "date_source": "Contents-page photograph, image 3 of 9",
+    "contents": {"Southern Division": "27-39", "Numerical station lists": "57-65", "Alphabetical index": "66-78"},
+    "inspected_geographic_photos": "Image 4: Southern Division page 35; image 5: Southern Division page 27; image 9: Illinois Division page 1. These pages cover other territory.",
+    "cuervo_entry_seen": false,
+    "complete_book_acquired": false,
+    "metadata_conflict": "Seller item-specific field says 1954; printed September 1967 date controls."
+  },
+  "external_actions": "No messages, requests, purchases or contact-list subscriptions submitted."
+}

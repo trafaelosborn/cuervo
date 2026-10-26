@@ -1,0 +1,23 @@
+{
+  "chapter": 8,
+  "pages": 17,
+  "body_words": 3059,
+  "note_definitions": 13,
+  "valid_internal_links": 14,
+  "distinct_internal_destinations": 13,
+  "mean_sentence_words": 13.1,
+  "longest_sentence_words": 23,
+  "longest_sentences": [
+    "Cuervo's streets, blocks and additions remained part of the language used to describe land long after many of its commercial functions had gone.",
+    "A person could attend school in Santa Rosa, work across a wider area and retain a home or other connection near Cuervo.",
+    "A school record from another town cannot automatically be coded as departure, and a business connection cannot automatically be coded as residence.",
+    "Studies of former mining communities likewise distinguish the appearance of a place from the ways people continue to use and understand it.",
+    "For anyone thinking about the future of a small settlement, this is a reason to examine arrangements rather than count buildings alone.",
+    "It illustrates why the absence of an old village storefront cannot establish the disappearance of all trade associated with the locality.",
+    "Together, the records establish several kinds of continuing relationship: restoration involvement, an announced service, institutional affiliation and a later financial entry.",
+    "The historical record does not identify a redevelopment plan, calculate its costs or establish the wishes of present residents and owners."
+  ],
+  "pdf_sha256": "a66a7b1bcc8c12f7cd079af7b96ee3876e48d99180914ae98ea6ea77905b8fec",
+  "text_checks": "passed",
+  "visual_review": "passed: 17 rendered pages reviewed in three contact sheets; pages 7, 11 and 12 also inspected at full-page size"
+}

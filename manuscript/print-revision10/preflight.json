@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-21",
+  "source": "B:\\Meridian\\Cuervo\\output\\pdf\\cuervo-complete-reading-proof-revision-10.pdf",
+  "output": "B:\\Meridian\\Cuervo\\output\\pdf\\cuervo-revision-10-print-letter.pdf",
+  "source_sha256": "e361e17a47bdabf3f90eb6ad53ca3c680684c12b761448f6cd9ea6106341322d",
+  "output_sha256": "74276c987bd7eb37379e08284ff1aa0e6dbaf5bb38911b1a625784bc0f48707f",
+  "page_points": [
+    612,
+    792
+  ],
+  "page_inches": [
+    8.5,
+    11
+  ],
+  "original_pages": 147,
+  "total_pages": 148,
+  "duplex_sheets": 74,
+  "trailing_blank_pages": 1,
+  "artwork_scale": 0.9705882352941176,
+  "mirrored_horizontal_shift_points": 18,
+  "body_font_points": 10.96764705882353,
+  "page_text_unchanged": true,
+  "all_original_image_streams_identical": true,
+  "unique_original_image_streams": 64,
+  "embedded_fonts": {
+    "/AAAAAA+JostRegularR07": true,
+    "/AAAAAA+PlayfairDisplayBoldR07": true,
+    "/AAAAAA+JostItalicRegularR07": true,
+    "/AAAAAA+PlayfairDisplayRegularR07": true,
+    "/AAAAAA+JostSemiboldR07": true
+  },
+  "annotation_count": 367,
+  "bookmarks": 10,
+  "destinations_adjusted": 257,
+  "printing": {
+    "paper": "US Letter",
+    "orientation": "Portrait",
+    "color": "Color",
+    "scale": "100% / Actual size",
+    "sides": "Double-sided, flip on long edge",
+    "imposition": "Single pages; no booklet mode",
+    "crop_marks": false,
+    "bleed": false
+  },
+  "visual_review": "passed"
+}

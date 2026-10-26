@@ -1,0 +1,43 @@
+{
+  "method": "GHCN-Daily USC00298107. July only; nonmissing TMAX/TMIN, blank quality flag; at least 28 valid days per July and element. Mean of qualifying monthly means, equal year weight. Celsius tenths converted to Fahrenheit. No homogenization, station-move adjustment, humidity estimate, or Cuervo imputation. Not official NOAA normals.",
+  "summaries": [
+    {
+      "period": "1931-1960",
+      "element": "TMAX",
+      "qualifying_julys": 29,
+      "mean_f": 90.98,
+      "omitted_years": [
+        1956
+      ]
+    },
+    {
+      "period": "1931-1960",
+      "element": "TMIN",
+      "qualifying_julys": 29,
+      "mean_f": 63.59,
+      "omitted_years": [
+        1956
+      ]
+    },
+    {
+      "period": "1961-1990",
+      "element": "TMAX",
+      "qualifying_julys": 28,
+      "mean_f": 92.99,
+      "omitted_years": [
+        1970,
+        1978
+      ]
+    },
+    {
+      "period": "1961-1990",
+      "element": "TMIN",
+      "qualifying_julys": 28,
+      "mean_f": 63.0,
+      "omitted_years": [
+        1970,
+        1978
+      ]
+    }
+  ]
+}

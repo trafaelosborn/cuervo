@@ -1,0 +1,6 @@
+[
+ {"filename":"tiger_2020_block_layer.json","url":"https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Tracts_Blocks/MapServer/12?f=pjson"},
+ {"filename":"blocks_2020_guadalupe.geojson","url":"https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Tracts_Blocks/MapServer/12/query?where=STATE%3D%2735%27%20AND%20COUNTY%3D%27019%27&outFields=GEOID,TRACT,BLOCK,AREALAND,AREAWATER,INTPTLAT,INTPTLON,POP100,HU100&returnGeometry=true&outSR=4326&f=geojson"},
+ {"filename":"tiger_2010_service.json","url":"https://tigerweb.geo.census.gov/arcgis/rest/services/Census2010/tigerWMS/MapServer?f=pjson"},
+ {"filename":"tiger_2020_blocks_nm.html","url":"https://tigerweb.geo.census.gov/tigerwebmain/Files/tab20/tigerweb_tab20_tabblock_2020_nm.html"}
+]

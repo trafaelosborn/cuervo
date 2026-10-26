@@ -1,0 +1,43 @@
+{
+  "observed_date": "2026-09-20",
+  "method": "Read visible catalog pages in the in-app browser; this file is a research transcription, not an original catalog export.",
+  "collection": {
+    "title": "New Mexico State Corporation Commission Records",
+    "identifier": "1970-001",
+    "url": "https://nmarchives.unm.edu/repositories/32/resources/5359",
+    "dates": "1870-1994",
+    "extent": "180 Linear Feet",
+    "related_accession": "2004-056",
+    "related_accession_note": "Catalog describes 23 cubic feet of unprocessed NM Public Regulation Commission material, 1835-1987, as filling gaps in the collection. This does not confirm a Cuervo file."
+  },
+  "targets": [
+    {
+      "title": "Application for Certification Southern Pacific Co., 1957-58",
+      "url": "https://nmarchives.unm.edu/repositories/32/archival_objects/647086",
+      "series": "Traffic and Rates Department",
+      "file_identifier": "23",
+      "container": "SRCA_3975",
+      "container_url": "https://nmarchives.unm.edu/repositories/32/top_containers/206469",
+      "status": "Catalog located; records not acquired; relevance to Cuervo unknown."
+    },
+    {
+      "title": "Annual Reports: Chicago-Rock island & Pacific Railway Co. 19 Vols., 1950-1969",
+      "url": "https://nmarchives.unm.edu/repositories/32/archival_objects/640959",
+      "series": "Administration / Reports",
+      "file_identifier": "4",
+      "container": "SRCA_2524",
+      "container_url": "https://nmarchives.unm.edu/repositories/32/top_containers/194831",
+      "status": "Catalog located; records not acquired; station-level detail unconfirmed."
+    }
+  ],
+  "search_coverage": [
+    {"collection_query": "station", "results": 14, "titles_inspected": 14, "cuervo_closure_title_found": false},
+    {"collection_query": "Rock Island", "results": 55, "titles_inspected": 55, "cuervo_closure_title_found": false},
+    {"collection_query": "Southern Pacific", "results": 79, "titles_inspected": 25, "note": "Stopped to inspect the specific 1957-58 application; remaining results not reviewed."}
+  ],
+  "limitations": [
+    "Absence from titles is not absence from records.",
+    "No full collection or unprocessed-accession review completed.",
+    "Shell-acquired catalog HTML contained bot-check content; browser content export was unsupported."
+  ]
+}

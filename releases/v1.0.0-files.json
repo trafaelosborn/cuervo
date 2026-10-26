@@ -1,0 +1,18 @@
+{
+  "edition_date": "2026-10-21",
+  "release_date": "2026-10-26",
+  "title": "Cuervo: An Economic History of a New Mexico Ghost Town",
+  "pages": 148,
+  "files": [
+    {
+      "filename": "cuervo-monograph-print-letter.pdf",
+      "bytes": 42086440,
+      "sha256": "dcfe3bbcab511a1e22efc6ae37bc81dc8a764137cd7df8bdaa0d7099944e6240"
+    },
+    {
+      "filename": "cuervo-monograph-compact.pdf",
+      "bytes": 9618641,
+      "sha256": "bc14e0b5fcc2040602568ea49eb9a2216d94b3d39172665442878965d7bd1091"
+    }
+  ]
+}

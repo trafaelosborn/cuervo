@@ -1,0 +1,560 @@
+[
+  {
+    "file": "sources/DOT/04-06-60_0875.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "08a97e3e7cf0efd44bcb0076efdcd9363a04146706dd9d52ad47d7b703a8efaf"
+  },
+  {
+    "file": "sources/DOT/04-06-60_0876.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "c3aa4e5bff7882bdec5b42057f84641368aadb0c99c82765ceaf5cad3dca799f"
+  },
+  {
+    "file": "sources/DOT/04-06-60_0877.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "c3618dc4468e67a2e16f5286b5308c22f2104c5c098c22513635f859a45381e7"
+  },
+  {
+    "file": "sources/DOT/04-06-60_0878.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "761532922d7efcd34f421055bcc64f49f3c39d39d20c5e56504303206af45f25"
+  },
+  {
+    "file": "sources/DOT/04-06-60_0879.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "cc9191bb0ebb7268e42f5e3a0f2e95de9cec7436c30502977564bb4faf8c0b7a"
+  },
+  {
+    "file": "sources/DOT/04-06-60_0880.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "d9a000009a410048cfe7734d01e962399af82c949f1c3bd8c0c09d4006698360"
+  },
+  {
+    "file": "sources/DOT/04-06-60_0881.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "a2924976ee786f87783f3640e6904129ebfbe8c2bd306567c7b573b53f715e99"
+  },
+  {
+    "file": "sources/DOT/04-06-60_0881a.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "8995fff7f52705e63b19817af0242681212ec43db27f2c5449de50909967b8a5"
+  },
+  {
+    "file": "sources/DOT/04-06-60_0882.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "a32d93e1855059a3c79a54d1e9b6a8416f5cd09c9b18a1c4b3f831f8b8a52f32"
+  },
+  {
+    "file": "sources/DOT/04-06-60_0883.tif",
+    "bytes": 257191603,
+    "size": [
+      16130,
+      15937
+    ],
+    "frames": 1,
+    "mode": "L",
+    "sha256": "d8029913072735f89e64724bf4d9ee9aabf84756674a7b28af8b0fe2d2b2ab5f"
+  },
+  {
+    "file": "sources/DOT/E-F.A.P-114-C-AS-BUILT.pdf",
+    "bytes": 2785576,
+    "pages": 18,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__E-F.A.P-114-C-AS-BUILT.txt",
+    "sha256": "c347fedd920776a8dc8f1a4673a1c84daefd066f18388304e07387e302bc0a7c"
+  },
+  {
+    "file": "sources/DOT/FAP 114-C.pdf",
+    "bytes": 55776299,
+    "pages": 117,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__FAP_114-C.txt",
+    "sha256": "526da0bc5a35f7539b1414f60f20f743a981b48a63acf532d974056923c8a984"
+  },
+  {
+    "file": "sources/DOT/FAP-114-A-ROW.pdf",
+    "bytes": 57558,
+    "pages": 1,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__FAP-114-A-ROW.txt",
+    "sha256": "b4712813cb10136fc81ba122c00864f83b2dffd51442ded0d0d80e5f597477d1"
+  },
+  {
+    "file": "sources/DOT/FAP-114-C, AS BUILT.pdf",
+    "bytes": 86320968,
+    "pages": 117,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        1836.0,
+        2059.2
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__FAP-114-C,_AS_BUILT.txt",
+    "sha256": "d06acf2f8ed4874ef962edc2a149708d8bb13062c6090dfe8d17f7e00dc59e5f"
+  },
+  {
+    "file": "sources/DOT/FAP-114-C-AS-BUILT.pdf",
+    "bytes": 160868058,
+    "pages": 117,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__FAP-114-C-AS-BUILT.txt",
+    "sha256": "9018d7b5df61bd4251fb808030f16f79f65c654a387b891a216c7063346f8849"
+  },
+  {
+    "file": "sources/DOT/FAP-114-ROW-1935.pdf",
+    "bytes": 749115,
+    "pages": 3,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__FAP-114-ROW-1935.txt",
+    "sha256": "7f209c62f720c810d74bcac4717ba97c670728438cd14b4e538885b44766c299"
+  },
+  {
+    "file": "sources/DOT/Full page photo - I-040-5 (13) 291.pdf",
+    "bytes": 2367184,
+    "pages": 5,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        1224.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__Full_page_photo_-_I-040-5_(13)_291.txt",
+    "sha256": "b53bfe6afa7cddbac87f64304525d28c0070c1bd975dea0c6d22562629397681"
+  },
+  {
+    "file": "sources/DOT/I-040-5 (18) 283.pdf",
+    "bytes": 38061855,
+    "pages": 30,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        792.0,
+        1224.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__I-040-5_(18)_283.txt",
+    "sha256": "6ffb8bc73559cb2fa6f8ac498b037bca52c00affafea8ca1009b92acfc4df8d0"
+  },
+  {
+    "file": "sources/DOT/I-040-5(12)298-as-let.pdf",
+    "bytes": 67296875,
+    "pages": 142,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__I-040-5(12)298-as-let.txt",
+    "sha256": "7f253f0e406f36577d30e2cff3da02eb024535e3209ece95c57a9c114c77081e"
+  },
+  {
+    "file": "sources/DOT/I-040-5(12)298-ROW.pdf",
+    "bytes": 9113522,
+    "pages": 11,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__I-040-5(12)298-ROW.txt",
+    "sha256": "d7852889d6d98892c452998b4216218f6a46fbbefde0edd1f3aef9194b9bda75"
+  },
+  {
+    "file": "sources/DOT/I-040-5(120298-as-built.pdf",
+    "bytes": 32085191,
+    "pages": 67,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__I-040-5(120298-as-built.txt",
+    "sha256": "ea160bcc6f256a878fb236f0de54bd03effdc925bd3cfe638333a6bba406256b"
+  },
+  {
+    "file": "sources/DOT/I-040-5(13)291-AS-BUILT.pdf",
+    "bytes": 29144416,
+    "pages": 166,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__I-040-5(13)291-AS-BUILT.txt",
+    "sha256": "a42fdd8025076cb38c27c9aca2c738947376b3bdca282a4e12e35783c66e6382"
+  },
+  {
+    "file": "sources/DOT/I-040-5(13)291-AS-LET-PRT#2.pdf",
+    "bytes": 13910283,
+    "pages": 34,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__I-040-5(13)291-AS-LET-PRT_2.txt",
+    "sha256": "8a289512710eedc1880022bfbd19c01ce0b2a1ee90a6dfa928a43995978b1ea1"
+  },
+  {
+    "file": "sources/DOT/QUAD45.pdf",
+    "bytes": 592706,
+    "pages": 1,
+    "chars": 133,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        1728.0,
+        2592.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__QUAD45.txt",
+    "sha256": "a4437f3b61738fc762b1ca6a1f4252bd6b4b85fbad4855f477de7a54b62c21a1"
+  },
+  {
+    "file": "sources/DOT/QUAD46 i-40 Cuervo.pdf",
+    "bytes": 709460,
+    "pages": 1,
+    "chars": 231,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        1728.0,
+        2592.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__QUAD46_i-40_Cuervo.txt",
+    "sha256": "109448a6734d1a9a5ee242c3f94a479cc8bd4217384a0b6e3d6df8bafd5c064c"
+  },
+  {
+    "file": "sources/DOT/QUAD57.pdf",
+    "bytes": 824641,
+    "pages": 1,
+    "chars": 512,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        1728.0,
+        2592.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__QUAD57.txt",
+    "sha256": "2fabb7c4ba3c8a680e38282497dbd3f231e44c874b5f27e50856c7b63d4657a8"
+  },
+  {
+    "file": "sources/DOT/Rt 66 index.pdf",
+    "bytes": 361440,
+    "pages": 1,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/DOT__Rt_66_index.txt",
+    "sha256": "ae83aef1f4157065d7baf7d826f91dee331f7b3eef70914910f48db8a7be38b2"
+  },
+  {
+    "file": "sources/School Board/2010 REGULAR SB MINUTES 11-11-2010.pdf",
+    "bytes": 573183,
+    "pages": 13,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        610.92,
+        1011.6
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2010_REGULAR_SB_MINUTES_11-11-2010.txt",
+    "sha256": "f10d48e47e71fe6dd743a954d5abc3366cd34fa38223faa4c69ee37f56a86985"
+  },
+  {
+    "file": "sources/School Board/2010 REGULAR SB MINUTES 12-9-2010.pdf",
+    "bytes": 524790,
+    "pages": 12,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        613.8,
+        1015.92
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2010_REGULAR_SB_MINUTES_12-9-2010.txt",
+    "sha256": "14f44e685fefe345e5827bc94cadbafc6c4492ba37fa2a9a9b16ea06afa40fe8"
+  },
+  {
+    "file": "sources/School Board/2010 REGULAR SB MINUTES 7-10-2010.pdf",
+    "bytes": 284877,
+    "pages": 9,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        610.92,
+        1010.88
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2010_REGULAR_SB_MINUTES_7-10-2010.txt",
+    "sha256": "343cb72f26338dd7f482c346863cfe4de09eae36af9745194b32ada3aadac2a9"
+  },
+  {
+    "file": "sources/School Board/2011 REGULAR SB MINUTES 1-13-2011.pdf",
+    "bytes": 532550,
+    "pages": 12,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        610.92,
+        1015.56
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2011_REGULAR_SB_MINUTES_1-13-2011.txt",
+    "sha256": "496e0d53d9162d9d308d0fe0e8467a232a0046eb39581d38ae9bb28c60af8971"
+  },
+  {
+    "file": "sources/School Board/2011 REGULAR SB MINUTES 10-13-2011.pdf",
+    "bytes": 600708,
+    "pages": 11,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        611.28,
+        1017.36
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2011_REGULAR_SB_MINUTES_10-13-2011.txt",
+    "sha256": "6f68633486123e6f103c6ab6ede5221cfbeeeb9689d2b0dd0e5816c5da0f8bc2"
+  },
+  {
+    "file": "sources/School Board/2011 REGULAR SB MINUTES 11-10-2011(2).pdf",
+    "bytes": 894112,
+    "pages": 11,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        616.32,
+        1023.84
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2011_REGULAR_SB_MINUTES_11-10-2011(2).txt",
+    "sha256": "3c8912d5e982f5032d2bdafecdbfd4995ff78426b488ede4cd9ad50312185a8a"
+  },
+  {
+    "file": "sources/School Board/2011 REGULAR SB MINUTES 12-8-2011.pdf",
+    "bytes": 525495,
+    "pages": 10,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        615.24,
+        1014.48
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2011_REGULAR_SB_MINUTES_12-8-2011.txt",
+    "sha256": "b9201952cc150eed130846cbd53f78c0fc5f4bfa1d47a1fdd8b1d7872b1cd57d"
+  },
+  {
+    "file": "sources/School Board/2011 REGULAR SB MINUTES 7-14-2011.pdf",
+    "bytes": 545710,
+    "pages": 12,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        610.92,
+        1014.84
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2011_REGULAR_SB_MINUTES_7-14-2011.txt",
+    "sha256": "441fac581aab1b5af48923cc67dfd52f8c3c1bc191354a73d34ef5d8912d6ae1"
+  },
+  {
+    "file": "sources/School Board/2011 REGULAR SB MINUTES 9-8-2011.pdf",
+    "bytes": 270221,
+    "pages": 9,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        614.16,
+        1023.84
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2011_REGULAR_SB_MINUTES_9-8-2011.txt",
+    "sha256": "b68c2a6e723a76c1433a8033393b8cda7a50d7f4ea4d1a1534b7490f5af91977"
+  },
+  {
+    "file": "sources/School Board/2012 REGULAR SB MINUTES 1-11-2012.pdf",
+    "bytes": 583458,
+    "pages": 11,
+    "chars": 0,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        618.48,
+        1010.52
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__2012_REGULAR_SB_MINUTES_1-11-2012.txt",
+    "sha256": "884ebfe228c3dd380caacd5d8de003c8399e93856a964a2b3d2b8e3913f554e1"
+  },
+  {
+    "file": "sources/School Board/T. OSBORN IRPA 9-15 FINAL RESPONSE.pdf",
+    "bytes": 577030,
+    "pages": 2,
+    "chars": 5123,
+    "page_sizes": [
+      [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ]
+    ],
+    "text_file": "research_evidence/dot_school_intake_2026-09-29/School_Board__T._OSBORN_IRPA_9-15_FINAL_RESPONSE.txt",
+    "sha256": "e70cc718daff9b4822ad39dbf51473612c815da97c19aa1e59efd3ad89e8048b"
+  }
+]

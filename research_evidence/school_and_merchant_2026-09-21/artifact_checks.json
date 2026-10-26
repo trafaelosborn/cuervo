@@ -1,0 +1,72 @@
+{
+  "pdf": "B:\\Meridian\\Cuervo\\output\\pdf\\cuervo_school_and_merchant_followup_2026-09-21.pdf",
+  "sha256": "522d617f2b58488d18e32d7f1f646bb1de7355e34f85f6576ad4502b1fd06110",
+  "pages": 10,
+  "sources": 22,
+  "observations": 12,
+  "pupil_paths": 5,
+  "checks_passed": true,
+  "page_checks": [
+    {
+      "page": 1,
+      "characters": 2466,
+      "words": 375,
+      "outside_safe_page_area": []
+    },
+    {
+      "page": 2,
+      "characters": 2664,
+      "words": 385,
+      "outside_safe_page_area": []
+    },
+    {
+      "page": 3,
+      "characters": 2912,
+      "words": 432,
+      "outside_safe_page_area": []
+    },
+    {
+      "page": 4,
+      "characters": 2889,
+      "words": 449,
+      "outside_safe_page_area": []
+    },
+    {
+      "page": 5,
+      "characters": 3037,
+      "words": 447,
+      "outside_safe_page_area": []
+    },
+    {
+      "page": 6,
+      "characters": 2810,
+      "words": 407,
+      "outside_safe_page_area": []
+    },
+    {
+      "page": 7,
+      "characters": 3079,
+      "words": 454,
+      "outside_safe_page_area": []
+    },
+    {
+      "page": 8,
+      "characters": 2611,
+      "words": 401,
+      "outside_safe_page_area": []
+    },
+    {
+      "page": 9,
+      "characters": 2791,
+      "words": 388,
+      "outside_safe_page_area": []
+    },
+    {
+      "page": 10,
+      "characters": 1557,
+      "words": 212,
+      "outside_safe_page_area": []
+    }
+  ],
+  "visual_review": "All ten final PNG renders inspected separately; tables, headings and body text readable, no clipping or overlap."
+}

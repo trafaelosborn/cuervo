@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="554.4pt" viewBox="0 0 576 554.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-28T16:23:03.658486</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 554.4 
+L 576 554.4 
+L 576 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 205.50528 366.34752 
+L 370.49472 366.34752 
+Q 373.7088 366.34752 373.7088 363.586608 
+L 373.7088 116.024832 
+Q 373.7088 113.26392 370.49472 113.26392 
+L 205.50528 113.26392 
+Q 202.2912 113.26392 202.2912 116.024832 
+L 202.2912 363.586608 
+Q 202.2912 366.34752 205.50528 366.34752 
+z
+" clip-path="url(#p19ed83dd4b)" style="fill: #f2eee7"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 178.370655 105.617516 
+Q 191.042656 121.317492 202.591123 135.625466 
+" clip-path="url(#p19ed83dd4b)" style="fill: none; stroke-dasharray: 4.8,4.8; stroke-dashoffset: 0; stroke: #96714f; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 201.252734 129.509199 
+L 202.591123 135.625466 
+L 196.895076 133.026417 
+z
+" clip-path="url(#p19ed83dd4b)" style="fill: #96714f; stroke-dasharray: 4.8,4.8; stroke-dashoffset: 0; stroke: #96714f; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 179.117024 251.30952 
+Q 191.044491 251.30952 201.183104 251.30952 
+" clip-path="url(#p19ed83dd4b)" style="fill: none; stroke: #1b3558; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 195.583104 248.50952 
+L 201.183104 251.30952 
+L 195.583104 254.10952 
+z
+" clip-path="url(#p19ed83dd4b)" style="fill: #1b3558; stroke: #1b3558; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 178.013623 396.775296 
+Q 191.041632 370.949611 203.263949 346.721067 
+" clip-path="url(#p19ed83dd4b)" style="fill: none; stroke: #1b3558; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 198.24181 350.4598 
+L 203.263949 346.721067 
+L 203.241652 352.982017 
+z
+" clip-path="url(#p19ed83dd4b)" style="fill: #1b3558; stroke: #1b3558; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 372.30058 137.028282 
+Q 385.226193 121.316249 397.015336 106.985677 
+" clip-path="url(#p19ed83dd4b)" style="fill: none; stroke: #1b3558; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 391.295294 109.531482 
+L 397.015336 106.985677 
+L 395.619954 113.089193 
+z
+" clip-path="url(#p19ed83dd4b)" style="fill: #1b3558; stroke: #1b3558; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 373.030111 251.30952 
+Q 385.225469 251.30952 395.631973 251.30952 
+" clip-path="url(#p19ed83dd4b)" style="fill: none; stroke: #1b3558; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 390.031973 248.50952 
+L 395.631973 251.30952 
+L 390.031973 254.10952 
+z
+" clip-path="url(#p19ed83dd4b)" style="fill: #1b3558; stroke: #1b3558; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 371.943613 345.116044 
+Q 385.225513 370.948248 397.689442 395.189566 
+" clip-path="url(#p19ed83dd4b)" style="fill: none; stroke-dasharray: 4.8,4.8; stroke-dashoffset: 0; stroke: #96714f; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 397.618918 388.928972 
+L 397.689442 395.189566 
+L 392.638653 391.489628 
+z
+" clip-path="url(#p19ed83dd4b)" style="fill: #96714f; stroke-dasharray: 4.8,4.8; stroke-dashoffset: 0; stroke: #96714f; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b3558" x="288" y="184.58748" transform="rotate(-0 288 184.58748)">CUERVO</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 13.4px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(226.986031 212.481003)">Assembling goods</text>
+    <text style="font-size: 13.4px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(233.928906 236.601003)">Handling freight</text>
+    <text style="font-size: 13.4px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(227.399547 260.721003)">Trading and credit</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #756e65" transform="translate(247.281016 296.18004)">A place where</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #756e65" transform="translate(224.661055 313.43004)">transactions gathered</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="25.5168" y="59.426136" transform="rotate(-0 25.5168 59.426136)">ENCINO</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(25.5168 96.228036)">Hides and pelts</text>
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(25.5168 115.550223)">combined at Cuervo</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="25.5168" y="135.351216" transform="rotate(-0 25.5168 135.351216)">1905 and 1907</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="25.5168" y="206.674776" transform="rotate(-0 25.5168 206.674776)">SURROUNDING COUNTRY</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(25.5168 243.476676)">Wool brought in</text>
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(25.5168 261.626676)">for marketing</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="25.5168" y="282.599856" transform="rotate(-0 25.5168 282.599856)">July 1910</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="25.5168" y="353.923416" transform="rotate(-0 25.5168 353.923416)">OUTSIDE SUPPLIERS</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(25.5168 390.725316)">Flour, sugar and grain</text>
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(25.5168 410.047503)">unloaded at Cuervo</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="25.5168" y="429.848496" transform="rotate(-0 25.5168 429.848496)">March 1910</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 10.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="406.92096" y="59.426136" transform="rotate(-0 406.92096 59.426136)">KANSAS</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(406.92096 96.782934)">6,000 lambs and wethers</text>
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(406.92096 114.378036)">shipped for feeding</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="406.92096" y="135.351216" transform="rotate(-0 406.92096 135.351216)">October 1910</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 10.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="406.92096" y="206.674776" transform="rotate(-0 406.92096 206.674776)">LOS ANGELES</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(406.92096 243.476676)">Cattle shipped</text>
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(406.92096 262.798863)">from Cuervo</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="406.92096" y="282.599856" transform="rotate(-0 406.92096 282.599856)">December 1910</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="406.92096" y="353.923416" transform="rotate(-0 406.92096 353.923416)">BOSTON</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(406.92096 390.725316)">Wool-buyer</text>
+    <text style="font-size: 12.1px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(406.92096 408.875316)">relationships</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="406.92096" y="429.848496" transform="rotate(-0 406.92096 429.848496)">Early operations; undated</text>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b3558" x="31.68" y="501.732" transform="rotate(-0 31.68 501.732)">Solid arrows: contemporary newspaper reports, 1910</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="31.68" y="522.7992" transform="rotate(-0 31.68 522.7992)">Dashed arrows: relationships described in Grubbs's 1958 history</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="31.68" y="543.8664" transform="rotate(-0 31.68 543.8664)">Selected connections; position and arrow width do not encode route or volume.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p19ed83dd4b">
+   <rect x="20.16" y="16.632" width="535.68" height="460.152"/>
+  </clipPath>
+ </defs>
+</svg>

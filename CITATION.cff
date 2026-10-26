@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the monograph and identify the release when using these research materials."
+title: "Cuervo: An Economic History of a New Mexico Ghost Town"
+type: dataset
+authors:
+  - name: Meridian
+version: 1.0.0
+date-released: 2026-10-26
+url: "https://github.com/trafaelosborn/cuervo"
+repository-code: "https://github.com/trafaelosborn/cuervo"
+preferred-citation:
+  type: book
+  title: "Cuervo: An Economic History of a New Mexico Ghost Town"
+  authors:
+    - name: Meridian
+  year: 2026
+  publisher:
+    name: Meridian
+  url: "https://github.com/trafaelosborn/cuervo/releases/tag/v1.0.0"

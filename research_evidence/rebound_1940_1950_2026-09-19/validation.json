@@ -1,0 +1,13 @@
+{
+  "pdf_pages": 8,
+  "bytes": 206414,
+  "sha256": "6ed033b872ec498f0706f58ec3f834697e5065a3fc376f5cc940c8779147dc30",
+  "checks": [
+    "398 unique source-row IDs",
+    "All persons assigned once to 101 head-listed groups",
+    "Source references for selected residence and service rows resolve",
+    "Household example IDs resolve",
+    "Revised median and cattle stock printed in PDF"
+  ],
+  "visual_review": "All eight pages visually inspected. Final page 2 wording checked after rebuild. No clipped text, overlapping elements, split tables, or stray continuation pages observed."
+}

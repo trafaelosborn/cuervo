@@ -1,0 +1,28 @@
+{
+  "status": "passed",
+  "pages": 148,
+  "duplex_sheets": 74,
+  "main_text_and_notes_unchanged": true,
+  "chapter_and_figure_pagination_unchanged": true,
+  "production_labels_removed": true,
+  "reader_facing_photo_page_references": 16,
+  "source_note_calls": 211,
+  "distinct_notes": 169,
+  "internal_links": 247,
+  "external_links": 120,
+  "bookmarks": 10,
+  "all_original_image_streams_preserved": true,
+  "unique_image_streams": 64,
+  "embedded_fonts": [
+    "/AAAAAA+JostItalicRegularR07",
+    "/AAAAAA+JostRegularR07",
+    "/AAAAAA+JostSemiboldR07",
+    "/AAAAAA+PlayfairDisplayBoldR07",
+    "/AAAAAA+PlayfairDisplayRegularR07"
+  ],
+  "minimum_text_edge_clearance_points": 30.694853090000038,
+  "minimum_image_edge_clearance_points": 55.05882108000003,
+  "source_sha256": "e361e17a47bdabf3f90eb6ad53ca3c680684c12b761448f6cd9ea6106341322d",
+  "output_sha256": "dcfe3bbcab511a1e22efc6ae37bc81dc8a764137cd7df8bdaa0d7099944e6240",
+  "visual_review": "passed"
+}

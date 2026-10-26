@@ -1,0 +1,93 @@
+{
+  "created": "2026-09-28",
+  "inputs": [
+    {
+      "file": "research_evidence/census_full_history_2026-09-18/person_age_observations.json",
+      "sha256": "1c250d63c22d24ceb52c770447127896c7297f537274c0875932c656ccc08ff9",
+      "role": "held transcription or analysis input"
+    },
+    {
+      "file": "research_evidence/rebound_1940_1950_2026-09-19/people_name_age_readings.json",
+      "sha256": "e9933c7e1bfa9f10a5cdce674e1f0f450deb22f98be4a3fb6becc36a51344841",
+      "role": "held transcription or analysis input"
+    },
+    {
+      "file": "research_evidence/census_full_history_2026-09-18/published_population_series.json",
+      "sha256": "646b655059f425b600d9875d6d10f9de87cf0b54e38a647aee6b5b51b8552fae",
+      "role": "held transcription or analysis input"
+    },
+    {
+      "file": "research_evidence/rebound_1940_1950_2026-09-19/households.json",
+      "sha256": "e03b5b22aeefd15c1eac11fa9d292622736c6375c865cf6cad9a9215a5e74e2a",
+      "role": "held transcription or analysis input"
+    },
+    {
+      "file": "research_evidence/census_deep_dive_2026-09-18/population_housing_observations.json",
+      "sha256": "adb1f34b7deb8bcf474520e8e12527783e22363faee3df19f656d1535ecc0c04",
+      "role": "held transcription or analysis input"
+    },
+    {
+      "output": "higgins-names.png",
+      "derived_from": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1950_higgins.png",
+      "input_sha256": "0e26a8c42f857257e1734990a73770b92d7f89e141145b6c3c2cbf1501906b51",
+      "crop_pixels": [
+        415,
+        0,
+        1490,
+        294
+      ],
+      "treatment": "Crop only; no retouching. Adjacent panels omit intervening columns, identified in the caption."
+    },
+    {
+      "output": "higgins-work.png",
+      "derived_from": "research_evidence/pupil_links_and_holbrook_2026-09-21/crops/1950_higgins.png",
+      "input_sha256": "0e26a8c42f857257e1734990a73770b92d7f89e141145b6c3c2cbf1501906b51",
+      "crop_pixels": [
+        2330,
+        0,
+        3300,
+        294
+      ],
+      "treatment": "Crop only; no retouching. Adjacent panels omit intervening columns, identified in the caption."
+    },
+    {
+      "output": "cafe-names.png",
+      "derived_from": "research_evidence/regional_functions_2026-09-21/census_views/10-8_0024.jpg",
+      "input_sha256": "c92468376f0ecaa33b7339e15b89c8743d2b13525181b16649eb1fd3006dbe02",
+      "crop_pixels": [
+        337,
+        410,
+        818,
+        608
+      ],
+      "treatment": "Crop only; no retouching. Adjacent panels omit intervening columns, identified in the caption."
+    },
+    {
+      "output": "cafe-work.png",
+      "derived_from": "research_evidence/regional_functions_2026-09-21/census_views/10-8_0024.jpg",
+      "input_sha256": "c92468376f0ecaa33b7339e15b89c8743d2b13525181b16649eb1fd3006dbe02",
+      "crop_pixels": [
+        1490,
+        410,
+        1940,
+        608
+      ],
+      "treatment": "Crop only; no retouching. Adjacent panels omit intervening columns, identified in the caption."
+    },
+    {
+      "census_source": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg",
+      "sheet": "8",
+      "lines": "19-22",
+      "prior_crop_manifest": "research_evidence/pupil_links_and_holbrook_2026-09-21/crop_manifest.json",
+      "source_sha256": "cf453f8c2373d4c5daefe424b77c3064099ea265fbdb9f4ea170ef3cc314fc5b"
+    },
+    {
+      "census_source": "sources/03_census/1950_manuscripts/ed_10-8/43290879-New_Mexico-180132-0024.jpg",
+      "sheet": "71",
+      "lines": "1-5",
+      "prior_view_manifest": "research_evidence/regional_functions_2026-09-21/census_view_manifest.json",
+      "source_sha256": "88c7c4fc5829068f464066d19f8a625001b89300372f0ac0a2ce157708baf3e9"
+    }
+  ],
+  "calculation_file": "B:\\Meridian\\Cuervo\\research_evidence\\chapter05_2026-09-28\\calculations.json"
+}

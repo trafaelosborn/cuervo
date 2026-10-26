@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="626.4pt" viewBox="0 0 576 626.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-28T16:23:04.303659</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 626.4 
+L 576 626.4 
+L 576 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 137.52 537.394255 
+L 137.52 81.261164 
+" clip-path="url(#pedadfb5334)" style="fill: none; stroke: #d8d2c9; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mb7b7ac86d0" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #1b3558"/>
+    </defs>
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="81.261164" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="87.0836" transform="rotate(-0 120.0096 87.0836)">1903</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="78.26667" transform="rotate(-0 159.408 78.26667)">MERCHANT</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242528" x="159.408" y="95.5433" transform="rotate(-0 159.408 95.5433)">The move from Cabra to Cuervo was complete by year end.</text>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="131.942618" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="137.765055" transform="rotate(-0 120.0096 137.765055)">1911</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="128.948124" transform="rotate(-0 159.408 128.948124)">MIXED FORTUNES</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 146.224754)">A school was being built; lumber stock was withdrawn; the</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 162.646754)">depot platform was improved.</text>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="182.624073" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="188.446509" transform="rotate(-0 120.0096 188.446509)">1919</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="179.629579" transform="rotate(-0 159.408 179.629579)">SCHOOLING</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 196.906209)">A teacher left. Ninth-grade instruction was interrupted</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 213.328209)">and a replacement was proposed.</text>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="233.305527" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="239.127964" transform="rotate(-0 120.0096 239.127964)">1922</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="230.311033" transform="rotate(-0 159.408 230.311033)">PUBLISHING</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 247.587664)">Katharine A. Hicks withdrew financial support and argued</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 264.009664)">for publication at Santa Rosa.</text>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="283.986982" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="289.809419" transform="rotate(-0 120.0096 289.809419)">1946</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="280.992488" transform="rotate(-0 159.408 280.992488)">ROADSIDE TRADE</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 298.269118)">Rittenhouse recorded gas and groceries, but no cafe,</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 314.691118)">garage or tourist accommodation.</text>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="334.668436" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="340.490873" transform="rotate(-0 120.0096 340.490873)">1958</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="331.673942" transform="rotate(-0 159.408 331.673942)">TRADE AND RAIL</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 348.950573)">The merchant still operated. Advertised local passenger</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 365.372573)">stops disappeared between April and October.</text>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="385.349891" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="391.172328" transform="rotate(-0 120.0096 391.172328)">1963-65</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="382.355397" transform="rotate(-0 159.408 382.355397)">INTERSTATE</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 399.632027)">The documented nearby I-40 project was built, decades</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 417.20684)">after the first recorded withdrawals.</text>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="436.031345" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="441.853782" transform="rotate(-0 120.0096 441.853782)">1974</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="433.036851" transform="rotate(-0 159.408 433.036851)">RAIL ADMINISTRATION</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 450.313482)">Cuervo was listed without an agent. Its billing was</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 466.735482)">assigned to Tucumcari, as was Santa Rosa's.</text>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="486.7128" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="492.535237" transform="rotate(-0 120.0096 492.535237)">2017</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="483.718306" transform="rotate(-0 159.408 483.718306)">CHURCH</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 501.540663)">A funeral Mass was announced at the Cuervo church; the</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 518.569749)">notice also described restoration work.</text>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#pedadfb5334)">
+     <use xlink:href="#mb7b7ac86d0" x="137.52" y="537.394255" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="120.0096" y="543.216691" transform="rotate(-0 120.0096 543.216691)">2020 / 2026</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #96714f" x="159.408" y="534.399761" transform="rotate(-0 159.408 534.399761)">RANCHING</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 551.676391)">A 2020 ranch purchase outside Cuervo was reported in 2026.</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 568.098391)">The operation became a conservation-award finalist that</text>
+    <text style="font-size: 11.9px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(159.408 583.33132)">year.</text>
+   </g>
+  </g>
+  <g id="text_31">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="34.56" y="20.885422" transform="rotate(-0 34.56 20.885422)">SELECTED OBSERVATIONS / 1903-2026</text>
+  </g>
+  <g id="text_32">
+   <text style="font-size: 9.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="34.56" y="611.9928" transform="rotate(-0 34.56 611.9928)">Rows are equally spaced. They do not measure elapsed time or continuous operation.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pedadfb5334">
+   <rect x="14.4" y="40.716" width="547.2" height="557.496"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,4 @@
+[
+  {"year":1950,"sheet":"1","line":2,"previous_age":58,"revised_age":38,"name_read":"Ruth Parker","reason":"Enlarged original age-column review clearly reads 38. Prior first transcription misread the initial digit.","source":"sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"},
+  {"year":1950,"sheet":"1","line":23,"previous_age":24,"revised_age":34,"name_read":"Henry Yates","reason":"Enlarged original age-column review clearly reads 34. The reading is supported independently by the likely 1940 Henry Yates age 24, but is not inferred from that match.","source":"sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0002.jpg"}
+]

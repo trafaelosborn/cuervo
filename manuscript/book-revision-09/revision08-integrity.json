@@ -1,0 +1,22 @@
+{
+  "manuscript/book-revision-08/bibliography.md": "4c31530e2193ed6f067472e961b9222cf1977fee07a63d892d5b46fac6933fda",
+  "manuscript/book-revision-08/build-manifest.json": "e078f8a1917f19346f65d002da56da606dad26b7fa6fb085210734ae7481f1e0",
+  "manuscript/book-revision-08/cuervo-complete-manuscript.md": "0036ddb9ecf1792235b396742f1634d9ed06da522c0930fffacde93523b863bf",
+  "manuscript/book-revision-08/editorial-response.md": "78a9f02a115bca38da06af63d222df0e7dc12b8c57a37339e830b3127d32dd9e",
+  "manuscript/book-revision-08/photograph-credits.md": "38bc97d9b09d866335b1ab4d3343b99549671ed0ad25e191a890a5eea370d790",
+  "manuscript/book-revision-08/revision06-integrity.json": "e382dc81350916ce011217ef6b3831552f40897b21a252cd64cf8d4075d9fa54",
+  "manuscript/book-revision-08/revision07-integrity.json": "fb0b06ac896a6f166c5ef530420b2220d83d36095aea5220fab642a71492ecb6",
+  "manuscript/book-revision-08/validation.json": "802c88d26cc3e284db3789f067e7f9faca5a7ee9cbc74f866649fe1958f1306a",
+  "manuscript/book-revision-08/chapters/chapter-01-reading-cuervo.md": "e49efbb7359137ddcb2d9f99b0aee746f953d42e4c0b2726d196479da1508e6d",
+  "manuscript/book-revision-08/chapters/chapter-02-why-a-town-here.md": "c7004d3cdeceddf91e412b108fac9247b443c4063bb52b8ac409314e266f9fd5",
+  "manuscript/book-revision-08/chapters/chapter-03-the-business-of-ranch-country.md": "2acf95797c246de8d36060f8644f37cd16d98fd1a6281982bbe0d2f43f67d42a",
+  "manuscript/book-revision-08/chapters/chapter-04-keeping-a-town-working.md": "a95eeedc136e3d804604a705e37c365c46207832a6638da476ee1b8fa3929f9a",
+  "manuscript/book-revision-08/chapters/chapter-05-people-across-places.md": "2cbc52e358c54343f7b40ed279aeafb1ed3f08ca94c33d8df10404a7141b1e82",
+  "manuscript/book-revision-08/chapters/chapter-06-changing-the-connections.md": "e7e1807c81f1d71f21e7186feda6f6d70528f839dd7e193949c3f0d52f9384fd",
+  "manuscript/book-revision-08/chapters/chapter-07-explaining-the-cumulative-decline.md": "856835f76dcd1f1ecb45e93ae867624e4d9b499d24b7ef21cf2ee733b6568e88",
+  "manuscript/book-revision-08/chapters/chapter-08-what-remained.md": "2aba7f055c415b4031d9f6f201ff09e8180ac661d02e44be3ad3a6a9028f6e51",
+  "output/pdf/cuervo-complete-reading-proof-revision-08.pdf": "7da800053e9415f9f12838d26d0eb5fef8bdfd98c9ba40755442af6e2b65030b",
+  "manuscript/build_book_revision08.py": "71603fecfa5999df055b247a20f9a6fc1c75ad5c0b2b974af0a8ede7d783d677",
+  "manuscript/check_book_revision08.py": "33ccb7c22fd8cf2c83454bc5aab2b3de40bcf9c25cc0b88573e3d0ad04bbd446",
+  "manuscript/book_visuals_revision08.py": "2eeac764f8c45c835e53ec5d245b817c196f247c89d9fed58f457d2f2d83dedb"
+}

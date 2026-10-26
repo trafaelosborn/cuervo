@@ -1,0 +1,323 @@
+{
+  "status": "draft figure for next Chapter 3 proof; not yet inserted",
+  "title": "The cattle-price cycle",
+  "input": "B:\\Meridian\\Cuervo\\research_evidence\\real_cattle_prices_2026-09-19\\annual_prices_and_cpi.json",
+  "input_sha256": "1fcd003dd63313d4e6acfd3566e5580b885624cfcccea6815fcda4d55c676806",
+  "source_record": [
+    {
+      "id": "USDA265",
+      "title": "Prices Received by Farmers for Beef Cattle, 1909-59",
+      "url": "https://esmis.nal.usda.gov/usda-esmis/files/x920fw86z/5t34sp07q/df65vc27m/prflvstckdypltry_Prices_Received_by_Farmers_for_Beef_Cattle__1909-59.pdf",
+      "path": "sources/08_context/usda_beef_cattle_prices_1909_1959_bulletin_265.pdf",
+      "locator": "Table 43, printed/PDF page 46; method page 3",
+      "used_years": "1913-1958; 1959 overlap checked",
+      "visual_check": true,
+      "bytes": 6494718,
+      "sha256": "797af802df93ea2b5b1cb2bebfb9dcdc798b1a73d8acc0a95f46fcfb76750ce5"
+    },
+    {
+      "id": "USDA680",
+      "title": "Prices Received by Farmers: Cattle, Milk Cows, Hogs, Sheep, Wool, 1959-78",
+      "url": "https://esmis.nal.usda.gov/usda-esmis/files/x920fw86z/xg94hs65j/rv042x51f/prflvstckdypltry_Prices_Received_by_Farmers_-_Cattle__Milk_Cows__Hogs__Sheep__Wool__by_State_and_United_States__1959-78.pdf",
+      "path": "sources/08_context/usda_cattle_prices_1959_1978.pdf",
+      "locator": "Beef cattle table, NEW MEXICO, printed/PDF page 16; methods pages 4-5; January 1982",
+      "used_years": "1959-1978",
+      "visual_check": true,
+      "bytes": 12757456,
+      "sha256": "be035d62fbe49df51603ac3d2821a3d15a963d6ff4a9a82d17679d4d9e3a1e44"
+    },
+    {
+      "id": "BLSCPI",
+      "title": "Historical CPI-U, U.S. city average, all items: index averages",
+      "url": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202312.pdf",
+      "locator": "December 2023 release, PDF pages 3-4, Annual avg. column",
+      "used_years": "1913-1978",
+      "retrieval": "BLS web text retrieved September 19, 2026; PDF download HTTP 403; original not held locally",
+      "visual_check": false
+    }
+  ],
+  "method": "100 * (nominal_price(year)/CPI(year)) / (nominal_price(1951)/CPI(1951)).",
+  "years": [
+    1913,
+    1978
+  ],
+  "observations": 66,
+  "scope": "New Mexico live beef cattle, excluding calves, per 100 lb; state observations, not Cuervo transactions.",
+  "limits": "Consumer purchasing power is not ranch profitability. Annual averages reflect the sale mix. No population overlay or causal estimate.",
+  "annotations": {
+    "real_change_1939_1949_pct": 80.86202222824615,
+    "real_change_1951_1956_pct": -51.68825653004885,
+    "index_1973": 95.76544053078348
+  },
+  "series": [
+    {
+      "year": 1913,
+      "index_1951_100": 56.88655508150093
+    },
+    {
+      "year": 1914,
+      "index_1951_100": 58.194945848375454
+    },
+    {
+      "year": 1915,
+      "index_1951_100": 60.40676269793044
+    },
+    {
+      "year": 1916,
+      "index_1951_100": 55.97323883019243
+    },
+    {
+      "year": 1917,
+      "index_1951_100": 61.59747292418773
+    },
+    {
+      "year": 1918,
+      "index_1951_100": 60.9175891170775
+    },
+    {
+      "year": 1919,
+      "index_1951_100": 50.45804553327351
+    },
+    {
+      "year": 1920,
+      "index_1951_100": 38.48375451263538
+    },
+    {
+      "year": 1921,
+      "index_1951_100": 25.9564770183329
+    },
+    {
+      "year": 1922,
+      "index_1951_100": 27.09730101426852
+    },
+    {
+      "year": 1923,
+      "index_1951_100": 25.524099056305023
+    },
+    {
+      "year": 1924,
+      "index_1951_100": 24.975193700255446
+    },
+    {
+      "year": 1925,
+      "index_1951_100": 25.477050025786486
+    },
+    {
+      "year": 1926,
+      "index_1951_100": 29.69671011034286
+    },
+    {
+      "year": 1927,
+      "index_1951_100": 37.22146147143036
+    },
+    {
+      "year": 1928,
+      "index_1951_100": 49.401482044461325
+    },
+    {
+      "year": 1929,
+      "index_1951_100": 47.20586062026304
+    },
+    {
+      "year": 1930,
+      "index_1951_100": 35.40932575282648
+    },
+    {
+      "year": 1931,
+      "index_1951_100": 29.640889226676805
+    },
+    {
+      "year": 1932,
+      "index_1951_100": 26.034941632190574
+    },
+    {
+      "year": 1933,
+      "index_1951_100": 23.10469314079422
+    },
+    {
+      "year": 1934,
+      "index_1951_100": 22.4150008082332
+    },
+    {
+      "year": 1935,
+      "index_1951_100": 41.10780257714301
+    },
+    {
+      "year": 1936,
+      "index_1951_100": 37.81523517647975
+    },
+    {
+      "year": 1937,
+      "index_1951_100": 39.76133172884075
+    },
+    {
+      "year": 1938,
+      "index_1951_100": 34.6160739432112
+    },
+    {
+      "year": 1939,
+      "index_1951_100": 41.86686751681687
+    },
+    {
+      "year": 1940,
+      "index_1951_100": 48.94275399690562
+    },
+    {
+      "year": 1941,
+      "index_1951_100": 52.9973722340922
+    },
+    {
+      "year": 1942,
+      "index_1951_100": 59.31208611104958
+    },
+    {
+      "year": 1943,
+      "index_1951_100": 58.05388034473403
+    },
+    {
+      "year": 1944,
+      "index_1951_100": 51.7312110272399
+    },
+    {
+      "year": 1945,
+      "index_1951_100": 56.317689530685925
+    },
+    {
+      "year": 1946,
+      "index_1951_100": 61.13116726835137
+    },
+    {
+      "year": 1947,
+      "index_1951_100": 69.4500655647472
+    },
+    {
+      "year": 1948,
+      "index_1951_100": 83.3470647272945
+    },
+    {
+      "year": 1949,
+      "index_1951_100": 75.72126323453568
+    },
+    {
+      "year": 1950,
+      "index_1951_100": 89.96809323366838
+    },
+    {
+      "year": 1951,
+      "index_1951_100": 100.0
+    },
+    {
+      "year": 1952,
+      "index_1951_100": 77.56964784415229
+    },
+    {
+      "year": 1953,
+      "index_1951_100": 50.27109614786571
+    },
+    {
+      "year": 1954,
+      "index_1951_100": 54.084522163917704
+    },
+    {
+      "year": 1955,
+      "index_1951_100": 52.18492375666792
+    },
+    {
+      "year": 1956,
+      "index_1951_100": 48.31174346995116
+    },
+    {
+      "year": 1957,
+      "index_1951_100": 57.787427573005125
+    },
+    {
+      "year": 1958,
+      "index_1951_100": 74.7005109115211
+    },
+    {
+      "year": 1959,
+      "index_1951_100": 71.92923691490812
+    },
+    {
+      "year": 1960,
+      "index_1951_100": 62.78661332812957
+    },
+    {
+      "year": 1961,
+      "index_1951_100": 67.17940668654842
+    },
+    {
+      "year": 1962,
+      "index_1951_100": 66.20125756090563
+    },
+    {
+      "year": 1963,
+      "index_1951_100": 63.188693046412304
+    },
+    {
+      "year": 1964,
+      "index_1951_100": 50.86759054384535
+    },
+    {
+      "year": 1965,
+      "index_1951_100": 60.191393043378596
+    },
+    {
+      "year": 1966,
+      "index_1951_100": 67.78981147212194
+    },
+    {
+      "year": 1967,
+      "index_1951_100": 65.1981236083789
+    },
+    {
+      "year": 1968,
+      "index_1951_100": 65.81185941325366
+    },
+    {
+      "year": 1969,
+      "index_1951_100": 70.58892965699053
+    },
+    {
+      "year": 1970,
+      "index_1951_100": 68.70371059585396
+    },
+    {
+      "year": 1971,
+      "index_1951_100": 71.61385211926728
+    },
+    {
+      "year": 1972,
+      "index_1951_100": 80.38968441780526
+    },
+    {
+      "year": 1973,
+      "index_1951_100": 95.76544053078348
+    },
+    {
+      "year": 1974,
+      "index_1951_100": 69.87353636836286
+    },
+    {
+      "year": 1975,
+      "index_1951_100": 68.56521680780534
+    },
+    {
+      "year": 1976,
+      "index_1951_100": 59.880847392029835
+    },
+    {
+      "year": 1977,
+      "index_1951_100": 59.63231702231594
+    },
+    {
+      "year": 1978,
+      "index_1951_100": 76.15556687559521
+    }
+  ],
+  "outputs": [
+    "B:\\Meridian\\Cuervo\\manuscript\\figures\\visual-expansion-2026-09-27\\real-cattle-price-cycle.png",
+    "B:\\Meridian\\Cuervo\\manuscript\\figures\\visual-expansion-2026-09-27\\real-cattle-price-cycle.svg"
+  ],
+  "visual_review": "passed: final PNG inspected at reading size; labels, annotations and source text legible and unclipped"
+}

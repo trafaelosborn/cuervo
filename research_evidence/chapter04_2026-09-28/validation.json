@@ -1,0 +1,21 @@
+{
+  "chapter": 4,
+  "pages": 28,
+  "body_words": 6358,
+  "note_definitions": 21,
+  "valid_internal_links": 24,
+  "distinct_internal_destinations": 21,
+  "mean_sentence_words": 12.6,
+  "longest_sentence_words": 26,
+  "longest_sentences": [
+    "A boundary survey prepared for Santa Rosa Consolidated Schools in December 2010 identifies a 2.0661-acre school parcel in Block 15 of the Gross, Kelly & Co.",
+    "In September 2012, *Route 66 News*, drawing on the *Guadalupe County Communicator*, reported that the school board had accepted Flora Page's bid for the old school.",
+    "They do identify a form of access different from maintaining a practitioner in Cuervo: the doctor could come from another place to perform a particular service.",
+    "The main purposes of acquiring the *Clipper*, she wrote, had been to return it to Democratic alignment and help elect the party's county and state candidates.",
+    "A village could lose part of its role in providing a service while continuing to supply material for it and people who wanted to use it."
+  ],
+  "pdf_sha256": "bdee8271f6b276c4703915e80fa6be576efe6330f7f2911cbd0b3e103e9599d8",
+  "text_checks": "passed",
+  "visual_review": "passed: all 28 final pages in rendered contact sheets; plates 7, 9, 12 and 17 inspected at full rendered-page size",
+  "checked": "2026-09-28"
+}

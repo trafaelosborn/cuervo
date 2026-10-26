@@ -1,0 +1,17 @@
+{
+  "read_complete": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "remaining_body_reading": [],
+  "first_whole_book_edit": "complete",
+  "publication_fact_check": "pending",
+  "outside_review": "pending",
+  "final_production": "pending"
+}

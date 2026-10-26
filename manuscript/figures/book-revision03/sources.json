@@ -1,0 +1,615 @@
+{
+  "date": "2026-09-28",
+  "scope": "Original figures using held evidence; no new source acquisition.",
+  "figures": [
+    {
+      "key": "regional-locator",
+      "title": "Cuervo and its regional neighbors",
+      "inputs": [
+        {
+          "path": "sources/regional_functions_2026-09-21/blocks_2020_guadalupe.geojson",
+          "sha256": "e3ea4edbe4cc90fc4d2a73523bed89d5ecc288841396798a53fed8c72d85ab90"
+        },
+        {
+          "path": "research_evidence/census_deep_dive_2026-09-18/modern_2020_extract.json",
+          "sha256": "c22fb4e33ced900e7bc3ff8bff6d8cdf1e9518ee07fd6b4482c7b58e74d421fa"
+        },
+        {
+          "path": "research_evidence/regional_functions_2026-09-21.md",
+          "sha256": "9c84ea4169978999a8b4bfab5ad22e74e0d7746aeafa8fc701ea0a4ceb3994d7"
+        },
+        {
+          "path": "sources/01_railroad/rock_island_public_timetable_1926-01.pdf",
+          "sha256": "d8aa7f1c8d1d61dd7ddba526c8f77bc04c1f8fd0afa1a7e043ab664aa49b631d"
+        }
+      ],
+      "coordinates_lon_lat": {
+        "Cuervo": [
+          -104.40861,
+          35.03111
+        ],
+        "Newkirk": [
+          -104.2714962,
+          35.0635167
+        ],
+        "Santa Rosa": [
+          -104.675021,
+          34.9360514
+        ],
+        "Tucumcari": [
+          -103.7050456,
+          35.1702911
+        ],
+        "Vaughn": [
+          -105.2125943,
+          34.6072056
+        ]
+      },
+      "projection_wkt": "PROJCRS[\"unknown\",BASEGEOGCRS[\"unknown\",DATUM[\"World Geodetic System 1984\",ELLIPSOID[\"WGS 84\",6378137,298.257223563,LENGTHUNIT[\"metre\",1]],ID[\"EPSG\",6326]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8901]]],CONVERSION[\"unknown\",METHOD[\"Azimuthal Equidistant\",ID[\"EPSG\",1125]],PARAMETER[\"Latitude of natural origin\",35.03111,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",-104.40861,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"False easting\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]]]",
+      "county_blocks": 902,
+      "rail_miles": {
+        "Santa Rosa-Cuervo": 17,
+        "Cuervo-Tucumcari": 42
+      },
+      "source_locator": "2020 DHC internal points; held 2020 block polygons; regional audit section 6; January 1926 timetable, Table 2 p.18, notes p.19.",
+      "limits": "Modern county outline is neither the historical Cuervo precinct nor a trading catchment. Cuervo is the audit reference point, other points are Census internal points. No roads or historic railway routes are drawn.",
+      "outputs": [
+        "manuscript/figures/book-revision03/regional-locator.png",
+        "manuscript/figures/book-revision03/regional-locator.svg"
+      ],
+      "output_hashes": {
+        "manuscript/figures/book-revision03/regional-locator.png": "c5b92f7ef9211856c2ea12e6823fb0488c007745eaf393e149d58b40d02257c0",
+        "manuscript/figures/book-revision03/regional-locator.svg": "fb7bbca00eb465faff0f0a66434f734f68e15756d73dec94ca5928004adc529f"
+      }
+    },
+    {
+      "key": "trade-connections",
+      "title": "A small place in a wide trading network",
+      "inputs": [
+        {
+          "path": "research_evidence/economic_synthesis_2026-09-23/trade_network_observations.json",
+          "sha256": "33a8ca5a4c24d4bee42611d7cee61f3b83e743c94a34454ca303c1dd336700fc"
+        }
+      ],
+      "observations": [
+        {
+          "id": "N18",
+          "date": "1905 and 1907",
+          "source_actor": "Encino and Bond & Wiest",
+          "target_actor_or_place": "Cuervo freight consolidation",
+          "relation_type": "reported pooling arrangement",
+          "observation": "Grubbs describes combining hides/pelts for carload shipment and freight-rate advantages.",
+          "limit": "Original correspondence required to establish actual frequency and savings.",
+          "source_class": "Grubbs 1958: secondary analysis or quoted original correspondence; manuscript not inspected",
+          "local_file": "sources/origins_followup_2026-09-23/grubbs_bond_thesis_1958.pdf",
+          "printed_page": 110,
+          "pdf_page": 259
+        },
+        {
+          "id": "N08",
+          "date": "1910-07-15",
+          "source_actor": "Surrounding producers",
+          "target_actor_or_place": "Bond & Wiest, Cuervo",
+          "relation_type": "reported wool marketing",
+          "observation": "Paper describes wool coming from surrounding country and promotes the firm's prices.",
+          "limit": "No catchment boundary, complete volume or independent price comparison.",
+          "source_class": "Contemporary newspaper report, original page visually inspected",
+          "issue_date": "1910-07-15",
+          "page_id": "2601",
+          "source_url": "https://econtent.unm.edu/digital/api/singleitem/collection/dignews/id/2601",
+          "local_file": "sources/02_newspapers/cuervo_clipper/full_scans/The Cuervo Clipper, 07-15-1910 - The Cuervo Clipper 07-15-1910.pdf",
+          "pdf_page": 5
+        },
+        {
+          "id": "N07",
+          "date": "1910-03-11",
+          "source_actor": "Unidentified suppliers",
+          "target_actor_or_place": "Bond & Wiest, Cuervo",
+          "relation_type": "reported inbound freight",
+          "observation": "A car each of flour, sugar and grain unloaded.",
+          "limit": "Supplier locations and quantities within each car unknown.",
+          "source_class": "Contemporary newspaper report, original page visually inspected",
+          "issue_date": "1910-03-11",
+          "page_id": "2477",
+          "source_url": "https://econtent.unm.edu/digital/api/singleitem/collection/dignews/id/2477",
+          "local_file": "sources/02_newspapers/cuervo_clipper/full_scans/The Cuervo Clipper, 03-11-1910 - The Cuervo Clipper 03-11-1910.pdf",
+          "pdf_page": 2
+        },
+        {
+          "id": "N10",
+          "date": "1910-10-21",
+          "source_actor": "Bond & Wiest, Cuervo",
+          "target_actor_or_place": "Waubanse, Kansas (source spelling)",
+          "relation_type": "reported shipment/sale",
+          "observation": "6,000 sheep, described as lambs and wethers, shipped for feeding for mutton.",
+          "limit": "Car count withheld because scan reading remains uncertain; this is neither wool processing nor proof of local slaughter.",
+          "source_class": "Contemporary newspaper report, original page visually inspected",
+          "issue_date": "1910-10-21",
+          "page_id": "2654",
+          "source_url": "https://econtent.unm.edu/digital/api/singleitem/collection/dignews/id/2654",
+          "local_file": "sources/02_newspapers/cuervo_clipper/full_scans/The Cuervo Clipper, 10-21-1910 - The Cuervo Clipper 10-21-1910.pdf",
+          "pdf_page": 2
+        },
+        {
+          "id": "N13",
+          "date": "1910-12-02",
+          "source_actor": "Cuervo shipment; Tom Lewis accompanied trip",
+          "target_actor_or_place": "Los Angeles; Lewis returned from El Paso",
+          "relation_type": "reported shipment/travel",
+          "observation": "Cattle shipped from Cuervo to Los Angeles; Lewis returned from an accompanying trip to El Paso.",
+          "limit": "Final buyer, ranch origin and exact rail itinerary unknown; Lewis is not assumed to own all the cattle.",
+          "source_class": "Contemporary newspaper report, original page visually inspected",
+          "issue_date": "1910-12-02",
+          "page_id": "2686",
+          "source_url": "https://econtent.unm.edu/digital/api/singleitem/collection/dignews/id/2686",
+          "local_file": "sources/02_newspapers/cuervo_clipper/full_scans/The Cuervo Clipper, 12-02-1910 - The Cuervo Clipper 12-02-1910.pdf",
+          "pdf_page": 2
+        },
+        {
+          "id": "N17",
+          "date": "Early Cuervo operations",
+          "source_actor": "Bond & Wiest wool business",
+          "target_actor_or_place": "Brown & Adams, Boston; later Hallowell, Jones & Donald",
+          "relation_type": "reported marketing relationship",
+          "observation": "Grubbs identifies eastern wool buyers.",
+          "limit": "Specific quantities and routes not assigned. His suggested Tucumcari shipping route is explicitly excluded as inference.",
+          "source_class": "Grubbs 1958: secondary analysis or quoted original correspondence; manuscript not inspected",
+          "local_file": "sources/origins_followup_2026-09-23/grubbs_bond_thesis_1958.pdf",
+          "printed_page": 109,
+          "pdf_page": 257
+        }
+      ],
+      "limits": "Schematic, not a route map or volume balance. Left and right arrows are separate observations; no consignment is tracked through the diagram. All traffic is not assigned to one shipper. Report dates do not necessarily equal transaction dates.",
+      "outputs": [
+        "manuscript/figures/book-revision03/trade-connections.png",
+        "manuscript/figures/book-revision03/trade-connections.svg"
+      ],
+      "output_hashes": {
+        "manuscript/figures/book-revision03/trade-connections.png": "27b5572f54f9214846dc1c293a8ce9a46d40a927bd2654cf9e56fcafe307193c",
+        "manuscript/figures/book-revision03/trade-connections.svg": "11a4d6ddf9e49cec7ed3b150a19aa2feb64e6ae6075599e4f443c2a0d9d699af"
+      }
+    },
+    {
+      "key": "prices-and-population",
+      "title": "Cattle prices and the people counted at Cuervo",
+      "inputs": [
+        {
+          "path": "research_evidence/real_cattle_prices_2026-09-19/annual_prices_and_cpi.json",
+          "sha256": "1fcd003dd63313d4e6acfd3566e5580b885624cfcccea6815fcda4d55c676806"
+        },
+        {
+          "path": "research_evidence/chapter05_2026-09-28/calculations.json",
+          "sha256": "ebb94ee5777e5e9ed4dc5446c28ccfe6fd3c729768b28d38553f1f7eff4e1965"
+        }
+      ],
+      "sources": [
+        {
+          "id": "USDA265",
+          "title": "Prices Received by Farmers for Beef Cattle, 1909-59",
+          "url": "https://esmis.nal.usda.gov/usda-esmis/files/x920fw86z/5t34sp07q/df65vc27m/prflvstckdypltry_Prices_Received_by_Farmers_for_Beef_Cattle__1909-59.pdf",
+          "path": "sources/08_context/usda_beef_cattle_prices_1909_1959_bulletin_265.pdf",
+          "locator": "Table 43, printed/PDF page 46; method page 3",
+          "used_years": "1913-1958; 1959 overlap checked",
+          "visual_check": true,
+          "bytes": 6494718,
+          "sha256": "797af802df93ea2b5b1cb2bebfb9dcdc798b1a73d8acc0a95f46fcfb76750ce5"
+        },
+        {
+          "id": "USDA680",
+          "title": "Prices Received by Farmers: Cattle, Milk Cows, Hogs, Sheep, Wool, 1959-78",
+          "url": "https://esmis.nal.usda.gov/usda-esmis/files/x920fw86z/xg94hs65j/rv042x51f/prflvstckdypltry_Prices_Received_by_Farmers_-_Cattle__Milk_Cows__Hogs__Sheep__Wool__by_State_and_United_States__1959-78.pdf",
+          "path": "sources/08_context/usda_cattle_prices_1959_1978.pdf",
+          "locator": "Beef cattle table, NEW MEXICO, printed/PDF page 16; methods pages 4-5; January 1982",
+          "used_years": "1959-1978",
+          "visual_check": true,
+          "bytes": 12757456,
+          "sha256": "be035d62fbe49df51603ac3d2821a3d15a963d6ff4a9a82d17679d4d9e3a1e44"
+        },
+        {
+          "id": "BLSCPI",
+          "title": "Historical CPI-U, U.S. city average, all items: index averages",
+          "url": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202312.pdf",
+          "locator": "December 2023 release, PDF pages 3-4, Annual avg. column",
+          "used_years": "1913-1978",
+          "retrieval": "BLS web text retrieved September 19, 2026; PDF download HTTP 403; original not held locally",
+          "visual_check": false
+        }
+      ],
+      "index_formula": "100 * (nominal price / CPI in year) / (nominal price / CPI in 1951)",
+      "price_observations": 66,
+      "population_observations": 5,
+      "population": {
+        "1910": 545,
+        "1920": 438,
+        "1930": 287,
+        "1940": 188,
+        "1950": 210
+      },
+      "price_series": [
+        {
+          "year": 1913,
+          "index_1951_100": 56.88655508150093
+        },
+        {
+          "year": 1914,
+          "index_1951_100": 58.194945848375454
+        },
+        {
+          "year": 1915,
+          "index_1951_100": 60.40676269793044
+        },
+        {
+          "year": 1916,
+          "index_1951_100": 55.97323883019243
+        },
+        {
+          "year": 1917,
+          "index_1951_100": 61.59747292418773
+        },
+        {
+          "year": 1918,
+          "index_1951_100": 60.9175891170775
+        },
+        {
+          "year": 1919,
+          "index_1951_100": 50.45804553327351
+        },
+        {
+          "year": 1920,
+          "index_1951_100": 38.48375451263538
+        },
+        {
+          "year": 1921,
+          "index_1951_100": 25.9564770183329
+        },
+        {
+          "year": 1922,
+          "index_1951_100": 27.09730101426852
+        },
+        {
+          "year": 1923,
+          "index_1951_100": 25.524099056305023
+        },
+        {
+          "year": 1924,
+          "index_1951_100": 24.975193700255446
+        },
+        {
+          "year": 1925,
+          "index_1951_100": 25.477050025786486
+        },
+        {
+          "year": 1926,
+          "index_1951_100": 29.69671011034286
+        },
+        {
+          "year": 1927,
+          "index_1951_100": 37.22146147143036
+        },
+        {
+          "year": 1928,
+          "index_1951_100": 49.401482044461325
+        },
+        {
+          "year": 1929,
+          "index_1951_100": 47.20586062026304
+        },
+        {
+          "year": 1930,
+          "index_1951_100": 35.40932575282648
+        },
+        {
+          "year": 1931,
+          "index_1951_100": 29.640889226676805
+        },
+        {
+          "year": 1932,
+          "index_1951_100": 26.034941632190574
+        },
+        {
+          "year": 1933,
+          "index_1951_100": 23.10469314079422
+        },
+        {
+          "year": 1934,
+          "index_1951_100": 22.4150008082332
+        },
+        {
+          "year": 1935,
+          "index_1951_100": 41.10780257714301
+        },
+        {
+          "year": 1936,
+          "index_1951_100": 37.81523517647975
+        },
+        {
+          "year": 1937,
+          "index_1951_100": 39.76133172884075
+        },
+        {
+          "year": 1938,
+          "index_1951_100": 34.6160739432112
+        },
+        {
+          "year": 1939,
+          "index_1951_100": 41.86686751681687
+        },
+        {
+          "year": 1940,
+          "index_1951_100": 48.94275399690562
+        },
+        {
+          "year": 1941,
+          "index_1951_100": 52.9973722340922
+        },
+        {
+          "year": 1942,
+          "index_1951_100": 59.31208611104958
+        },
+        {
+          "year": 1943,
+          "index_1951_100": 58.05388034473403
+        },
+        {
+          "year": 1944,
+          "index_1951_100": 51.7312110272399
+        },
+        {
+          "year": 1945,
+          "index_1951_100": 56.317689530685925
+        },
+        {
+          "year": 1946,
+          "index_1951_100": 61.13116726835137
+        },
+        {
+          "year": 1947,
+          "index_1951_100": 69.4500655647472
+        },
+        {
+          "year": 1948,
+          "index_1951_100": 83.3470647272945
+        },
+        {
+          "year": 1949,
+          "index_1951_100": 75.72126323453568
+        },
+        {
+          "year": 1950,
+          "index_1951_100": 89.96809323366838
+        },
+        {
+          "year": 1951,
+          "index_1951_100": 100.0
+        },
+        {
+          "year": 1952,
+          "index_1951_100": 77.56964784415229
+        },
+        {
+          "year": 1953,
+          "index_1951_100": 50.27109614786571
+        },
+        {
+          "year": 1954,
+          "index_1951_100": 54.084522163917704
+        },
+        {
+          "year": 1955,
+          "index_1951_100": 52.18492375666792
+        },
+        {
+          "year": 1956,
+          "index_1951_100": 48.31174346995116
+        },
+        {
+          "year": 1957,
+          "index_1951_100": 57.787427573005125
+        },
+        {
+          "year": 1958,
+          "index_1951_100": 74.7005109115211
+        },
+        {
+          "year": 1959,
+          "index_1951_100": 71.92923691490812
+        },
+        {
+          "year": 1960,
+          "index_1951_100": 62.78661332812957
+        },
+        {
+          "year": 1961,
+          "index_1951_100": 67.17940668654842
+        },
+        {
+          "year": 1962,
+          "index_1951_100": 66.20125756090563
+        },
+        {
+          "year": 1963,
+          "index_1951_100": 63.188693046412304
+        },
+        {
+          "year": 1964,
+          "index_1951_100": 50.86759054384535
+        },
+        {
+          "year": 1965,
+          "index_1951_100": 60.191393043378596
+        },
+        {
+          "year": 1966,
+          "index_1951_100": 67.78981147212194
+        },
+        {
+          "year": 1967,
+          "index_1951_100": 65.1981236083789
+        },
+        {
+          "year": 1968,
+          "index_1951_100": 65.81185941325366
+        },
+        {
+          "year": 1969,
+          "index_1951_100": 70.58892965699053
+        },
+        {
+          "year": 1970,
+          "index_1951_100": 68.70371059585396
+        },
+        {
+          "year": 1971,
+          "index_1951_100": 71.61385211926728
+        },
+        {
+          "year": 1972,
+          "index_1951_100": 80.38968441780526
+        },
+        {
+          "year": 1973,
+          "index_1951_100": 95.76544053078348
+        },
+        {
+          "year": 1974,
+          "index_1951_100": 69.87353636836286
+        },
+        {
+          "year": 1975,
+          "index_1951_100": 68.56521680780534
+        },
+        {
+          "year": 1976,
+          "index_1951_100": 59.880847392029835
+        },
+        {
+          "year": 1977,
+          "index_1951_100": 59.63231702231594
+        },
+        {
+          "year": 1978,
+          "index_1951_100": 76.15556687559521
+        }
+      ],
+      "limits": "State prices and precinct population have different geographies. Precinct boundaries are not held constant. Decennial dots are not interpolated. Annual averages include months after the census. Prices measure purchasing power per unit sold, not profit, income or local spending. The later shaded area denotes missing comparable observations, not zero population.",
+      "outputs": [
+        "manuscript/figures/book-revision03/prices-and-population.png",
+        "manuscript/figures/book-revision03/prices-and-population.svg"
+      ],
+      "output_hashes": {
+        "manuscript/figures/book-revision03/prices-and-population.png": "2a444c88795bcdd5e94a1616c70f5e4e8667ae6bd16e2f5358bb8a213563a9a1",
+        "manuscript/figures/book-revision03/prices-and-population.svg": "75ec1171237c08b5699c7f16c4df11443f30a8e85c095ff848709125a291b64b"
+      }
+    },
+    {
+      "key": "functional-chronology",
+      "title": "Different functions, different clocks",
+      "inputs": [
+        {
+          "path": "manuscript/book-revision-02/chapters/chapter-01-reading-cuervo.md",
+          "sha256": "2efc7c6df8aa05985d380e0bddda974753f4a389de6f914dbff19deffaafd4af"
+        },
+        {
+          "path": "manuscript/book-revision-02/chapters/chapter-02-why-a-town-here.md",
+          "sha256": "11dfb03da21abfb736c940cdb926508d62c2182fc2694a9fd23dda85f3a38f4c"
+        },
+        {
+          "path": "manuscript/book-revision-02/chapters/chapter-03-the-business-of-ranch-country.md",
+          "sha256": "511567e9767344f80e794cc3951e6ac599b9ec89d1ec124aa23b91eaae5638e5"
+        },
+        {
+          "path": "manuscript/book-revision-02/chapters/chapter-04-keeping-a-town-working.md",
+          "sha256": "e8bd3a1998d0b03b13a8f79513c924cca5ec99cd2f5304df0aa847292212f560"
+        },
+        {
+          "path": "manuscript/book-revision-02/chapters/chapter-05-people-across-places.md",
+          "sha256": "86512d9501c6a992d531a53e6029606b63550fad762dd83295ee249730875bcf"
+        },
+        {
+          "path": "manuscript/book-revision-02/chapters/chapter-06-changing-the-connections.md",
+          "sha256": "c3f1f791343b1b503e051b67bb87f22e17dadc636ff8419f7e72a40335644555"
+        },
+        {
+          "path": "manuscript/book-revision-02/chapters/chapter-07-explaining-the-cumulative-decline.md",
+          "sha256": "f436f8217be8059413d920825ed764c4cda6c4cf640338393e17150d2cc9e8be"
+        },
+        {
+          "path": "manuscript/book-revision-02/chapters/chapter-08-what-remained.md",
+          "sha256": "7c10ade52cd4d88ddc7971e0c6873e48254ea90d8d784c33a2a391238535d22a"
+        }
+      ],
+      "events": [
+        {
+          "date": "1903",
+          "function": "MERCHANT",
+          "text": "The move from Cabra to Cuervo was complete by year end.",
+          "reference": "Chapter 1, note 5. Grubbs, pp.96-101."
+        },
+        {
+          "date": "1911",
+          "function": "MIXED FORTUNES",
+          "text": "A school was being built; lumber stock was withdrawn; the depot platform was improved.",
+          "reference": "Chapter 1, note 1. Clipper, September 14, 1911, p.1."
+        },
+        {
+          "date": "1919",
+          "function": "SCHOOLING",
+          "text": "A teacher left. Ninth-grade instruction was interrupted and a replacement was proposed.",
+          "reference": "Chapter 7, note 5. Clipper, January 10, 1919."
+        },
+        {
+          "date": "1922",
+          "function": "PUBLISHING",
+          "text": "Katharine A. Hicks withdrew financial support and argued for publication at Santa Rosa.",
+          "reference": "Chapter 4, note 13; Chapter 7, note 7. Clipper, December 1, 1922."
+        },
+        {
+          "date": "1946",
+          "function": "ROADSIDE TRADE",
+          "text": "Rittenhouse recorded gas and groceries, but no cafe, garage or tourist accommodation.",
+          "reference": "Chapter 6, note 6. Rittenhouse, A Guide Book to Highway 66 (1946), pp.73-74."
+        },
+        {
+          "date": "1958",
+          "function": "TRADE AND RAIL",
+          "text": "The merchant still operated. Advertised local passenger stops disappeared between April and October.",
+          "reference": "Chapter 3, note 17; Chapter 6, note 12. Grubbs p.115; April 27 and October 26 timetables."
+        },
+        {
+          "date": "1963-65",
+          "function": "INTERSTATE",
+          "text": "The documented nearby I-40 project was built, decades after the first recorded withdrawals.",
+          "reference": "Chapter 6, note 21. NTSB report, project near mileposts 282.7-290.7."
+        },
+        {
+          "date": "1974",
+          "function": "RAIL ADMINISTRATION",
+          "text": "Cuervo was listed without an agent. Its billing was assigned to Tucumcari, as was Santa Rosa's.",
+          "reference": "Chapter 6, note 17. Rock Island Station Book, December 15, C15 / PDF p.67."
+        },
+        {
+          "date": "2017",
+          "function": "CHURCH",
+          "text": "A funeral Mass was announced at the Cuervo church; the notice also described restoration work.",
+          "reference": "Chapter 8, note 7. Dorothy Chavez obituary, March 2017."
+        },
+        {
+          "date": "2020 / 2026",
+          "function": "RANCHING",
+          "text": "A 2020 ranch purchase outside Cuervo was reported in 2026. The operation became a conservation-award finalist that year.",
+          "reference": "Chapter 8, notes 1-2. January 2026 interview; July 2026 Leopold Conservation Award finalist announcement."
+        }
+      ],
+      "limits": "Selected observations, not exhaustive business lifespans. Blank periods do not mean inactivity. Dates identify reports, observations or stated intervals; newspaper termination and merchant closure are not inferred. The 2017 notice announced a Mass; it does not independently verify performance. Ranching outside the village is distinguished from village employment.",
+      "outputs": [
+        "manuscript/figures/book-revision03/functional-chronology.png",
+        "manuscript/figures/book-revision03/functional-chronology.svg"
+      ],
+      "output_hashes": {
+        "manuscript/figures/book-revision03/functional-chronology.png": "7c8265d1357ea378052f6572c8366bedd5c5a29d1622db6edc9dafc8ab29f986",
+        "manuscript/figures/book-revision03/functional-chronology.svg": "98024c84cb8c3e503c8c47939f57cf05d7750fbd401827654b4f858735477784"
+      }
+    }
+  ],
+  "visual_review": "passed: all four figure masters and their integrated proof pages inspected."
+}

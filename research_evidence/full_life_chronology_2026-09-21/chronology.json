@@ -1,0 +1,635 @@
+[
+  {
+    "id": "E001",
+    "date": "Before c.1901",
+    "evidence_type": "unresolved",
+    "subject": "Ranching and settlement baseline",
+    "observation": "The exact pre-town ranching chronology and townsite creation remain unverified. Town-company records and 1892-1903 assessments are cataloged.",
+    "source_ids": [
+      "A"
+    ],
+    "limit": "Do not turn broad catalog collection dates into dates for the town-company volume."
+  },
+  {
+    "id": "E002",
+    "date": "1901-1902",
+    "evidence_type": "context",
+    "subject": "Railway corridor forms",
+    "observation": "The contemporary 1902 railway report describes the connection at Santa Rosa. Cuervo's exact station-opening and plat dates are still missing.",
+    "source_ids": [
+      "DEEP"
+    ],
+    "limit": "Regional railway context, not a Cuervo opening certificate."
+  },
+  {
+    "id": "E003",
+    "date": "Early 1900s / 1904-1908",
+    "evidence_type": "catalog",
+    "subject": "Early mercantile activity",
+    "observation": "A later historical report places Bond expansion to Cuervo in the early 1900s; the archive catalogs a Bond & Wiest ledger for 1904-1908.",
+    "source_ids": [
+      "AR",
+      "A"
+    ],
+    "limit": "The ledger has not been read; no opening date, revenue or customer geography established."
+  },
+  {
+    "id": "E004",
+    "date": "1908",
+    "evidence_type": "context",
+    "subject": "Santa Rosa already has regional functions",
+    "observation": "Sanborn maps identify government, banking, wholesale premises and other services before Route 66.",
+    "source_ids": [
+      "DEEP"
+    ],
+    "limit": "Comparison-town baseline; no inference that its customers all came from Cuervo."
+  },
+  {
+    "id": "E005",
+    "date": "1908-1909? / by January 1910",
+    "evidence_type": "catalog",
+    "subject": "Clipper origins",
+    "observation": "The LOC catalog says January 1909; the April 15, 1921 paper says it is entering its fourteenth year. Surviving local scans begin January 1910.",
+    "source_ids": [
+      "LC",
+      "C13"
+    ],
+    "limit": "Founding accounts are inconsistent; the first surviving issue is not the first published issue."
+  },
+  {
+    "id": "E006",
+    "date": "1910-01-28",
+    "evidence_type": "reported",
+    "subject": "Telephone connection",
+    "observation": "The Clipper reports completion of the Cuervo-Montoya telephone line.",
+    "source_ids": [
+      "C01"
+    ],
+    "limit": "Dated report of improved communication; no subscriber count."
+  },
+  {
+    "id": "E007",
+    "date": "1910-01-28",
+    "evidence_type": "reported",
+    "subject": "Passing cattle handled at Cuervo",
+    "observation": "Five carloads of cattle were unloaded the previous Sunday to feed and rest while en route to Kansas City; several reportedly died.",
+    "source_ids": [
+      "C01"
+    ],
+    "limit": "Direct report of livestock handling, not evidence the cattle originated near Cuervo."
+  },
+  {
+    "id": "E008",
+    "date": "1910-01-28",
+    "evidence_type": "observed",
+    "subject": "Commercial and medical services",
+    "observation": "Advertisements name Bond & Wiest, Big Jo Lumber, Cuervo Drug Store, Rock Island Boarding House, two physicians and a visiting dentist.",
+    "source_ids": [
+      "C01"
+    ],
+    "limit": "Advertisements establish offers at this date, not occupancy, receipts or full-time staffing."
+  },
+  {
+    "id": "E009",
+    "date": "1910-02-04",
+    "evidence_type": "reported",
+    "subject": "Livery exit and planned garage conversion",
+    "observation": "T. L. Lewis reportedly closed out his livery business and entered cattle dealing; Long Commission Company announced it would take over the livery barn and convert it to a garage.",
+    "source_ids": [
+      "C02"
+    ],
+    "limit": "Owner exit and proposed reuse. Completion of the conversion is not established here."
+  },
+  {
+    "id": "E010",
+    "date": "1910-03-04",
+    "evidence_type": "reported",
+    "subject": "Sheep shipped and merchants traded",
+    "observation": "The paper reports fourteen cars of sheep loaded at Cuervo for Kansas, a separate purchase of over 4,000 sheep from Bond & Wiest, and produce unloaded for the merchant.",
+    "source_ids": [
+      "C03"
+    ],
+    "limit": "Do not equate the fourteen cars with the separate 4,000-head purchase; the report does not explicitly link them."
+  },
+  {
+    "id": "E011",
+    "date": "1910-06-10",
+    "evidence_type": "reported",
+    "subject": "Townsite promotion",
+    "observation": "A list of purchasers of lots in the Thompson Townsite addition appears in the paper.",
+    "source_ids": [
+      "C04"
+    ],
+    "limit": "A contemporary sales claim; deeds, occupancy and the original town plat remain unverified."
+  },
+  {
+    "id": "E012",
+    "date": "1910-06-30; reported July 8",
+    "evidence_type": "reported",
+    "subject": "School bonds approved",
+    "observation": "The Sixth (Cuervo) School District reportedly approved $4,000 in bonds with one opposing vote for a new stone school building.",
+    "source_ids": [
+      "C05"
+    ],
+    "limit": "Vote authorizes investment; it is not a completion date."
+  },
+  {
+    "id": "E013",
+    "date": "1910-09-30",
+    "evidence_type": "reported",
+    "subject": "School draws families",
+    "observation": "Prof. Haight reports 67 enrolled pupils; the paper says families are moving into Cuervo from the surrounding country for schooling.",
+    "source_ids": [
+      "C06"
+    ],
+    "limit": "Enrollment is reported, and the migration statement is qualitative. The forecast of 100 pupils is not an observed count."
+  },
+  {
+    "id": "E014",
+    "date": "1910 and 1920 censuses",
+    "evidence_type": "observed",
+    "subject": "Early population observations",
+    "observation": "Cuervo precinct totals are 545 and 438, respectively.",
+    "source_ids": [
+      "POP"
+    ],
+    "limit": "The 1920 compendium warns of redistricting. These are not fixed-footprint town counts."
+  },
+  {
+    "id": "E015",
+    "date": "1911-04-21",
+    "evidence_type": "reported",
+    "subject": "School financing advances",
+    "observation": "The paper says bonds have been sold and the board is ready for bids on a stone school with four rooms.",
+    "source_ids": [
+      "C07"
+    ],
+    "limit": "Stronger evidence of implementation than the earlier vote, but still not completion."
+  },
+  {
+    "id": "E016",
+    "date": "1911-09-14",
+    "evidence_type": "reported",
+    "subject": "School under construction",
+    "observation": "Contractor J. B. Colvin is identified as in charge of erecting the new school.",
+    "source_ids": [
+      "C08"
+    ],
+    "limit": "Construction is underway by this report."
+  },
+  {
+    "id": "E017",
+    "date": "1911-09-14",
+    "evidence_type": "reported",
+    "subject": "Lumber stock being withdrawn",
+    "observation": "Big Jo Lumber is reported to be shipping out its stock and cutting prices on what remains.",
+    "source_ids": [
+      "C08"
+    ],
+    "limit": "Evidence of stock withdrawal/liquidation activity; the final yard closure and reason are unverified."
+  },
+  {
+    "id": "E018",
+    "date": "1911-09-14",
+    "evidence_type": "reported",
+    "subject": "Depot platform improved",
+    "observation": "Section foreman Hanson reportedly widened and improved the depot platform.",
+    "source_ids": [
+      "C08"
+    ],
+    "limit": "Railway facilities were receiving work alongside other commercial changes."
+  },
+  {
+    "id": "E019",
+    "date": "1912-04-04",
+    "evidence_type": "reported",
+    "subject": "New school in use",
+    "observation": "The paper describes a new two-story school, two employed teachers and an expectation of needing a third; it again reports seasonal moves into Cuervo for school.",
+    "source_ids": [
+      "C09"
+    ],
+    "limit": "The third teacher is a forecast. Exact opening day and identity of today's surviving building require confirmation."
+  },
+  {
+    "id": "E020",
+    "date": "1913-07-15",
+    "evidence_type": "observed",
+    "subject": "Hanson-Cuervo mail route discontinued",
+    "observation": "The Post Office report records discontinuance of the 7.5-mile, three-round-trip-weekly route because Hanson lacked a suitable postmaster candidate.",
+    "source_ids": [
+      "P13"
+    ],
+    "limit": "Loss of a feeder route; Cuervo's own post office did not close at this date."
+  },
+  {
+    "id": "E021",
+    "date": "1918-02-15",
+    "evidence_type": "reported",
+    "subject": "Oklahoma Hotel changes hands",
+    "observation": "S. P. Morison is reported to have purchased the Oklahoma Hotel from Mrs. Lizzie Mason the preceding Monday.",
+    "source_ids": [
+      "C10"
+    ],
+    "limit": "A sale, not a closure. The buyer is listed as Morrison in later directories."
+  },
+  {
+    "id": "E022",
+    "date": "1918-02-15",
+    "evidence_type": "observed",
+    "subject": "Medical and automobile services",
+    "observation": "Dr. A. A. Sanford advertises at the Cuervo drugstore; S. P. Morison advertises the Ford Garage, repairs and gasoline.",
+    "source_ids": [
+      "C10"
+    ],
+    "limit": "Dated service offers before Route 66 designation."
+  },
+  {
+    "id": "E023",
+    "date": "1920",
+    "evidence_type": "observed",
+    "subject": "Broad business directory baseline",
+    "observation": "The Cuervo entry lists two hotels, Golden Rule Garage, several merchants, a school principal, postmaster, railway/express/telegraph agent and stage/mail line to Lucille.",
+    "source_ids": [
+      "D20"
+    ],
+    "limit": "A directory snapshot; neighborhood population 350 is not the census precinct count."
+  },
+  {
+    "id": "E024",
+    "date": "1921-02-11",
+    "evidence_type": "proposed",
+    "subject": "Pooled support for a doctor",
+    "observation": "W. B. Terry of Newkirk proposes $1 per family per month to attract a physician for the locality, believing 100 families would agree.",
+    "source_ids": [
+      "C11"
+    ],
+    "limit": "Proposal and perceived access problem. No 100 actual subscribers or successful recruitment established."
+  },
+  {
+    "id": "E025",
+    "date": "1921-02-11",
+    "evidence_type": "observed",
+    "subject": "Santa Rosa competes for trade",
+    "observation": "Moise Bros. advertises that savings justify a trip even over a long distance; Santa Rosa Mercantile explicitly prints its Santa Rosa address.",
+    "source_ids": [
+      "C11"
+    ],
+    "limit": "Evidence of solicitation across distance, not measured diversion of Cuervo spending."
+  },
+  {
+    "id": "E026",
+    "date": "1921-03-11",
+    "evidence_type": "reported",
+    "subject": "Garage reopens",
+    "observation": "The Cuervo garage reportedly reopens after several months closed, with Harrison Bros. as mechanics.",
+    "source_ids": [
+      "C12"
+    ],
+    "limit": "Direct evidence that at least one closure was temporary."
+  },
+  {
+    "id": "E027",
+    "date": "1921-03-11",
+    "evidence_type": "reported",
+    "subject": "Physician called from Duran",
+    "observation": "Dr. A. A. Sanford of Duran is reported called to see a Cuervo child.",
+    "source_ids": [
+      "C12",
+      "C10"
+    ],
+    "limit": "Matches the name advertised at Cuervo in 1918; suggests a changed practice base, not the disappearance of every local doctor."
+  },
+  {
+    "id": "E028",
+    "date": "1921-04-15",
+    "evidence_type": "observed",
+    "subject": "Garage and blacksmith service advertised",
+    "observation": "M. D. Harrison advertises gasoline, oils, accessories, engine work and blacksmithing at the old Ozark Trail Garage building.",
+    "source_ids": [
+      "C13"
+    ],
+    "limit": "A named business and location clue; identity with the earlier Golden Rule or 1910 barn is unproved."
+  },
+  {
+    "id": "E029",
+    "date": "1921",
+    "evidence_type": "observed",
+    "subject": "Merchants and hotels persist",
+    "observation": "The directory still lists Armijo, Bond & Wiest, two hotels and other enterprises. It changes the Rock Island proprietor to J. L. Foster and the school principal to Alma E. Squire.",
+    "source_ids": [
+      "D21",
+      "D20"
+    ],
+    "limit": "Proprietor and personnel turnover; omissions alone cannot date closures."
+  },
+  {
+    "id": "E030",
+    "date": "1922-09-27; reported September 29",
+    "evidence_type": "reported",
+    "subject": "Delayed train boosts trade",
+    "observation": "A westbound limited was held at Cuervo all Wednesday by a freight wreck toward Santa Rosa; the paper reports a busy day for local hotels and stores.",
+    "source_ids": [
+      "C14"
+    ],
+    "limit": "Dated connection between a transport interruption and local commerce; no receipts or normal baseline."
+  },
+  {
+    "id": "E031",
+    "date": "1922-12-01",
+    "evidence_type": "reported",
+    "subject": "Clipper financial withdrawal",
+    "observation": "Katharine A. Hicks announces withdrawal from financial involvement, reports losses, and advocates concentration of newspaper support at the county seat.",
+    "source_ids": [
+      "C15"
+    ],
+    "limit": "Political purpose and her associate's Santa Rosa paper also matter. This does not establish exact cessation."
+  },
+  {
+    "id": "E032",
+    "date": "1923?",
+    "evidence_type": "catalog",
+    "subject": "Possible newspaper cessation",
+    "observation": "The LOC catalog notes possible cessation in 1923, citing Pearce S. Grove's New Mexico newspapers.",
+    "source_ids": [
+      "LC"
+    ],
+    "limit": "The question mark is material. No final issue or definitive closure notice obtained."
+  },
+  {
+    "id": "E033",
+    "date": "1926",
+    "evidence_type": "context",
+    "subject": "Route 66 era begins",
+    "observation": "Route 66 designation enters the chronology after the businesses, institutions and pressures documented above.",
+    "source_ids": [
+      "DEEP"
+    ],
+    "limit": "Designation is not the beginning of road travel or all tourist trade."
+  },
+  {
+    "id": "E034",
+    "date": "1926-01",
+    "evidence_type": "observed",
+    "subject": "Passenger access is directional",
+    "observation": "The timetable offers a morning trip from Cuervo to Tucumcari and an evening return; the Santa Rosa pairing requires an overnight stay.",
+    "source_ids": [
+      "DEEP"
+    ],
+    "limit": "A travel opportunity, not evidence that particular people shopped in either place."
+  },
+  {
+    "id": "E035",
+    "date": "1929 retail / 1930 census",
+    "evidence_type": "context",
+    "subject": "Santa Rosa commercial concentration",
+    "observation": "Santa Rosa reports 44.5% of county retail sales with 16.0% of county population; Cuervo precinct counts 287 residents in 1930.",
+    "source_ids": [
+      "DEEP",
+      "POP"
+    ],
+    "limit": "Business and population refer to different reference years; Cuervo receipts are not separately known."
+  },
+  {
+    "id": "E036",
+    "date": "1932",
+    "evidence_type": "context",
+    "subject": "Southwest road realignment",
+    "observation": "The NRHP narrative identifies FAP 114-C and plans dated December 1, 1932.",
+    "source_ids": [
+      "DEEP"
+    ],
+    "limit": "Historical highway documentation; parcel-level Cuervo effects remain open."
+  },
+  {
+    "id": "E037",
+    "date": "1936",
+    "evidence_type": "context",
+    "subject": "Paving east of Cuervo",
+    "observation": "The Montoya-Cuervo nomination dates hard surfacing to 1936, citing 1935 plans.",
+    "source_ids": [
+      "DEEP"
+    ],
+    "limit": "Not a demonstrated date of economic collapse."
+  },
+  {
+    "id": "E038",
+    "date": "1940",
+    "evidence_type": "observed",
+    "subject": "Pre-interstate demographic contraction",
+    "observation": "Cuervo precinct has 188 residents, down from 287 in 1930.",
+    "source_ids": [
+      "POP"
+    ],
+    "limit": "A 34.5% decline in the reported precinct; no exact within-decade turning point."
+  },
+  {
+    "id": "E039",
+    "date": "1939-1949",
+    "evidence_type": "context",
+    "subject": "County livestock sales expand",
+    "observation": "Guadalupe County cattle/calves sold rise from 7,399 in 1939 to 19,724 in 1944, then 17,595 in 1949.",
+    "source_ids": [
+      "REB"
+    ],
+    "limit": "County cattle flows, not Cuervo shipments, profits or jobs."
+  },
+  {
+    "id": "E040",
+    "date": "1947-01-02",
+    "evidence_type": "observed",
+    "subject": "Cuervo feed dealer remains listed",
+    "observation": "An El Rancho Milling advertisement names Bond & Wiest of Cuervo among its dealers. The adjacent article describes the Clovis mill, rail spur and direct truck deliveries to ranches.",
+    "source_ids": [
+      "N47"
+    ],
+    "limit": "Evidence of a dealer relationship; neither sales volume nor bypassing of a particular Cuervo merchant is measured."
+  },
+  {
+    "id": "E041",
+    "date": "1950",
+    "evidence_type": "observed",
+    "subject": "Working community and small rebound",
+    "observation": "Cuervo precinct counts 210 people, 22 more than 1940. Main occupation descriptions include ranching, railway work, retail, teaching, postal and food/service work.",
+    "source_ids": [
+      "DEEP",
+      "REB"
+    ],
+    "limit": "Residents' occupations do not locate every employer inside the settlement."
+  },
+  {
+    "id": "E042",
+    "date": "1951-1956",
+    "evidence_type": "context",
+    "subject": "Real cattle-price downturn",
+    "observation": "Statewide real beef-cattle prices fall 51.7% from the 1951 peak to 1956 in the project series.",
+    "source_ids": [
+      "PRICE"
+    ],
+    "limit": "Potential economic pressure; local business losses have not been attributed to it."
+  },
+  {
+    "id": "E043",
+    "date": "1952",
+    "evidence_type": "context",
+    "subject": "Southwest highway relocated",
+    "observation": "The old alignment is superseded before the interstate project.",
+    "source_ids": [
+      "DEEP"
+    ],
+    "limit": "Separate change in access; affected premises and business losses remain to be linked."
+  },
+  {
+    "id": "E044",
+    "date": "September 1956-October 1958",
+    "evidence_type": "observed",
+    "subject": "Train-order-office designation disappears",
+    "observation": "The designation is present in September 1956 and absent in the October 1958 operating timetable.",
+    "source_ids": [
+      "RAIL"
+    ],
+    "limit": "Does not date the last employee or freight agency closure."
+  },
+  {
+    "id": "E045",
+    "date": "April-October 1958",
+    "evidence_type": "observed",
+    "subject": "Advertised passenger stops disappear",
+    "observation": "Stops are still advertised April 27; the October 26 operating timetable has no regular, flag or conditional stop marker at Cuervo.",
+    "source_ids": [
+      "RAIL"
+    ],
+    "limit": "Bracket for scheduled passenger service; not the end of railway use or all cattle loading."
+  },
+  {
+    "id": "E046",
+    "date": "1958, reported retrospectively",
+    "evidence_type": "unresolved",
+    "subject": "School closure lead",
+    "observation": "A later published account dates school closure to 1958. Administrative records have not confirmed the date or reason.",
+    "source_ids": [
+      "PUB"
+    ],
+    "limit": "Keep this as a lead, not a verified endpoint for the school."
+  },
+  {
+    "id": "E047",
+    "date": "1963-1965",
+    "evidence_type": "context",
+    "subject": "Documented interstate construction",
+    "observation": "NTSB describes project I-040-5(18)1283 near Cuervo, approximately mileposts 282.7-290.7.",
+    "source_ids": [
+      "DEEP"
+    ],
+    "limit": "Exact coverage of Exit 291, property takings and local access changes still require project files."
+  },
+  {
+    "id": "E048",
+    "date": "1967",
+    "evidence_type": "observed",
+    "subject": "Siding remains listed",
+    "observation": "A railway timetable still lists the Cuervo siding.",
+    "source_ids": [
+      "RAIL"
+    ],
+    "limit": "Physical/operating listing is not proof of livestock-loading use."
+  },
+  {
+    "id": "E049",
+    "date": "1968",
+    "evidence_type": "context",
+    "subject": "Through Golden State service ends",
+    "observation": "The through passenger train is discontinued after Cuervo's scheduled local stops had disappeared.",
+    "source_ids": [
+      "RAIL"
+    ],
+    "limit": "Two distinct passenger-service events."
+  },
+  {
+    "id": "E050",
+    "date": "1972",
+    "evidence_type": "context",
+    "subject": "Santa Rosa interstate bypass",
+    "observation": "An official state memorial dates Santa Rosa's I-40 completion to 1972.",
+    "source_ids": [
+      "SR72"
+    ],
+    "limit": "Its 1960-1970 growth precedes this event; the two towns' exposure is not identical by assumption."
+  },
+  {
+    "id": "E051",
+    "date": "1974-12-15",
+    "evidence_type": "observed",
+    "subject": "Freight administration persists without local agent",
+    "observation": "Rock Island lists Cuervo with no agent, separate location/accounting codes and billing assigned to Tucumcari.",
+    "source_ids": [
+      "F74"
+    ],
+    "limit": "Administrative identity persists; actual carloads, livestock acceptance and local payroll remain unverified."
+  },
+  {
+    "id": "E052",
+    "date": "2011-09-10",
+    "evidence_type": "observed",
+    "subject": "Post office formally discontinued",
+    "observation": "USPS records Cuervo's discontinuance and reassignment as a place name under Newkirk while retaining ZIP 88417.",
+    "source_ids": [
+      "P11"
+    ],
+    "limit": "Administrative effective date, not necessarily the last date a staffed counter operated."
+  },
+  {
+    "id": "E053",
+    "date": "2017-03-09",
+    "evidence_type": "reported",
+    "subject": "Funeral Mass announced",
+    "observation": "Dorothy Chavez's funeral notice announces Mass at Santo Nino, Cuervo, and names her restoration involvement.",
+    "source_ids": [
+      "CH"
+    ],
+    "limit": "An announced service and stewardship evidence; not a regular-service schedule."
+  },
+  {
+    "id": "E054",
+    "date": "2018",
+    "evidence_type": "observed",
+    "subject": "Catholic mission affiliation",
+    "observation": "The archdiocesan directory lists Santo Nino, Cuervo, as a mission of St. Rose of Lima, Santa Rosa.",
+    "source_ids": [
+      "CH"
+    ],
+    "limit": "Administrative affiliation, not attendance or frequency of priest visits."
+  },
+  {
+    "id": "E055",
+    "date": "2020 purchase; described in 2026",
+    "evidence_type": "reported",
+    "subject": "Named ranch base outside Cuervo",
+    "observation": "Jim Armendariz says his father purchased the ranch outside Cuervo in 2020 and the operation works from there.",
+    "source_ids": [
+      "R26"
+    ],
+    "limit": "A retrospective first-person account; other leases extend beyond Cuervo."
+  },
+  {
+    "id": "E056",
+    "date": "2025-12",
+    "evidence_type": "observed",
+    "subject": "Parish financial activity",
+    "observation": "A St. Rose bulletin records a Cuervo Function receipt of $170.",
+    "source_ids": [
+      "CH"
+    ],
+    "limit": "Does not identify event location, attendance or regular Mass frequency."
+  },
+  {
+    "id": "E057",
+    "date": "2026",
+    "evidence_type": "observed",
+    "subject": "Ranching continues",
+    "observation": "A conservation-award announcement and ranch-family interview independently identify a current Cuervo-area operation.",
+    "source_ids": [
+      "R26"
+    ],
+    "limit": "Contemporary ranching is established; historical continuity on every parcel and local spending shares are not."
+  }
+]

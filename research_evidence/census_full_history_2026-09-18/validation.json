@@ -1,0 +1,10 @@
+{
+  "named_person_observations": 1668,
+  "unique_people_across_years": null,
+  "known_ages": 1661,
+  "unknown_ages": 7,
+  "year_totals_match_published": true,
+  "record_keys_unique_within_year": true,
+  "independent_double_entry_transcription": false,
+  "note": "These are 1668 census appearances, not 1668 distinct people. Source count reconciliation is not independent validation of every digit. No family or person linkage has yet been asserted."
+}

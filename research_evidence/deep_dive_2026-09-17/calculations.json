@@ -1,0 +1,51 @@
+{
+  "santa_rosa_county_shares_pct": {
+    "population_1930": 16.038138608225417,
+    "stores": 34.32835820895522,
+    "proprietors": 34.72222222222222,
+    "full_time_employees": 44.03669724770642,
+    "net_sales": 44.45229681978799,
+    "stocks": 47.17741935483871,
+    "payroll": 51.785714285714285
+  },
+  "sales_per_resident_santa_rosa": 558.1188997338065,
+  "sales_per_resident_rest": 133.22033898305085,
+  "general_store_sales_share_santa_rosa_pct": 50.23847376788553,
+  "filling_station_sales_county_share_santa_rosa_pct": 86.84210526315789,
+  "filling_station_sales_share_santa_rosa_total_pct": 5.246422893481717,
+  "tucumcari_quay_sales_share_pct": 76.60110943015633,
+  "tucumcari_quay_population_share_pct": 38.26191355744366,
+  "1930_1940": {
+    "cuervo_change": -99,
+    "cuervo_pct": -34.494773519163765,
+    "santa_rosa_change": 1183,
+    "santa_rosa_pct": 104.96894409937889,
+    "county_change": 1619,
+    "county_pct": 23.039703998861537,
+    "rest_county_change": 436,
+    "hypothetical_99_of_1183_pct": 8.368554522400677
+  },
+  "1940_1950": {
+    "cuervo_pct": 11.702127659574469,
+    "santa_rosa_pct": -4.805194805194805,
+    "county_pct": -21.674762896136944
+  },
+  "1960_1970": {
+    "santa_rosa_change": 263,
+    "santa_rosa_pct": 11.846846846846846,
+    "county_change": -641,
+    "county_pct": -11.42602495543672,
+    "rest_county_1960": 3390,
+    "rest_county_1970": 2486,
+    "rest_county_change": -904,
+    "rest_county_pct": -26.666666666666668,
+    "division_outside_place_1960": 1160,
+    "division_outside_place_1970": 738,
+    "division_outside_place_pct": -36.37931034482759,
+    "tucumcari_pct": -11.715583937123911
+  },
+  "1920_1930_santa_rosa_sensitivity": {
+    "using_1003_pct": 12.362911266201396,
+    "using_1093_pct": 3.110704483074108
+  }
+}

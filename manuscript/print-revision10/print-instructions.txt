@@ -1,0 +1,15 @@
+CUERVO REVISION 10 — US LETTER PRINT COPY
+
+File: B:/Meridian/Cuervo/output/pdf/cuervo-revision-10-print-letter.pdf
+
+Paper: US Letter (8.5 x 11 inches)
+Orientation: Portrait
+Color: Color
+Scale: Actual size / 100%
+Sides: Double-sided, flip on long edge
+Pages: 1–148
+Layout: One PDF page per side; no booklet mode
+
+148 pages use 74 sheets when printed double-sided. The final blank page is intentional.
+
+Revision 10's text and page numbers are preserved. Original full-quality image streams and embedded typography are retained. The body type remains the existing Jost face, with Playfair headings. Mirrored horizontal positioning adds room along the binding edge.

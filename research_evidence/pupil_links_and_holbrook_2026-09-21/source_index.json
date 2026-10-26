@@ -1,0 +1,209 @@
+[
+  {
+    "id": "C40",
+    "title": "1940 U.S. Census, Cuervo precinct/ED 10-6, Guadalupe County, New Mexico",
+    "url": "https://nara-1940-census.s3.us-east-2.amazonaws.com/population-schedules/nm/guadalupe-county/ed/10-6/m-t0627-02445-00652.jpg",
+    "evidence_level": "Contemporary manuscript schedule; full sheets and saved detail crops visually inspected",
+    "files": [
+      {
+        "local_file": "sources/03_census/1940_manuscripts/ed_10-6/m-t0627-02445-00652.jpg",
+        "sha256": "84343faf12453b2f37b8bf4eb3687941709becd370f286e4efc95a0b1d342d69"
+      },
+      {
+        "local_file": "sources/03_census/1940_manuscripts/ed_10-6/m-t0627-02445-00655.jpg",
+        "sha256": "54b57991078c09e6390a45d033b8b48cd078f5bbf118485dced14b4ecfbee480"
+      },
+      {
+        "local_file": "sources/03_census/1940_manuscripts/ed_10-6/m-t0627-02445-00656.jpg",
+        "sha256": "a7786cc58ee2a76fb1c4c4c0dc979b8682844370589b00133c44c52eeb4b328f"
+      }
+    ],
+    "locators": "Exact sheet/line references in pupil_linkage_cases.json and the report",
+    "limits": "District includes surrounding ranch country; no proof of identical boundaries between censuses, workplace location or continuous residence."
+  },
+  {
+    "id": "C50",
+    "title": "1950 U.S. Census, Cuervo precinct/ED 10-6, Guadalupe County, New Mexico",
+    "url": "https://1950census.archives.gov/search/?county=Guadalupe&ed=10-6&page=1&state=NM",
+    "evidence_level": "Contemporary manuscript schedule; full sheets and saved detail crops visually inspected",
+    "files": [
+      {
+        "local_file": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0003.jpg",
+        "sha256": "1fbbdab1b0d9f22ce8a9702c6cdd0b6bff7601b4c4bfc173d99f72787c858add"
+      },
+      {
+        "local_file": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0004.jpg",
+        "sha256": "b0b99ab3bb58ede6ce5d5a96736c3725584a7877a23f88acc50f8150facd84dd"
+      },
+      {
+        "local_file": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0006.jpg",
+        "sha256": "4a2d82384361f6cd605fb815e18563cbe294dc040416baa7f8ba4b893dcb2049"
+      },
+      {
+        "local_file": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0007.jpg",
+        "sha256": "c53e51ae06d9841cf830ce2bd954137ea6468e2dafe937ee66c0cc9fc5f5ab25"
+      },
+      {
+        "local_file": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0008.jpg",
+        "sha256": "aa5d8eb2947fe8666598d106eafd1cab7f25bfd1002d08063dea111757563d5e"
+      },
+      {
+        "local_file": "sources/03_census/1950_manuscripts/ed_10-6/43290879-New_Mexico-180130-0009.jpg",
+        "sha256": "cf453f8c2373d4c5daefe424b77c3064099ea265fbdb9f4ea170ef3cc314fc5b"
+      }
+    ],
+    "locators": "Exact sheet/line references in pupil_linkage_cases.json and the report",
+    "limits": "District includes surrounding ranch country; no proof of identical boundaries between censuses, workplace location or continuous residence."
+  },
+  {
+    "id": "F1",
+    "title": "Flora S. Page obituary (2023)",
+    "url": "https://www.chavezfuneralhome.com/obituaries/flora-page",
+    "local_file": "sources/school_and_merchant_2026-09-21/flora_page_obituary_2023.html",
+    "sha256": "055f0d69a3d516c98ac2ad074f42a063f00627608b790283dc0c56a1319f1beb",
+    "evidence_level": "Retrospective public family obituary; original HTML already held",
+    "prior_source_id": "S10",
+    "limits": "Family statements are not administrative school or residence records; selected cases cannot establish a migration rate."
+  },
+  {
+    "id": "F2",
+    "title": "Roy Kenneth Bailey obituary (2024)",
+    "url": "https://www.chavezfuneralhome.com/obituaries/roy-bailey",
+    "local_file": "sources/school_and_merchant_2026-09-21/roy_bailey_obituary_2024.html",
+    "sha256": "e69e4a9a3ddd285d5a8f22349b4af7d55e818bd35fd1a2951201e385ac605b50",
+    "evidence_level": "Retrospective public family obituary; original HTML already held",
+    "prior_source_id": "S11",
+    "limits": "Family statements are not administrative school or residence records; selected cases cannot establish a migration rate."
+  },
+  {
+    "id": "F3",
+    "title": "Rudolpho (Rudy) Chavez obituary (2023)",
+    "url": "https://www.chavezfuneralhome.com/obituaries/rudolpho-rudy-chavez",
+    "local_file": "sources/school_and_merchant_2026-09-21/rudy_chavez_obituary_2023.html",
+    "sha256": "849d1e561554bfd8a260357984479ad293af08ccd227acf2ff86d11b8baa7a6a",
+    "evidence_level": "Retrospective public family obituary; original HTML already held",
+    "prior_source_id": "S12",
+    "limits": "Family statements are not administrative school or residence records; selected cases cannot establish a migration rate."
+  },
+  {
+    "id": "F4",
+    "title": "Tito S. Vigil obituary (2025)",
+    "url": "https://www.chavezfuneralhome.com/obituaries/tito-vigil",
+    "local_file": "sources/school_and_merchant_2026-09-21/tito_vigil_obituary_2025.html",
+    "sha256": "cb915ed2eda4166099ec249e3ca3b9e3c8763c88b67263532fcc402614af07bb",
+    "evidence_level": "Retrospective public family obituary; original HTML already held",
+    "prior_source_id": "S13",
+    "limits": "Family statements are not administrative school or residence records; selected cases cannot establish a migration rate."
+  },
+  {
+    "id": "F5",
+    "title": "Fred L. Higgins obituary (2016)",
+    "url": "https://www.chavezfuneralhome.com/obituaries/3943534",
+    "local_file": "sources/school_and_merchant_2026-09-21/fred_higgins_obituary_2016.html",
+    "sha256": "356c5f3c3afbd05a5099efe5c7f202debda12a2648acac00113695e122098ab4",
+    "evidence_level": "Retrospective public family obituary; original HTML already held",
+    "prior_source_id": "S14",
+    "limits": "Family statements are not administrative school or residence records; selected cases cannot establish a migration rate."
+  },
+  {
+    "id": "F6",
+    "title": "John Robert Higgins Sr., obituary, 2015",
+    "url": "https://www.chavezfuneralhome.com/obituaries/3264453",
+    "local_file": "sources/pupil_links_and_holbrook_2026-09-21/john_higgins_sr_2015.html",
+    "sha256": "99f464fd8eb0b610e0ac38c3f14c4905f8aeeb5f554d634773f8f2e847c0b487",
+    "retrieved_utc": "2026-09-21T23:10:30.372665+00:00",
+    "evidence_level": "Retrospective public family obituary; newly preserved HTML",
+    "limits": "Residence intervals are reported retrospectively; gaps and undated employment must remain explicit."
+  },
+  {
+    "id": "F7",
+    "title": "Willa D. Higgins, obituary, 2005",
+    "url": "https://www.chavezfuneralhome.com/obituaries/813378",
+    "local_file": "sources/pupil_links_and_holbrook_2026-09-21/willa_higgins_2005.html",
+    "sha256": "3c1c66f117913976af54e65e59e7c8348c132eb8c5651c2be3be96bb84504dd7",
+    "retrieved_utc": "2026-09-21T23:10:30.348532+00:00",
+    "evidence_level": "Retrospective public family obituary; newly preserved HTML",
+    "limits": "Residence intervals are reported retrospectively; gaps and undated employment must remain explicit."
+  },
+  {
+    "id": "F8",
+    "title": "John R. Higgins Jr., obituary, 2024",
+    "url": "https://www.chavezfuneralhome.com/obituaries/john-higgins",
+    "local_file": "sources/pupil_links_and_holbrook_2026-09-21/john_higgins_jr_2024.html",
+    "sha256": "16933b69a1271e44e26eb83859196d63f18e8f0a3ed51466b6689495f889103d",
+    "retrieved_utc": "2026-09-21T23:10:30.488617+00:00",
+    "evidence_level": "Retrospective public family obituary; newly preserved HTML",
+    "limits": "Residence intervals are reported retrospectively; gaps and undated employment must remain explicit."
+  },
+  {
+    "id": "H1",
+    "title": "J. Stuart Holbrook notices on an apparent Albuquerque Tribune A-2 page",
+    "url": "https://www.familysearch.org/patron/v2/TH-300-44997-73-40/dist.pdf?ctx=ArtCtxPublic",
+    "evidence_level": "Web-extracted PDF text only; newspaper image and printed issue date not verified",
+    "local_file": null,
+    "locators": "Two Holbrook items; tool extraction lines 569–584 and 985–1001 (tool-dependent, not printed locators)",
+    "working_date": "1965-06-05",
+    "date_status": "inferred",
+    "limits": "No held PDF. Association with a company need not be current employment; spouse conflicts with 1950 wife."
+  },
+  {
+    "id": "H2",
+    "title": "NASA, Gemini IV",
+    "url": "https://www.nasa.gov/mission/gemini-iv/",
+    "local_file": null,
+    "evidence_level": "Official mission history read online",
+    "use": "June 3, 1965 launch and June 7 landing constrain the newspaper date inference only."
+  },
+  {
+    "id": "H3",
+    "title": "PeopleLegacy J. Holbrook burial list",
+    "url": "https://peoplelegacy.com/burial-records/j/holbrook/",
+    "local_file": null,
+    "evidence_level": "Secondary search-result pointer; no gravestone image checked",
+    "use": "J. Stuart Holbrook, 1916–1965, Tucumcari Memorial Park; not decisive identity evidence."
+  },
+  {
+    "id": "H4",
+    "title": "Tucumcari Memorial Cemetery transcription, part 1",
+    "url": "https://ahgp.org/nm/quay/tucumcarimemorial1.htm",
+    "local_file": null,
+    "evidence_level": "Secondary cemetery transcription; rejected identity match",
+    "use": "J. Holbrook Jr. with a March 2, 1949 death is not the 1965 obituary subject."
+  },
+  {
+    "id": "A1",
+    "title": "September 16 catalog pull list",
+    "local_file": "research_evidence/archives_catalog_pull_list_2026-09-16.md",
+    "sha256": "d70b543047e50889aae916ffb7baa36386ffbe4cd556defbc9e1b4c861593d34",
+    "evidence_level": "Project index of previously verified repository catalog references",
+    "limits": "Underlying merchant, school and other archive volumes not held. September 21 bot-check HTML is not fresh catalog evidence."
+  },
+  {
+    "id": "A2",
+    "title": "UNM CSWR contact and collections-use guidance",
+    "evidence_level": "Official repository webpages",
+    "files": [
+      {
+        "url": "https://udall.unm.edu/contacts",
+        "local_file": "sources/pupil_links_and_holbrook_2026-09-21/cswr_contacts.html",
+        "sha256": "feca41f485df040a67fe4600fd056f2d28b6f590451e30628c8723838109e8dc",
+        "retrieved_utc": "2026-09-21T23:10:30.303814+00:00"
+      },
+      {
+        "url": "https://library.unm.edu/cswr/using-cswr-collections.php",
+        "local_file": "sources/pupil_links_and_holbrook_2026-09-21/cswr_using_collections.html",
+        "sha256": "3e0207f90bd4a5e9441720c5dfd04b900293e1f8e6b2f35ac964856938594b58",
+        "retrieved_utc": "2026-09-21T23:10:30.366554+00:00"
+      }
+    ],
+    "limits": "No visit booked, order placed or fees authorized."
+  },
+  {
+    "id": "M1",
+    "title": "NMDOT acknowledgment, IPRA 26-1867-02, September 21, 2026",
+    "local_file": "research_evidence/pupil_links_and_holbrook_2026-09-21/nmdot_receipt_2026-09-21.json",
+    "sha256": "581cb42c0e12958a7e7b8b40d924fbcf76876831ae668666d483272e5cd4787b",
+    "evidence_level": "Connected Gmail message read; parsed content and metadata preserved, not raw RFC email",
+    "limits": "Status promised by October 1; no historical records supplied."
+  }
+]

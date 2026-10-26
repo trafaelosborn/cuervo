@@ -1,0 +1,134 @@
+[
+  {
+    "id": "E01",
+    "date": "1910-09-30",
+    "subject": "Cuervo school",
+    "measure": "reported enrollment",
+    "value": 67,
+    "unit": "pupils",
+    "source": "S01",
+    "new_this_pass": false,
+    "note": "Prior verified baseline; paper also reports school-related moves into town."
+  },
+  {
+    "id": "E02",
+    "date": "1910-10-07",
+    "subject": "Cuervo school",
+    "measure": "reported enrollment",
+    "value": 75,
+    "unit": "pupils",
+    "source": "S02",
+    "new_this_pass": true,
+    "note": "Visual reading corrects OCR 76; Mrs. Dr. Baker accepts teaching position."
+  },
+  {
+    "id": "E03",
+    "date": "1910-11-18",
+    "subject": "Cuervo school",
+    "measure": "reported enrollment",
+    "value": 93,
+    "unit": "pupils",
+    "source": "S03",
+    "new_this_pass": true,
+    "note": "Snapshot, not annual enrollment or average attendance."
+  },
+  {
+    "id": "E04",
+    "date": "1912-02-08",
+    "subject": "Cuervo school",
+    "measure": "cumulative enrollment since term began",
+    "value": 132,
+    "unit": "pupils",
+    "source": "S05",
+    "new_this_pass": true,
+    "note": "Do not mix with present enrollment; visual reading corrects OCR 131."
+  },
+  {
+    "id": "E05",
+    "date": "1912-02-08",
+    "subject": "Cuervo school",
+    "measure": "present enrollment",
+    "value": 106,
+    "unit": "pupils",
+    "source": "S05",
+    "new_this_pass": true,
+    "note": "Reported current enrollment; not average daily attendance."
+  },
+  {
+    "id": "E06",
+    "date": "1919-01-10",
+    "subject": "Cuervo ninth-grade instruction",
+    "measure": "interruption and announced replacement",
+    "value": null,
+    "unit": null,
+    "source": "S06",
+    "new_this_pass": true,
+    "note": "Pupils reportedly out of school because Prof. Simmons left; Miss Sanchez announces she will teach. Duration and actual resumption unknown."
+  },
+  {
+    "id": "E07",
+    "date": "1921-09-09",
+    "subject": "Cuervo school",
+    "measure": "community support and proposed repairs/curriculum",
+    "value": null,
+    "unit": null,
+    "source": "S08",
+    "new_this_pass": true,
+    "note": "School Opens describes September 2 organization meeting, proposed volunteer help for practical subjects, and building/sanitation recommendations. Proposals are not proof of implementation."
+  },
+  {
+    "id": "E08",
+    "date": "1922-07-07",
+    "subject": "Easley garage",
+    "measure": "reported business purchase",
+    "value": null,
+    "unit": null,
+    "source": "S09",
+    "new_this_pass": true,
+    "note": "Mr. Hamilton and Mr. Collier reportedly purchased J. F. Easley garage; purchase is not a closure."
+  },
+  {
+    "id": "E09",
+    "date": "1922-07-07",
+    "subject": "Bond & Wiest",
+    "measure": "reported gasoline sales, interval unspecified",
+    "value": 15,
+    "unit": "barrels",
+    "source": "S09",
+    "new_this_pass": true,
+    "note": "Paper reports fifteen barrels sold to traveling public; no daily, weekly, or annual interval supplied. Do not convert to gallons without capacity evidence."
+  },
+  {
+    "id": "E10",
+    "date": "2011-12-11",
+    "subject": "Old Cuervo school property",
+    "measure": "reported highest bid",
+    "value": 10250,
+    "unit": "nominal USD",
+    "source": "S15",
+    "new_this_pass": true,
+    "note": "Flora Page bid; report date, not exact bid or transfer date."
+  },
+  {
+    "id": "E11",
+    "date": "2012-09-17",
+    "subject": "Old Cuervo school property",
+    "measure": "reported board acceptance of bid",
+    "value": 10250,
+    "unit": "nominal USD",
+    "source": "S16",
+    "new_this_pass": true,
+    "note": "Secondary report of Communicator article. Not exact board-meeting or deed date."
+  },
+  {
+    "id": "E12",
+    "date": "2026-09-16",
+    "subject": "School records request",
+    "measure": "acknowledgment received as user-provided attachment",
+    "value": null,
+    "unit": null,
+    "source": "S17",
+    "new_this_pass": false,
+    "note": "Located and registered this pass. No historical records supplied in this letter; no live inbox checked."
+  }
+]

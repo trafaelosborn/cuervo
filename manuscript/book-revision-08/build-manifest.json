@@ -1,0 +1,296 @@
+{
+  "date": "2026-09-29",
+  "pages": 150,
+  "body_words": 20873,
+  "notes": 169,
+  "references": 213,
+  "visual_positions": 43,
+  "author_photographs": 18,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Reading Cuervo",
+      "body_words": 1368,
+      "notes": 12,
+      "references": 13,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-08/chapters/chapter-01-reading-cuervo.md",
+      "sha256": "e49efbb7359137ddcb2d9f99b0aee746f953d42e4c0b2726d196479da1508e6d",
+      "opening_page": 3,
+      "source_notes_page": 13
+    },
+    {
+      "chapter": 2,
+      "title": "Why a town here?",
+      "body_words": 2676,
+      "notes": 24,
+      "references": 34,
+      "visual_positions": 5,
+      "source": "manuscript/book-revision-08/chapters/chapter-02-why-a-town-here.md",
+      "sha256": "c7004d3cdeceddf91e412b108fac9247b443c4063bb52b8ac409314e266f9fd5",
+      "opening_page": 15,
+      "source_notes_page": 30
+    },
+    {
+      "chapter": 3,
+      "title": "The business of ranch country",
+      "body_words": 4227,
+      "notes": 29,
+      "references": 44,
+      "visual_positions": 5,
+      "source": "manuscript/book-revision-08/chapters/chapter-03-the-business-of-ranch-country.md",
+      "sha256": "2acf95797c246de8d36060f8644f37cd16d98fd1a6281982bbe0d2f43f67d42a",
+      "opening_page": 32,
+      "source_notes_page": 51
+    },
+    {
+      "chapter": 4,
+      "title": "Keeping a town working",
+      "body_words": 2643,
+      "notes": 18,
+      "references": 22,
+      "visual_positions": 6,
+      "source": "manuscript/book-revision-08/chapters/chapter-04-keeping-a-town-working.md",
+      "sha256": "a95eeedc136e3d804604a705e37c365c46207832a6638da476ee1b8fa3929f9a",
+      "opening_page": 54,
+      "source_notes_page": 70
+    },
+    {
+      "chapter": 5,
+      "title": "People across places",
+      "body_words": 3426,
+      "notes": 25,
+      "references": 35,
+      "visual_positions": 6,
+      "source": "manuscript/book-revision-08/chapters/chapter-05-people-across-places.md",
+      "sha256": "2cbc52e358c54343f7b40ed279aeafb1ed3f08ca94c33d8df10404a7141b1e82",
+      "opening_page": 72,
+      "source_notes_page": 91
+    },
+    {
+      "chapter": 6,
+      "title": "Changing the connections",
+      "body_words": 3599,
+      "notes": 26,
+      "references": 29,
+      "visual_positions": 9,
+      "source": "manuscript/book-revision-08/chapters/chapter-06-changing-the-connections.md",
+      "sha256": "e7e1807c81f1d71f21e7186feda6f6d70528f839dd7e193949c3f0d52f9384fd",
+      "opening_page": 94,
+      "source_notes_page": 116
+    },
+    {
+      "chapter": 7,
+      "title": "Explaining the cumulative decline",
+      "body_words": 1856,
+      "notes": 22,
+      "references": 22,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-08/chapters/chapter-07-explaining-the-cumulative-decline.md",
+      "sha256": "856835f76dcd1f1ecb45e93ae867624e4d9b499d24b7ef21cf2ee733b6568e88",
+      "opening_page": 119,
+      "source_notes_page": 131
+    },
+    {
+      "chapter": 8,
+      "title": "What remained",
+      "body_words": 1078,
+      "notes": 13,
+      "references": 14,
+      "visual_positions": 4,
+      "source": "manuscript/book-revision-08/chapters/chapter-08-what-remained.md",
+      "sha256": "2aba7f055c415b4031d9f6f201ff09e8180ac661d02e44be3ad3a6a9028f6e51",
+      "opening_page": 134,
+      "source_notes_page": 143
+    }
+  ],
+  "figure_pages": [
+    {
+      "page": 3,
+      "figure": "1:opening-photo"
+    },
+    {
+      "page": 5,
+      "figure": "1:simultaneous-change"
+    },
+    {
+      "page": 7,
+      "figure": "1:regional-locator"
+    },
+    {
+      "page": 11,
+      "figure": "1:photo-window-inscription"
+    },
+    {
+      "page": 15,
+      "figure": "2:opening-photo"
+    },
+    {
+      "page": 19,
+      "figure": "2:cuervo-map"
+    },
+    {
+      "page": 22,
+      "figure": "2:santa-rosa-map"
+    },
+    {
+      "page": 24,
+      "figure": "2:trade-notices"
+    },
+    {
+      "page": 26,
+      "figure": "2:photo-entrances"
+    },
+    {
+      "page": 32,
+      "figure": "3:opening-photo"
+    },
+    {
+      "page": 37,
+      "figure": "3:merchant-finance"
+    },
+    {
+      "page": 41,
+      "figure": "3:trade-connections"
+    },
+    {
+      "page": 45,
+      "figure": "3:county-livestock"
+    },
+    {
+      "page": 49,
+      "figure": "3:prices-and-population"
+    },
+    {
+      "page": 54,
+      "figure": "4:opening-photo"
+    },
+    {
+      "page": 58,
+      "figure": "4:school-staff-and-care"
+    },
+    {
+      "page": 60,
+      "figure": "4:school-parcel"
+    },
+    {
+      "page": 61,
+      "figure": "4:photo-building-fabric"
+    },
+    {
+      "page": 63,
+      "figure": "4:doctor-support"
+    },
+    {
+      "page": 66,
+      "figure": "4:newspaper-purpose"
+    },
+    {
+      "page": 72,
+      "figure": "5:opening-photo"
+    },
+    {
+      "page": 75,
+      "figure": "5:population-and-age"
+    },
+    {
+      "page": 78,
+      "figure": "5:people-and-households"
+    },
+    {
+      "page": 83,
+      "figure": "5:work-under-one-roof"
+    },
+    {
+      "page": 86,
+      "figure": "5:photo-domestic-interiors"
+    },
+    {
+      "page": 89,
+      "figure": "5:regional-households"
+    },
+    {
+      "page": 94,
+      "figure": "6:opening-photo"
+    },
+    {
+      "page": 97,
+      "figure": "6:journeys"
+    },
+    {
+      "page": 99,
+      "figure": "6:retail"
+    },
+    {
+      "page": 104,
+      "figure": "6:photo-road-and-ground"
+    },
+    {
+      "page": 107,
+      "figure": "6:station-book"
+    },
+    {
+      "page": 110,
+      "figure": "6:dot-town"
+    },
+    {
+      "page": 111,
+      "figure": "6:dot-details"
+    },
+    {
+      "page": 112,
+      "figure": "6:dot-access"
+    },
+    {
+      "page": 115,
+      "figure": "6:chronology"
+    },
+    {
+      "page": 119,
+      "figure": "7:opening-photo"
+    },
+    {
+      "page": 121,
+      "figure": "7:functional-chronology"
+    },
+    {
+      "page": 124,
+      "figure": "7:support"
+    },
+    {
+      "page": 129,
+      "figure": "7:photo-rooms-and-structure"
+    },
+    {
+      "page": 134,
+      "figure": "8:opening-photo"
+    },
+    {
+      "page": 138,
+      "figure": "8:church"
+    },
+    {
+      "page": 140,
+      "figure": "8:road"
+    },
+    {
+      "page": 141,
+      "figure": "8:fabric"
+    }
+  ],
+  "backmatter_pages": {
+    "bibliography": 145,
+    "credits": 149
+  },
+  "pdf_sha256": "7da800053e9415f9f12838d26d0eb5fef8bdfd98c9ba40755442af6e2b65030b",
+  "typography": {
+    "body": "Jost Regular, provisional Futura stand-in",
+    "body_points": 11.3,
+    "body_leading": 16.2,
+    "titles": "Playfair Display Bold",
+    "subheads": "Playfair Display Regular",
+    "images": "300 dpi maximum at placed size; full-frame photographs JPEG quality 95 with no chroma subsampling; source plates PNG, with DOT crops recorded in their source manifest"
+  },
+  "visual_review": "passed: all 150 pages inspected in overview; new DOT plates and chronology, changed text and final contents checked individually; orphan bibliography tail removed",
+  "revision7_integrity": "original manuscript and PDF hashes match"
+}

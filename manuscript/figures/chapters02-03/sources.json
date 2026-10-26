@@ -1,0 +1,8 @@
+{
+  "financial_source": "research_evidence/origins_followup_2026-09-23/financial_transcription.json",
+  "agriculture_source": "research_evidence/economic_synthesis_2026-09-23/agriculture_transcription.json",
+  "financial_units": "Thousands of 2025 consumer-purchasing-power dollars; year-end balances and annual net profit in separate panels.",
+  "financial_calculations": "research_evidence/monetary_revision_2026-09-28/calculations.json",
+  "agriculture_units": "Guadalupe County head counts, thousands; seven discrete observations, not Cuervo totals.",
+  "agriculture_limits": "Inventory dates and definitions vary; 1930 cattle exclude animals under 3 months."
+}

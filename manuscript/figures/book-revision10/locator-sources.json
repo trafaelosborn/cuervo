@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-02",
+  "scope": "Original figures using held evidence; no new source acquisition.",
+  "figures": [
+    {
+      "key": "regional-locator",
+      "title": "Cuervo and its regional neighbors",
+      "inputs": [
+        {
+          "path": "sources/regional_functions_2026-09-21/blocks_2020_guadalupe.geojson",
+          "sha256": "e3ea4edbe4cc90fc4d2a73523bed89d5ecc288841396798a53fed8c72d85ab90"
+        },
+        {
+          "path": "research_evidence/census_deep_dive_2026-09-18/modern_2020_extract.json",
+          "sha256": "c22fb4e33ced900e7bc3ff8bff6d8cdf1e9518ee07fd6b4482c7b58e74d421fa"
+        },
+        {
+          "path": "research_evidence/regional_functions_2026-09-21.md",
+          "sha256": "9c84ea4169978999a8b4bfab5ad22e74e0d7746aeafa8fc701ea0a4ceb3994d7"
+        },
+        {
+          "path": "sources/01_railroad/rock_island_public_timetable_1926-01.pdf",
+          "sha256": "d8aa7f1c8d1d61dd7ddba526c8f77bc04c1f8fd0afa1a7e043ab664aa49b631d"
+        }
+      ],
+      "coordinates_lon_lat": {
+        "Cuervo": [
+          -104.40861,
+          35.03111
+        ],
+        "Newkirk": [
+          -104.2714962,
+          35.0635167
+        ],
+        "Santa Rosa": [
+          -104.675021,
+          34.9360514
+        ],
+        "Tucumcari": [
+          -103.7050456,
+          35.1702911
+        ],
+        "Vaughn": [
+          -105.2125943,
+          34.6072056
+        ]
+      },
+      "projection_wkt": "PROJCRS[\"unknown\",BASEGEOGCRS[\"unknown\",DATUM[\"World Geodetic System 1984\",ELLIPSOID[\"WGS 84\",6378137,298.257223563,LENGTHUNIT[\"metre\",1]],ID[\"EPSG\",6326]],PRIMEM[\"Greenwich\",0,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8901]]],CONVERSION[\"unknown\",METHOD[\"Azimuthal Equidistant\",ID[\"EPSG\",1125]],PARAMETER[\"Latitude of natural origin\",35.03111,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8801]],PARAMETER[\"Longitude of natural origin\",-104.40861,ANGLEUNIT[\"degree\",0.0174532925199433],ID[\"EPSG\",8802]],PARAMETER[\"False easting\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8806]],PARAMETER[\"False northing\",0,LENGTHUNIT[\"metre\",1],ID[\"EPSG\",8807]]],CS[Cartesian,2],AXIS[\"(E)\",east,ORDER[1],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]],AXIS[\"(N)\",north,ORDER[2],LENGTHUNIT[\"metre\",1,ID[\"EPSG\",9001]]]]",
+      "county_blocks": 902,
+      "rail_miles": {
+        "Santa Rosa-Cuervo": 17,
+        "Cuervo-Tucumcari": 42
+      },
+      "source_locator": "2020 DHC internal points; held 2020 block polygons; regional audit section 6; January 1926 timetable, Table 2 p.18, notes p.19.",
+      "limits": "Modern county outline is neither the historical Cuervo precinct nor a trading catchment. Cuervo is the audit reference point, other points are Census internal points. No roads or historic railway routes are drawn.",
+      "outputs": [
+        "manuscript/figures/book-revision10/regional-locator.png",
+        "manuscript/figures/book-revision10/regional-locator.svg"
+      ]
+    }
+  ],
+  "visual_review": "pending",
+  "conversion": {
+    "kilometers_per_mile": 1.609344,
+    "rail_km_exact": {
+      "Santa Rosa-Cuervo": 27.358848000000002,
+      "Cuervo-Tucumcari": 67.592448
+    },
+    "display": "Whole kilometers, with original whole miles retained"
+  }
+}

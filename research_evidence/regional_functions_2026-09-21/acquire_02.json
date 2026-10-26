@@ -1,0 +1,6 @@
+[
+ {"filename":"tiger_2010_service_corrected.json","url":"https://tigerweb.geo.census.gov/arcgis/rest/services/Census2010/tigerWMS_Census2010/MapServer?f=pjson"},
+ {"filename":"tabblock2010_35_pophu.zip","url":"https://www2.census.gov/geo/tiger/TIGER2010BLKPOPHU/tabblock2010_35_pophu.zip"},
+ {"filename":"tiger_2010_blocks_techdoc.pdf","url":"https://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2010/TGRSHP10SF1.pdf"},
+ {"filename":"tiger_2010_pophu_index.html","url":"https://www2.census.gov/geo/tiger/TIGER2010BLKPOPHU/"}
+]

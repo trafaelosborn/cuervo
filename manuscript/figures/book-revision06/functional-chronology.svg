@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="684pt" viewBox="0 0 576 684" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-29T13:38:16.777626</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 684 
+L 576 684 
+L 576 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="PathCollection_1">
+    <defs>
+     <path id="ma621ea5542" d="M 0 2.598076 
+C 0.689018 2.598076 1.349908 2.324327 1.837117 1.837117 
+C 2.324327 1.349908 2.598076 0.689018 2.598076 0 
+C 2.598076 -0.689018 2.324327 -1.349908 1.837117 -1.837117 
+C 1.349908 -2.324327 0.689018 -2.598076 0 -2.598076 
+C -0.689018 -2.598076 -1.349908 -2.324327 -1.837117 -1.837117 
+C -2.324327 -1.349908 -2.598076 -0.689018 -2.598076 0 
+C -2.598076 0.689018 -2.324327 1.349908 -1.837117 1.837117 
+C -1.349908 2.324327 -0.689018 2.598076 0 2.598076 
+z
+" style="stroke: #1b3558"/>
+    </defs>
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="74.768276" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="127.837241" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="180.906207" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="233.975172" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="287.044138" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="340.113103" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="393.182069" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="446.251034" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="499.32" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="552.388966" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="PathCollection_11">
+    <g clip-path="url(#p1ea33f50c5)">
+     <use xlink:href="#ma621ea5542" x="145.5264" y="605.457931" style="fill: #1b3558; stroke: #1b3558"/>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <path d="M 145.5264 605.457931 
+L 145.5264 74.768276 
+" clip-path="url(#p1ea33f50c5)" style="fill: none; stroke: #d8d2c9; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="78.198684" transform="rotate(-0 128.7648 78.198684)">1903</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="69.400304" transform="rotate(-0 167.8752 69.400304)">MERCHANT</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242528" x="167.8752" y="85.909937" transform="rotate(-0 167.8752 85.909937)">The move from Cabra to Cuervo was complete by year end.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="131.26765" transform="rotate(-0 128.7648 131.26765)">1911</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="122.46927" transform="rotate(-0 167.8752 122.46927)">MIXED FORTUNES</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 138.978903)">A school was being built; lumber stock was withdrawn; the</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 152.758903)">depot platform was improved.</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="184.336615" transform="rotate(-0 128.7648 184.336615)">1919</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="175.538235" transform="rotate(-0 167.8752 175.538235)">SCHOOLING</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 192.047869)">A teacher left. Ninth-grade instruction was interrupted and</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 205.827869)">a replacement was proposed.</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="237.405581" transform="rotate(-0 128.7648 237.405581)">1922</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="228.607201" transform="rotate(-0 167.8752 228.607201)">PUBLISHING</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 245.116834)">Katharine A. Hicks withdrew financial support and argued</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 258.896834)">for publication at Santa Rosa.</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="290.474546" transform="rotate(-0 128.7648 290.474546)">1946</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="281.676166" transform="rotate(-0 167.8752 281.676166)">ROADSIDE TRADE</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 298.1858)">Rittenhouse recorded gas and groceries, but no cafe, garage</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 312.992675)">or tourist accommodation.</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="343.543512" transform="rotate(-0 128.7648 343.543512)">1952</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="334.745132" transform="rotate(-0 167.8752 334.745132)">ROAD ALIGNMENT</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #242528" x="167.8752" y="351.254765" transform="rotate(-0 167.8752 351.254765)">The highway southwest of Cuervo moved to a new course.</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="396.612477" transform="rotate(-0 128.7648 396.612477)">1958</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="387.814098" transform="rotate(-0 167.8752 387.814098)">TRADE AND RAIL</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 404.323731)">The merchant still operated. Advertised local passenger</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 418.103731)">stops disappeared between April and October.</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="449.681443" transform="rotate(-0 128.7648 449.681443)">1963–1965</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="440.883063" transform="rotate(-0 167.8752 440.883063)">INTERSTATE</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 457.392696)">The documented nearby I-40 project was built, decades after</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 472.199571)">the first recorded withdrawals.</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="502.750408" transform="rotate(-0 128.7648 502.750408)">1974</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="493.952029" transform="rotate(-0 167.8752 493.952029)">RAIL ADMINISTRATION</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 510.461662)">Cuervo was listed without an agent. Its billing was</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 524.241662)">assigned to Tucumcari, as was Santa Rosa's.</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="555.819374" transform="rotate(-0 128.7648 555.819374)">2017</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="547.020994" transform="rotate(-0 167.8752 547.020994)">CHURCH</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 564.016737)">A funeral Mass was announced at the Cuervo church; the</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 578.337502)">notice also described restoration work.</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #1b3558" x="128.7648" y="608.888339" transform="rotate(-0 128.7648 608.888339)">2020 / 2026</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #9c7151" x="167.8752" y="600.08996" transform="rotate(-0 167.8752 600.08996)">RANCHING</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 616.599593)">A 2020 ranch purchase outside Cuervo was reported in 2026.</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 630.379593)">The operation became a conservation-award finalist that</text>
+    <text style="font-size: 10.6px; font-family: 'DejaVu Sans'; fill: #242528" transform="translate(167.8752 643.100421)">year.</text>
+   </g>
+  </g>
+  <g id="text_34">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="25.92" y="19.985422" transform="rotate(-0 25.92 19.985422)">SELECTED OBSERVATIONS / 1903–2026</text>
+  </g>
+  <g id="text_35">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #756e65" x="25.92" y="670.32" transform="rotate(-0 25.92 670.32)">Equal row spacing shows sequence, not elapsed time or continuous operation.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1ea33f50c5">
+   <rect x="8.64" y="37.62" width="558.72" height="615.6"/>
+  </clipPath>
+ </defs>
+</svg>

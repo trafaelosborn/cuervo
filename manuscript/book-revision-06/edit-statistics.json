@@ -1,0 +1,50 @@
+[
+  {
+    "chapter": 1,
+    "before": 2000,
+    "after": 1368,
+    "notes": 12
+  },
+  {
+    "chapter": 2,
+    "before": 3899,
+    "after": 2690,
+    "notes": 24
+  },
+  {
+    "chapter": 3,
+    "before": 5439,
+    "after": 4277,
+    "notes": 29
+  },
+  {
+    "chapter": 4,
+    "before": 4287,
+    "after": 2778,
+    "notes": 18
+  },
+  {
+    "chapter": 5,
+    "before": 4322,
+    "after": 3426,
+    "notes": 25
+  },
+  {
+    "chapter": 6,
+    "before": 4887,
+    "after": 3557,
+    "notes": 26
+  },
+  {
+    "chapter": 7,
+    "before": 4394,
+    "after": 1819,
+    "notes": 22
+  },
+  {
+    "chapter": 8,
+    "before": 1847,
+    "after": 1075,
+    "notes": 13
+  }
+]
