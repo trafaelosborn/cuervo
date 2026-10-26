@@ -1,6 +1,6 @@
 # Rights and reuse
 
-This is a private repository for the Cuervo monograph and its research materials. Uploading it does not grant a new license to the writing, photographs, or project code. Reuse terms can be chosen separately for those categories before a public release.
+This repository makes the Cuervo monograph and its research materials available to read and inspect. Public availability does not grant an additional reuse license to the writing, photographs, or project code. No blanket open-source or Creative Commons license is applied to the project.
 
 Photographs are credited to Taylor Osborn. Third-party documents, maps, newspaper excerpts, and other source material retain their existing rights and notices. No blanket project license is applied to them.
 

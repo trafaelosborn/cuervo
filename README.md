@@ -4,11 +4,15 @@
 
 A Meridian monograph, with photographs by Taylor Osborn. The book examines how trade, transport, schooling, and other services gathered at Cuervo, New Mexico, and how those functions contracted or moved while ranching continued in the surrounding country.
 
-This private repository contains the manuscript, research tables and transcriptions, figure assets, and production code. The current edition has eight chapters, 169 source notes, 18 photographs, and 148 print pages, including one final blank for duplex printing.
+This repository contains the manuscript, research tables and transcriptions, figure assets, and production code. The current edition has eight chapters, 169 source notes, 18 photographs, and 148 print pages, including one final blank for duplex printing.
 
 ## Read the book
 
-Download the PDFs from the [first release](https://github.com/trafaelosborn/cuervo/releases/tag/v1.0.0):
+[**Download the book — 9.62 MB PDF**](https://github.com/trafaelosborn/cuervo/releases/download/v1.0.0/cuervo-monograph-compact.pdf) · [Full-quality print PDF — 42.09 MB](https://github.com/trafaelosborn/cuervo/releases/download/v1.0.0/cuervo-monograph-print-letter.pdf)
+
+<a href="https://github.com/trafaelosborn/cuervo/releases/tag/v1.0.0"><img src="docs/images/cuervo-cover.jpg" alt="Cuervo: An Economic History of a New Mexico Ghost Town — title page" width="420"></a>
+
+Both editions are available from the [first release](https://github.com/trafaelosborn/cuervo/releases/tag/v1.0.0):
 
 | File | Use | Size |
 | --- | --- | --- |
@@ -54,4 +58,4 @@ python tools/verify_release.py
 
 The large source archive remains in the author's local project archive. This repository catalogs those holdings and preserves published figure excerpts, source locators, and available original URLs. Private correspondence, contact details, temporary renders, caches, and generated historical PDFs are excluded.
 
-Repository visibility is private. No new public reuse license is granted by this upload. Individual third-party notices, including the bundled font licenses, remain applicable.
+The book and supporting materials are publicly available to read and inspect. No additional reuse license is granted for the writing, photographs, or project code. Existing third-party licenses and notices, including the bundled font licenses, remain applicable. See [Rights and reuse](RIGHTS.md).

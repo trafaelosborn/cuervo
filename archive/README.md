@@ -9,4 +9,4 @@ The full source archive remains with the author's local Cuervo project. It inclu
 
 Paths beginning `sources/` or `Cuervo/` refer to holdings in the original project archive. Historical absolute paths beginning with the author's drive letters are provenance records, not links to an online storage service. Original camera files remain in the author's photographic archive; the reproduction assets used by the book are included.
 
-Source excerpts are present for the private research and production workflow. Their inclusion does not apply a new license to third-party material.
+Source excerpts document the book's evidence and support its production workflow. Their inclusion does not apply a new license to third-party material.
